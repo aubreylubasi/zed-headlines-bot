@@ -1,0 +1,60 @@
+name: Zambia News Bot
+
+on:
+  schedule:
+    - cron: "*/20 * * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "What to do"
+        type: choice
+        options:
+          - post
+          - dry-run
+          - check-sources
+        default: post
+
+permissions:
+  contents: write
+
+concurrency:
+  group: zambia-news-bot
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install
+        run: pip install -r requirements.txt
+
+      - name: Run bot
+        env:
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+          DRY_RUN: ${{ github.event.inputs.mode == 'dry-run' }}
+          CHECK_SOURCES: ${{ github.event.inputs.mode == 'check-sources' }}
+        run: python bot.py
+
+      - name: Save which stories were posted
+        if: always() && (github.event_name == 'schedule' || github.event.inputs.mode == 'post')
+        run: |
+          git config user.name  "zambia-news-bot"
+          git config user.email "zambia-news-bot@users.noreply.github.com"
+          mkdir -p state
+          git add state/
+          if git diff --cached --quiet; then
+            echo "No changes to save."
+          else
+            git commit -m "Update posted stories [skip ci]"
+            git pull --rebase --autostash
+            git push
+          fi
