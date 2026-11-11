@@ -64,10 +64,10 @@ graph_api_version = "v26.0"
 enabled = true
 
 # "anthropic" (Claude – a few cents a month) or "gemini" (Google – has a free tier)
-provider = "anthropic"
+provider = "gemini"
 
 # Claude: "claude-haiku-5-5"   Gemini: use a Flash model name shown in Google AI Studio
-model = "claude-haiku-5-5"
+model = "gemini-3.5-flash"
 
 # Length of the write-up (words). Short source material gives shorter posts – the AI never pads.
 min_words = 150

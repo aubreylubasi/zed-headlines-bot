@@ -252,6 +252,11 @@ def short_error(e: Exception) -> str:
     return f"{type(e).__name__}: {str(e)[:120]}"
 
 
+def fmt_age(when: datetime) -> str:
+    mins = int((now_utc() - when).total_seconds() // 60)
+    return f"{mins} min" if mins < 120 else f"{mins // 60} h"
+
+
 def entry_time(entry) -> datetime | None:
     for field in ("published_parsed", "updated_parsed", "created_parsed"):
         t = entry.get(field)
@@ -305,7 +310,11 @@ def collect_stories(sources: list[dict], state: dict, settings: dict) -> list[di
                 "require_keywords": source.get("require_keywords") or [],
             })
             count += 1
-        log(f"✅ {source['name']}: {count} stories in feed")
+        mine = stories[-count:] if count else []
+        fresh = sum(1 for s in mine if s["key"] not in state["seen"])
+        newest = max((s["published"] for s in mine if s["dated"]), default=None)
+        age = f", newest {fmt_age(newest)} old" if newest else ""
+        log(f"✅ {source['name']}: {count} stories in feed, {fresh} new{age}")
     return stories
 
 
@@ -403,7 +412,8 @@ AI_BASE = {
     "anthropic": os.environ.get("ANTHROPIC_BASE", "https://api.anthropic.com"),
     "gemini": os.environ.get("GEMINI_BASE", "https://generativelanguage.googleapis.com"),
 }
-COPY_NGRAM = 10         # this many identical words in a row counts as copying
+GEMINI_FALLBACKS = ["gemini-3.5-flash", "gemini-3.1-flash-lite", "gemini-flash-latest", "gemini-2.5-flash"]
+COPY_NGRAM = 10        # this many identical words in a row counts as copying
 BOILERPLATE = re.compile(
     r"(share this|related posts?|related articles?|copyright|all rights reserved|follow us|subscribe|"
     r"click here|read more|advertisement|appeared first on|first appeared on|leave a comment|"
@@ -475,18 +485,29 @@ def call_ai(ai: dict, api_key: str, system: str, user: str) -> str:
             raise RuntimeError(f"Claude API HTTP {r.status_code}: {str(data.get('error', data))[:200]}")
         return "".join(b.get("text", "") for b in data.get("content", []) if b.get("type") == "text")
     if provider == "gemini":
-        r = requests.post(f"{AI_BASE['gemini']}/v1beta/models/{ai['model']}:generateContent", timeout=90,
-                          headers={"x-goog-api-key": api_key, "content-type": "application/json"},
-                          json={
-                              "system_instruction": {"parts": [{"text": system}]},
-                              "contents": [{"role": "user", "parts": [{"text": user}]}],
-                              "generationConfig": {"maxOutputTokens": 1200, "temperature": 0.7},
-                          })
-        data = r.json() if r.content else {}
-        if not r.ok:
-            raise RuntimeError(f"Gemini API HTTP {r.status_code}: {str(data.get('error', data))[:200]}")
-        parts = (data.get("candidates") or [{}])[0].get("content", {}).get("parts", [])
-        return "".join(p.get("text", "") for p in parts)
+        # Google renames models from time to time: try the configured one, then known free Flash models.
+        candidates = list(dict.fromkeys([ai["model"]] + GEMINI_FALLBACKS))
+        last_error = ""
+        for model in candidates:
+            r = requests.post(f"{AI_BASE['gemini']}/v1beta/models/{model}:generateContent", timeout=90,
+                              headers={"x-goog-api-key": api_key, "content-type": "application/json"},
+                              json={
+                                  "system_instruction": {"parts": [{"text": system}]},
+                                  "contents": [{"role": "user", "parts": [{"text": user}]}],
+                                  "generationConfig": {"maxOutputTokens": 2048, "temperature": 0.7},
+                              })
+            data = r.json() if r.content else {}
+            if r.status_code == 404:          # model name not available – try the next one
+                last_error = f"model '{model}' not found"
+                continue
+            if not r.ok:
+                raise RuntimeError(f"Gemini API HTTP {r.status_code}: {str(data.get('error', data))[:200]}")
+            if model != ai["model"]:
+                log(f"   ↪ Gemini model '{ai['model']}' not available – used '{model}' instead")
+                ai["model"] = model           # remember for the rest of this run
+            parts = (data.get("candidates") or [{}])[0].get("content", {}).get("parts", [])
+            return "".join(p.get("text", "") for p in parts if not p.get("thought"))
+        raise RuntimeError(f"Gemini: no working model ({last_error})")
     raise RuntimeError(f"Unknown AI provider '{ai['provider']}' (use 'anthropic' or 'gemini')")
 
 
@@ -658,7 +679,7 @@ def run(dry_run: bool) -> int:
         to_post = choose_stories(stories, state, settings, limit)
 
     if not to_post:
-        log("Nothing new to post.")
+        log("Nothing new to post – the sites haven't published anything since the last run.")
 
     ai = settings["ai"]
     ai_key = os.environ.get("AI_API_KEY", "").strip()
