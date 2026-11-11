@@ -1,20 +1,28 @@
 {
  "daily": {
-  "count": 1,
+  "count": 3,
   "date": "2026-11-11"
  },
  "failures": {},
  "feed_cache": {},
  "initialized": true,
  "last_post": {
-  "at": "2026-11-11T12:29:02.005067+00:00",
-  "id": "1405471502649229_122093661777555618",
-  "title": "W.K. Mutale Nalumango meets Susan Thompson Buffett Foundation delegation, hails health partnership"
+  "at": "2026-11-11T15:05:02.067448+00:00",
+  "id": "1405471502649229_122093727387555618",
+  "title": "Eswatini shuts foreign-owned businesses in economic empowerment drive"
  },
  "recent_titles": [
   {
    "at": "2026-11-11T12:29:02.005063+00:00",
    "t": "w k mutale nalumango meets susan thompson buffett foundation delegation hails health partnership"
+  },
+  {
+   "at": "2026-11-11T15:04:42.934864+00:00",
+   "t": "government urges church to support grow zambia agenda"
+  },
+  {
+   "at": "2026-11-11T15:05:02.067445+00:00",
+   "t": "eswatini shuts foreign owned businesses in economic empowerment drive"
   }
  ],
  "seen": {
@@ -44,6 +52,7 @@
   "2ef4474262107de3": "2026-11-11T12:28:41.484095+00:00",
   "2fddff583740826f": "2026-11-11T12:28:41.484095+00:00",
   "32ab2d5b580f7c7c": "2026-11-11T12:28:41.484095+00:00",
+  "3e81c957beb560a9": "2026-11-11T15:05:02.067407+00:00",
   "41f2f7d7afb111cf": "2026-11-11T12:28:41.484095+00:00",
   "45d42dcadd18ba31": "2026-11-11T12:28:41.484095+00:00",
   "49b735bb188f188b": "2026-11-11T12:28:41.484095+00:00",
@@ -77,6 +86,7 @@
   "b205908e603d475b": "2026-11-11T12:28:41.484095+00:00",
   "b5ec39db0899c36b": "2026-11-11T12:28:41.484095+00:00",
   "b7bf40de0d7b4db3": "2026-11-11T12:28:41.484095+00:00",
+  "bd2c043fe315b832": "2026-11-11T15:04:42.934829+00:00",
   "c4027a79895ac03f": "2026-11-11T12:28:41.484095+00:00",
   "c4b704ed5998639a": "2026-11-11T12:29:02.005026+00:00",
   "c9b510b541383c4d": "2026-11-11T12:28:41.484095+00:00",
