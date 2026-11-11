@@ -1,0 +1,113 @@
+# ─────────────────────────────────────────────────────────────
+#  Zambia News Bot – settings
+#  Edit this file on GitHub (pencil icon) to change how the bot behaves.
+#  Lines starting with # are comments and are ignored.
+# ─────────────────────────────────────────────────────────────
+
+[settings]
+# Shown in the logs only.
+page_name = "Zed Headlines"
+
+# How many stories the bot may post each time it runs (it runs every ~20 min).
+max_posts_per_run = 2
+
+# Hard limit per day (Lusaka time). Posting too much can get a page flagged as spam.
+max_posts_per_day = 30
+
+# Ignore stories older than this. Stops old news being posted after a feed hiccup.
+max_age_hours = 12
+
+# No posting between these hours (Lusaka time, 24h clock). Set both to 0 to post all night.
+quiet_hours_start = 23
+quiet_hours_end = 5
+
+# On the very first run, everything already on the sites is marked as "seen"
+# and only this many of the newest stories are posted (so the page isn't flooded).
+first_run_posts = 1
+
+# Two headlines this similar (0–1) within 48 hours count as the same story,
+# e.g. when Mwebantu and ZNBC both report it. Only the first one is posted.
+duplicate_similarity = 0.80
+
+# Skip any story whose headline contains one of these words.
+block_keywords = ["sponsored", "advertorial", "advertisement", "vacancy", "tender notice"]
+
+# What each Facebook post says. The article link is attached separately,
+# so Facebook shows a preview card (photo + headline) underneath.
+# Placeholders: {title} {summary} {source} {hashtags} {link}
+# ({source} is the outlet's name – left out on purpose; add it back if you ever want it.)
+post_template = """🇿🇲 {title}
+
+{summary}
+
+{hashtags}"""
+
+# Add a short 1–2 sentence teaser from the site's feed into {summary}.
+include_summary = false
+summary_max_chars = 220
+
+hashtags = "#ZedHeadlines #Zambia #ZambiaNews"
+
+# Facebook Graph API version.
+graph_api_version = "v26.0"
+
+
+# ─────────────────────────────────────────────────────────────
+#  News sources
+#  - name:   shown in the post as "Source: <name>"
+#  - site:   homepage (used to find the feed automatically if `feed` stops working)
+#  - feed:   RSS feed address (optional – the bot will look for one if missing)
+#  - enabled: true / false
+#  - require_keywords: only post stories mentioning one of these words
+#                      (use this for international sources)
+# ─────────────────────────────────────────────────────────────
+
+[[sources]]
+name = "Mwebantu"
+site = "https://www.mwebantu.com/"
+feed = "https://www.mwebantu.com/feed/"
+enabled = true
+
+[[sources]]
+name = "News Diggers!"
+site = "https://diggers.news/"
+feed = "https://diggers.news/feed/"
+enabled = true
+
+[[sources]]
+name = "ZNBC"
+site = "https://znbc.co.zm/"
+feed = "https://znbc.co.zm/?feed=rss2"
+enabled = true
+
+[[sources]]
+name = "Zambia Daily Mail"
+site = "https://www.daily-mail.co.zm/"
+feed = "https://www.daily-mail.co.zm/feed/"
+enabled = true
+
+[[sources]]
+name = "Times of Zambia"
+site = "https://www.times.co.zm/"
+feed = "https://www.times.co.zm/feed/"
+enabled = true
+
+[[sources]]
+name = "Zambia Monitor"
+site = "https://www.zambiamonitor.com/"
+feed = "https://www.zambiamonitor.com/sitemap.rss"
+enabled = true
+
+[[sources]]
+name = "Lusaka Times"
+site = "https://www.lusakatimes.com/"
+feed = "https://www.lusakatimes.com/feed/"
+enabled = true
+
+# International example – only Zambia-related stories get through.
+[[sources]]
+name = "BBC News Africa"
+site = "https://www.bbc.com/news/world/africa"
+feed = "https://feeds.bbci.co.uk/news/world/africa/rss.xml"
+enabled = false
+require_keywords = ["Zambia", "Zambian", "Zambians", "Lusaka", "Hichilema", "Copperbelt", "Kwacha"]
