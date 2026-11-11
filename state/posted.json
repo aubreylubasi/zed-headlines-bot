@@ -1,15 +1,15 @@
 {
  "daily": {
-  "count": 3,
+  "count": 5,
   "date": "2026-11-11"
  },
  "failures": {},
  "feed_cache": {},
  "initialized": true,
  "last_post": {
-  "at": "2026-11-11T15:05:02.067448+00:00",
-  "id": "1405471502649229_122093727387555618",
-  "title": "Eswatini shuts foreign-owned businesses in economic empowerment drive"
+  "at": "2026-11-11T16:05:05.256648+00:00",
+  "id": "1405471502649229_122093767497555618",
+  "title": "Three Kalomo Clubs Set to Benefit Over K1 Million Under TRALARD II Project"
  },
  "recent_titles": [
   {
@@ -23,6 +23,14 @@
   {
    "at": "2026-11-11T15:05:02.067445+00:00",
    "t": "eswatini shuts foreign owned businesses in economic empowerment drive"
+  },
+  {
+   "at": "2026-11-11T16:04:47.202548+00:00",
+   "t": "opinion this is chipolopolo s true test without daka"
+  },
+  {
+   "at": "2026-11-11T16:05:05.256645+00:00",
+   "t": "three kalomo clubs set to benefit over k1 million under tralard ii project"
   }
  ],
  "seen": {
@@ -43,6 +51,7 @@
   "1de416786b71f43e": "2026-11-11T12:28:41.484095+00:00",
   "1f14bbd6dcb9b9f1": "2026-11-11T12:28:41.484095+00:00",
   "2156b60e4da90c48": "2026-11-11T12:28:41.484095+00:00",
+  "22f3f950cea33060": "2026-11-11T16:04:47.202501+00:00",
   "240b86681e21bcb0": "2026-11-11T12:28:41.484095+00:00",
   "26fc95083a249736": "2026-11-11T12:28:41.484095+00:00",
   "288115d7146e1d15": "2026-11-11T12:28:41.484095+00:00",
@@ -103,6 +112,7 @@
   "d94a3dbf67854358": "2026-11-11T12:28:41.484095+00:00",
   "dbd53b84d11bd940": "2026-11-11T12:28:41.484095+00:00",
   "dc98fab07d91bc2b": "2026-11-11T12:28:41.484095+00:00",
+  "ddbcf2ba7f2debd1": "2026-11-11T16:05:05.256610+00:00",
   "e0c1b4985aa39718": "2026-11-11T12:28:41.484095+00:00",
   "e5c468ff443e1f39": "2026-11-11T12:28:41.484095+00:00",
   "e72cdb7f06753743": "2026-11-11T12:28:41.484095+00:00",
