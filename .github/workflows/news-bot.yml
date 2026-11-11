@@ -40,6 +40,7 @@ jobs:
         env:
           FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
           FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}
           DRY_RUN: ${{ github.event.inputs.mode == 'dry-run' }}
           CHECK_SOURCES: ${{ github.event.inputs.mode == 'check-sources' }}
         run: python bot.py
