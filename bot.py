@@ -148,6 +148,7 @@ def load_config() -> tuple[dict, list[dict]]:
     with open(CONFIG_PATH, "rb") as f:
         cfg = tomllib.load(f)
     settings = {**DEFAULT_SETTINGS, **cfg.get("settings", {})}
+    settings["ai"] = {**AI_DEFAULTS, **cfg.get("ai", {})}
     sources = cfg.get("sources", [])
     for s in sources:
         if not s.get("name") or not (s.get("feed") or s.get("site")):
@@ -370,15 +371,190 @@ def choose_stories(stories: list[dict], state: dict, settings: dict, limit: int,
 
 
 def build_message(story: dict, settings: dict) -> str:
+    if story.get("ai_text"):
+        summary = story["ai_text"]
+    elif settings.get("include_summary"):
+        summary = story["summary"]
+    else:
+        summary = ""
     message = settings["post_template"].format(
-        title=story["title"],
-        summary=story["summary"] if settings.get("include_summary") else "",
+        title=story.get("ai_title") or story["title"],
+        summary=summary,
         source=story["source"],
         hashtags=settings.get("hashtags", ""),
         link=story["link"],
     )
     message = re.sub(r"[ \t]+\n", "\n", message)
     return re.sub(r"\n{3,}", "\n\n", message).strip()
+
+
+# ───────────────────────────── AI writer ─────────────────────────────
+
+AI_DEFAULTS = {
+    "enabled": False,
+    "provider": "anthropic",          # "anthropic" (Claude) or "gemini"
+    "model": "claude-haiku-5-5",
+    "min_words": 150,
+    "max_words": 250,
+    "read_full_article": True,        # read the article page to collect facts
+    "combine_sources": True,          # merge facts when several outlets cover the same story
+}
+AI_BASE = {
+    "anthropic": os.environ.get("ANTHROPIC_BASE", "https://api.anthropic.com"),
+    "gemini": os.environ.get("GEMINI_BASE", "https://generativelanguage.googleapis.com"),
+}
+COPY_NGRAM = 10         # this many identical words in a row counts as copying
+BOILERPLATE = re.compile(
+    r"(share this|related posts?|related articles?|copyright|all rights reserved|follow us|subscribe|"
+    r"click here|read more|advertisement|appeared first on|first appeared on|leave a comment|"
+    r"sign up|newsletter|whatsapp channel|join our)", re.I)
+
+AI_SYSTEM_PROMPT = """You are the news writer for Zed Headlines, a Zambian Facebook news page.
+Write ONE original news post based only on the source material you are given.
+
+Strict rules:
+1. Facts: use ONLY facts stated in the source material. Never invent or guess names, titles, numbers, dates, places, quotes, reactions or background. If a detail is unclear, leave it out.
+2. Originality: write entirely in your own words and your own structure. Never copy a sentence, and never reuse more than 6 words in a row from the sources (names, job titles and official names of things are fine). Do not use direct quotes; report what people said in your own words ("The minister said that...").
+3. Fairness: stay neutral. No opinions, no praise or criticism of politicians, parties, companies or people. Report claims as claims and attribute them ("according to police", "the ministry said").
+4. Style: clear, lively plain English for Zambian readers. Start with a strong opening sentence that tells readers why the story matters. Short paragraphs of 1-3 sentences. No clickbait, no exaggeration, no ALL CAPS, no markdown, no hashtags, no links, no emojis.
+5. Length: about {min_words}-{max_words} words for the body. If the source material is short, write a SHORTER post (as little as 60 words) instead of padding or inventing.
+6. Do not mention any news outlet, website or journalist.
+
+Output format, exactly:
+Line 1: a short, accurate, catchy headline (max 12 words).
+Line 2: empty.
+Then the body paragraphs.
+Final line: one short, neutral question inviting readers to comment."""
+
+
+def fetch_article_text(url: str, max_chars: int = 6000) -> str:
+    """Pull the readable paragraphs out of an article page (used only as fact material for the AI)."""
+    r = session.get(url, timeout=25, headers={"Accept": "text/html,*/*"})
+    r.raise_for_status()
+    page = r.text
+    page = re.sub(r"<(script|style|noscript|nav|footer|aside|form|header)\b.*?</\1>", " ", page, flags=re.S | re.I)
+    body = page
+    for pattern in (r"<article\b.*?</article>",
+                    r"<div[^>]+class=[\"'][^\"']*(entry-content|post-content|td-post-content|article-content|story-content)[^\"']*[\"'].*?</div>\s*</div>"):
+        m = re.search(pattern, page, flags=re.S | re.I)
+        if m:
+            body = m.group(0)
+            break
+    paras = []
+    for p in re.findall(r"<p\b[^>]*>(.*?)</p>", body, flags=re.S | re.I):
+        text = strip_html(p)
+        if len(text) >= 40 and not BOILERPLATE.search(text):
+            paras.append(text)
+    text = "\n".join(dict.fromkeys(paras))  # drop repeated paragraphs, keep order
+    return text[:max_chars]
+
+
+def word_ngrams(text: str, n: int) -> set[tuple[str, ...]]:
+    words = re.findall(r"[a-z0-9']+", text.lower())
+    return {tuple(words[i:i + n]) for i in range(len(words) - n + 1)}
+
+
+def copied_phrases(output: str, sources: list[str], n: int = COPY_NGRAM) -> int:
+    src = set()
+    for s in sources:
+        src |= word_ngrams(s, n)
+    return len(word_ngrams(output, n) & src)
+
+
+def call_ai(ai: dict, api_key: str, system: str, user: str) -> str:
+    provider = ai["provider"].lower()
+    if provider == "anthropic":
+        r = requests.post(f"{AI_BASE['anthropic']}/v1/messages", timeout=90, headers={
+            "x-api-key": api_key, "anthropic-version": "2023-06-01", "content-type": "application/json",
+        }, json={
+            "model": ai["model"], "max_tokens": 1200, "temperature": 0.7,
+            "system": system, "messages": [{"role": "user", "content": user}],
+        })
+        data = r.json() if r.content else {}
+        if not r.ok:
+            raise RuntimeError(f"Claude API HTTP {r.status_code}: {str(data.get('error', data))[:200]}")
+        return "".join(b.get("text", "") for b in data.get("content", []) if b.get("type") == "text")
+    if provider == "gemini":
+        r = requests.post(f"{AI_BASE['gemini']}/v1beta/models/{ai['model']}:generateContent", timeout=90,
+                          headers={"x-goog-api-key": api_key, "content-type": "application/json"},
+                          json={
+                              "system_instruction": {"parts": [{"text": system}]},
+                              "contents": [{"role": "user", "parts": [{"text": user}]}],
+                              "generationConfig": {"maxOutputTokens": 1200, "temperature": 0.7},
+                          })
+        data = r.json() if r.content else {}
+        if not r.ok:
+            raise RuntimeError(f"Gemini API HTTP {r.status_code}: {str(data.get('error', data))[:200]}")
+        parts = (data.get("candidates") or [{}])[0].get("content", {}).get("parts", [])
+        return "".join(p.get("text", "") for p in parts)
+    raise RuntimeError(f"Unknown AI provider '{ai['provider']}' (use 'anthropic' or 'gemini')")
+
+
+def clean_ai_output(text: str) -> tuple[str, str]:
+    """Return (headline, body). Removes markdown, links and hashtags the model might add anyway."""
+    text = text.replace("\r", "").strip()
+    text = re.sub(r"\*\*|__|^#+\s*", "", text, flags=re.M)          # markdown
+    text = re.sub(r"https?://\S+", "", text)                          # links
+    text = re.sub(r"(^|\s)#\w+", r"\1", text)                         # hashtags
+    text = re.sub(r"^(headline|title)\s*:\s*", "", text, flags=re.I)
+    lines = text.split("\n")
+    headline = lines[0].strip().strip('"“”').rstrip(".")
+    body = "\n".join(lines[1:]).strip()
+    body = re.sub(r"\n{3,}", "\n\n", body)
+    return headline, body
+
+
+def gather_reports(story: dict, all_stories: list[dict], ai: dict, threshold: float) -> list[dict]:
+    """The story itself plus (optionally) the same story from up to 2 other outlets."""
+    group = [story]
+    if ai.get("combine_sources"):
+        simple = simplify_title(story["title"])
+        for other in all_stories:
+            if len(group) >= 3:
+                break
+            if other["source"] in {g["source"] for g in group}:
+                continue
+            if SequenceMatcher(None, simple, simplify_title(other["title"])).ratio() >= threshold:
+                group.append(other)
+    reports = []
+    for s in group:
+        text = ""
+        if ai.get("read_full_article"):
+            try:
+                text = fetch_article_text(s["link"])
+            except Exception as e:  # noqa: BLE001
+                log(f"   ↪ couldn't read article page ({short_error(e)}) – using feed teaser")
+        if len(text) < 200:
+            text = clean_summary(s.get("summary_text", ""), s["title"], 2000) or text
+        reports.append({"headline": s["title"], "text": text})
+    return reports
+
+
+def ai_write(story: dict, all_stories: list[dict], settings: dict, ai: dict, api_key: str) -> tuple[str, str] | None:
+    reports = gather_reports(story, all_stories, ai, float(settings["duplicate_similarity"]))
+    material = "\n\n".join(
+        f"REPORT {i}\nHeadline: {r['headline']}\nText: {r['text'] or '(no text available)'}"
+        for i, r in enumerate(reports, 1))
+    total_source = sum(len(r["text"]) for r in reports)
+    system = AI_SYSTEM_PROMPT.format(min_words=ai["min_words"], max_words=ai["max_words"])
+    user = (f"Source material ({len(reports)} report{'s' if len(reports) > 1 else ''}, "
+            f"{total_source} characters):\n\n{material}\n\nWrite the post now.")
+    sources = [r["text"] for r in reports] + [r["headline"] for r in reports]
+
+    for attempt in (1, 2):
+        raw = call_ai(ai, api_key, system, user)
+        headline, body = clean_ai_output(raw)
+        words = len(body.split())
+        copies = copied_phrases(f"{headline}\n{body}", sources)
+        if headline and 30 <= words <= int(ai["max_words"]) * 1.5 and copies == 0:
+            log(f"   ✍️  AI wrote {words} words from {len(reports)} report(s)")
+            return headline, body
+        problem = (f"it copied {copies} phrase(s) from the source" if copies
+                   else f"the length was {words} words")
+        log(f"   ↪ AI draft rejected ({problem}) – {'retrying' if attempt == 1 else 'giving up'}")
+        user += (f"\n\nYour previous draft was rejected because {problem}. "
+                 "Rewrite it completely in your own words, following every rule.")
+    return None
 
 
 # ───────────────────────────── Facebook ─────────────────────────────
@@ -483,8 +659,25 @@ def run(dry_run: bool) -> int:
 
     if not to_post:
         log("Nothing new to post.")
+
+    ai = settings["ai"]
+    ai_key = os.environ.get("AI_API_KEY", "").strip()
+    use_ai = bool(ai.get("enabled")) and bool(to_post)
+    if use_ai and not ai_key:
+        log("⚠️  AI writer is enabled in config.toml but the AI_API_KEY secret is missing – posting headlines only.")
+        use_ai = False
+
     exit_code = 0
     for i, story in enumerate(to_post):
+        if use_ai:
+            log(f"✍️  Writing article for: {story['title'][:80]}")
+            try:
+                written = ai_write(story, stories, settings, ai, ai_key)
+            except Exception as e:  # noqa: BLE001 – never let the AI stop the posting
+                log(f"   ↪ AI writer failed ({short_error(e)}) – posting without the write-up")
+                written = None
+            if written:
+                story["ai_title"], story["ai_text"] = written
         message = build_message(story, settings)
         if dry_run:
             print("\n──────── would post ────────")

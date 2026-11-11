@@ -83,6 +83,25 @@ From then on it runs **every 20 minutes by itself**. To see what it did, open th
 
 ---
 
+## AI writer (optional)
+With the AI writer switched on, each post becomes a 150–250 word original write-up in the page's
+own voice, with a catchy headline and a question for readers at the end. It works like this:
+- It reads the article page to **collect the facts**. If two or three outlets cover the same story, it **combines their facts**.
+- It writes **in its own words**. Every draft is checked, and if it repeats 10 or more words in a row from a source, it's rejected and rewritten.
+- It never invents names, numbers or quotes, and it stays politically neutral. Short source material gives a shorter post, never a padded one.
+- If the AI fails for any reason, the bot posts the headline and link as before, so nothing breaks.
+
+**Setup:**
+1. Get an API key:
+   - **Claude (recommended):** at **platform.claude.com**, sign up, add a little credit under **Billing**, then go to **API keys → Create key**. It costs about US$0.15 a month at 30 posts a day.
+   - **Gemini (free tier):** at **aistudio.google.com**, click **Get API key**. Then in `config.toml` set `provider = "gemini"` and `model` to a Flash model name shown in AI Studio. Free-tier requests may be used by Google to improve its products.
+2. Add the key on GitHub: **Settings → Secrets and variables → Actions → New repository secret**, with Name `AI_API_KEY` and the key as the Secret.
+3. Run a **dry-run** to preview the write-ups, then leave it running.
+
+To switch it off, set `enabled = false` under `[ai]` in `config.toml`.
+
+---
+
 ## Changing how it behaves
 Edit `config.toml` on GitHub: click the file, then the ✏️ pencil icon, make your change, and click **Commit**. Some examples:
 

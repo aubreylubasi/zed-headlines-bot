@@ -53,6 +53,34 @@ graph_api_version = "v26.0"
 
 
 # ─────────────────────────────────────────────────────────────
+#  AI writer – turns each story into an original write-up in Zed Headlines' voice
+#  Needs the AI_API_KEY secret on GitHub (see README).
+#  The AI only uses facts from the reports, writes in its own words,
+#  stays neutral, and its draft is rejected if it copies phrases from the source.
+#  If anything goes wrong, the bot simply posts the headline + link as before.
+# ─────────────────────────────────────────────────────────────
+
+[ai]
+enabled = true
+
+# "anthropic" (Claude – a few cents a month) or "gemini" (Google – has a free tier)
+provider = "anthropic"
+
+# Claude: "claude-haiku-5-5"   Gemini: use a Flash model name shown in Google AI Studio
+model = "claude-haiku-5-5"
+
+# Length of the write-up (words). Short source material gives shorter posts – the AI never pads.
+min_words = 150
+max_words = 250
+
+# Read the article page to collect facts (true), or use only the feed teaser (false).
+read_full_article = true
+
+# When several outlets report the same story, combine their facts into one write-up.
+combine_sources = true
+
+
+# ─────────────────────────────────────────────────────────────
 #  News sources
 #  - name:   shown in the post as "Source: <name>"
 #  - site:   homepage (used to find the feed automatically if `feed` stops working)
