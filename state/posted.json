@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 20,
+  "count": 22,
   "date": "2026-11-12"
  },
  "failures": {},
@@ -9,9 +9,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-12T12:52:08.443374+00:00",
-  "id": "1405471502649229_122094296001555618",
-  "title": "We’ll use FIFA break to sharpen attack – ZESCO"
+  "at": "2026-11-12T14:05:36.059584+00:00",
+  "id": "1405471502649229_122094322815555618",
+  "title": "ZDA to invest commitments worth 5 billion US dollars towards IZIC"
  },
  "recent_titles": [
   {
@@ -145,6 +145,18 @@
   {
    "at": "2026-11-12T12:52:08.443371+00:00",
    "t": "we ll use fifa break to sharpen attack zesco"
+  },
+  {
+   "at": "2026-11-12T14:05:04.577336+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "govt hails zesco s k6 5bn profit turnaround",
+   "title": "Govt hails ZESCO’s K6.5bn profit turnaround"
+  },
+  {
+   "at": "2026-11-12T14:05:36.042792+00:00",
+   "s": "The Zambia Development Agency (ZDA) is targeting investment commitments worth 5 billion United States dollars at this year’s Invest Zambia International Conference (IZIC), as the country seeks to attract more local and international investors into key sectors of the economy. Speaking during an exclusive interview with the media ZDA Director General, Albert Halwampa, says the […]",
+   "t": "zda to invest commitments worth 5 billion us dollars towards izic",
+   "title": "ZDA to invest commitments worth 5 billion US dollars towards IZIC"
   }
  ],
  "seen": {
@@ -162,6 +174,7 @@
   "14d995f7430f3b7e": "2026-11-12T07:53:36.733556+00:00",
   "151b594f888b989c": "2026-11-11T12:28:41.484095+00:00",
   "1555fc638572333b": "2026-11-11T12:28:41.484095+00:00",
+  "15f6831e3107ffbd": "2026-11-12T14:05:36.042752+00:00",
   "17d9a36d04a70b25": "2026-11-11T12:28:41.484095+00:00",
   "18b691bf37df516c": "2026-11-11T12:28:41.484095+00:00",
   "19570383999aedf3": "2026-11-12T09:47:10.600545+00:00",
@@ -195,6 +208,7 @@
   "50a970992ea2e172": "2026-11-11T12:28:41.484095+00:00",
   "524602ccff7f9a5b": "2026-11-11T12:28:41.484095+00:00",
   "5300f14e4e3ba9d7": "2026-11-11T12:28:41.484095+00:00",
+  "5525b3b582bdf845": "2026-11-12T14:05:04.577289+00:00",
   "57e6a7d66fd26077": "2026-11-11T12:28:41.484095+00:00",
   "5de3777fd3f43270": "2026-11-11T12:28:41.484095+00:00",
   "5e39d71518479d7e": "2026-11-11T12:28:41.484095+00:00",
