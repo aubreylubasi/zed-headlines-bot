@@ -1,15 +1,17 @@
 {
  "daily": {
-  "count": 2,
+  "count": 4,
   "date": "2026-11-12"
  },
  "failures": {},
- "feed_cache": {},
+ "feed_cache": {
+  "Mwebantu": "https://www.mwebantu.com/rss.xml"
+ },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-12T03:30:43.437072+00:00",
-  "id": "1405471502649229_122094056235555618",
-  "title": "Zambia reaffirms commitment to refugee welfare amid rising displacement"
+  "at": "2026-11-12T04:33:36.327143+00:00",
+  "id": "1405471502649229_122094084465555618",
+  "title": "Mundubile And Zulu Left Without Lawyers As State Moves To Strike Raid Video From Bail Record"
  },
  "recent_titles": [
   {
@@ -71,6 +73,14 @@
   {
    "at": "2026-11-12T03:30:43.437067+00:00",
    "t": "zambia reaffirms commitment to refugee welfare amid rising displacement"
+  },
+  {
+   "at": "2026-11-12T04:33:05.711860+00:00",
+   "t": "eu election report may not be accurate but we must hear their concern"
+  },
+  {
+   "at": "2026-11-12T04:33:36.327139+00:00",
+   "t": "mundubile and zulu left without lawyers as state moves to strike raid video from bail record"
   }
  ],
  "seen": {
@@ -92,6 +102,7 @@
   "1d290d2305f86ef0": "2026-11-11T20:12:24.778203+00:00",
   "1de416786b71f43e": "2026-11-11T12:28:41.484095+00:00",
   "1f14bbd6dcb9b9f1": "2026-11-11T12:28:41.484095+00:00",
+  "21522e6bf2362382": "2026-11-12T04:33:05.711819+00:00",
   "2156b60e4da90c48": "2026-11-11T12:28:41.484095+00:00",
   "22f3f950cea33060": "2026-11-11T16:04:47.202501+00:00",
   "240b86681e21bcb0": "2026-11-11T12:28:41.484095+00:00",
@@ -101,6 +112,7 @@
   "2dac6c406d525acc": "2026-11-11T12:28:41.484095+00:00",
   "2e5909a31d6300bd": "2026-11-11T12:28:41.484095+00:00",
   "2ef4474262107de3": "2026-11-11T12:28:41.484095+00:00",
+  "2fd1e86014774387": "2026-11-12T04:33:36.327100+00:00",
   "2fddff583740826f": "2026-11-11T12:28:41.484095+00:00",
   "32ab2d5b580f7c7c": "2026-11-11T12:28:41.484095+00:00",
   "3e81c957beb560a9": "2026-11-11T15:05:02.067407+00:00",
