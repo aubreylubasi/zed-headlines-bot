@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 14,
+  "count": 16,
   "date": "2026-11-12"
  },
  "failures": {},
@@ -9,9 +9,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-12T09:48:35.517905+00:00",
-  "id": "1405471502649229_122094199971555618",
-  "title": "Mines Ministry begins formalising Mpika mining operations, warns illegal operators"
+  "at": "2026-11-12T10:50:27.096513+00:00",
+  "id": "1405471502649229_122094241719555618",
+  "title": "Catholic priest charged over K1.5 million in suspected crime proceeds"
  },
  "recent_titles": [
   {
@@ -121,6 +121,14 @@
   {
    "at": "2026-11-12T09:48:35.517901+00:00",
    "t": "mines ministry begins formalising mpika mining operations warns illegal operators"
+  },
+  {
+   "at": "2026-11-12T10:49:58.424551+00:00",
+   "t": "lyon conference highlights morocco s role in euro african cooperation dynamics"
+  },
+  {
+   "at": "2026-11-12T10:50:27.096509+00:00",
+   "t": "catholic priest charged over k1 5 million in suspected crime proceeds"
   }
  ],
  "seen": {
@@ -194,6 +202,7 @@
   "9a07edf6e239a8f6": "2026-11-11T12:28:41.484095+00:00",
   "9be1923b0cabfa02": "2026-11-11T12:28:41.484095+00:00",
   "9e23daf09a153c23": "2026-11-11T12:28:41.484095+00:00",
+  "a4b9e2ed72e3412a": "2026-11-12T10:49:58.424510+00:00",
   "ab12733ad80d886b": "2026-11-11T12:28:41.484095+00:00",
   "ad88d03185e74633": "2026-11-11T12:28:41.484095+00:00",
   "b205908e603d475b": "2026-11-11T12:28:41.484095+00:00",
@@ -216,6 +225,7 @@
   "d07bb1d8222df0fe": "2026-11-11T12:28:41.484095+00:00",
   "d29ec15c564d5e6d": "2026-11-11T19:14:44.180648+00:00",
   "d4954831649dff79": "2026-11-11T12:28:41.484095+00:00",
+  "d4cd5f22be48bce0": "2026-11-12T10:50:27.096471+00:00",
   "d74611228f3b975b": "2026-11-11T12:28:41.484095+00:00",
   "d94a3dbf67854358": "2026-11-11T12:28:41.484095+00:00",
   "dbd53b84d11bd940": "2026-11-11T12:28:41.484095+00:00",
