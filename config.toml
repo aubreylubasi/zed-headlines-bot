@@ -76,8 +76,12 @@ max_words = 250
 # Read the article page to collect facts (true), or use only the feed teaser (false).
 read_full_article = true
 
-# When several outlets report the same story, combine their facts into one write-up.
+# When several outlets report the same story, compare and combine their facts into one write-up.
 combine_sources = true
+
+# How long (minutes) to wait for other outlets to report a story before posting it from one source.
+# Higher = more combined, richer posts but slower news. 0 = post immediately.
+wait_minutes = 45
 
 
 # ─────────────────────────────────────────────────────────────

@@ -320,13 +320,63 @@ def collect_stories(sources: list[dict], state: dict, settings: dict) -> list[di
 
 # ───────────────────────────── choosing what to post ─────────────────────────────
 
+STOPWORDS = set("""a an the and or but of to in on at for from by with without as is are was were be been being has have had
+it its this that these those he she they his her their them we our you your i not no yes over under after before into out up down
+about says said say new will would can could may might must should than then also more most very just amid against via
+mr mrs ms dr hon govt government zambia zambian zambians lusaka today week year""".split())
+
+
+ROLE_WORDS = set("""president vice minister ministry deputy permanent secretary chief mayor party leader leaders opposition
+upnd court high police state national district province provincial council official officials spokesperson""".split())
+
+
+def content_words(text: str) -> set[str]:
+    return {w for w in re.findall(r"[a-z0-9']+", text.lower()) if len(w) > 2 and w not in STOPWORDS}
+
+
+def name_words(text: str, is_title: bool = False) -> set[str]:
+    """Capitalised words (people, places, organisations). Title Case headlines are ignored,
+    because there every word is capitalised."""
+    words = re.findall(r"[A-Za-z][A-Za-z'-]+", text)
+    caps = [w for w in words if w[0].isupper() and w.lower() not in STOPWORDS and len(w) > 2]
+    if is_title and words and len(caps) / len(words) > 0.6:
+        return set()
+    return {w.lower() for w in caps}
+
+
+def jaccard(a: set, b: set) -> float:
+    return len(a & b) / len(a | b) if a and b else 0.0
+
+
+def same_story(a: dict, b: dict, threshold: float) -> bool:
+    """True when two items from different outlets are about the same event, even if worded differently."""
+    ta, tb = a["title"], b["title"]
+    if SequenceMatcher(None, simplify_title(ta), simplify_title(tb)).ratio() >= threshold:
+        return True
+    if jaccard(content_words(ta), content_words(tb)) >= 0.5:
+        return True
+    full_a = f"{ta}. {a.get('summary_text', '')[:500]}"
+    full_b = f"{tb}. {b.get('summary_text', '')[:500]}"
+    names_a = name_words(ta, is_title=True) | name_words(a.get("summary_text", "")[:500])
+    names_b = name_words(tb, is_title=True) | name_words(b.get("summary_text", "")[:500])
+    shared_names = (names_a & names_b) - ROLE_WORDS
+    # Same people/places AND the same topic: sharing only a name (e.g. the President) is not enough.
+    topic_a = content_words(full_a) - names_a - ROLE_WORDS
+    topic_b = content_words(full_b) - names_b - ROLE_WORDS
+    shared_topic = topic_a & topic_b
+    return (len(shared_names) >= 2 and len(shared_topic) >= 1
+            and jaccard(content_words(full_a), content_words(full_b)) >= 0.15)
+
+
 def is_duplicate(title: str, recent: list[str], threshold: float) -> bool:
     simple = simplify_title(title)
-    return any(SequenceMatcher(None, simple, other).ratio() >= threshold for other in recent)
+    words = content_words(simple)
+    return any(SequenceMatcher(None, simple, other).ratio() >= threshold
+               or jaccard(words, content_words(other)) >= 0.5 for other in recent)
 
 
 def choose_stories(stories: list[dict], state: dict, settings: dict, limit: int,
-                   dated_only: bool = False) -> list[dict]:
+                   dated_only: bool = False, hold_minutes: float = 0) -> list[dict]:
     max_age = timedelta(hours=float(settings["max_age_hours"]))
     blocked = settings.get("block_keywords") or []
     threshold = float(settings["duplicate_similarity"])
@@ -349,14 +399,24 @@ def choose_stories(stories: list[dict], state: dict, settings: dict, limit: int,
             continue
         if state["failures"].get(s["key"], {}).get("count", 0) >= MAX_FAILURES_PER_STORY:
             continue
+        if hold_minutes and now_utc() - s["published"] < timedelta(minutes=hold_minutes):
+            others = [o for o in stories if o["source"] != s["source"] and same_story(s, o, threshold)]
+            if not others:
+                waited = int((now_utc() - s["published"]).total_seconds() // 60)
+                log(f"   ⏳ waiting for other outlets ({waited}/{int(hold_minutes)} min): {s['title'][:70]} ({s['source']})")
+                continue
         fresh.append(s)
 
     fresh.sort(key=lambda s: s["published"], reverse=True)  # newest first
 
     picked, used_sources, picked_titles = [], set(), []
 
+    recent_items = [{"title": t.get("title") or t["t"], "summary_text": t.get("s", "")}
+                    for t in state["recent_titles"]]
+
     def try_pick(s: dict) -> None:
-        if is_duplicate(s["title"], recent + picked_titles, threshold):
+        if (is_duplicate(s["title"], recent + picked_titles, threshold)
+                or any(same_story(s, other, threshold) for other in picked + recent_items)):
             log(f"   ↪ skipping duplicate: {s['title'][:80]} ({s['source']})")
             state["seen"][s["key"]] = now_utc().isoformat()
             return
@@ -407,6 +467,7 @@ AI_DEFAULTS = {
     "max_words": 250,
     "read_full_article": True,        # read the article page to collect facts
     "combine_sources": True,          # merge facts when several outlets cover the same story
+    "wait_minutes": 45,               # wait this long for other outlets before posting a single-source story
 }
 AI_BASE = {
     "anthropic": os.environ.get("ANTHROPIC_BASE", "https://api.anthropic.com"),
@@ -427,8 +488,10 @@ Strict rules:
 2. Originality: write entirely in your own words and your own structure. Never copy a sentence, and never reuse more than 6 words in a row from the sources (names, job titles and official names of things are fine). Do not use direct quotes; report what people said in your own words ("The minister said that...").
 3. Fairness: stay neutral. No opinions, no praise or criticism of politicians, parties, companies or people. Report claims as claims and attribute them ("according to police", "the ministry said").
 4. Style: clear, lively plain English for Zambian readers. Start with a strong opening sentence that tells readers why the story matters. Short paragraphs of 1-3 sentences. No clickbait, no exaggeration, no ALL CAPS, no markdown, no hashtags, no links, no emojis.
-5. Length: about {min_words}-{max_words} words for the body. If the source material is short, write a SHORTER post (as little as 60 words) instead of padding or inventing.
-6. Do not mention any news outlet, website or journalist.
+5. Several reports: if you are given more than one report, combine their facts into one story. Compare them: where they agree, state the fact plainly; where they differ (numbers, names, dates, who said what), say that accounts differ ("one report puts the figure at X, another at Y") instead of silently choosing one.
+6. Length: about {min_words}-{max_words} words for the body. If the source material is short, write a SHORTER post (as little as 60 words) instead of padding or inventing.
+7. Do not mention any news outlet, website or journalist by name; you may say "reports" in general.
+8. Output ONLY the finished post. No notes, explanations, numbered lists, source references, word counts or comments about the rules.
 
 Output format, exactly:
 Line 1: a short, accurate, catchy headline (max 12 words).
@@ -483,6 +546,8 @@ def call_ai(ai: dict, api_key: str, system: str, user: str) -> str:
         data = r.json() if r.content else {}
         if not r.ok:
             raise RuntimeError(f"Claude API HTTP {r.status_code}: {str(data.get('error', data))[:200]}")
+        if data.get("stop_reason") == "max_tokens":
+            raise RuntimeError("Claude stopped early (max_tokens)")
         return "".join(b.get("text", "") for b in data.get("content", []) if b.get("type") == "text")
     if provider == "gemini":
         # Google renames models from time to time: try the configured one, then known free Flash models.
@@ -494,7 +559,7 @@ def call_ai(ai: dict, api_key: str, system: str, user: str) -> str:
                               json={
                                   "system_instruction": {"parts": [{"text": system}]},
                                   "contents": [{"role": "user", "parts": [{"text": user}]}],
-                                  "generationConfig": {"maxOutputTokens": 2048, "temperature": 0.7},
+                                  "generationConfig": {"maxOutputTokens": 8192, "temperature": 0.7},
                               })
             data = r.json() if r.content else {}
             if r.status_code == 404:          # model name not available – try the next one
@@ -505,7 +570,10 @@ def call_ai(ai: dict, api_key: str, system: str, user: str) -> str:
             if model != ai["model"]:
                 log(f"   ↪ Gemini model '{ai['model']}' not available – used '{model}' instead")
                 ai["model"] = model           # remember for the rest of this run
-            parts = (data.get("candidates") or [{}])[0].get("content", {}).get("parts", [])
+            cand = (data.get("candidates") or [{}])[0]
+            if cand.get("finishReason") not in (None, "STOP"):
+                raise RuntimeError(f"Gemini stopped early ({cand.get('finishReason')})")
+            parts = cand.get("content", {}).get("parts", [])
             return "".join(p.get("text", "") for p in parts if not p.get("thought"))
         raise RuntimeError(f"Gemini: no working model ({last_error})")
     raise RuntimeError(f"Unknown AI provider '{ai['provider']}' (use 'anthropic' or 'gemini')")
@@ -525,17 +593,38 @@ def clean_ai_output(text: str) -> tuple[str, str]:
     return headline, body
 
 
+def post_problem(headline: str, body: str, source_chars: int, max_words: int) -> str | None:
+    """Return a reason if the AI output doesn't look like a clean, finished post."""
+    words = len(body.split())
+    min_words = 60 if source_chars >= 600 else 25
+    lines = [l.strip() for l in body.split("\n") if l.strip()]
+    if not headline or not (3 <= len(headline.split()) <= 16):
+        return "the headline was missing or the wrong length"
+    if any(c in headline for c in '"“”()[]'):
+        return "the headline contained quotes or notes"
+    if words < min_words or words > max_words * 1.5:
+        return f"the length was {words} words"
+    if re.search(r"\(source|\bsource:|\breport \d|word count|\bnote:", f"{headline}\n{body}", re.I):
+        return "it included notes or source references"
+    if any(re.match(r"^(\d+[.)]|[-•*])\s", l) for l in lines):
+        return "it contained a list instead of paragraphs"
+    if not lines or not lines[-1].endswith("?"):
+        return "it didn't end with a question (it may have been cut off)"
+    if not re.search(r"[.!?]$", lines[-2] if len(lines) > 1 else lines[-1]):
+        return "a paragraph was cut off mid-sentence"
+    return None
+
+
 def gather_reports(story: dict, all_stories: list[dict], ai: dict, threshold: float) -> list[dict]:
     """The story itself plus (optionally) the same story from up to 2 other outlets."""
     group = [story]
     if ai.get("combine_sources"):
-        simple = simplify_title(story["title"])
         for other in all_stories:
             if len(group) >= 3:
                 break
             if other["source"] in {g["source"] for g in group}:
                 continue
-            if SequenceMatcher(None, simple, simplify_title(other["title"])).ratio() >= threshold:
+            if same_story(story, other, threshold):
                 group.append(other)
     reports = []
     for s in group:
@@ -562,19 +651,26 @@ def ai_write(story: dict, all_stories: list[dict], settings: dict, ai: dict, api
             f"{total_source} characters):\n\n{material}\n\nWrite the post now.")
     sources = [r["text"] for r in reports] + [r["headline"] for r in reports]
 
-    for attempt in (1, 2):
-        raw = call_ai(ai, api_key, system, user)
-        headline, body = clean_ai_output(raw)
-        words = len(body.split())
-        copies = copied_phrases(f"{headline}\n{body}", sources)
-        if headline and 30 <= words <= int(ai["max_words"]) * 1.5 and copies == 0:
-            log(f"   ✍️  AI wrote {words} words from {len(reports)} report(s)")
-            return headline, body
+    base_user = user
+    for attempt in (1, 2, 3):
+        try:
+            raw = call_ai(ai, api_key, system, user)
+        except RuntimeError as e:
+            if "stopped early" not in str(e):
+                raise
+            raw = ""
+        headline, body = clean_ai_output(raw) if raw else ("", "")
+        copies = copied_phrases(f"{headline}\n{body}", sources) if raw else 0
         problem = (f"it copied {copies} phrase(s) from the source" if copies
-                   else f"the length was {words} words")
-        log(f"   ↪ AI draft rejected ({problem}) – {'retrying' if attempt == 1 else 'giving up'}")
-        user += (f"\n\nYour previous draft was rejected because {problem}. "
-                 "Rewrite it completely in your own words, following every rule.")
+                   else post_problem(headline, body, total_source, int(ai["max_words"])) if raw
+                   else "the answer was cut off")
+        if not problem:
+            log(f"   ✍️  AI wrote {len(body.split())} words from {len(reports)} report(s)")
+            return headline, body
+        log(f"   ↪ AI draft rejected ({problem}) – {'retrying' if attempt < 3 else 'giving up, posting headline only'}")
+        # Start each retry from the original request so the model never sees its own bad draft.
+        user = (base_user + f"\n\nImportant: an earlier attempt was rejected because {problem}. "
+                "Write a completely fresh post in your own words. Output only the post.")
     return None
 
 
@@ -676,7 +772,10 @@ def run(dry_run: bool) -> int:
             if not dry_run:
                 save_state(state)
             return 0
-        to_post = choose_stories(stories, state, settings, limit)
+        ai_cfg = settings["ai"]
+        hold = (float(ai_cfg.get("wait_minutes", 0))
+                if ai_cfg.get("enabled") and ai_cfg.get("combine_sources") and os.environ.get("AI_API_KEY") else 0)
+        to_post = choose_stories(stories, state, settings, limit, hold_minutes=hold)
 
     if not to_post:
         log("Nothing new to post – the sites haven't published anything since the last run.")
@@ -732,7 +831,12 @@ def run(dry_run: bool) -> int:
             log(f"⚠️  Network problem talking to Facebook: {short_error(e)} – will retry next run.")
             break
         state["seen"][story["key"]] = now_utc().isoformat()
-        state["recent_titles"].append({"t": simplify_title(story["title"]), "at": now_utc().isoformat()})
+        state["recent_titles"].append({"t": simplify_title(story["title"]), "title": story["title"],
+                                       "s": story.get("summary_text", "")[:500], "at": now_utc().isoformat()})
+        for other in stories:   # the same story from other outlets is now covered too
+            if other is not story and other["source"] != story["source"] and \
+                    same_story(story, other, float(settings["duplicate_similarity"])):
+                state["seen"][other["key"]] = now_utc().isoformat()
         state["daily"]["count"] += 1
         state["last_post"] = {"id": post_id, "title": story["title"], "at": now_utc().isoformat()}
         log(f"📤 Posted: {story['title'][:90]}  ({story['source']})  → post {post_id}")
