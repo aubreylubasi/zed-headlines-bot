@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 22,
+  "count": 24,
   "date": "2026-11-12"
  },
  "failures": {},
@@ -9,9 +9,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-12T14:05:36.059584+00:00",
-  "id": "1405471502649229_122094322815555618",
-  "title": "ZDA to invest commitments worth 5 billion US dollars towards IZIC"
+  "at": "2026-11-12T15:11:33.272428+00:00",
+  "id": "1405471502649229_122094351987555618",
+  "title": "Chipangali brothers cleared of referee murder"
  },
  "recent_titles": [
   {
@@ -157,6 +157,18 @@
    "s": "The Zambia Development Agency (ZDA) is targeting investment commitments worth 5 billion United States dollars at this year’s Invest Zambia International Conference (IZIC), as the country seeks to attract more local and international investors into key sectors of the economy. Speaking during an exclusive interview with the media ZDA Director General, Albert Halwampa, says the […]",
    "t": "zda to invest commitments worth 5 billion us dollars towards izic",
    "title": "ZDA to invest commitments worth 5 billion US dollars towards IZIC"
+  },
+  {
+   "at": "2026-11-12T15:10:43.776562+00:00",
+   "s": "",
+   "t": "women in mining warn higher licence fees could undermine tax relief",
+   "title": "Women in mining warn higher licence fees could undermine tax relief"
+  },
+  {
+   "at": "2026-11-12T15:11:33.264736+00:00",
+   "s": "Four (4) brothers who were accused of murdering a referee in Chipangali district, for allegedly failing to award their football team a foul, have been acquitted by the Chipata High Court. Judge Ketrina Maimbolwa Walubita, making a ruling on whether the quartet had a case to answer, acquitted them, citing lack of evidence linking them […]",
+   "t": "chipangali brothers cleared of referee murder",
+   "title": "Chipangali brothers cleared of referee murder"
   }
  ],
  "seen": {
@@ -185,6 +197,7 @@
   "1f14bbd6dcb9b9f1": "2026-11-11T12:28:41.484095+00:00",
   "21522e6bf2362382": "2026-11-12T04:33:05.711819+00:00",
   "2156b60e4da90c48": "2026-11-11T12:28:41.484095+00:00",
+  "216af924d234105f": "2026-11-12T15:11:33.264700+00:00",
   "22f3f950cea33060": "2026-11-11T16:04:47.202501+00:00",
   "240b86681e21bcb0": "2026-11-11T12:28:41.484095+00:00",
   "26fc95083a249736": "2026-11-11T12:28:41.484095+00:00",
@@ -274,6 +287,7 @@
   "ed30f54182a5351b": "2026-11-12T12:51:32.337275+00:00",
   "edbade4358640852": "2026-11-12T05:35:29.676148+00:00",
   "ef5f4f8b11ebab8f": "2026-11-12T08:52:10.793129+00:00",
+  "f8eb5441980499c0": "2026-11-12T15:10:43.776525+00:00",
   "fa561727056f6ef8": "2026-11-11T12:28:41.484095+00:00",
   "fcb13a0242a83d8c": "2026-11-11T12:28:41.484095+00:00"
  },
