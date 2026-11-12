@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 6,
+  "count": 8,
   "date": "2026-11-12"
  },
  "failures": {},
@@ -9,9 +9,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-12T05:35:29.676188+00:00",
-  "id": "1405471502649229_122094107025555618",
-  "title": "Two Indians, one Lebanese arrested over illegal importation of medicines into Zambia"
+  "at": "2026-11-12T06:37:57.763799+00:00",
+  "id": "1405471502649229_122094126639555618",
+  "title": "Bank of Zambia to launch online portal for comparing bank loan rates"
  },
  "recent_titles": [
   {
@@ -89,6 +89,14 @@
   {
    "at": "2026-11-12T05:35:29.676184+00:00",
    "t": "two indians one lebanese arrested over illegal importation of medicines into zambia"
+  },
+  {
+   "at": "2026-11-12T06:35:58.405522+00:00",
+   "t": "vandalism on mazabuka line threatens blackouts in parts of s province zesco"
+  },
+  {
+   "at": "2026-11-12T06:37:57.763795+00:00",
+   "t": "bank of zambia to launch online portal for comparing bank loan rates"
   }
  ],
  "seen": {
@@ -144,6 +152,7 @@
   "6a70754fe3eee841": "2026-11-11T12:28:41.484095+00:00",
   "6ac5cc8b706cbee6": "2026-11-11T18:05:50.463081+00:00",
   "6f7f69dfc0c69b16": "2026-11-11T12:28:41.484095+00:00",
+  "70be23062e823e94": "2026-11-12T06:37:57.763763+00:00",
   "71fb8384d86610a5": "2026-11-11T12:28:41.484095+00:00",
   "75c89055f7d7bef1": "2026-11-11T12:28:41.484095+00:00",
   "7730600117344ab6": "2026-11-11T19:15:22.908757+00:00",
@@ -187,6 +196,7 @@
   "e2d94dcdad825ccc": "2026-11-11T17:11:11.285061+00:00",
   "e5c468ff443e1f39": "2026-11-11T12:28:41.484095+00:00",
   "e72cdb7f06753743": "2026-11-11T12:28:41.484095+00:00",
+  "e7a1aa29b68b7669": "2026-11-12T06:35:58.405480+00:00",
   "edbade4358640852": "2026-11-12T05:35:29.676148+00:00",
   "fa561727056f6ef8": "2026-11-11T12:28:41.484095+00:00",
   "fcb13a0242a83d8c": "2026-11-11T12:28:41.484095+00:00"
