@@ -1,15 +1,15 @@
 {
  "daily": {
-  "count": 13,
-  "date": "2026-11-11"
+  "count": 2,
+  "date": "2026-11-12"
  },
  "failures": {},
  "feed_cache": {},
  "initialized": true,
  "last_post": {
-  "at": "2026-11-11T20:12:24.778242+00:00",
-  "id": "1405471502649229_122093886123555618",
-  "title": "Mpika to Conduct Social Cash Transfer Headcount"
+  "at": "2026-11-12T03:30:43.437072+00:00",
+  "id": "1405471502649229_122094056235555618",
+  "title": "Zambia reaffirms commitment to refugee welfare amid rising displacement"
  },
  "recent_titles": [
   {
@@ -63,6 +63,14 @@
   {
    "at": "2026-11-11T20:12:24.778239+00:00",
    "t": "mpika to conduct social cash transfer headcount"
+  },
+  {
+   "at": "2026-11-12T03:30:12.625728+00:00",
+   "t": "irish echo puts bishop mwamba s detention and zambia s post election arrests before its readers"
+  },
+  {
+   "at": "2026-11-12T03:30:43.437067+00:00",
+   "t": "zambia reaffirms commitment to refugee welfare amid rising displacement"
   }
  ],
  "seen": {
@@ -74,6 +82,7 @@
   "0d411f09ae067518": "2026-11-11T12:28:41.484095+00:00",
   "1213a4e68b50af8d": "2026-11-11T12:28:41.484095+00:00",
   "13cff489f5b14120": "2026-11-11T12:28:41.484095+00:00",
+  "144186149bc488b4": "2026-11-12T03:30:12.625678+00:00",
   "151b594f888b989c": "2026-11-11T12:28:41.484095+00:00",
   "1555fc638572333b": "2026-11-11T12:28:41.484095+00:00",
   "17d9a36d04a70b25": "2026-11-11T12:28:41.484095+00:00",
@@ -151,6 +160,7 @@
   "d94a3dbf67854358": "2026-11-11T12:28:41.484095+00:00",
   "dbd53b84d11bd940": "2026-11-11T12:28:41.484095+00:00",
   "dc98fab07d91bc2b": "2026-11-11T12:28:41.484095+00:00",
+  "dd8f7907c2c834ca": "2026-11-12T03:30:43.437022+00:00",
   "ddbcf2ba7f2debd1": "2026-11-11T16:05:05.256610+00:00",
   "e0c1b4985aa39718": "2026-11-11T12:28:41.484095+00:00",
   "e2d94dcdad825ccc": "2026-11-11T17:11:11.285061+00:00",
