@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 6,
+  "count": 8,
   "date": "2026-11-13"
  },
  "failures": {},
@@ -9,9 +9,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-13T10:47:31.526690+00:00",
-  "id": "1405471502649229_122094802167555618",
-  "title": "High Court orders Wanderers to appoint interim executive amid injunction"
+  "at": "2026-11-13T11:44:32.756101+00:00",
+  "id": "1405471502649229_122094825459555618",
+  "title": "Crystal Palace sack Pierre Sage after five months as club languishes at bottom of Premier League"
  },
  "recent_titles": [
   {
@@ -217,6 +217,18 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "high court orders wanderers to appoint interim executive amid injunction",
    "title": "High Court orders Wanderers to appoint interim executive amid injunction"
+  },
+  {
+   "at": "2026-11-13T11:44:11.090272+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "cabinet approves nhima deduction on gross pay",
+   "title": "Cabinet approves NHIMA deduction on gross pay"
+  },
+  {
+   "at": "2026-11-13T11:44:32.749684+00:00",
+   "s": "",
+   "t": "crystal palace sack pierre sage after five months as club languishes at bottom of premier league",
+   "title": "Crystal Palace sack Pierre Sage after five months as club languishes at bottom of Premier League"
   }
  ],
  "seen": {
@@ -268,6 +280,7 @@
   "49db19e99725a804": "2026-11-11T12:28:41.484095+00:00",
   "4a179a974b5d6dda": "2026-11-11T12:28:41.484095+00:00",
   "4cab62cdcf961929": "2026-11-11T12:28:41.484095+00:00",
+  "4d50d3f56bc22d6f": "2026-11-13T11:44:11.090240+00:00",
   "50a970992ea2e172": "2026-11-11T12:28:41.484095+00:00",
   "524602ccff7f9a5b": "2026-11-11T12:28:41.484095+00:00",
   "5300f14e4e3ba9d7": "2026-11-11T12:28:41.484095+00:00",
@@ -292,6 +305,7 @@
   "81e9b59d2f2c6711": "2026-11-11T12:28:41.484095+00:00",
   "87782eb80b02a197": "2026-11-11T12:28:41.484095+00:00",
   "895ed963a791f395": "2026-11-11T12:28:41.484095+00:00",
+  "92a0338af99b2a6f": "2026-11-13T11:44:32.749632+00:00",
   "92c1aa9d4608cb11": "2026-11-11T12:28:41.484095+00:00",
   "9553fd53ca88a334": "2026-11-11T12:28:41.484095+00:00",
   "957253de27c719ce": "2026-11-13T10:34:02.223977+00:00",
