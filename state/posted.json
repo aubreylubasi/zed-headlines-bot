@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 10,
+  "count": 12,
   "date": "2026-11-13"
  },
  "failures": {},
@@ -9,9 +9,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-13T12:48:17.073765+00:00",
-  "id": "1405471502649229_122094852231555618",
-  "title": "Couple reunification partly caused overstaffing in schools – MoE"
+  "at": "2026-11-13T14:03:04.633411+00:00",
+  "id": "1405471502649229_122094882693555618",
+  "title": "External interference is different from legitimate scrutiny – COF"
  },
  "recent_titles": [
   {
@@ -237,6 +237,18 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "couple reunification partly caused overstaffing in schools moe",
    "title": "Couple reunification partly caused overstaffing in schools – MoE"
+  },
+  {
+   "at": "2026-11-13T14:02:40.700773+00:00",
+   "s": "",
+   "t": "govt pledges closer ties with creative industries to promote zambia abroad",
+   "title": "Govt pledges closer ties with creative industries to promote Zambia abroad"
+  },
+  {
+   "at": "2026-11-13T14:03:04.618677+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "external interference is different from legitimate scrutiny cof",
+   "title": "External interference is different from legitimate scrutiny – COF"
   }
  ],
  "seen": {
@@ -249,6 +261,7 @@
   "069f0ce001d5f3da": "2026-11-13T12:47:55.836622+00:00",
   "06fbfd88252d2a42": "2026-11-12T09:46:46.023785+00:00",
   "0d411f09ae067518": "2026-11-11T12:28:41.484095+00:00",
+  "0e3caf8a8b21fcf7": "2026-11-13T14:02:40.700738+00:00",
   "1213a4e68b50af8d": "2026-11-11T12:28:41.484095+00:00",
   "13cff489f5b14120": "2026-11-11T12:28:41.484095+00:00",
   "144186149bc488b4": "2026-11-12T03:30:12.625678+00:00",
@@ -313,6 +326,7 @@
   "7730600117344ab6": "2026-11-11T19:15:22.908757+00:00",
   "77d52e3d31c39867": "2026-11-11T12:28:41.484095+00:00",
   "81e9b59d2f2c6711": "2026-11-11T12:28:41.484095+00:00",
+  "83db5754c61093ea": "2026-11-13T14:03:04.618638+00:00",
   "87782eb80b02a197": "2026-11-11T12:28:41.484095+00:00",
   "895ed963a791f395": "2026-11-11T12:28:41.484095+00:00",
   "92a0338af99b2a6f": "2026-11-13T11:44:32.749632+00:00",
