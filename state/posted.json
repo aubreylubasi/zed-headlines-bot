@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 8,
+  "count": 10,
   "date": "2026-11-13"
  },
  "failures": {},
@@ -9,15 +9,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-13T11:44:32.756101+00:00",
-  "id": "1405471502649229_122094825459555618",
-  "title": "Crystal Palace sack Pierre Sage after five months as club languishes at bottom of Premier League"
+  "at": "2026-11-13T12:48:17.073765+00:00",
+  "id": "1405471502649229_122094852231555618",
+  "title": "Couple reunification partly caused overstaffing in schools – MoE"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-11T12:29:02.005063+00:00",
-   "t": "w k mutale nalumango meets susan thompson buffett foundation delegation hails health partnership"
-  },
   {
    "at": "2026-11-11T15:04:42.934864+00:00",
    "t": "government urges church to support grow zambia agenda"
@@ -229,6 +225,18 @@
    "s": "",
    "t": "crystal palace sack pierre sage after five months as club languishes at bottom of premier league",
    "title": "Crystal Palace sack Pierre Sage after five months as club languishes at bottom of Premier League"
+  },
+  {
+   "at": "2026-11-13T12:47:55.836664+00:00",
+   "s": "",
+   "t": "kwacha rebounds but remains on course for weekly loss",
+   "title": "Kwacha rebounds but remains on course for weekly loss"
+  },
+  {
+   "at": "2026-11-13T12:48:17.060726+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "couple reunification partly caused overstaffing in schools moe",
+   "title": "Couple reunification partly caused overstaffing in schools – MoE"
   }
  ],
  "seen": {
@@ -238,6 +246,7 @@
   "0282d4e34d471b41": "2026-11-11T12:28:41.484095+00:00",
   "02cbc7c458435221": "2026-11-11T12:28:41.484095+00:00",
   "03ce92611cd3cc7a": "2026-11-12T11:47:20.082399+00:00",
+  "069f0ce001d5f3da": "2026-11-13T12:47:55.836622+00:00",
   "06fbfd88252d2a42": "2026-11-12T09:46:46.023785+00:00",
   "0d411f09ae067518": "2026-11-11T12:28:41.484095+00:00",
   "1213a4e68b50af8d": "2026-11-11T12:28:41.484095+00:00",
@@ -292,6 +301,7 @@
   "614d32abf724625a": "2026-11-11T12:28:41.484095+00:00",
   "62764f6d40dbaf40": "2026-11-11T12:28:41.484095+00:00",
   "657c52440bfafcf0": "2026-11-13T10:37:52.592574+00:00",
+  "6923eaa409f8cfcd": "2026-11-13T12:48:17.060681+00:00",
   "6a46f90a45b53f99": "2026-11-11T12:28:41.484095+00:00",
   "6a70754fe3eee841": "2026-11-11T12:28:41.484095+00:00",
   "6ac5cc8b706cbee6": "2026-11-11T18:05:50.463081+00:00",
