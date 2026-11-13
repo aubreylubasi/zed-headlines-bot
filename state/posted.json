@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 2,
+  "count": 4,
   "date": "2026-11-13"
  },
  "failures": {},
@@ -9,9 +9,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-13T10:34:02.239443+00:00",
-  "id": "1405471502649229_122094794127555618",
-  "title": "KCM unveils US$1.6 million investment with launch of KCM-ZFA Cup"
+  "at": "2026-11-13T10:39:10.698543+00:00",
+  "id": "1405471502649229_122094797235555618",
+  "title": "Zambia Sugar Plc Presents Its 2026 Results"
  },
  "recent_titles": [
   {
@@ -193,6 +193,18 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "kcm unveils us 1 6 million investment with launch of kcm zfa cup",
    "title": "KCM unveils US$1.6 million investment with launch of KCM-ZFA Cup"
+  },
+  {
+   "at": "2026-11-13T10:37:52.592624+00:00",
+   "s": "",
+   "t": "zambia uk explore cooperation in sustainable fisheries aquaculture",
+   "title": "Zambia, UK explore cooperation in sustainable fisheries, aquaculture"
+  },
+  {
+   "at": "2026-11-13T10:39:10.686333+00:00",
+   "s": "#WATCH #LIVE #Mwebantu, how has Zambia Sugar performed this year? We are LIVE from Neelkanth Sarovar Premiere Hotel as Zambia Sugar PLC presents its 2026 full-year financial and operational results. Join us for the presentation and hear the company’s performance updates. Let us know where in the world you are watching from? #ZambiaSugarPLC #FinancialResults #MwebantuLive […] The post Zambia Sugar Plc Presents Its 2026 Results first appeared on Mwebantu .",
+   "t": "zambia sugar plc presents its 2026 results",
+   "title": "Zambia Sugar Plc Presents Its 2026 Results"
   }
  ],
  "seen": {
@@ -215,6 +227,7 @@
   "18b691bf37df516c": "2026-11-11T12:28:41.484095+00:00",
   "19570383999aedf3": "2026-11-12T09:47:10.600545+00:00",
   "19bf1744931e6f80": "2026-11-11T12:28:41.484095+00:00",
+  "1a2ba18b5d8eb21e": "2026-11-13T10:39:10.686292+00:00",
   "1a4d9826e75ae3ab": "2026-11-11T12:28:41.484095+00:00",
   "1d290d2305f86ef0": "2026-11-11T20:12:24.778203+00:00",
   "1de416786b71f43e": "2026-11-11T12:28:41.484095+00:00",
@@ -252,6 +265,7 @@
   "5fe52db4ca758716": "2026-11-11T17:10:51.001920+00:00",
   "614d32abf724625a": "2026-11-11T12:28:41.484095+00:00",
   "62764f6d40dbaf40": "2026-11-11T12:28:41.484095+00:00",
+  "657c52440bfafcf0": "2026-11-13T10:37:52.592574+00:00",
   "6a46f90a45b53f99": "2026-11-11T12:28:41.484095+00:00",
   "6a70754fe3eee841": "2026-11-11T12:28:41.484095+00:00",
   "6ac5cc8b706cbee6": "2026-11-11T18:05:50.463081+00:00",
