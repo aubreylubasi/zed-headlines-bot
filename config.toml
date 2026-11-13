@@ -110,19 +110,19 @@ enabled = true
 name = "ZNBC"
 site = "https://znbc.co.zm/"
 feed = "https://znbc.co.zm/?feed=rss2"
-enabled = true
+enabled = false   # switched off: the site's feed is broken / blocks the bot
 
 [[sources]]
 name = "Zambia Daily Mail"
 site = "https://www.daily-mail.co.zm/"
 feed = "https://www.daily-mail.co.zm/feed/"
-enabled = true
+enabled = false   # switched off: the site's feed is broken / blocks the bot
 
 [[sources]]
 name = "Times of Zambia"
 site = "https://www.times.co.zm/"
 feed = "https://www.times.co.zm/feed/"
-enabled = true
+enabled = false   # switched off: the site's feed is broken / blocks the bot
 
 [[sources]]
 name = "Zambia Monitor"
