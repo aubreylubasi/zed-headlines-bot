@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 18,
+  "count": 20,
   "date": "2026-11-13"
  },
  "failures": {},
@@ -9,19 +9,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-13T17:09:11.705897+00:00",
-  "id": "1405471502649229_122094954645555618",
-  "title": "Kateka seeks update on Kasonde, Changala presidential petition"
+  "at": "2026-11-13T18:00:33.845602+00:00",
+  "id": "1405471502649229_122094972741555618",
+  "title": "Techbytes: NVIDIA CEO, Jensen Huang, resigns amid adultery allegations"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-11T17:10:51.001960+00:00",
-   "t": "faz attributes indiscipline as the reason for young players failures"
-  },
-  {
-   "at": "2026-11-11T17:11:11.285097+00:00",
-   "t": "government to partner with stakeholders to address water challenges"
-  },
   {
    "at": "2026-11-11T18:05:50.463115+00:00",
    "t": "mutati reaffirms significance of technology"
@@ -269,6 +261,18 @@
    "s": "",
    "t": "kateka seeks update on kasonde changala presidential petition",
    "title": "Kateka seeks update on Kasonde, Changala presidential petition"
+  },
+  {
+   "at": "2026-11-13T18:00:13.650059+00:00",
+   "s": "The police officer who saved Hakainde Hichilema’s life in 2014 is now retired in public interest under his presidency The People’s Political Science: A special edition dedicated to my nephew, Senior Superintendent Christopher Chibuye (rtd) Among the most pernicious manifestations of administrative despotism is the appropriation of lawful state instruments for purposes of personal retribution, […]",
+   "t": "retired in public interest",
+   "title": "Retired in Public Interest"
+  },
+  {
+   "at": "2026-11-13T18:00:33.838780+00:00",
+   "s": "",
+   "t": "techbytes nvidia ceo jensen huang resigns amid adultery allegations",
+   "title": "Techbytes: NVIDIA CEO, Jensen Huang, resigns amid adultery allegations"
   }
  ],
  "seen": {
@@ -367,6 +371,7 @@
   "ab12733ad80d886b": "2026-11-11T12:28:41.484095+00:00",
   "ad88d03185e74633": "2026-11-11T12:28:41.484095+00:00",
   "b205908e603d475b": "2026-11-11T12:28:41.484095+00:00",
+  "b5059b8d8201a6f3": "2026-11-13T18:00:33.838744+00:00",
   "b5ec39db0899c36b": "2026-11-11T12:28:41.484095+00:00",
   "b75cf310f4119460": "2026-11-12T12:52:08.443326+00:00",
   "b7bf40de0d7b4db3": "2026-11-11T12:28:41.484095+00:00",
@@ -380,6 +385,7 @@
   "c9b510b541383c4d": "2026-11-11T12:28:41.484095+00:00",
   "c9e942f13aacd371": "2026-11-13T10:33:40.271368+00:00",
   "c9f37e44289247ee": "2026-11-11T12:28:41.484095+00:00",
+  "ca1091dade3c677b": "2026-11-13T18:00:13.650024+00:00",
   "cbc84e181b10ccf0": "2026-11-11T12:28:41.484095+00:00",
   "cbf03e3aa2d38c81": "2026-11-11T12:28:41.484095+00:00",
   "cd076f2eb8a1deb3": "2026-11-11T12:28:41.484095+00:00",
