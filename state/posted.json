@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 14,
+  "count": 16,
   "date": "2026-11-13"
  },
  "failures": {},
@@ -9,19 +9,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-13T15:04:14.028486+00:00",
-  "id": "1405471502649229_122094905241555618",
-  "title": "Free, fair elections not always easy – VJ"
+  "at": "2026-11-13T16:02:34.634068+00:00",
+  "id": "1405471502649229_122094930597555618",
+  "title": "Techbytes: Microsoft outage disrupts bank email services in Zambia"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-11T15:04:42.934864+00:00",
-   "t": "government urges church to support grow zambia agenda"
-  },
-  {
-   "at": "2026-11-11T15:05:02.067445+00:00",
-   "t": "eswatini shuts foreign owned businesses in economic empowerment drive"
-  },
   {
    "at": "2026-11-11T16:04:47.202548+00:00",
    "t": "opinion this is chipolopolo s true test without daka"
@@ -261,6 +253,18 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "free fair elections not always easy vj",
    "title": "Free, fair elections not always easy – VJ"
+  },
+  {
+   "at": "2026-11-13T16:02:06.474687+00:00",
+   "s": "Minister of Information and Media, Elvis Nkandu has urged media and communication professionals to play an active role in advancing the Grow Zambia Agenda through promoting innovation, enterprise and economic development. Mr Nkandu said the media had a responsibility to highlight development opportunities, local innovations and success stories that could inspire citizens to participate in […]",
+   "t": "media professionals challenged to champion gza",
+   "title": "Media professionals challenged to champion GZA"
+  },
+  {
+   "at": "2026-11-13T16:02:34.629049+00:00",
+   "s": "",
+   "t": "techbytes microsoft outage disrupts bank email services in zambia",
+   "title": "Techbytes: Microsoft outage disrupts bank email services in Zambia"
   }
  ],
  "seen": {
@@ -353,6 +357,7 @@
   "9d762e0f7753607d": "2026-11-12T11:49:01.664337+00:00",
   "9e23daf09a153c23": "2026-11-11T12:28:41.484095+00:00",
   "a4b9e2ed72e3412a": "2026-11-12T10:49:58.424510+00:00",
+  "a9343a8bba8e07b1": "2026-11-13T16:02:06.474654+00:00",
   "ab12733ad80d886b": "2026-11-11T12:28:41.484095+00:00",
   "ad88d03185e74633": "2026-11-11T12:28:41.484095+00:00",
   "b205908e603d475b": "2026-11-11T12:28:41.484095+00:00",
@@ -397,6 +402,7 @@
   "f208f0d52d0204bd": "2026-11-13T10:47:10.690974+00:00",
   "f8eb5441980499c0": "2026-11-12T15:10:43.776525+00:00",
   "fa561727056f6ef8": "2026-11-11T12:28:41.484095+00:00",
+  "fbd63450e33bb411": "2026-11-13T16:02:34.629015+00:00",
   "fcb13a0242a83d8c": "2026-11-11T12:28:41.484095+00:00"
  },
  "undated": {}
