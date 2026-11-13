@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 0,
+  "count": 2,
   "date": "2026-11-13"
  },
  "failures": {},
@@ -9,9 +9,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-12T16:22:06.345126+00:00",
-  "id": "1405471502649229_122094383847555618",
-  "title": "Chipolopolo face Burundi seeking to stay in AFCON race"
+  "at": "2026-11-13T10:34:02.239443+00:00",
+  "id": "1405471502649229_122094794127555618",
+  "title": "KCM unveils US$1.6 million investment with launch of KCM-ZFA Cup"
  },
  "recent_titles": [
   {
@@ -181,6 +181,18 @@
    "s": "Zambia face Burundi at home on Friday afternoon, seeking to stay in the race for the 2027 Africa Cup of Nations (AFCON) on matchday three of the qualifiers. Kick-off is 15:00 hours at the Levy Mwanawasa Stadium in Ndola. Algeria top Group I with four points, one point ahead of Zambia and Togo, who are […]",
    "t": "chipolopolo face burundi seeking to stay in afcon race",
    "title": "Chipolopolo face Burundi seeking to stay in AFCON race"
+  },
+  {
+   "at": "2026-11-13T10:33:40.271406+00:00",
+   "s": "",
+   "t": "anti corruption agency arrests catholic priest over alleged k1 5 million fraud",
+   "title": "Anti-corruption agency arrests Catholic priest over alleged K1.5 million fraud"
+  },
+  {
+   "at": "2026-11-13T10:34:02.224016+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "kcm unveils us 1 6 million investment with launch of kcm zfa cup",
+   "title": "KCM unveils US$1.6 million investment with launch of KCM-ZFA Cup"
   }
  ],
  "seen": {
@@ -255,6 +267,7 @@
   "895ed963a791f395": "2026-11-11T12:28:41.484095+00:00",
   "92c1aa9d4608cb11": "2026-11-11T12:28:41.484095+00:00",
   "9553fd53ca88a334": "2026-11-11T12:28:41.484095+00:00",
+  "957253de27c719ce": "2026-11-13T10:34:02.223977+00:00",
   "96ee08bb59ba8926": "2026-11-11T18:06:09.423695+00:00",
   "9a07edf6e239a8f6": "2026-11-11T12:28:41.484095+00:00",
   "9be1923b0cabfa02": "2026-11-11T12:28:41.484095+00:00",
@@ -275,6 +288,7 @@
   "c4b704ed5998639a": "2026-11-11T12:29:02.005026+00:00",
   "c6e1c324aa917132": "2026-11-12T16:20:17.504333+00:00",
   "c9b510b541383c4d": "2026-11-11T12:28:41.484095+00:00",
+  "c9e942f13aacd371": "2026-11-13T10:33:40.271368+00:00",
   "c9f37e44289247ee": "2026-11-11T12:28:41.484095+00:00",
   "cbc84e181b10ccf0": "2026-11-11T12:28:41.484095+00:00",
   "cbf03e3aa2d38c81": "2026-11-11T12:28:41.484095+00:00",
