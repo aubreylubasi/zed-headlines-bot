@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 12,
+  "count": 14,
   "date": "2026-11-13"
  },
  "failures": {},
@@ -9,9 +9,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-13T14:03:04.633411+00:00",
-  "id": "1405471502649229_122094882693555618",
-  "title": "External interference is different from legitimate scrutiny – COF"
+  "at": "2026-11-13T15:04:14.028486+00:00",
+  "id": "1405471502649229_122094905241555618",
+  "title": "Free, fair elections not always easy – VJ"
  },
  "recent_titles": [
   {
@@ -249,6 +249,18 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "external interference is different from legitimate scrutiny cof",
    "title": "External interference is different from legitimate scrutiny – COF"
+  },
+  {
+   "at": "2026-11-13T15:02:16.006247+00:00",
+   "s": "",
+   "t": "visa hurdles threaten african miss universe contestants",
+   "title": "Visa hurdles threaten African Miss Universe contestants"
+  },
+  {
+   "at": "2026-11-13T15:04:14.019857+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "free fair elections not always easy vj",
+   "title": "Free, fair elections not always easy – VJ"
   }
  ],
  "seen": {
@@ -261,6 +273,7 @@
   "069f0ce001d5f3da": "2026-11-13T12:47:55.836622+00:00",
   "06fbfd88252d2a42": "2026-11-12T09:46:46.023785+00:00",
   "0d411f09ae067518": "2026-11-11T12:28:41.484095+00:00",
+  "0dfd9165481fef64": "2026-11-13T15:04:14.019817+00:00",
   "0e3caf8a8b21fcf7": "2026-11-13T14:02:40.700738+00:00",
   "1213a4e68b50af8d": "2026-11-11T12:28:41.484095+00:00",
   "13cff489f5b14120": "2026-11-11T12:28:41.484095+00:00",
@@ -327,6 +340,7 @@
   "77d52e3d31c39867": "2026-11-11T12:28:41.484095+00:00",
   "81e9b59d2f2c6711": "2026-11-11T12:28:41.484095+00:00",
   "83db5754c61093ea": "2026-11-13T14:03:04.618638+00:00",
+  "857941f5f0d53fbd": "2026-11-13T15:02:16.006211+00:00",
   "87782eb80b02a197": "2026-11-11T12:28:41.484095+00:00",
   "895ed963a791f395": "2026-11-11T12:28:41.484095+00:00",
   "92a0338af99b2a6f": "2026-11-13T11:44:32.749632+00:00",
