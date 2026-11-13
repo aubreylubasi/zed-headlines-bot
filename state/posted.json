@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 16,
+  "count": 18,
   "date": "2026-11-13"
  },
  "failures": {},
@@ -9,19 +9,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-13T16:02:34.634068+00:00",
-  "id": "1405471502649229_122094930597555618",
-  "title": "Techbytes: Microsoft outage disrupts bank email services in Zambia"
+  "at": "2026-11-13T17:09:11.705897+00:00",
+  "id": "1405471502649229_122094954645555618",
+  "title": "Kateka seeks update on Kasonde, Changala presidential petition"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-11T16:04:47.202548+00:00",
-   "t": "opinion this is chipolopolo s true test without daka"
-  },
-  {
-   "at": "2026-11-11T16:05:05.256645+00:00",
-   "t": "three kalomo clubs set to benefit over k1 million under tralard ii project"
-  },
   {
    "at": "2026-11-11T17:10:51.001960+00:00",
    "t": "faz attributes indiscipline as the reason for young players failures"
@@ -265,6 +257,18 @@
    "s": "",
    "t": "techbytes microsoft outage disrupts bank email services in zambia",
    "title": "Techbytes: Microsoft outage disrupts bank email services in Zambia"
+  },
+  {
+   "at": "2026-11-13T17:08:49.621055+00:00",
+   "s": "Minister of Justice Jack Mwiimbu said Government will not interfere in the National Assembly’s consideration of three citizen petitions seeking the removal of the presidential term limit under Article 106(3) of the Constitution of Zambia. He said the matter falls entirely within the mandate of the Legislature, and that the Executive will stay out of […]",
+   "t": "government will not interfere in removal of presidential term petition",
+   "title": "Government will not interfere in removal of Presidential term petition"
+  },
+  {
+   "at": "2026-11-13T17:09:11.699236+00:00",
+   "s": "",
+   "t": "kateka seeks update on kasonde changala presidential petition",
+   "title": "Kateka seeks update on Kasonde, Changala presidential petition"
   }
  ],
  "seen": {
@@ -338,10 +342,12 @@
   "6f7f69dfc0c69b16": "2026-11-11T12:28:41.484095+00:00",
   "70be23062e823e94": "2026-11-12T06:37:57.763763+00:00",
   "71fb8384d86610a5": "2026-11-11T12:28:41.484095+00:00",
+  "7432b3d601a4ba73": "2026-11-13T17:08:49.621011+00:00",
   "74cf77b5e407b027": "2026-11-12T08:50:19.824707+00:00",
   "75c89055f7d7bef1": "2026-11-11T12:28:41.484095+00:00",
   "7730600117344ab6": "2026-11-11T19:15:22.908757+00:00",
   "77d52e3d31c39867": "2026-11-11T12:28:41.484095+00:00",
+  "78d3c4569e80db69": "2026-11-13T17:09:11.699200+00:00",
   "81e9b59d2f2c6711": "2026-11-11T12:28:41.484095+00:00",
   "83db5754c61093ea": "2026-11-13T14:03:04.618638+00:00",
   "857941f5f0d53fbd": "2026-11-13T15:02:16.006211+00:00",
