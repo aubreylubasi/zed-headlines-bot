@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 8,
+  "count": 9,
   "date": "2026-11-14"
  },
  "failures": {
@@ -26,23 +26,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-14T14:21:19.387610+00:00",
-  "id": "1405471502649229_122095572729555618",
-  "title": "Moroccan Sahara: France reaffirms firm support for Morocco’s sovereignty and autonomy"
+  "at": "2026-11-14T15:17:00.697115+00:00",
+  "id": "1405471502649229_122095593183555618",
+  "title": "President Hichilema counsel’s leaders"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-12T15:10:43.776562+00:00",
-   "s": "",
-   "t": "women in mining warn higher licence fees could undermine tax relief",
-   "title": "Women in mining warn higher licence fees could undermine tax relief"
-  },
-  {
-   "at": "2026-11-12T15:11:33.264736+00:00",
-   "s": "Four (4) brothers who were accused of murdering a referee in Chipangali district, for allegedly failing to award their football team a foul, have been acquitted by the Chipata High Court. Judge Ketrina Maimbolwa Walubita, making a ruling on whether the quartet had a case to answer, acquitted them, citing lack of evidence linking them […]",
-   "t": "chipangali brothers cleared of referee murder",
-   "title": "Chipangali brothers cleared of referee murder"
-  },
   {
    "at": "2026-11-12T16:20:17.504390+00:00",
    "s": "",
@@ -222,6 +210,12 @@
    "s": "",
    "t": "moroccan sahara france reaffirms firm support for morocco s sovereignty and autonomy",
    "title": "Moroccan Sahara: France reaffirms firm support for Morocco’s sovereignty and autonomy"
+  },
+  {
+   "at": "2026-11-14T15:17:00.688220+00:00",
+   "s": "President Hakainde Hichilema has urged elected and appointed leaders to remain alert to the needs of the people and prioritise service delivery in their respective positions. Speaking during a church service at Choma Central Seventh-day Adventist Church, President Hichilema challenged mayors, councillors, council chairpersons, Members of Parliament and Ministers to discern the times, keep their […]",
+   "t": "president hichilema counsel s leaders",
+   "title": "President Hichilema counsel’s leaders"
   }
  ],
  "seen": {
@@ -231,6 +225,7 @@
   "0282d4e34d471b41": "2026-11-11T12:28:41.484095+00:00",
   "02cbc7c458435221": "2026-11-11T12:28:41.484095+00:00",
   "03ce92611cd3cc7a": "2026-11-12T11:47:20.082399+00:00",
+  "048396251bd6a302": "2026-11-14T15:16:15.391298+00:00",
   "069f0ce001d5f3da": "2026-11-13T12:47:55.836622+00:00",
   "06fbfd88252d2a42": "2026-11-12T09:46:46.023785+00:00",
   "0d411f09ae067518": "2026-11-11T12:28:41.484095+00:00",
@@ -357,6 +352,7 @@
   "d4cd5f22be48bce0": "2026-11-12T10:50:27.096471+00:00",
   "d74611228f3b975b": "2026-11-11T12:28:41.484095+00:00",
   "d94a3dbf67854358": "2026-11-11T12:28:41.484095+00:00",
+  "d95c8cb6a5583907": "2026-11-14T15:17:00.688181+00:00",
   "dbd53b84d11bd940": "2026-11-11T12:28:41.484095+00:00",
   "dc98fab07d91bc2b": "2026-11-11T12:28:41.484095+00:00",
   "dd8f7907c2c834ca": "2026-11-12T03:30:43.437022+00:00",
