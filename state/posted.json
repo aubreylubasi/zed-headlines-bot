@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 9,
+  "count": 11,
   "date": "2026-11-14"
  },
  "failures": {
@@ -26,9 +26,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-14T15:17:00.697115+00:00",
-  "id": "1405471502649229_122095593183555618",
-  "title": "President Hichilema counsel’s leaders"
+  "at": "2026-11-14T18:27:26.991103+00:00",
+  "id": "1405471502649229_122095688763555618",
+  "title": "GOVERNMENT WARNS EMPLOYERS AGAINST ABUSING ZAMBIAN WORKERS"
  },
  "recent_titles": [
   {
@@ -204,6 +204,18 @@
    "s": "President Hakainde Hichilema has urged elected and appointed leaders to remain alert to the needs of the people and prioritise service delivery in their respective positions. Speaking during a church service at Choma Central Seventh-day Adventist Church, President Hichilema challenged mayors, councillors, council chairpersons, Members of Parliament and Ministers to discern the times, keep their […]",
    "t": "president hichilema counsel s leaders",
    "title": "President Hichilema counsel’s leaders"
+  },
+  {
+   "at": "2026-11-14T18:27:01.207512+00:00",
+   "s": "",
+   "t": "andeleki warns police against unprofessional social media conduct",
+   "title": "Andeleki warns police against unprofessional social media conduct"
+  },
+  {
+   "at": "2026-11-14T18:27:26.975717+00:00",
+   "s": "Government has warned that it will deal sternly with employers abusing Zambian workers, following the discovery of appalling working conditions at Chi Farm in Lusaka District. Minister of Labour and Social Security, Misheck Nyambose, issued the warning when he inspected the Chinese-owned pig farm, Chi Farm, located along Mungwi Road in Lusaka West. Mr Nyambose […]",
+   "t": "government warns employers against abusing zambian workers",
+   "title": "GOVERNMENT WARNS EMPLOYERS AGAINST ABUSING ZAMBIAN WORKERS"
   }
  ],
  "seen": {
@@ -321,9 +333,11 @@
   "be51d96045f62151": "2026-11-11T20:11:53.789756+00:00",
   "be824c4156b9af24": "2026-11-12T09:48:35.517866+00:00",
   "bece163096dfb9a4": "2026-11-12T07:53:06.288878+00:00",
+  "c3584159bfe4ea92": "2026-11-14T18:27:01.207477+00:00",
   "c4027a79895ac03f": "2026-11-11T12:28:41.484095+00:00",
   "c4b704ed5998639a": "2026-11-11T12:29:02.005026+00:00",
   "c6e1c324aa917132": "2026-11-12T16:20:17.504333+00:00",
+  "c8386517f5bca91a": "2026-11-14T18:27:26.975677+00:00",
   "c9b510b541383c4d": "2026-11-11T12:28:41.484095+00:00",
   "c9e942f13aacd371": "2026-11-13T10:33:40.271368+00:00",
   "c9f37e44289247ee": "2026-11-11T12:28:41.484095+00:00",
