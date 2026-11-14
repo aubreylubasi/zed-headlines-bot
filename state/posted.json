@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 0,
+  "count": 2,
   "date": "2026-11-14"
  },
  "failures": {
@@ -26,9 +26,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-13T18:00:33.845602+00:00",
-  "id": "1405471502649229_122094972741555618",
-  "title": "Techbytes: NVIDIA CEO, Jensen Huang, resigns amid adultery allegations"
+  "at": "2026-11-14T12:23:17.814112+00:00",
+  "id": "1405471502649229_122095495617555618",
+  "title": "Lackluster Chipolopolo held 1-1 by Burundi"
  },
  "recent_titles": [
   {
@@ -194,6 +194,18 @@
    "s": "",
    "t": "techbytes nvidia ceo jensen huang resigns amid adultery allegations",
    "title": "Techbytes: NVIDIA CEO, Jensen Huang, resigns amid adultery allegations"
+  },
+  {
+   "at": "2026-11-14T12:22:56.476057+00:00",
+   "s": "",
+   "t": "eu insists on fair hearing of election grievances mundubile case rages as lusaka cost of living hits k12 253 see our top 10 stories of the week",
+   "title": "EU insists on fair hearing of election grievances, Mundubile case rages as Lusaka cost of living hits K12,253. See our top 10 stories of the week"
+  },
+  {
+   "at": "2026-11-14T12:23:17.805536+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "lackluster chipolopolo held 1 1 by burundi",
+   "title": "Lackluster Chipolopolo held 1-1 by Burundi"
   }
  ],
  "seen": {
@@ -249,12 +261,14 @@
   "4a179a974b5d6dda": "2026-11-11T12:28:41.484095+00:00",
   "4cab62cdcf961929": "2026-11-11T12:28:41.484095+00:00",
   "4d50d3f56bc22d6f": "2026-11-13T11:44:11.090240+00:00",
+  "507b936216dc9644": "2026-11-14T12:22:56.476020+00:00",
   "50a970992ea2e172": "2026-11-11T12:28:41.484095+00:00",
   "524602ccff7f9a5b": "2026-11-11T12:28:41.484095+00:00",
   "5300f14e4e3ba9d7": "2026-11-11T12:28:41.484095+00:00",
   "5525b3b582bdf845": "2026-11-12T14:05:04.577289+00:00",
   "57e6a7d66fd26077": "2026-11-11T12:28:41.484095+00:00",
   "59fee8df39ed8360": "2026-11-14T11:00:25.786844+00:00",
+  "5c5d4d8f0d00b751": "2026-11-14T12:23:17.805505+00:00",
   "5de3777fd3f43270": "2026-11-11T12:28:41.484095+00:00",
   "5e39d71518479d7e": "2026-11-11T12:28:41.484095+00:00",
   "5fe52db4ca758716": "2026-11-11T17:10:51.001920+00:00",
