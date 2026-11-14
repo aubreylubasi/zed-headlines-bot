@@ -603,7 +603,7 @@ Strict rules:
 3. Fairness: stay neutral. No opinions, no praise or criticism of politicians, parties, companies or people. Report claims as claims and attribute them ("according to police", "the ministry said").
 4. Style: clear, lively plain English for Zambian readers. Start with a strong opening sentence that tells readers why the story matters. Short paragraphs of 1-3 sentences. No clickbait, no exaggeration, no ALL CAPS, no markdown, no hashtags, no links, no emojis.
 5. Several reports: if you are given more than one report, combine their facts into one story. Compare them: where they agree, state the fact plainly; where they differ (numbers, names, dates, who said what), say that accounts differ ("one report puts the figure at X, another at Y") instead of silently choosing one.
-6. Length: about {min_words}-{max_words} words for the body. If the source material is short, write a SHORTER post (as little as 60 words) instead of padding or inventing.
+6. Length: the body MUST be between {min_words} and {max_words} words. Reach the length by explaining the facts in the reports fully and clearly (who, what, when, where, why it matters to Zambians, and any next steps the reports mention) – never by inventing facts, quotes or numbers.
 7. Do not mention any news outlet, website or journalist by name; you may say "reports" in general.
 8. Output ONLY the finished post. No notes, explanations, numbered lists, source references, word counts or comments about the rules.
 
@@ -716,16 +716,15 @@ def clean_ai_output(text: str) -> tuple[str, str]:
     return headline, body
 
 
-def post_problem(headline: str, body: str, source_chars: int, max_words: int) -> str | None:
+def post_problem(headline: str, body: str, source_chars: int, max_words: int, min_words: int = 150) -> str | None:
     """Return a reason if the AI output doesn't look like a clean, finished post."""
     words = len(body.split())
-    min_words = 60 if source_chars >= 600 else 25
     lines = [l.strip() for l in body.split("\n") if l.strip()]
     if not headline or not (3 <= len(headline.split()) <= 16):
         return "the headline was missing or the wrong length"
     if any(c in headline for c in '"“”()[]'):
         return "the headline contained quotes or notes"
-    if words < min_words or words > max_words * 1.5:
+    if words < min_words or words > max_words * 1.15:
         return f"the length was {words} words"
     if re.search(r"\(source|\bsource:|\breport \d|word count|\bnote:", f"{headline}\n{body}", re.I):
         return "it included notes or source references"
@@ -790,12 +789,12 @@ def ai_write(story: dict, all_stories: list[dict], settings: dict, ai: dict, api
         headline, body = clean_ai_output(raw) if raw else ("", "")
         copies = copied_phrases(f"{headline}\n{body}", sources) if raw else 0
         problem = (f"it copied {copies} phrase(s) from the source" if copies
-                   else post_problem(headline, body, total_source, int(ai["max_words"])) if raw
+                   else post_problem(headline, body, total_source, int(ai["max_words"]), int(ai["min_words"])) if raw
                    else "the answer was cut off")
         if not problem:
             log(f"   ✍️  AI wrote {len(body.split())} words from {len(reports)} report(s)")
             return headline, body
-        log(f"   ↪ AI draft rejected ({problem}) – {'retrying' if attempt < 3 else 'giving up, posting headline only'}")
+        log(f"   ↪ AI draft rejected ({problem}) – {'retrying' if attempt < 3 else 'giving up for now'}")
         # Start each retry from the original request so the model never sees its own bad draft.
         user = (base_user + f"\n\nImportant: an earlier attempt was rejected because {problem}. "
                 "Write a completely fresh post in your own words. Output only the post.")
@@ -937,10 +936,13 @@ def run(dry_run: bool) -> int:
             try:
                 written = ai_write(story, stories, settings, ai, ai_key)
             except Exception as e:  # noqa: BLE001 – never let the AI stop the posting
-                log(f"   ↪ AI writer failed ({short_error(e)}) – posting without the write-up")
+                log(f"   ↪ AI writer failed ({short_error(e)})")
                 written = None
-            if written:
-                story["ai_title"], story["ai_text"] = written
+            if not written:
+                # Every post must have a proper 150–250 word write-up: hold the story and try again next run.
+                log(f"   ⏸ Holding '{story['title'][:60]}' – will try the write-up again next run")
+                continue
+            story["ai_title"], story["ai_text"] = written
         message = build_message(story, settings)
         img_cfg = settings["image"]
         link = story["link"] if img_cfg.get("attach_link") else None
