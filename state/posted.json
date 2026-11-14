@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 2,
+  "count": 4,
   "date": "2026-11-14"
  },
  "failures": {
@@ -26,9 +26,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-14T12:23:17.814112+00:00",
-  "id": "1405471502649229_122095495617555618",
-  "title": "Lackluster Chipolopolo held 1-1 by Burundi"
+  "at": "2026-11-14T12:30:06.988785+00:00",
+  "id": "1405471502649229_122095504923555618",
+  "title": "We’ll revive Maramba stadium – Mufalali"
  },
  "recent_titles": [
   {
@@ -206,6 +206,18 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "lackluster chipolopolo held 1 1 by burundi",
    "title": "Lackluster Chipolopolo held 1-1 by Burundi"
+  },
+  {
+   "at": "2026-11-14T12:29:47.351334+00:00",
+   "s": "TECH Global University, leader in employability, sets the standard for professional insertion With a 99% employability rate, the institution ensures the professional growth of its graduates Amid the growing demand for highly educated professionals in the labor market,",
+   "t": "tech global university leader in employability sets the standard for professional insertion",
+   "title": "TECH Global University, leader in employability, sets the standard for professional insertion"
+  },
+  {
+   "at": "2026-11-14T12:30:06.977502+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "we ll revive maramba stadium mufalali",
+   "title": "We’ll revive Maramba stadium – Mufalali"
   }
  ],
  "seen": {
@@ -256,6 +268,7 @@
   "41f2f7d7afb111cf": "2026-11-11T12:28:41.484095+00:00",
   "430dd3cfe4d984e2": "2026-11-12T05:34:57.209497+00:00",
   "45d42dcadd18ba31": "2026-11-11T12:28:41.484095+00:00",
+  "4727696ca03969ec": "2026-11-14T12:29:47.351297+00:00",
   "49b735bb188f188b": "2026-11-11T12:28:41.484095+00:00",
   "49db19e99725a804": "2026-11-11T12:28:41.484095+00:00",
   "4a179a974b5d6dda": "2026-11-11T12:28:41.484095+00:00",
@@ -310,6 +323,7 @@
   "b26ee208ae5c4d75": "2026-11-14T08:38:09.519627+00:00",
   "b5059b8d8201a6f3": "2026-11-13T18:00:33.838744+00:00",
   "b5ec39db0899c36b": "2026-11-11T12:28:41.484095+00:00",
+  "b5f0a07cb31042c7": "2026-11-14T12:30:06.977455+00:00",
   "b75cf310f4119460": "2026-11-12T12:52:08.443326+00:00",
   "b7bf40de0d7b4db3": "2026-11-11T12:28:41.484095+00:00",
   "bd2c043fe315b832": "2026-11-11T15:04:42.934829+00:00",
