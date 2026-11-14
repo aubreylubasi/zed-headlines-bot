@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 11,
+  "count": 12,
   "date": "2026-11-14"
  },
  "failures": {
@@ -26,9 +26,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-14T18:27:26.991103+00:00",
-  "id": "1405471502649229_122095688763555618",
-  "title": "GOVERNMENT WARNS EMPLOYERS AGAINST ABUSING ZAMBIAN WORKERS"
+  "at": "2026-11-14T20:13:45.687333+00:00",
+  "id": "1405471502649229_122095742241555618",
+  "title": "Zambia, Malaysia explore cooperation in rural development"
  },
  "recent_titles": [
   {
@@ -216,6 +216,12 @@
    "s": "Government has warned that it will deal sternly with employers abusing Zambian workers, following the discovery of appalling working conditions at Chi Farm in Lusaka District. Minister of Labour and Social Security, Misheck Nyambose, issued the warning when he inspected the Chinese-owned pig farm, Chi Farm, located along Mungwi Road in Lusaka West. Mr Nyambose […]",
    "t": "government warns employers against abusing zambian workers",
    "title": "GOVERNMENT WARNS EMPLOYERS AGAINST ABUSING ZAMBIAN WORKERS"
+  },
+  {
+   "at": "2026-11-14T20:13:45.683979+00:00",
+   "s": "",
+   "t": "zambia malaysia explore cooperation in rural development",
+   "title": "Zambia, Malaysia explore cooperation in rural development"
   }
  ],
  "seen": {
@@ -263,6 +269,7 @@
   "2fddff583740826f": "2026-11-11T12:28:41.484095+00:00",
   "314a7e88f0b27274": "2026-11-12T12:49:58.212204+00:00",
   "32ab2d5b580f7c7c": "2026-11-11T12:28:41.484095+00:00",
+  "37c8b5048a2394fc": "2026-11-14T20:13:45.683955+00:00",
   "3abaabd89ccd448a": "2026-11-14T14:21:00.751533+00:00",
   "3e81c957beb560a9": "2026-11-11T15:05:02.067407+00:00",
   "41f2f7d7afb111cf": "2026-11-11T12:28:41.484095+00:00",
