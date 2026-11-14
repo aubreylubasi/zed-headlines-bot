@@ -46,7 +46,7 @@ post_template = """🇿🇲 {title}
 include_summary = false
 summary_max_chars = 220
 
-hashtags = "#ZedHeadlines #Zambia #ZambiaNews"
+hashtags = "#ZedHeadlines #News #Zambia #ForYouPage #ZambiaNews"
 
 # Facebook Graph API version.
 graph_api_version = "v26.0"

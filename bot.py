@@ -2,7 +2,7 @@
 """
 Zambia News Bot
 Watches trusted Zambian news sites and posts each new story to a Facebook Page
-(headline + source credit + link back to the original article).
+as a branded picture card (made by the bot itself) with the write-up as the caption.
 
 Usage:
   python bot.py              # normal run: fetch, pick new stories, post them
@@ -149,6 +149,7 @@ def load_config() -> tuple[dict, list[dict]]:
         cfg = tomllib.load(f)
     settings = {**DEFAULT_SETTINGS, **cfg.get("settings", {})}
     settings["ai"] = {**AI_DEFAULTS, **cfg.get("ai", {})}
+    settings["image"] = {**IMAGE_DEFAULTS, **cfg.get("image", {})}
     sources = cfg.get("sources", [])
     for s in sources:
         if not s.get("name") or not (s.get("feed") or s.get("site")):
@@ -457,6 +458,119 @@ def build_message(story: dict, settings: dict) -> str:
     return re.sub(r"\n{3,}", "\n\n", message).strip()
 
 
+# ───────────────────────────── picture card ─────────────────────────────
+# Each post gets its own picture: a branded Zed Headlines card with the headline on it.
+# Made right here with Pillow, so it costs nothing and never uses the news site's photo.
+# Optional [image] section in config.toml can change any of these.
+
+IMAGE_DEFAULTS = {
+    "enabled": True,
+    "brand": "ZED HEADLINES",
+    "tagline": "Zambia's news, simply told",
+    "footer": "#ZedHeadlines",
+    "size": 1080,                 # square, px
+    "background": "#0B1F2A",      # deep navy
+    "background_2": "#123344",    # bottom of the gradient
+    "accent": "#2EA043",          # green bar beside the headline
+    "text_color": "#FFFFFF",
+    "muted_color": "#9FB3C1",
+    "attach_link": False,         # False = no link to the news site in the post
+}
+ZAMBIA_STRIPES = ["#198A00", "#DE2010", "#000000", "#EF7D00"]   # green, red, black, orange
+FONT_BOLD = ["/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
+             "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf",
+             "/System/Library/Fonts/Supplemental/Arial Bold.ttf", "C:/Windows/Fonts/arialbd.ttf"]
+FONT_REGULAR = ["/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
+                "/usr/share/fonts/truetype/liberation/LiberationSans-Regular.ttf",
+                "/System/Library/Fonts/Supplemental/Arial.ttf", "C:/Windows/Fonts/arial.ttf"]
+
+
+def load_font(candidates: list[str], size: int):
+    from PIL import ImageFont
+    for path in candidates:
+        if Path(path).exists():
+            return ImageFont.truetype(path, size)
+    return ImageFont.load_default(size=size)
+
+
+def wrap_text(draw, text: str, font, max_width: int) -> list[str]:
+    lines, line = [], ""
+    for word in text.split():
+        trial = f"{line} {word}".strip()
+        if draw.textlength(trial, font=font) <= max_width or not line:
+            line = trial
+        else:
+            lines.append(line)
+            line = word
+    if line:
+        lines.append(line)
+    return lines
+
+
+def make_card(headline: str, img: dict, when: datetime) -> bytes:
+    """Draw a square branded news card and return it as JPEG bytes."""
+    from io import BytesIO
+    from PIL import Image, ImageDraw
+
+    W = H = int(img["size"])
+    s = W / 1080                                   # scale everything from a 1080px design
+    px = lambda v: int(v * s)                      # noqa: E731
+    top, bottom = img["background"], img["background_2"]
+    card = Image.new("RGB", (W, H), top)
+    draw = ImageDraw.Draw(card)
+
+    # soft vertical gradient
+    t1 = tuple(int(top[i:i + 2], 16) for i in (1, 3, 5))
+    t2 = tuple(int(bottom[i:i + 2], 16) for i in (1, 3, 5))
+    for y in range(H):
+        f = y / H
+        draw.line([(0, y), (W, y)], fill=tuple(int(a + (b - a) * f) for a, b in zip(t1, t2)))
+
+    # header: brand name + Zambian flag stripes
+    margin = px(80)
+    brand_font = load_font(FONT_BOLD, px(50))
+    tag_font = load_font(FONT_REGULAR, px(28))
+    draw.text((margin, px(70)), img["brand"], font=brand_font, fill=img["text_color"])
+    draw.text((margin, px(135)), img["tagline"], font=tag_font, fill=img["muted_color"])
+    stripe_w, stripe_h = px(46), px(12)
+    for i, colour in enumerate(ZAMBIA_STRIPES):
+        x = W - margin - (len(ZAMBIA_STRIPES) - i) * stripe_w
+        draw.rectangle([x, px(88), x + stripe_w - 1, px(88) + stripe_h], fill=colour)
+
+    # headline: biggest font that fits the middle area
+    box_top, box_bottom = px(230), H - px(170)
+    text_x = margin + px(34)
+    max_w = W - text_x - margin
+    headline = re.sub(r"\s+", " ", html.unescape(headline)).strip()
+    for size in range(96, 39, -4):
+        font = load_font(FONT_BOLD, px(size))
+        lines = wrap_text(draw, headline, font, max_w)
+        line_h = int(px(size) * 1.22)
+        if len(lines) * line_h <= box_bottom - box_top:
+            break
+    else:                                           # extremely long headline: cut it
+        lines = lines[: (box_bottom - box_top) // line_h]
+        lines[-1] = lines[-1].rstrip(" ,.;:") + "…"
+    block_h = len(lines) * line_h
+    y = box_top + (box_bottom - box_top - block_h) // 2
+    draw.rectangle([margin, y + px(8), margin + px(10), y + block_h - px(8)], fill=img["accent"])
+    for line in lines:
+        draw.text((text_x, y), line, font=font, fill=img["text_color"])
+        y += line_h
+
+    # footer: date + hashtag
+    foot_font = load_font(FONT_REGULAR, px(30))
+    draw.line([(margin, H - px(130)), (W - margin, H - px(130))], fill=img["muted_color"], width=max(1, px(2)))
+    local = when.astimezone(LUSAKA)
+    draw.text((margin, H - px(105)), f"{local.day} {local:%B %Y}", font=foot_font, fill=img["muted_color"])
+    fw = draw.textlength(img["footer"], font=foot_font)
+    draw.text((W - margin - fw, H - px(105)), img["footer"], font=foot_font, fill=img["text_color"])
+
+    out = BytesIO()
+    card.save(out, format="JPEG", quality=92, optimize=True)
+    return out.getvalue()
+
+
 # ───────────────────────────── AI writer ─────────────────────────────
 
 AI_DEFAULTS = {
@@ -701,18 +815,33 @@ RATE_LIMIT_CODES = {4, 17, 32, 341, 613}           # slow down
 SPAM_BLOCK_CODES = {368}                           # Facebook temporarily blocked posting
 
 
-def post_to_facebook(settings: dict, page_id: str, token: str, message: str, link: str) -> str:
-    url = f"{GRAPH_BASE}/{settings['graph_api_version']}/{page_id}/feed"
-    r = requests.post(url, data={"message": message, "link": link, "access_token": token}, timeout=40)
+def _facebook_result(r: requests.Response) -> str:
     try:
         data = r.json()
     except ValueError:
         data = {}
-    if r.ok and data.get("id"):
-        return data["id"]
+    if r.ok and (data.get("post_id") or data.get("id")):
+        return data.get("post_id") or data["id"]
     err = data.get("error", {})
     raise FacebookError(err.get("message") or f"HTTP {r.status_code}: {r.text[:200]}",
                         err.get("code"), err.get("error_subcode"))
+
+
+def post_to_facebook(settings: dict, page_id: str, token: str, message: str, link: str | None) -> str:
+    """Text post (with a link preview only if a link is given)."""
+    url = f"{GRAPH_BASE}/{settings['graph_api_version']}/{page_id}/feed"
+    data = {"message": message, "access_token": token}
+    if link:
+        data["link"] = link
+    return _facebook_result(requests.post(url, data=data, timeout=40))
+
+
+def post_photo_to_facebook(settings: dict, page_id: str, token: str, caption: str, image: bytes) -> str:
+    """Picture post: the card is the photo, the write-up is the caption."""
+    url = f"{GRAPH_BASE}/{settings['graph_api_version']}/{page_id}/photos"
+    r = requests.post(url, data={"caption": caption, "published": "true", "access_token": token},
+                      files={"source": ("zed-headlines.jpg", image, "image/jpeg")}, timeout=90)
+    return _facebook_result(r)
 
 
 # ───────────────────────────── modes ─────────────────────────────
@@ -813,16 +942,33 @@ def run(dry_run: bool) -> int:
             if written:
                 story["ai_title"], story["ai_text"] = written
         message = build_message(story, settings)
+        img_cfg = settings["image"]
+        link = story["link"] if img_cfg.get("attach_link") else None
+        card = None
+        if img_cfg.get("enabled"):
+            try:
+                card = make_card(story.get("ai_title") or story["title"], img_cfg, now_utc())
+            except Exception as e:  # noqa: BLE001 – never let the picture stop the posting
+                log(f"   ↪ couldn't make the picture card ({short_error(e)}) – posting text only")
         if dry_run:
             print("\n──────── would post ────────")
             print(message)
-            print(f"[link preview] {story['link']}")
+            if card:
+                preview = ROOT / "preview" / f"card-{i + 1}.jpg"
+                preview.parent.mkdir(exist_ok=True)
+                preview.write_bytes(card)
+                print(f"[picture card] saved to {preview}")
+            if link:
+                print(f"[link preview] {link}")
             print("────────────────────────────")
             continue
         if i:
             time.sleep(SECONDS_BETWEEN_POSTS)
         try:
-            post_id = post_to_facebook(settings, page_id, token, message, story["link"])
+            if card:
+                post_id = post_photo_to_facebook(settings, page_id, token, message, card)
+            else:
+                post_id = post_to_facebook(settings, page_id, token, message, link)
         except FacebookError as e:
             if e.code in FATAL_CODES:
                 log(f"❌ Facebook rejected the token/permissions (code {e.code}): {e}")
