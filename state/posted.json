@@ -5,12 +5,12 @@
  },
  "failures": {
   "10c4445663e7e3b2": {
-   "at": "2026-11-14T11:44:56.174913+00:00",
-   "count": 1
+   "at": "2026-11-14T11:52:35.132537+00:00",
+   "count": 2
   },
   "82d34c08bb6c4f4c": {
-   "at": "2026-11-14T11:44:36.239228+00:00",
-   "count": 1
+   "at": "2026-11-14T11:52:15.414277+00:00",
+   "count": 2
   }
  },
  "feed_cache": {
@@ -23,14 +23,6 @@
   "title": "Techbytes: NVIDIA CEO, Jensen Huang, resigns amid adultery allegations"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-12T11:47:20.082437+00:00",
-   "t": "kasama residents welcome relocation of street vendors"
-  },
-  {
-   "at": "2026-11-12T11:49:01.664373+00:00",
-   "t": "acc nabs catholic priest over k1 5m suspected proceeds of crime"
-  },
   {
    "at": "2026-11-12T12:51:32.337312+00:00",
    "t": "faz launches new national cup competition"
