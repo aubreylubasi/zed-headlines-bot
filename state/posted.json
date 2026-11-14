@@ -3,7 +3,16 @@
   "count": 0,
   "date": "2026-11-14"
  },
- "failures": {},
+ "failures": {
+  "10c4445663e7e3b2": {
+   "at": "2026-11-14T11:44:56.174913+00:00",
+   "count": 1
+  },
+  "82d34c08bb6c4f4c": {
+   "at": "2026-11-14T11:44:36.239228+00:00",
+   "count": 1
+  }
+ },
  "feed_cache": {
   "Mwebantu": "https://www.mwebantu.com/rss.xml"
  },
