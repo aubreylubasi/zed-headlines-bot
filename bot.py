@@ -392,7 +392,7 @@ def choose_stories(stories: list[dict], state: dict, settings: dict, limit: int,
             continue
         if dated_only and not s["dated"]:
             continue
-        if blocked and contains_any(s["title"], blocked):
+        if blocked and contains_any(f"{s['title']} {s.get('summary_text', '')}", blocked):
             state["seen"][s["key"]] = now_utc().isoformat()
             continue
         if s["require_keywords"] and not contains_any(f"{s['title']} {s['summary_text']}", s["require_keywords"]):

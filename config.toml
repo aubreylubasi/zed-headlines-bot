@@ -29,8 +29,10 @@ first_run_posts = 1
 # e.g. when Mwebantu and ZNBC both report it. Only the first one is posted.
 duplicate_similarity = 0.80
 
-# Skip any story whose headline contains one of these words.
-block_keywords = ["sponsored", "advertorial", "advertisement", "vacancy", "tender notice"]
+# Skip any story whose headline or teaser contains one of these words (adverts dressed up as news, job ads…).
+block_keywords = ["sponsored", "sponsored content", "advertorial", "advertisement", "partner content",
+                  "paid content", "paid partnership", "insert", "professional insert",
+                  "brand spotlight", "vacancy", "vacancies", "tender notice", "job opportunity"]
 
 # What each Facebook post says. The article link is attached separately,
 # so Facebook shows a preview card (photo + headline) underneath.
