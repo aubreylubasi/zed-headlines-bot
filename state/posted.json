@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 12,
+  "count": 14,
   "date": "2026-11-14"
  },
  "failures": {
@@ -26,9 +26,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-14T20:13:45.687333+00:00",
-  "id": "1405471502649229_122095742241555618",
-  "title": "Zambia, Malaysia explore cooperation in rural development"
+  "at": "2026-11-14T20:52:27.234212+00:00",
+  "id": "1405471502649229_122095759599555618",
+  "title": "PRESIDENT HICHILEMA ARRIVES AT CHOMA CENTRAL SDA CHURCH FOR WORSHIP"
  },
  "recent_titles": [
   {
@@ -222,6 +222,18 @@
    "s": "",
    "t": "zambia malaysia explore cooperation in rural development",
    "title": "Zambia, Malaysia explore cooperation in rural development"
+  },
+  {
+   "at": "2026-11-14T20:51:57.308763+00:00",
+   "s": "",
+   "t": "uganda military arrests fuel tensions over museveni succession",
+   "title": "Uganda military arrests fuel tensions over Museveni succession"
+  },
+  {
+   "at": "2026-11-14T20:52:27.220374+00:00",
+   "s": "President Hakainde Hichilema, accompanied by First Lady Mutinta Hichilema, has arrived at Choma Central Seventh-day Adventist Church to join congregants in Sabbath worship. The Head of State was welcomed with a special guard of honour mounted by the church’s Pathfinders, who sang songs of praise before he inspected the parade and joined the congregation for […]",
+   "t": "president hichilema arrives at choma central sda church for worship",
+   "title": "PRESIDENT HICHILEMA ARRIVES AT CHOMA CENTRAL SDA CHURCH FOR WORSHIP"
   }
  ],
  "seen": {
@@ -268,6 +280,7 @@
   "2fdd1a041f27eddd": "2026-11-13T10:47:31.514113+00:00",
   "2fddff583740826f": "2026-11-11T12:28:41.484095+00:00",
   "314a7e88f0b27274": "2026-11-12T12:49:58.212204+00:00",
+  "32851fe0b9ac051e": "2026-11-14T20:51:57.308731+00:00",
   "32ab2d5b580f7c7c": "2026-11-11T12:28:41.484095+00:00",
   "37c8b5048a2394fc": "2026-11-14T20:13:45.683955+00:00",
   "3abaabd89ccd448a": "2026-11-14T14:21:00.751533+00:00",
@@ -306,6 +319,7 @@
   "74cf77b5e407b027": "2026-11-12T08:50:19.824707+00:00",
   "75c89055f7d7bef1": "2026-11-11T12:28:41.484095+00:00",
   "7730600117344ab6": "2026-11-11T19:15:22.908757+00:00",
+  "773b2ffa857fecac": "2026-11-14T20:52:27.220341+00:00",
   "77d52e3d31c39867": "2026-11-11T12:28:41.484095+00:00",
   "78d3c4569e80db69": "2026-11-13T17:09:11.699200+00:00",
   "7bbba7d387a8f560": "2026-11-14T13:30:35.584637+00:00",
