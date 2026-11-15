@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 17,
+  "count": 19,
   "date": "2026-11-15"
  },
  "failures": {
@@ -26,23 +26,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-15T12:31:58.820776+00:00",
-  "id": "1405471502649229_122096200407555618",
-  "title": "Court acquits Yuyi’s daughter, another cop of corruption"
+  "at": "2026-11-15T13:32:35.579225+00:00",
+  "id": "1405471502649229_122096237685555618",
+  "title": "Prince Luv, Yo Maps team up on emotional new single ‘Over’"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-13T12:47:55.836664+00:00",
-   "s": "",
-   "t": "kwacha rebounds but remains on course for weekly loss",
-   "title": "Kwacha rebounds but remains on course for weekly loss"
-  },
-  {
-   "at": "2026-11-13T12:48:17.060726+00:00",
-   "s": "This content is for members only. Visit the site and log in/register to read.",
-   "t": "couple reunification partly caused overstaffing in schools moe",
-   "title": "Couple reunification partly caused overstaffing in schools – MoE"
-  },
   {
    "at": "2026-11-13T14:02:40.700773+00:00",
    "s": "",
@@ -288,6 +276,18 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "court acquits yuyi s daughter another cop of corruption",
    "title": "Court acquits Yuyi’s daughter, another cop of corruption"
+  },
+  {
+   "at": "2026-11-15T13:32:07.599707+00:00",
+   "s": "",
+   "t": "zmd urges northern farmers to plant as southern lusaka told to wait",
+   "title": "ZMD urges northern farmers to plant as Southern, Lusaka told to wait"
+  },
+  {
+   "at": "2026-11-15T13:32:35.572200+00:00",
+   "s": "",
+   "t": "prince luv yo maps team up on emotional new single over",
+   "title": "Prince Luv, Yo Maps team up on emotional new single ‘Over’"
   }
  ],
  "seen": {
@@ -405,6 +405,7 @@
   "9d02f54cdb2015c9": "2026-11-15T09:25:18.985750+00:00",
   "9d762e0f7753607d": "2026-11-12T11:49:01.664337+00:00",
   "9e23daf09a153c23": "2026-11-11T12:28:41.484095+00:00",
+  "9f98925c57ac3617": "2026-11-15T13:32:07.599670+00:00",
   "a17d54e724450399": "2026-11-15T10:22:06.844098+00:00",
   "a3059185ad52a851": "2026-11-14T14:21:19.381304+00:00",
   "a4b9e2ed72e3412a": "2026-11-12T10:49:58.424510+00:00",
@@ -412,6 +413,7 @@
   "aaa9e5d51fc06de4": "2026-11-15T10:21:40.151559+00:00",
   "ab12733ad80d886b": "2026-11-11T12:28:41.484095+00:00",
   "ad88d03185e74633": "2026-11-11T12:28:41.484095+00:00",
+  "b146296e157a7f46": "2026-11-15T13:32:35.572136+00:00",
   "b205908e603d475b": "2026-11-11T12:28:41.484095+00:00",
   "b26ee208ae5c4d75": "2026-11-14T08:38:09.519627+00:00",
   "b489189d794e6278": "2026-11-15T11:55:57.877217+00:00",
