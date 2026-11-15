@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 11,
+  "count": 13,
   "date": "2026-11-15"
  },
  "failures": {
@@ -26,47 +26,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-15T10:22:06.859854+00:00",
-  "id": "1405471502649229_122096123601555618",
-  "title": "My husband takes too long, he leaves me bruised, wife laments"
+  "at": "2026-11-15T11:17:36.661351+00:00",
+  "id": "1405471502649229_122096154207555618",
+  "title": "Kalumbila District Commissioner Brenda Sankisa And Driver Killed In Road Crash"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-13T10:33:40.271406+00:00",
-   "s": "",
-   "t": "anti corruption agency arrests catholic priest over alleged k1 5 million fraud",
-   "title": "Anti-corruption agency arrests Catholic priest over alleged K1.5 million fraud"
-  },
-  {
-   "at": "2026-11-13T10:34:02.224016+00:00",
-   "s": "This content is for members only. Visit the site and log in/register to read.",
-   "t": "kcm unveils us 1 6 million investment with launch of kcm zfa cup",
-   "title": "KCM unveils US$1.6 million investment with launch of KCM-ZFA Cup"
-  },
-  {
-   "at": "2026-11-13T10:37:52.592624+00:00",
-   "s": "",
-   "t": "zambia uk explore cooperation in sustainable fisheries aquaculture",
-   "title": "Zambia, UK explore cooperation in sustainable fisheries, aquaculture"
-  },
-  {
-   "at": "2026-11-13T10:39:10.686333+00:00",
-   "s": "#WATCH #LIVE #Mwebantu, how has Zambia Sugar performed this year? We are LIVE from Neelkanth Sarovar Premiere Hotel as Zambia Sugar PLC presents its 2026 full-year financial and operational results. Join us for the presentation and hear the company’s performance updates. Let us know where in the world you are watching from? #ZambiaSugarPLC #FinancialResults #MwebantuLive […] The post Zambia Sugar Plc Presents Its 2026 Results first appeared on Mwebantu .",
-   "t": "zambia sugar plc presents its 2026 results",
-   "title": "Zambia Sugar Plc Presents Its 2026 Results"
-  },
-  {
-   "at": "2026-11-13T10:47:10.691010+00:00",
-   "s": "",
-   "t": "zambia signs antalya statement to unlock finance for climate action",
-   "title": "Zambia signs Antalya Statement to unlock finance for climate action"
-  },
-  {
-   "at": "2026-11-13T10:47:31.514149+00:00",
-   "s": "This content is for members only. Visit the site and log in/register to read.",
-   "t": "high court orders wanderers to appoint interim executive amid injunction",
-   "title": "High Court orders Wanderers to appoint interim executive amid injunction"
-  },
   {
    "at": "2026-11-13T11:44:11.090272+00:00",
    "s": "This content is for members only. Visit the site and log in/register to read.",
@@ -300,6 +264,18 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "my husband takes too long he leaves me bruised wife laments",
    "title": "My husband takes too long, he leaves me bruised, wife laments"
+  },
+  {
+   "at": "2026-11-15T11:16:52.810125+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "kalumbila dc dies in road accident",
+   "title": "Kalumbila DC dies in road accident"
+  },
+  {
+   "at": "2026-11-15T11:17:36.641846+00:00",
+   "s": "Kalumbila District Commissioner Brenda Sankisa And Driver Killed In Road Crash Kalumbila District Commissioner Ms Brenda Sankisa and her driver were killed early on Sunday when their Kalumbila District Council vehicle crashed into a truck on the Mutanda-Mwinilunga Road. They died on the day Zambia joined the rest of the world in remembering people lost […]",
+   "t": "kalumbila district commissioner brenda sankisa and driver killed in road crash",
+   "title": "Kalumbila District Commissioner Brenda Sankisa And Driver Killed In Road Crash"
   }
  ],
  "seen": {
@@ -312,9 +288,11 @@
   "048396251bd6a302": "2026-11-14T15:16:15.391298+00:00",
   "069f0ce001d5f3da": "2026-11-13T12:47:55.836622+00:00",
   "06fbfd88252d2a42": "2026-11-12T09:46:46.023785+00:00",
+  "0b8e7d06472cf74e": "2026-11-15T11:17:36.641810+00:00",
   "0d411f09ae067518": "2026-11-11T12:28:41.484095+00:00",
   "0dfd9165481fef64": "2026-11-13T15:04:14.019817+00:00",
   "0e3caf8a8b21fcf7": "2026-11-13T14:02:40.700738+00:00",
+  "1086ca82e9fbed77": "2026-11-15T11:16:52.810091+00:00",
   "1213a4e68b50af8d": "2026-11-11T12:28:41.484095+00:00",
   "13cff489f5b14120": "2026-11-11T12:28:41.484095+00:00",
   "144186149bc488b4": "2026-11-12T03:30:12.625678+00:00",
