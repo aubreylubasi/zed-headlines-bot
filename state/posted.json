@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 21,
+  "count": 22,
   "date": "2026-11-15"
  },
  "failures": {
@@ -26,9 +26,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-15T15:18:01.913206+00:00",
-  "id": "1405471502649229_122096299305555618",
-  "title": "Techbytes: SpaceX achieves historic starship recovery milestone"
+  "at": "2026-11-15T15:57:11.028524+00:00",
+  "id": "1405471502649229_122096319513555618",
+  "title": "Immigration deports Somali national over shooting at Mpika gold plant"
  },
  "recent_titles": [
   {
@@ -276,6 +276,12 @@
    "s": "",
    "t": "techbytes spacex achieves historic starship recovery milestone",
    "title": "Techbytes: SpaceX achieves historic starship recovery milestone"
+  },
+  {
+   "at": "2026-11-15T15:57:11.012342+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "immigration deports somali national over shooting at mpika gold plant",
+   "title": "Immigration deports Somali national over shooting at Mpika gold plant"
   }
  ],
  "seen": {
@@ -456,6 +462,7 @@
   "ee28b5e9e48fb6e1": "2026-11-13T18:46:25.429635+00:00",
   "ef5f4f8b11ebab8f": "2026-11-12T08:52:10.793129+00:00",
   "f208f0d52d0204bd": "2026-11-13T10:47:10.690974+00:00",
+  "f580aebc4a0e2d45": "2026-11-15T15:57:11.012307+00:00",
   "f8eb5441980499c0": "2026-11-12T15:10:43.776525+00:00",
   "fa561727056f6ef8": "2026-11-11T12:28:41.484095+00:00",
   "fbd63450e33bb411": "2026-11-13T16:02:34.629015+00:00",
