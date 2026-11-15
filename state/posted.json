@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 19,
+  "count": 20,
   "date": "2026-11-15"
  },
  "failures": {
@@ -26,23 +26,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-15T13:32:35.579225+00:00",
-  "id": "1405471502649229_122096237685555618",
-  "title": "Prince Luv, Yo Maps team up on emotional new single ‘Over’"
+  "at": "2026-11-15T14:23:08.262509+00:00",
+  "id": "1405471502649229_122096269827555618",
+  "title": "16 Chinese nationals, four Zambians arrested over illegal gold mining in Mpika"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-13T14:02:40.700773+00:00",
-   "s": "",
-   "t": "govt pledges closer ties with creative industries to promote zambia abroad",
-   "title": "Govt pledges closer ties with creative industries to promote Zambia abroad"
-  },
-  {
-   "at": "2026-11-13T14:03:04.618677+00:00",
-   "s": "This content is for members only. Visit the site and log in/register to read.",
-   "t": "external interference is different from legitimate scrutiny cof",
-   "title": "External interference is different from legitimate scrutiny – COF"
-  },
   {
    "at": "2026-11-13T15:02:16.006247+00:00",
    "s": "",
@@ -288,6 +276,12 @@
    "s": "",
    "t": "prince luv yo maps team up on emotional new single over",
    "title": "Prince Luv, Yo Maps team up on emotional new single ‘Over’"
+  },
+  {
+   "at": "2026-11-15T14:23:08.258359+00:00",
+   "s": "",
+   "t": "16 chinese nationals four zambians arrested over illegal gold mining in mpika",
+   "title": "16 Chinese nationals, four Zambians arrested over illegal gold mining in Mpika"
   }
  ],
  "seen": {
@@ -404,6 +398,7 @@
   "9be1923b0cabfa02": "2026-11-11T12:28:41.484095+00:00",
   "9d02f54cdb2015c9": "2026-11-15T09:25:18.985750+00:00",
   "9d762e0f7753607d": "2026-11-12T11:49:01.664337+00:00",
+  "9e0eeb5ef5e7a3ba": "2026-11-15T14:23:08.258323+00:00",
   "9e23daf09a153c23": "2026-11-11T12:28:41.484095+00:00",
   "9f98925c57ac3617": "2026-11-15T13:32:07.599670+00:00",
   "a17d54e724450399": "2026-11-15T10:22:06.844098+00:00",
