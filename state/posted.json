@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 23,
+  "count": 25,
   "date": "2026-11-15"
  },
  "failures": {
@@ -26,9 +26,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-15T17:15:19.517262+00:00",
-  "id": "1405471502649229_122096347929555618",
-  "title": "Zambians free to debate term-limit but must not drag Hichilema into it —Presidency"
+  "at": "2026-11-15T17:49:41.473527+00:00",
+  "id": "1405471502649229_122096361447555618",
+  "title": "Rich Bizzy lines up Macky 2, Chef 187, others in new album ‘Africa’"
  },
  "recent_titles": [
   {
@@ -264,6 +264,18 @@
    "s": "",
    "t": "zambians free to debate term limit but must not drag hichilema into it presidency",
    "title": "Zambians free to debate term-limit but must not drag Hichilema into it —Presidency"
+  },
+  {
+   "at": "2026-11-15T17:49:07.831660+00:00",
+   "s": "",
+   "t": "zambia raises 2031 electricity generation target to 11 000mw",
+   "title": "Zambia raises 2031 electricity generation target to 11,000MW"
+  },
+  {
+   "at": "2026-11-15T17:49:41.463795+00:00",
+   "s": "",
+   "t": "rich bizzy lines up macky 2 chef 187 others in new album africa",
+   "title": "Rich Bizzy lines up Macky 2, Chef 187, others in new album ‘Africa’"
   }
  ],
  "seen": {
@@ -407,6 +419,7 @@
   "be824c4156b9af24": "2026-11-12T09:48:35.517866+00:00",
   "bece163096dfb9a4": "2026-11-12T07:53:06.288878+00:00",
   "c3584159bfe4ea92": "2026-11-14T18:27:01.207477+00:00",
+  "c3eb3b728238a9b8": "2026-11-15T17:49:07.831622+00:00",
   "c4027a79895ac03f": "2026-11-11T12:28:41.484095+00:00",
   "c4b704ed5998639a": "2026-11-11T12:29:02.005026+00:00",
   "c6e1c324aa917132": "2026-11-12T16:20:17.504333+00:00",
@@ -449,7 +462,8 @@
   "f8eb5441980499c0": "2026-11-12T15:10:43.776525+00:00",
   "fa561727056f6ef8": "2026-11-11T12:28:41.484095+00:00",
   "fbd63450e33bb411": "2026-11-13T16:02:34.629015+00:00",
-  "fcb13a0242a83d8c": "2026-11-11T12:28:41.484095+00:00"
+  "fcb13a0242a83d8c": "2026-11-11T12:28:41.484095+00:00",
+  "fce03eb7c3c55b2f": "2026-11-15T17:49:41.463753+00:00"
  },
  "undated": {}
 }
