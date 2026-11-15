@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 22,
+  "count": 23,
   "date": "2026-11-15"
  },
  "failures": {
@@ -26,23 +26,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-15T15:57:11.028524+00:00",
-  "id": "1405471502649229_122096319513555618",
-  "title": "Immigration deports Somali national over shooting at Mpika gold plant"
+  "at": "2026-11-15T17:15:19.517262+00:00",
+  "id": "1405471502649229_122096347929555618",
+  "title": "Zambians free to debate term-limit but must not drag Hichilema into it —Presidency"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-13T17:08:49.621055+00:00",
-   "s": "Minister of Justice Jack Mwiimbu said Government will not interfere in the National Assembly’s consideration of three citizen petitions seeking the removal of the presidential term limit under Article 106(3) of the Constitution of Zambia. He said the matter falls entirely within the mandate of the Legislature, and that the Executive will stay out of […]",
-   "t": "government will not interfere in removal of presidential term petition",
-   "title": "Government will not interfere in removal of Presidential term petition"
-  },
-  {
-   "at": "2026-11-13T17:09:11.699236+00:00",
-   "s": "",
-   "t": "kateka seeks update on kasonde changala presidential petition",
-   "title": "Kateka seeks update on Kasonde, Changala presidential petition"
-  },
   {
    "at": "2026-11-13T18:00:13.650059+00:00",
    "s": "The police officer who saved Hakainde Hichilema’s life in 2014 is now retired in public interest under his presidency The People’s Political Science: A special edition dedicated to my nephew, Senior Superintendent Christopher Chibuye (rtd) Among the most pernicious manifestations of administrative despotism is the appropriation of lawful state instruments for purposes of personal retribution, […]",
@@ -270,6 +258,12 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "immigration deports somali national over shooting at mpika gold plant",
    "title": "Immigration deports Somali national over shooting at Mpika gold plant"
+  },
+  {
+   "at": "2026-11-15T17:15:19.510805+00:00",
+   "s": "",
+   "t": "zambians free to debate term limit but must not drag hichilema into it presidency",
+   "title": "Zambians free to debate term-limit but must not drag Hichilema into it —Presidency"
   }
  ],
  "seen": {
@@ -282,6 +276,7 @@
   "048396251bd6a302": "2026-11-14T15:16:15.391298+00:00",
   "069f0ce001d5f3da": "2026-11-13T12:47:55.836622+00:00",
   "06fbfd88252d2a42": "2026-11-12T09:46:46.023785+00:00",
+  "09f69974896b2579": "2026-11-15T17:15:19.510767+00:00",
   "0b8e7d06472cf74e": "2026-11-15T11:17:36.641810+00:00",
   "0d411f09ae067518": "2026-11-11T12:28:41.484095+00:00",
   "0dfd9165481fef64": "2026-11-13T15:04:14.019817+00:00",
