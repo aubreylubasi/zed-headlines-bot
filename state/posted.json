@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 3,
+  "count": 4,
   "date": "2026-11-15"
  },
  "failures": {
@@ -26,9 +26,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-15T05:28:37.259148+00:00",
-  "id": "1405471502649229_122095989261555618",
-  "title": "Weekend Edition 308 Sunday November 15, 2026"
+  "at": "2026-11-15T06:27:16.946756+00:00",
+  "id": "1405471502649229_122096008617555618",
+  "title": "Zambia proposes joint culinary showcase with Japan to drive trade and tourism"
  },
  "recent_titles": [
   {
@@ -252,6 +252,12 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "weekend edition 308 sunday november 15 2026",
    "title": "Weekend Edition 308 Sunday November 15, 2026"
+  },
+  {
+   "at": "2026-11-15T06:27:16.931836+00:00",
+   "s": "ZAMBIA wants to turn shared food culture into business. Trade and Exports Minister Caroline Kaunda Katotobwe proposed a joint Zambia-Japan Culinary and Export Showcase that would link chefs, producers, exporters and investors through demonstrations, exhibitions and business-to-business meetings. Katotobwe floated the idea at a lecture and reception on sake and washoku, Japanese cuisine, at the […] The post Zambia proposes joint culinary showcase with Japan to drive trade and tourism first appear",
+   "t": "zambia proposes joint culinary showcase with japan to drive trade and tourism",
+   "title": "Zambia proposes joint culinary showcase with Japan to drive trade and tourism"
   }
  ],
  "seen": {
@@ -300,6 +306,7 @@
   "2fddff583740826f": "2026-11-11T12:28:41.484095+00:00",
   "314a7e88f0b27274": "2026-11-12T12:49:58.212204+00:00",
   "32851fe0b9ac051e": "2026-11-14T20:51:57.308731+00:00",
+  "32970213e2ce7dc0": "2026-11-15T06:27:16.931800+00:00",
   "32ab2d5b580f7c7c": "2026-11-11T12:28:41.484095+00:00",
   "34c0ac9d7dbdf4f2": "2026-11-15T05:28:37.250650+00:00",
   "37c8b5048a2394fc": "2026-11-14T20:13:45.683955+00:00",
