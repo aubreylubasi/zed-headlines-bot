@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 4,
+  "count": 5,
   "date": "2026-11-15"
  },
  "failures": {
@@ -26,9 +26,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-15T06:27:16.946756+00:00",
-  "id": "1405471502649229_122096008617555618",
-  "title": "Zambia proposes joint culinary showcase with Japan to drive trade and tourism"
+  "at": "2026-11-15T07:42:46.000401+00:00",
+  "id": "1405471502649229_122096047323555618",
+  "title": "Ndola man flees after court orders him to share property with ex-girlfriend"
  },
  "recent_titles": [
   {
@@ -258,6 +258,12 @@
    "s": "ZAMBIA wants to turn shared food culture into business. Trade and Exports Minister Caroline Kaunda Katotobwe proposed a joint Zambia-Japan Culinary and Export Showcase that would link chefs, producers, exporters and investors through demonstrations, exhibitions and business-to-business meetings. Katotobwe floated the idea at a lecture and reception on sake and washoku, Japanese cuisine, at the […] The post Zambia proposes joint culinary showcase with Japan to drive trade and tourism first appear",
    "t": "zambia proposes joint culinary showcase with japan to drive trade and tourism",
    "title": "Zambia proposes joint culinary showcase with Japan to drive trade and tourism"
+  },
+  {
+   "at": "2026-11-15T07:42:45.981794+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "ndola man flees after court orders him to share property with ex girlfriend",
+   "title": "Ndola man flees after court orders him to share property with ex-girlfriend"
   }
  ],
  "seen": {
@@ -354,6 +360,7 @@
   "7e5e1bb46cfcf74c": "2026-11-14T13:30:15.056309+00:00",
   "81e9b59d2f2c6711": "2026-11-11T12:28:41.484095+00:00",
   "83db5754c61093ea": "2026-11-13T14:03:04.618638+00:00",
+  "856dd6a9916eba0e": "2026-11-15T07:42:45.981755+00:00",
   "857941f5f0d53fbd": "2026-11-13T15:02:16.006211+00:00",
   "87782eb80b02a197": "2026-11-11T12:28:41.484095+00:00",
   "895ed963a791f395": "2026-11-11T12:28:41.484095+00:00",
