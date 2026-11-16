@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 3,
+  "count": 4,
   "date": "2026-11-16"
  },
  "failures": {
@@ -26,9 +26,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-16T05:58:34.030379+00:00",
-  "id": "1405471502649229_122096817609555618",
-  "title": "Govt eyes 11,000MW power generation by 2031"
+  "at": "2026-11-16T08:13:03.648290+00:00",
+  "id": "1405471502649229_122096884827555618",
+  "title": "Chitambala penalty heroics send U23 into next round"
  },
  "recent_titles": [
   {
@@ -282,6 +282,12 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "govt eyes 11 000mw power generation by 2031",
    "title": "Govt eyes 11,000MW power generation by 2031"
+  },
+  {
+   "at": "2026-11-16T08:13:03.634367+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "chitambala penalty heroics send u23 into next round",
+   "title": "Chitambala penalty heroics send U23 into next round"
   }
  ],
  "seen": {
@@ -338,7 +344,7 @@
   "32970213e2ce7dc0": "2026-11-15T06:27:16.931800+00:00",
   "32ab2d5b580f7c7c": "2026-11-11T12:28:41.484095+00:00",
   "34c0ac9d7dbdf4f2": "2026-11-15T05:28:37.250650+00:00",
-  "35bd4b22ba36964c": "2026-11-16T03:12:26.978054+00:00",
+  "35bd4b22ba36964c": "2026-11-16T08:13:03.647746+00:00",
   "37c8b5048a2394fc": "2026-11-14T20:13:45.683955+00:00",
   "3abaabd89ccd448a": "2026-11-14T14:21:00.751533+00:00",
   "3e81c957beb560a9": "2026-11-11T15:05:02.067407+00:00",
@@ -458,6 +464,7 @@
   "df4e9f0e303c727f": "2026-11-15T09:25:18.981614+00:00",
   "e0c1b4985aa39718": "2026-11-11T12:28:41.484095+00:00",
   "e2d94dcdad825ccc": "2026-11-11T17:11:11.285061+00:00",
+  "e456d95fd38084b5": "2026-11-16T08:13:03.634332+00:00",
   "e4d9ef357a2c7717": "2026-11-15T09:25:32.530602+00:00",
   "e5c468ff443e1f39": "2026-11-11T12:28:41.484095+00:00",
   "e72cdb7f06753743": "2026-11-11T12:28:41.484095+00:00",
