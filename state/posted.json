@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 11,
+  "count": 13,
   "date": "2026-11-16"
  },
  "failures": {
@@ -26,9 +26,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-16T16:19:10.966623+00:00",
-  "id": "1405471502649229_122097172809555618",
-  "title": "Mufulira entrepreneurs urged to leverage on the district’s location"
+  "at": "2026-11-16T17:30:23.061335+00:00",
+  "id": "1405471502649229_122097209445555618",
+  "title": "Mumbwa district to contribute over 1,000 megawatts solar power"
  },
  "recent_titles": [
   {
@@ -276,6 +276,18 @@
    "s": "Mufulira District Commissioner, Evaristo Chilumba, has urged local entrepreneurs to leverage the strategic positioning of the district near the border with the Democratic Republic of Congo (DRC) to engage in trade and establish successful enterprises. Mr Chilumba states that the proximity of Mufulira to the neighboring country offers vast opportunities for cross border commerce, which […]",
    "t": "mufulira entrepreneurs urged to leverage on the district s location",
    "title": "Mufulira entrepreneurs urged to leverage on the district’s location"
+  },
+  {
+   "at": "2026-11-16T17:29:11.589725+00:00",
+   "s": "",
+   "t": "kwacha records biggest weekly loss in nearly a month",
+   "title": "Kwacha records biggest weekly loss in nearly a month"
+  },
+  {
+   "at": "2026-11-16T17:30:23.043966+00:00",
+   "s": "Mumbwa District Commissioner, Namukulo Hayumbu, says the district is positioning itself to contribute over 1,000 megawatts of solar power by 2031 towards the 10, 000 megawatts national target outlined in the Grow Zambia Agenda. Ms Hayumbu says Sunshare Energy Company alone is expected to generate 1,000 megawatts in phases while Kitumba Mine is set to […]",
+   "t": "mumbwa district to contribute over 1 000 megawatts solar power",
+   "title": "Mumbwa district to contribute over 1,000 megawatts solar power"
   }
  ],
  "seen": {
@@ -341,6 +353,7 @@
   "41eff76b0df459b5": "2026-11-16T10:20:06.561405+00:00",
   "41f2f7d7afb111cf": "2026-11-11T12:28:41.484095+00:00",
   "430dd3cfe4d984e2": "2026-11-12T05:34:57.209497+00:00",
+  "441cf4d89e7baada": "2026-11-16T17:29:11.589683+00:00",
   "45d42dcadd18ba31": "2026-11-11T12:28:41.484095+00:00",
   "4727696ca03969ec": "2026-11-14T12:29:47.351297+00:00",
   "47a9aebad1118b09": "2026-11-16T16:19:10.951702+00:00",
@@ -475,6 +488,7 @@
   "f208f0d52d0204bd": "2026-11-13T10:47:10.690974+00:00",
   "f580aebc4a0e2d45": "2026-11-15T15:57:11.012307+00:00",
   "f8eb5441980499c0": "2026-11-12T15:10:43.776525+00:00",
+  "f983b25863c5f2e1": "2026-11-16T17:30:23.043873+00:00",
   "fa561727056f6ef8": "2026-11-11T12:28:41.484095+00:00",
   "fbd63450e33bb411": "2026-11-13T16:02:34.629015+00:00",
   "fcb13a0242a83d8c": "2026-11-11T12:28:41.484095+00:00",
