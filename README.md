@@ -2,6 +2,12 @@
 
 Automatically posts new Zambian news to your Facebook Page, around the clock.
 
+## Why I built it
+I hated following Zambian news pages on Facebook. Between the real stories, my feed was full of
+ads and posts that had nothing to do with the news. So I built this bot to run my own page,
+**Zed Headlines**, which posts Zambian news and nothing else. It reads trusted Zambian news sites,
+skips sponsored stories and ads, and posts only the news.
+
 Every 20 minutes it checks **Mwebantu, News Diggers!, ZNBC, Zambia Daily Mail, Times of Zambia,
 Zambia Monitor and Lusaka Times**, picks the newest stories it hasn't posted yet, and posts them
 to your Page as a headline with the article link (Facebook adds the photo preview card).
