@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 15,
+  "count": 17,
   "date": "2026-11-16"
  },
  "failures": {
@@ -26,9 +26,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-16T18:28:43.659454+00:00",
-  "id": "1405471502649229_122097235353555618",
-  "title": "Parents urged to obtain children’s birth certificates"
+  "at": "2026-11-16T19:37:08.329521+00:00",
+  "id": "1405471502649229_122097286461555618",
+  "title": "UN agency warns against tax measures that could burden households"
  },
  "recent_titles": [
   {
@@ -288,6 +288,18 @@
    "s": "An Early Childhood Education (ECE) teacher at Ntulo Primary School in Kawambwa District has urged parents and guardians to ensure that their children obtain birth certificates. Benken Sebente says birth certificates are critical to establishing the birth identity of children and enable them secure access to essential services. Mr Sebente added that birth registration is important […]",
    "t": "parents urged to obtain children s birth certificates",
    "title": "Parents urged to obtain children’s birth certificates"
+  },
+  {
+   "at": "2026-11-16T19:35:26.752988+00:00",
+   "s": "Public Service Management Division (PSMD) Permanent Secretary Lois Mulube has urged public officers approaching retirement to embrace entrepreneurship and use their experience, skills and retirement benefits to contribute to national development. The remarks were made during the official opening of a two-day Pre-Retirement Training Module Validation Workshop held at Chikwa Lodge in Lusaka today from […]",
+   "t": "psmd ps urges retirees to embrace entrepreneurship",
+   "title": "PSMD PS urges retirees to embrace entrepreneurship"
+  },
+  {
+   "at": "2026-11-16T19:37:08.324671+00:00",
+   "s": "",
+   "t": "un agency warns against tax measures that could burden households",
+   "title": "UN agency warns against tax measures that could burden households"
   }
  ],
  "seen": {
@@ -358,6 +370,7 @@
   "4727696ca03969ec": "2026-11-14T12:29:47.351297+00:00",
   "47a9aebad1118b09": "2026-11-16T16:19:10.951702+00:00",
   "49b735bb188f188b": "2026-11-11T12:28:41.484095+00:00",
+  "49cd13cec249d8d0": "2026-11-16T19:37:08.324633+00:00",
   "49db19e99725a804": "2026-11-11T12:28:41.484095+00:00",
   "4a179a974b5d6dda": "2026-11-11T12:28:41.484095+00:00",
   "4cab62cdcf961929": "2026-11-11T12:28:41.484095+00:00",
@@ -412,6 +425,7 @@
   "92c1aa9d4608cb11": "2026-11-11T12:28:41.484095+00:00",
   "9553fd53ca88a334": "2026-11-11T12:28:41.484095+00:00",
   "957253de27c719ce": "2026-11-13T10:34:02.223977+00:00",
+  "968c91453fd30b6d": "2026-11-16T19:35:26.752954+00:00",
   "96ee08bb59ba8926": "2026-11-11T18:06:09.423695+00:00",
   "9a07edf6e239a8f6": "2026-11-11T12:28:41.484095+00:00",
   "9be1923b0cabfa02": "2026-11-11T12:28:41.484095+00:00",
@@ -454,6 +468,7 @@
   "c9e942f13aacd371": "2026-11-13T10:33:40.271368+00:00",
   "c9f37e44289247ee": "2026-11-11T12:28:41.484095+00:00",
   "ca1091dade3c677b": "2026-11-13T18:00:13.650024+00:00",
+  "cab296decd77b505": "2026-11-16T19:34:38.599778+00:00",
   "cbc84e181b10ccf0": "2026-11-11T12:28:41.484095+00:00",
   "cbf03e3aa2d38c81": "2026-11-11T12:28:41.484095+00:00",
   "cd076f2eb8a1deb3": "2026-11-11T12:28:41.484095+00:00",
