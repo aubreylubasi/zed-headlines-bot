@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 0,
+  "count": 2,
   "date": "2026-11-16"
  },
  "failures": {
@@ -26,9 +26,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-15T17:49:41.473527+00:00",
-  "id": "1405471502649229_122096361447555618",
-  "title": "Rich Bizzy lines up Macky 2, Chef 187, others in new album ‘Africa’"
+  "at": "2026-11-16T04:50:04.611907+00:00",
+  "id": "1405471502649229_122096778519555618",
+  "title": "News Diggers Edition 2386 Monday November 16, 2026"
  },
  "recent_titles": [
   {
@@ -264,6 +264,18 @@
    "s": "",
    "t": "rich bizzy lines up macky 2 chef 187 others in new album africa",
    "title": "Rich Bizzy lines up Macky 2, Chef 187, others in new album ‘Africa’"
+  },
+  {
+   "at": "2026-11-16T04:49:32.245399+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "increased funding for education is a smart investment",
+   "title": "Increased funding for education is a smart investment"
+  },
+  {
+   "at": "2026-11-16T04:50:04.598870+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "news diggers edition 2386 monday november 16 2026",
+   "title": "News Diggers Edition 2386 Monday November 16, 2026"
   }
  ],
  "seen": {
@@ -314,6 +326,7 @@
   "2fd1e86014774387": "2026-11-12T04:33:36.327100+00:00",
   "2fdd1a041f27eddd": "2026-11-13T10:47:31.514113+00:00",
   "2fddff583740826f": "2026-11-11T12:28:41.484095+00:00",
+  "30c9ec5d2f29d4c2": "2026-11-16T04:50:04.598833+00:00",
   "314a7e88f0b27274": "2026-11-12T12:49:58.212204+00:00",
   "32851fe0b9ac051e": "2026-11-14T20:51:57.308731+00:00",
   "32970213e2ce7dc0": "2026-11-15T06:27:16.931800+00:00",
@@ -400,6 +413,7 @@
   "b5059b8d8201a6f3": "2026-11-13T18:00:33.838744+00:00",
   "b5ec39db0899c36b": "2026-11-11T12:28:41.484095+00:00",
   "b5f0a07cb31042c7": "2026-11-14T12:30:06.977455+00:00",
+  "b625d959780b0693": "2026-11-16T04:49:32.245363+00:00",
   "b75cf310f4119460": "2026-11-12T12:52:08.443326+00:00",
   "b7bf40de0d7b4db3": "2026-11-11T12:28:41.484095+00:00",
   "b808dc247e7e8c43": "2026-11-15T09:26:24.112308+00:00",
