@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 2,
+  "count": 3,
   "date": "2026-11-16"
  },
  "failures": {
@@ -26,9 +26,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-16T04:50:04.611907+00:00",
-  "id": "1405471502649229_122096778519555618",
-  "title": "News Diggers Edition 2386 Monday November 16, 2026"
+  "at": "2026-11-16T05:58:34.030379+00:00",
+  "id": "1405471502649229_122096817609555618",
+  "title": "Govt eyes 11,000MW power generation by 2031"
  },
  "recent_titles": [
   {
@@ -276,6 +276,12 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "news diggers edition 2386 monday november 16 2026",
    "title": "News Diggers Edition 2386 Monday November 16, 2026"
+  },
+  {
+   "at": "2026-11-16T05:58:34.021492+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "govt eyes 11 000mw power generation by 2031",
+   "title": "Govt eyes 11,000MW power generation by 2031"
   }
  ],
  "seen": {
@@ -418,6 +424,7 @@
   "b7bf40de0d7b4db3": "2026-11-11T12:28:41.484095+00:00",
   "b808dc247e7e8c43": "2026-11-15T09:26:24.112308+00:00",
   "bd2c043fe315b832": "2026-11-11T15:04:42.934829+00:00",
+  "bd6afe6753c1009d": "2026-11-16T05:58:34.021460+00:00",
   "be51d96045f62151": "2026-11-11T20:11:53.789756+00:00",
   "be824c4156b9af24": "2026-11-12T09:48:35.517866+00:00",
   "bece163096dfb9a4": "2026-11-12T07:53:06.288878+00:00",
