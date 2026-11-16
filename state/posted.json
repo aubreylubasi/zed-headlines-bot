@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 13,
+  "count": 15,
   "date": "2026-11-16"
  },
  "failures": {
@@ -26,23 +26,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-16T17:30:23.061335+00:00",
-  "id": "1405471502649229_122097209445555618",
-  "title": "Mumbwa district to contribute over 1,000 megawatts solar power"
+  "at": "2026-11-16T18:28:43.659454+00:00",
+  "id": "1405471502649229_122097235353555618",
+  "title": "Parents urged to obtain children’s birth certificates"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-14T18:27:01.207512+00:00",
-   "s": "",
-   "t": "andeleki warns police against unprofessional social media conduct",
-   "title": "Andeleki warns police against unprofessional social media conduct"
-  },
-  {
-   "at": "2026-11-14T18:27:26.975717+00:00",
-   "s": "Government has warned that it will deal sternly with employers abusing Zambian workers, following the discovery of appalling working conditions at Chi Farm in Lusaka District. Minister of Labour and Social Security, Misheck Nyambose, issued the warning when he inspected the Chinese-owned pig farm, Chi Farm, located along Mungwi Road in Lusaka West. Mr Nyambose […]",
-   "t": "government warns employers against abusing zambian workers",
-   "title": "GOVERNMENT WARNS EMPLOYERS AGAINST ABUSING ZAMBIAN WORKERS"
-  },
   {
    "at": "2026-11-14T20:13:45.683979+00:00",
    "s": "",
@@ -288,6 +276,18 @@
    "s": "Mumbwa District Commissioner, Namukulo Hayumbu, says the district is positioning itself to contribute over 1,000 megawatts of solar power by 2031 towards the 10, 000 megawatts national target outlined in the Grow Zambia Agenda. Ms Hayumbu says Sunshare Energy Company alone is expected to generate 1,000 megawatts in phases while Kitumba Mine is set to […]",
    "t": "mumbwa district to contribute over 1 000 megawatts solar power",
    "title": "Mumbwa district to contribute over 1,000 megawatts solar power"
+  },
+  {
+   "at": "2026-11-16T18:27:39.654111+00:00",
+   "s": "",
+   "t": "imf hails zambia s progress in managing climate related fiscal risks",
+   "title": "IMF hails Zambia’s progress in managing climate-related fiscal risks"
+  },
+  {
+   "at": "2026-11-16T18:28:43.643237+00:00",
+   "s": "An Early Childhood Education (ECE) teacher at Ntulo Primary School in Kawambwa District has urged parents and guardians to ensure that their children obtain birth certificates. Benken Sebente says birth certificates are critical to establishing the birth identity of children and enable them secure access to essential services. Mr Sebente added that birth registration is important […]",
+   "t": "parents urged to obtain children s birth certificates",
+   "title": "Parents urged to obtain children’s birth certificates"
   }
  ],
  "seen": {
@@ -426,6 +426,7 @@
   "a9343a8bba8e07b1": "2026-11-13T16:02:06.474654+00:00",
   "aaa9e5d51fc06de4": "2026-11-15T10:21:40.151559+00:00",
   "ab12733ad80d886b": "2026-11-11T12:28:41.484095+00:00",
+  "ac743ac8c19d2ab5": "2026-11-16T18:28:43.643200+00:00",
   "ad88d03185e74633": "2026-11-11T12:28:41.484095+00:00",
   "b146296e157a7f46": "2026-11-15T13:32:35.572136+00:00",
   "b205908e603d475b": "2026-11-11T12:28:41.484095+00:00",
@@ -486,6 +487,7 @@
   "ee28b5e9e48fb6e1": "2026-11-13T18:46:25.429635+00:00",
   "ef5f4f8b11ebab8f": "2026-11-12T08:52:10.793129+00:00",
   "f208f0d52d0204bd": "2026-11-13T10:47:10.690974+00:00",
+  "f3bfb126bb9b5a26": "2026-11-16T18:27:39.654072+00:00",
   "f580aebc4a0e2d45": "2026-11-15T15:57:11.012307+00:00",
   "f8eb5441980499c0": "2026-11-12T15:10:43.776525+00:00",
   "f983b25863c5f2e1": "2026-11-16T17:30:23.043873+00:00",
