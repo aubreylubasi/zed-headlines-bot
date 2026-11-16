@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 9,
+  "count": 11,
   "date": "2026-11-16"
  },
  "failures": {
@@ -26,29 +26,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-16T14:07:58.930405+00:00",
-  "id": "1405471502649229_122097105297555618",
-  "title": "Police nab 10 over copper truck hijacking"
+  "at": "2026-11-16T16:19:10.966623+00:00",
+  "id": "1405471502649229_122097172809555618",
+  "title": "Mufulira entrepreneurs urged to leverage on the district’s location"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-14T14:21:00.751569+00:00",
-   "s": "Chief Chibesakunda of the Bisa people in Shiwang’andu District, Muchinga Province has expressed concern over the continued cutting down of trees by some community members during caterpillar harvesting. The traditional leader, who spoke through his Prime Minister, Mubanga Clapperson, has urged his subjects to adopt sustainable harvesting methods and desist from destroying trees in search […]",
-   "t": "chief concerned over tree cutting during caterpillar harvesting",
-   "title": "CHIEF CONCERNED OVER TREE CUTTING DURING CATERPILLAR HARVESTING"
-  },
-  {
-   "at": "2026-11-14T14:21:19.381370+00:00",
-   "s": "",
-   "t": "moroccan sahara france reaffirms firm support for morocco s sovereignty and autonomy",
-   "title": "Moroccan Sahara: France reaffirms firm support for Morocco’s sovereignty and autonomy"
-  },
-  {
-   "at": "2026-11-14T15:17:00.688220+00:00",
-   "s": "President Hakainde Hichilema has urged elected and appointed leaders to remain alert to the needs of the people and prioritise service delivery in their respective positions. Speaking during a church service at Choma Central Seventh-day Adventist Church, President Hichilema challenged mayors, councillors, council chairpersons, Members of Parliament and Ministers to discern the times, keep their […]",
-   "t": "president hichilema counsel s leaders",
-   "title": "President Hichilema counsel’s leaders"
-  },
   {
    "at": "2026-11-14T18:27:01.207512+00:00",
    "s": "",
@@ -282,6 +264,18 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "police nab 10 over copper truck hijacking",
    "title": "Police nab 10 over copper truck hijacking"
+  },
+  {
+   "at": "2026-11-16T16:17:18.781430+00:00",
+   "s": "Lusaka Man Wins K6,000,000 playing JetX on betPawa, Zambia’s Largest Recorded JetX Win Four bets in one JetX flight each paid the K1,500,000 maximum, for a total of K6,000,000. Davis, a construction worker from Lusaka, has won K6,000,000 on JetX at betPawa. Four bets he placed in the same flight each paid K1,500,000, the […]",
+   "t": "lusaka man wins k6 000 000 playing jetx on betpawa zambia s largest recorded jetx win",
+   "title": "Lusaka Man Wins K6,000,000 playing JetX on betPawa, Zambia’s Largest Recorded JetX Win"
+  },
+  {
+   "at": "2026-11-16T16:19:10.951743+00:00",
+   "s": "Mufulira District Commissioner, Evaristo Chilumba, has urged local entrepreneurs to leverage the strategic positioning of the district near the border with the Democratic Republic of Congo (DRC) to engage in trade and establish successful enterprises. Mr Chilumba states that the proximity of Mufulira to the neighboring country offers vast opportunities for cross border commerce, which […]",
+   "t": "mufulira entrepreneurs urged to leverage on the district s location",
+   "title": "Mufulira entrepreneurs urged to leverage on the district’s location"
   }
  ],
  "seen": {
@@ -349,6 +343,7 @@
   "430dd3cfe4d984e2": "2026-11-12T05:34:57.209497+00:00",
   "45d42dcadd18ba31": "2026-11-11T12:28:41.484095+00:00",
   "4727696ca03969ec": "2026-11-14T12:29:47.351297+00:00",
+  "47a9aebad1118b09": "2026-11-16T16:19:10.951702+00:00",
   "49b735bb188f188b": "2026-11-11T12:28:41.484095+00:00",
   "49db19e99725a804": "2026-11-11T12:28:41.484095+00:00",
   "4a179a974b5d6dda": "2026-11-11T12:28:41.484095+00:00",
@@ -372,6 +367,7 @@
   "6192dd52f8a92b47": "2026-11-16T10:19:10.367097+00:00",
   "62764f6d40dbaf40": "2026-11-11T12:28:41.484095+00:00",
   "657c52440bfafcf0": "2026-11-13T10:37:52.592574+00:00",
+  "66d1e06da59fd2a2": "2026-11-16T16:17:18.781549+00:00",
   "6923eaa409f8cfcd": "2026-11-13T12:48:17.060681+00:00",
   "6a46f90a45b53f99": "2026-11-11T12:28:41.484095+00:00",
   "6a70754fe3eee841": "2026-11-11T12:28:41.484095+00:00",
@@ -458,6 +454,7 @@
   "d8060b1f741a38da": "2026-11-16T11:39:41.270236+00:00",
   "d94a3dbf67854358": "2026-11-11T12:28:41.484095+00:00",
   "d95c8cb6a5583907": "2026-11-14T15:17:00.688181+00:00",
+  "db70f486902efd33": "2026-11-16T16:17:18.781388+00:00",
   "dbd53b84d11bd940": "2026-11-11T12:28:41.484095+00:00",
   "dc98fab07d91bc2b": "2026-11-11T12:28:41.484095+00:00",
   "dd8f7907c2c834ca": "2026-11-12T03:30:43.437022+00:00",
