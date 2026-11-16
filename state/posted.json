@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 6,
+  "count": 8,
   "date": "2026-11-16"
  },
  "failures": {
@@ -26,9 +26,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-16T10:20:06.576454+00:00",
-  "id": "1405471502649229_122096954211555618",
-  "title": "Rangers stun Blades with second-half comeback in KCM derby"
+  "at": "2026-11-16T11:40:22.220506+00:00",
+  "id": "1405471502649229_122097007257555618",
+  "title": "ZCTU calls for protection of whistleblowers exposing corruption"
  },
  "recent_titles": [
   {
@@ -300,6 +300,18 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "rangers stun blades with second half comeback in kcm derby",
    "title": "Rangers stun Blades with second-half comeback in KCM derby"
+  },
+  {
+   "at": "2026-11-16T11:39:41.270269+00:00",
+   "s": "",
+   "t": "51 wildlife officers cry out over sack letters after alleged protest over conditions of service",
+   "title": "51 wildlife officers cry out over sack letters after alleged protest over conditions of service"
+  },
+  {
+   "at": "2026-11-16T11:40:22.209198+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "zctu calls for protection of whistleblowers exposing corruption",
+   "title": "ZCTU calls for protection of whistleblowers exposing corruption"
   }
  ],
  "seen": {
@@ -350,6 +362,7 @@
   "2fd1e86014774387": "2026-11-12T04:33:36.327100+00:00",
   "2fdd1a041f27eddd": "2026-11-13T10:47:31.514113+00:00",
   "2fddff583740826f": "2026-11-11T12:28:41.484095+00:00",
+  "301fc23b97a09b5c": "2026-11-16T11:39:22.358039+00:00",
   "30c9ec5d2f29d4c2": "2026-11-16T04:50:04.598833+00:00",
   "314a7e88f0b27274": "2026-11-12T12:49:58.212204+00:00",
   "32851fe0b9ac051e": "2026-11-14T20:51:57.308731+00:00",
@@ -383,6 +396,7 @@
   "5de3777fd3f43270": "2026-11-11T12:28:41.484095+00:00",
   "5e39d71518479d7e": "2026-11-11T12:28:41.484095+00:00",
   "5fe52db4ca758716": "2026-11-11T17:10:51.001920+00:00",
+  "5ff9fce4045dfb4b": "2026-11-16T11:40:22.209165+00:00",
   "614d32abf724625a": "2026-11-11T12:28:41.484095+00:00",
   "6192dd52f8a92b47": "2026-11-16T10:19:10.367097+00:00",
   "62764f6d40dbaf40": "2026-11-11T12:28:41.484095+00:00",
@@ -470,6 +484,7 @@
   "d4954831649dff79": "2026-11-11T12:28:41.484095+00:00",
   "d4cd5f22be48bce0": "2026-11-12T10:50:27.096471+00:00",
   "d74611228f3b975b": "2026-11-11T12:28:41.484095+00:00",
+  "d8060b1f741a38da": "2026-11-16T11:39:41.270236+00:00",
   "d94a3dbf67854358": "2026-11-11T12:28:41.484095+00:00",
   "d95c8cb6a5583907": "2026-11-14T15:17:00.688181+00:00",
   "dbd53b84d11bd940": "2026-11-11T12:28:41.484095+00:00",
