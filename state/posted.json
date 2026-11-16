@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 4,
+  "count": 6,
   "date": "2026-11-16"
  },
  "failures": {
@@ -26,9 +26,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-16T08:13:03.648290+00:00",
-  "id": "1405471502649229_122096884827555618",
-  "title": "Chitambala penalty heroics send U23 into next round"
+  "at": "2026-11-16T10:20:06.576454+00:00",
+  "id": "1405471502649229_122096954211555618",
+  "title": "Rangers stun Blades with second-half comeback in KCM derby"
  },
  "recent_titles": [
   {
@@ -288,6 +288,18 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "chitambala penalty heroics send u23 into next round",
    "title": "Chitambala penalty heroics send U23 into next round"
+  },
+  {
+   "at": "2026-11-16T10:19:29.937120+00:00",
+   "s": "President Hakainde Hichilema has cautioned citizens against circulating misleading information on social media, urging them not to allow false narratives to distract them from participating in the Grow Zambia Agenda. The President said national development requires collective responsibility from every citizen. He called on communities in Macha and Mapanza Chiefdoms in Southern Province to channel […]",
+   "t": "president hichilema calls for support for the grow zambia agenda",
+   "title": "President Hichilema calls for support for the Grow Zambia Agenda"
+  },
+  {
+   "at": "2026-11-16T10:20:06.561442+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "rangers stun blades with second half comeback in kcm derby",
+   "title": "Rangers stun Blades with second-half comeback in KCM derby"
   }
  ],
  "seen": {
@@ -348,6 +360,7 @@
   "37c8b5048a2394fc": "2026-11-14T20:13:45.683955+00:00",
   "3abaabd89ccd448a": "2026-11-14T14:21:00.751533+00:00",
   "3e81c957beb560a9": "2026-11-11T15:05:02.067407+00:00",
+  "41eff76b0df459b5": "2026-11-16T10:20:06.561405+00:00",
   "41f2f7d7afb111cf": "2026-11-11T12:28:41.484095+00:00",
   "430dd3cfe4d984e2": "2026-11-12T05:34:57.209497+00:00",
   "45d42dcadd18ba31": "2026-11-11T12:28:41.484095+00:00",
@@ -366,10 +379,12 @@
   "59fee8df39ed8360": "2026-11-14T11:00:25.786844+00:00",
   "5acb4255f806c27f": "2026-11-15T11:55:30.166062+00:00",
   "5c5d4d8f0d00b751": "2026-11-14T12:23:17.805505+00:00",
+  "5d80949cc50d39ef": "2026-11-16T10:19:29.937086+00:00",
   "5de3777fd3f43270": "2026-11-11T12:28:41.484095+00:00",
   "5e39d71518479d7e": "2026-11-11T12:28:41.484095+00:00",
   "5fe52db4ca758716": "2026-11-11T17:10:51.001920+00:00",
   "614d32abf724625a": "2026-11-11T12:28:41.484095+00:00",
+  "6192dd52f8a92b47": "2026-11-16T10:19:10.367097+00:00",
   "62764f6d40dbaf40": "2026-11-11T12:28:41.484095+00:00",
   "657c52440bfafcf0": "2026-11-13T10:37:52.592574+00:00",
   "6923eaa409f8cfcd": "2026-11-13T12:48:17.060681+00:00",
