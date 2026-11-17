@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 3,
+  "count": 4,
   "date": "2026-11-17"
  },
  "failures": {
@@ -26,17 +26,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-17T05:34:12.956239+00:00",
-  "id": "1405471502649229_122097512721555618",
-  "title": "LAZ vows to defend two-term presidential limit, threatens legal action"
+  "at": "2026-11-17T06:36:34.974684+00:00",
+  "id": "1405471502649229_122097535335555618",
+  "title": "Esther Lungu theft case resumes on Dec 16"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-15T06:27:16.931836+00:00",
-   "s": "ZAMBIA wants to turn shared food culture into business. Trade and Exports Minister Caroline Kaunda Katotobwe proposed a joint Zambia-Japan Culinary and Export Showcase that would link chefs, producers, exporters and investors through demonstrations, exhibitions and business-to-business meetings. Katotobwe floated the idea at a lecture and reception on sake and washoku, Japanese cuisine, at the […] The post Zambia proposes joint culinary showcase with Japan to drive trade and tourism first appear",
-   "t": "zambia proposes joint culinary showcase with japan to drive trade and tourism",
-   "title": "Zambia proposes joint culinary showcase with Japan to drive trade and tourism"
-  },
   {
    "at": "2026-11-15T07:42:45.981794+00:00",
    "s": "This content is for members only. Visit the site and log in/register to read.",
@@ -282,6 +276,12 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "laz vows to defend two term presidential limit threatens legal action",
    "title": "LAZ vows to defend two-term presidential limit, threatens legal action"
+  },
+  {
+   "at": "2026-11-17T06:36:34.965092+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "esther lungu theft case resumes on dec 16",
+   "title": "Esther Lungu theft case resumes on Dec 16"
   }
  ],
  "seen": {
@@ -488,6 +488,7 @@
   "ee28b5e9e48fb6e1": "2026-11-13T18:46:25.429635+00:00",
   "ef5f4f8b11ebab8f": "2026-11-12T08:52:10.793129+00:00",
   "f208f0d52d0204bd": "2026-11-13T10:47:10.690974+00:00",
+  "f27aa52b8554b70e": "2026-11-17T06:36:34.965054+00:00",
   "f3bfb126bb9b5a26": "2026-11-16T18:27:39.654072+00:00",
   "f580aebc4a0e2d45": "2026-11-15T15:57:11.012307+00:00",
   "f8eb5441980499c0": "2026-11-12T15:10:43.776525+00:00",
