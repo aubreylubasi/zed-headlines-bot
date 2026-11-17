@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 2,
+  "count": 3,
   "date": "2026-11-17"
  },
  "failures": {
@@ -26,23 +26,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-17T04:33:56.038996+00:00",
-  "id": "1405471502649229_122097487185555618",
-  "title": "Security guard jailed four months in Chisamba"
+  "at": "2026-11-17T05:34:12.956239+00:00",
+  "id": "1405471502649229_122097512721555618",
+  "title": "LAZ vows to defend two-term presidential limit, threatens legal action"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-15T05:28:10.649182+00:00",
-   "s": "This content is for members only. Visit the site and log in/register to read.",
-   "t": "govt proposes doubling mobile money levy hikes passport fees",
-   "title": "Govt proposes doubling mobile money levy, hikes passport fees"
-  },
-  {
-   "at": "2026-11-15T05:28:37.250680+00:00",
-   "s": "This content is for members only. Visit the site and log in/register to read.",
-   "t": "weekend edition 308 sunday november 15 2026",
-   "title": "Weekend Edition 308 Sunday November 15, 2026"
-  },
   {
    "at": "2026-11-15T06:27:16.931836+00:00",
    "s": "ZAMBIA wants to turn shared food culture into business. Trade and Exports Minister Caroline Kaunda Katotobwe proposed a joint Zambia-Japan Culinary and Export Showcase that would link chefs, producers, exporters and investors through demonstrations, exhibitions and business-to-business meetings. Katotobwe floated the idea at a lecture and reception on sake and washoku, Japanese cuisine, at the […] The post Zambia proposes joint culinary showcase with Japan to drive trade and tourism first appear",
@@ -288,6 +276,12 @@
    "s": "A 20-year-old security guard of Chikonkomene area in Chisamba district has been sentenced to four months imprisonment with hard labour for stealing a bag of maize from his employer. Webster Mulala, a security guard at Bush Cut Farm, was convicted and sentenced by Chisamba Subordinate Court Resident Magistrate, Susan Magalashi, after he pleaded guilty to […]",
    "t": "security guard jailed four months in chisamba",
    "title": "Security guard jailed four months in Chisamba"
+  },
+  {
+   "at": "2026-11-17T05:34:12.940653+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "laz vows to defend two term presidential limit threatens legal action",
+   "title": "LAZ vows to defend two-term presidential limit, threatens legal action"
   }
  ],
  "seen": {
@@ -300,6 +294,7 @@
   "048396251bd6a302": "2026-11-14T15:16:15.391298+00:00",
   "069f0ce001d5f3da": "2026-11-13T12:47:55.836622+00:00",
   "06fbfd88252d2a42": "2026-11-12T09:46:46.023785+00:00",
+  "09c7cb1184777ba1": "2026-11-17T05:34:12.940616+00:00",
   "09f69974896b2579": "2026-11-15T17:15:19.510767+00:00",
   "0b5a84b23574960b": "2026-11-17T04:33:20.353580+00:00",
   "0b8e7d06472cf74e": "2026-11-15T11:17:36.641810+00:00",
