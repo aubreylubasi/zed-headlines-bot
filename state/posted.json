@@ -1,7 +1,7 @@
 {
  "daily": {
-  "count": 17,
-  "date": "2026-11-16"
+  "count": 0,
+  "date": "2026-11-17"
  },
  "failures": {
   "10c4445663e7e3b2": {
@@ -31,24 +31,6 @@
   "title": "UN agency warns against tax measures that could burden households"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-14T20:51:57.308763+00:00",
-   "s": "",
-   "t": "uganda military arrests fuel tensions over museveni succession",
-   "title": "Uganda military arrests fuel tensions over Museveni succession"
-  },
-  {
-   "at": "2026-11-14T20:52:27.220374+00:00",
-   "s": "President Hakainde Hichilema, accompanied by First Lady Mutinta Hichilema, has arrived at Choma Central Seventh-day Adventist Church to join congregants in Sabbath worship. The Head of State was welcomed with a special guard of honour mounted by the church’s Pathfinders, who sang songs of praise before he inspected the parade and joined the congregation for […]",
-   "t": "president hichilema arrives at choma central sda church for worship",
-   "title": "PRESIDENT HICHILEMA ARRIVES AT CHOMA CENTRAL SDA CHURCH FOR WORSHIP"
-  },
-  {
-   "at": "2026-11-15T03:24:40.195020+00:00",
-   "s": "Lindiwe “Lindi” Alam, the Zambian vocalist who won Project Fame in 2004, has died in Italy after suffering a stroke. She was in her late forties. The Zambian-born singer, songwriter, actress and activist, known in later years as Lindiwe Bungane, passed away on Saturday, 14th November 2026. At home, she is best remembered for the […]",
-   "t": "lindiwe alam project fame winner and nalema star dies in italy",
-   "title": "Lindiwe Alam, Project Fame Winner And “Nalema” Star, Dies In Italy"
-  },
   {
    "at": "2026-11-15T05:28:10.649182+00:00",
    "s": "This content is for members only. Visit the site and log in/register to read.",
@@ -377,6 +359,7 @@
   "57e6a7d66fd26077": "2026-11-11T12:28:41.484095+00:00",
   "59fee8df39ed8360": "2026-11-14T11:00:25.786844+00:00",
   "5acb4255f806c27f": "2026-11-15T11:55:30.166062+00:00",
+  "5c51d44135f89fc7": "2026-11-17T03:24:58.012197+00:00",
   "5c5d4d8f0d00b751": "2026-11-14T12:23:17.805505+00:00",
   "5d80949cc50d39ef": "2026-11-16T10:19:29.937086+00:00",
   "5de3777fd3f43270": "2026-11-11T12:28:41.484095+00:00",
