@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 4,
+  "count": 5,
   "date": "2026-11-17"
  },
  "failures": {
@@ -26,29 +26,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-17T06:36:34.974684+00:00",
-  "id": "1405471502649229_122097535335555618",
-  "title": "Esther Lungu theft case resumes on Dec 16"
+  "at": "2026-11-17T13:51:29.823756+00:00",
+  "id": "1405471502649229_122097753759555618",
+  "title": "Zambia breaks into Africa’s top 10 tourist destinations with 2.3 million visitors"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-15T12:31:58.813209+00:00",
-   "s": "This content is for members only. Visit the site and log in/register to read.",
-   "t": "court acquits yuyi s daughter another cop of corruption",
-   "title": "Court acquits Yuyi’s daughter, another cop of corruption"
-  },
-  {
-   "at": "2026-11-15T13:32:07.599707+00:00",
-   "s": "",
-   "t": "zmd urges northern farmers to plant as southern lusaka told to wait",
-   "title": "ZMD urges northern farmers to plant as Southern, Lusaka told to wait"
-  },
-  {
-   "at": "2026-11-15T13:32:35.572200+00:00",
-   "s": "",
-   "t": "prince luv yo maps team up on emotional new single over",
-   "title": "Prince Luv, Yo Maps team up on emotional new single ‘Over’"
-  },
   {
    "at": "2026-11-15T14:23:08.258359+00:00",
    "s": "",
@@ -210,6 +192,12 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "esther lungu theft case resumes on dec 16",
    "title": "Esther Lungu theft case resumes on Dec 16"
+  },
+  {
+   "at": "2026-11-17T13:51:29.809036+00:00",
+   "s": "ZAMBIA has secured 8th place among Africa’s most visited countries in 2025, welcoming 2.3 million visitors, according to The African Exponent. The figure puts Zambia on par with East African giant Tanzania, which also recorded 2.3 million, and ahead of regional neighbor Zimbabwe at 1.8 million. It is a notable showing for Zambia, placing the […] The post Zambia breaks into Africa’s top 10 tourist destinations with 2.3 million visitors first appeared on Mwebantu .",
+   "t": "zambia breaks into africa s top 10 tourist destinations with 2 3 million visitors",
+   "title": "Zambia breaks into Africa’s top 10 tourist destinations with 2.3 million visitors"
   }
  ],
  "seen": {
@@ -348,6 +336,7 @@
   "9e23daf09a153c23": "2026-11-11T12:28:41.484095+00:00",
   "9ecda198d130d12a": "2026-11-17T04:33:56.024536+00:00",
   "9f98925c57ac3617": "2026-11-15T13:32:07.599670+00:00",
+  "9ffb5e7467d54951": "2026-11-17T13:51:29.808970+00:00",
   "a17d54e724450399": "2026-11-15T10:22:06.844098+00:00",
   "a3059185ad52a851": "2026-11-14T14:21:19.381304+00:00",
   "a4b9e2ed72e3412a": "2026-11-12T10:49:58.424510+00:00",
