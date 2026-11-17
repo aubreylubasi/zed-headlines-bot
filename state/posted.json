@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 0,
+  "count": 2,
   "date": "2026-11-17"
  },
  "failures": {
@@ -26,9 +26,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-16T19:37:08.329521+00:00",
-  "id": "1405471502649229_122097286461555618",
-  "title": "UN agency warns against tax measures that could burden households"
+  "at": "2026-11-17T04:33:56.038996+00:00",
+  "id": "1405471502649229_122097487185555618",
+  "title": "Security guard jailed four months in Chisamba"
  },
  "recent_titles": [
   {
@@ -276,6 +276,18 @@
    "s": "",
    "t": "un agency warns against tax measures that could burden households",
    "title": "UN agency warns against tax measures that could burden households"
+  },
+  {
+   "at": "2026-11-17T04:33:20.353614+00:00",
+   "s": "",
+   "t": "zambia cholera cases hit 3 099 as outbreak spreads to 27 districts",
+   "title": "Zambia cholera cases hit 3,099 as outbreak spreads to 27 districts"
+  },
+  {
+   "at": "2026-11-17T04:33:56.024565+00:00",
+   "s": "A 20-year-old security guard of Chikonkomene area in Chisamba district has been sentenced to four months imprisonment with hard labour for stealing a bag of maize from his employer. Webster Mulala, a security guard at Bush Cut Farm, was convicted and sentenced by Chisamba Subordinate Court Resident Magistrate, Susan Magalashi, after he pleaded guilty to […]",
+   "t": "security guard jailed four months in chisamba",
+   "title": "Security guard jailed four months in Chisamba"
   }
  ],
  "seen": {
@@ -289,6 +301,7 @@
   "069f0ce001d5f3da": "2026-11-13T12:47:55.836622+00:00",
   "06fbfd88252d2a42": "2026-11-12T09:46:46.023785+00:00",
   "09f69974896b2579": "2026-11-15T17:15:19.510767+00:00",
+  "0b5a84b23574960b": "2026-11-17T04:33:20.353580+00:00",
   "0b8e7d06472cf74e": "2026-11-15T11:17:36.641810+00:00",
   "0d411f09ae067518": "2026-11-11T12:28:41.484095+00:00",
   "0dfd9165481fef64": "2026-11-13T15:04:14.019817+00:00",
@@ -410,6 +423,7 @@
   "9d762e0f7753607d": "2026-11-12T11:49:01.664337+00:00",
   "9e0eeb5ef5e7a3ba": "2026-11-15T14:23:08.258323+00:00",
   "9e23daf09a153c23": "2026-11-11T12:28:41.484095+00:00",
+  "9ecda198d130d12a": "2026-11-17T04:33:56.024536+00:00",
   "9f98925c57ac3617": "2026-11-15T13:32:07.599670+00:00",
   "a17d54e724450399": "2026-11-15T10:22:06.844098+00:00",
   "a3059185ad52a851": "2026-11-14T14:21:19.381304+00:00",
