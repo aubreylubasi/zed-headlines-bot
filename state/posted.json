@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 2,
+  "count": 3,
   "date": "2026-11-18"
  },
  "failures": {
@@ -26,17 +26,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-18T05:52:30.860570+00:00",
-  "id": "1405471502649229_122098125855555618",
-  "title": "Anti-corruption measures will be non-negotiable in mining – Tambatamba"
+  "at": "2026-11-18T06:55:25.706488+00:00",
+  "id": "1405471502649229_122098151727555618",
+  "title": "Govt’s move to absorb NHIMA’s K1.7bn debt is commendable – Chilufya"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-16T05:58:34.021492+00:00",
-   "s": "This content is for members only. Visit the site and log in/register to read.",
-   "t": "govt eyes 11 000mw power generation by 2031",
-   "title": "Govt eyes 11,000MW power generation by 2031"
-  },
   {
    "at": "2026-11-16T08:13:03.634367+00:00",
    "s": "This content is for members only. Visit the site and log in/register to read.",
@@ -168,6 +162,12 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "anti corruption measures will be non negotiable in mining tambatamba",
    "title": "Anti-corruption measures will be non-negotiable in mining – Tambatamba"
+  },
+  {
+   "at": "2026-11-18T06:55:25.693214+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "govt s move to absorb nhima s k1 7bn debt is commendable chilufya",
+   "title": "Govt’s move to absorb NHIMA’s K1.7bn debt is commendable – Chilufya"
   }
  ],
  "seen": {
@@ -178,6 +178,7 @@
   "02cbc7c458435221": "2026-11-11T12:28:41.484095+00:00",
   "03ce92611cd3cc7a": "2026-11-12T11:47:20.082399+00:00",
   "048396251bd6a302": "2026-11-14T15:16:15.391298+00:00",
+  "056d6ad2d59a3da8": "2026-11-18T06:55:25.693175+00:00",
   "069f0ce001d5f3da": "2026-11-13T12:47:55.836622+00:00",
   "06fbfd88252d2a42": "2026-11-12T09:46:46.023785+00:00",
   "09c7cb1184777ba1": "2026-11-17T05:34:12.940616+00:00",
