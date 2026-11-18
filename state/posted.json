@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 3,
+  "count": 4,
   "date": "2026-11-18"
  },
  "failures": {
@@ -26,9 +26,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-18T06:55:25.706488+00:00",
-  "id": "1405471502649229_122098151727555618",
-  "title": "Govt’s move to absorb NHIMA’s K1.7bn debt is commendable – Chilufya"
+  "at": "2026-11-18T08:09:12.808312+00:00",
+  "id": "1405471502649229_122098193409555618",
+  "title": "Burundi hold Zambia in Bujumbura"
  },
  "recent_titles": [
   {
@@ -168,6 +168,12 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "govt s move to absorb nhima s k1 7bn debt is commendable chilufya",
    "title": "Govt’s move to absorb NHIMA’s K1.7bn debt is commendable – Chilufya"
+  },
+  {
+   "at": "2026-11-18T08:09:12.798272+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "burundi hold zambia in bujumbura",
+   "title": "Burundi hold Zambia in Bujumbura"
   }
  ],
  "seen": {
@@ -295,6 +301,7 @@
   "87782eb80b02a197": "2026-11-11T12:28:41.484095+00:00",
   "895ed963a791f395": "2026-11-11T12:28:41.484095+00:00",
   "8af6667500e0e965": "2026-11-15T15:18:01.906332+00:00",
+  "915e682f6bf213b3": "2026-11-18T08:09:12.798238+00:00",
   "92a0338af99b2a6f": "2026-11-13T11:44:32.749632+00:00",
   "92c1aa9d4608cb11": "2026-11-11T12:28:41.484095+00:00",
   "9553fd53ca88a334": "2026-11-11T12:28:41.484095+00:00",
