@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 11,
+  "count": 13,
   "date": "2026-11-18"
  },
  "failures": {
@@ -26,23 +26,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-18T17:48:44.227309+00:00",
-  "id": "1405471502649229_122098521573555618",
-  "title": "Zambian govt establishes K5 billion SME guarantee scheme"
+  "at": "2026-11-18T19:49:43.210085+00:00",
+  "id": "1405471502649229_122098581435555618",
+  "title": "Lusaka Barber Turns a K6 Bet into K2,350,000"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-16T19:35:26.752988+00:00",
-   "s": "Public Service Management Division (PSMD) Permanent Secretary Lois Mulube has urged public officers approaching retirement to embrace entrepreneurship and use their experience, skills and retirement benefits to contribute to national development. The remarks were made during the official opening of a two-day Pre-Retirement Training Module Validation Workshop held at Chikwa Lodge in Lusaka today from […]",
-   "t": "psmd ps urges retirees to embrace entrepreneurship",
-   "title": "PSMD PS urges retirees to embrace entrepreneurship"
-  },
-  {
-   "at": "2026-11-16T19:37:08.324671+00:00",
-   "s": "",
-   "t": "un agency warns against tax measures that could burden households",
-   "title": "UN agency warns against tax measures that could burden households"
-  },
   {
    "at": "2026-11-17T04:33:20.353614+00:00",
    "s": "",
@@ -144,6 +132,18 @@
    "s": "",
    "t": "zambian govt establishes k5 billion sme guarantee scheme",
    "title": "Zambian govt establishes K5 billion SME guarantee scheme"
+  },
+  {
+   "at": "2026-11-18T19:49:19.321518+00:00",
+   "s": "",
+   "t": "king of morocco launches morocco s offer a strategic plan for the national defense and security industry",
+   "title": "King of Morocco launches “Morocco’s offer,” a strategic plan for the national defense and security industry"
+  },
+  {
+   "at": "2026-11-18T19:49:43.196639+00:00",
+   "s": "LUSAKA, Zambia: A barber from Lusaka has won K2,350,000 on betPawa from a single K6 bet on Aviator. He says the win will help his family and the people around him. “I love Aviator the most; sometimes I try other games, but Aviator is my outright favourite,” Simon said. His bet climbed to a multiplier […] The post Lusaka Barber Turns a K6 Bet into K2,350,000 first appeared on Mwebantu .",
+   "t": "lusaka barber turns a k6 bet into k2 350 000",
+   "title": "Lusaka Barber Turns a K6 Bet into K2,350,000"
   }
  ],
  "seen": {
@@ -155,6 +155,7 @@
   "03ce92611cd3cc7a": "2026-11-12T11:47:20.082399+00:00",
   "048396251bd6a302": "2026-11-14T15:16:15.391298+00:00",
   "056d6ad2d59a3da8": "2026-11-18T06:55:25.693175+00:00",
+  "06420d94e7265fd6": "2026-11-18T19:49:43.196594+00:00",
   "069f0ce001d5f3da": "2026-11-13T12:47:55.836622+00:00",
   "06fbfd88252d2a42": "2026-11-12T09:46:46.023785+00:00",
   "09c7cb1184777ba1": "2026-11-17T05:34:12.940616+00:00",
@@ -276,6 +277,7 @@
   "87782eb80b02a197": "2026-11-11T12:28:41.484095+00:00",
   "895ed963a791f395": "2026-11-11T12:28:41.484095+00:00",
   "8af6667500e0e965": "2026-11-15T15:18:01.906332+00:00",
+  "8cd5aef83c3a1d22": "2026-11-18T19:49:19.321469+00:00",
   "915e682f6bf213b3": "2026-11-18T08:09:12.798238+00:00",
   "92a0338af99b2a6f": "2026-11-13T11:44:32.749632+00:00",
   "92c1aa9d4608cb11": "2026-11-11T12:28:41.484095+00:00",
