@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 10,
+  "count": 11,
   "date": "2026-11-18"
  },
  "failures": {
@@ -26,23 +26,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-18T16:55:01.740326+00:00",
-  "id": "1405471502649229_122098482507555618",
-  "title": "Govt orders national crackdown on illicit alcohol trade"
+  "at": "2026-11-18T17:48:44.227309+00:00",
+  "id": "1405471502649229_122098521573555618",
+  "title": "Zambian govt establishes K5 billion SME guarantee scheme"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-16T17:29:11.589725+00:00",
-   "s": "",
-   "t": "kwacha records biggest weekly loss in nearly a month",
-   "title": "Kwacha records biggest weekly loss in nearly a month"
-  },
-  {
-   "at": "2026-11-16T17:30:23.043966+00:00",
-   "s": "Mumbwa District Commissioner, Namukulo Hayumbu, says the district is positioning itself to contribute over 1,000 megawatts of solar power by 2031 towards the 10, 000 megawatts national target outlined in the Grow Zambia Agenda. Ms Hayumbu says Sunshare Energy Company alone is expected to generate 1,000 megawatts in phases while Kitumba Mine is set to […]",
-   "t": "mumbwa district to contribute over 1 000 megawatts solar power",
-   "title": "Mumbwa district to contribute over 1,000 megawatts solar power"
-  },
   {
    "at": "2026-11-16T18:27:39.654111+00:00",
    "s": "",
@@ -162,6 +150,12 @@
    "s": "",
    "t": "govt orders national crackdown on illicit alcohol trade",
    "title": "Govt orders national crackdown on illicit alcohol trade"
+  },
+  {
+   "at": "2026-11-18T17:48:44.222553+00:00",
+   "s": "",
+   "t": "zambian govt establishes k5 billion sme guarantee scheme",
+   "title": "Zambian govt establishes K5 billion SME guarantee scheme"
   }
  ],
  "seen": {
@@ -250,6 +244,7 @@
   "524602ccff7f9a5b": "2026-11-11T12:28:41.484095+00:00",
   "5300f14e4e3ba9d7": "2026-11-11T12:28:41.484095+00:00",
   "5525b3b582bdf845": "2026-11-12T14:05:04.577289+00:00",
+  "554e1042993a8b71": "2026-11-18T17:48:44.222518+00:00",
   "57e6a7d66fd26077": "2026-11-11T12:28:41.484095+00:00",
   "59fee8df39ed8360": "2026-11-14T11:00:25.786844+00:00",
   "5acb4255f806c27f": "2026-11-15T11:55:30.166062+00:00",
