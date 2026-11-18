@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 8,
+  "count": 9,
   "date": "2026-11-18"
  },
  "failures": {
@@ -26,23 +26,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-18T11:30:57.748663+00:00",
-  "id": "1405471502649229_122098306449555618",
-  "title": "Best Care Institute holds second graduation ceremony"
+  "at": "2026-11-18T12:31:57.200960+00:00",
+  "id": "1405471502649229_122098339599555618",
+  "title": "Eagles, Buffaloes clash in military derby"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-16T11:39:41.270269+00:00",
-   "s": "",
-   "t": "51 wildlife officers cry out over sack letters after alleged protest over conditions of service",
-   "title": "51 wildlife officers cry out over sack letters after alleged protest over conditions of service"
-  },
-  {
-   "at": "2026-11-16T11:40:22.209198+00:00",
-   "s": "This content is for members only. Visit the site and log in/register to read.",
-   "t": "zctu calls for protection of whistleblowers exposing corruption",
-   "title": "ZCTU calls for protection of whistleblowers exposing corruption"
-  },
   {
    "at": "2026-11-16T14:07:58.921387+00:00",
    "s": "This content is for members only. Visit the site and log in/register to read.",
@@ -180,6 +168,12 @@
    "s": "Best Care Institute in Chongwe district has held its second graduation ceremony, with 75 students under the Technical Education, Vocational and Entrepreneurship Training (TEVET) programme graduating. Chongwe Mayor, Frederick Sashi, has congratulated the graduates for successfully completing their studies and choosing noble professions that contribute to the development of society. Speaking during the ceremony, Mr Sashi […]",
    "t": "best care institute holds second graduation ceremony",
    "title": "Best Care Institute holds second graduation ceremony"
+  },
+  {
+   "at": "2026-11-18T12:31:57.192200+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "eagles buffaloes clash in military derby",
+   "title": "Eagles, Buffaloes clash in military derby"
   }
  ],
  "seen": {
@@ -280,6 +274,7 @@
   "614d32abf724625a": "2026-11-11T12:28:41.484095+00:00",
   "6192dd52f8a92b47": "2026-11-16T10:19:10.367097+00:00",
   "62764f6d40dbaf40": "2026-11-11T12:28:41.484095+00:00",
+  "64a78fc14aa09497": "2026-11-18T12:31:57.192168+00:00",
   "657c52440bfafcf0": "2026-11-13T10:37:52.592574+00:00",
   "66d1e06da59fd2a2": "2026-11-16T16:17:18.781549+00:00",
   "6923eaa409f8cfcd": "2026-11-13T12:48:17.060681+00:00",
