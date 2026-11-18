@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 4,
+  "count": 6,
   "date": "2026-11-18"
  },
  "failures": {
@@ -26,23 +26,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-18T08:09:12.808312+00:00",
-  "id": "1405471502649229_122098193409555618",
-  "title": "Burundi hold Zambia in Bujumbura"
+  "at": "2026-11-18T10:26:53.571468+00:00",
+  "id": "1405471502649229_122098274829555618",
+  "title": "Bin It, Clean It Campaign launched in Kabwe"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-16T10:19:29.937120+00:00",
-   "s": "President Hakainde Hichilema has cautioned citizens against circulating misleading information on social media, urging them not to allow false narratives to distract them from participating in the Grow Zambia Agenda. The President said national development requires collective responsibility from every citizen. He called on communities in Macha and Mapanza Chiefdoms in Southern Province to channel […]",
-   "t": "president hichilema calls for support for the grow zambia agenda",
-   "title": "President Hichilema calls for support for the Grow Zambia Agenda"
-  },
-  {
-   "at": "2026-11-16T10:20:06.561442+00:00",
-   "s": "This content is for members only. Visit the site and log in/register to read.",
-   "t": "rangers stun blades with second half comeback in kcm derby",
-   "title": "Rangers stun Blades with second-half comeback in KCM derby"
-  },
   {
    "at": "2026-11-16T11:39:41.270269+00:00",
    "s": "",
@@ -168,6 +156,18 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "burundi hold zambia in bujumbura",
    "title": "Burundi hold Zambia in Bujumbura"
+  },
+  {
+   "at": "2026-11-18T10:26:24.317096+00:00",
+   "s": "THE Ministry of Home Affairs and Internal Security has discontinued the use of manual passport application forms across the country with immediate effect. In a press statement, the Ministry said all new passport applications, renewals and related services will now be submitted through the Online Passport Application System. The Ministry launched the online system in […] The post Zambia discontinues manual passport applications, moves fully online first appeared on Mwebantu .",
+   "t": "zambia discontinues manual passport applications moves fully online",
+   "title": "Zambia discontinues manual passport applications, moves fully online"
+  },
+  {
+   "at": "2026-11-18T10:26:53.557521+00:00",
+   "s": "Kabwe Municipal Council has launched the Bin It, Clean It Campaign to mitigate indiscriminate waste disposal in the Central Business District (CBD). Kabwe Mayor, Garry Domingo, explained that bins will be placed in strategic parts of the CBD tomorrow , to manage the disposal of waste. “Our first priority is to clear the CBD and […]",
+   "t": "bin it clean it campaign launched in kabwe",
+   "title": "Bin It, Clean It Campaign launched in Kabwe"
   }
  ],
  "seen": {
@@ -213,6 +213,7 @@
   "22f3f950cea33060": "2026-11-11T16:04:47.202501+00:00",
   "240b86681e21bcb0": "2026-11-11T12:28:41.484095+00:00",
   "24f8c3576278352f": "2026-11-15T08:40:19.385552+00:00",
+  "26adf007d129dc4b": "2026-11-18T10:26:53.557487+00:00",
   "26fc95083a249736": "2026-11-11T12:28:41.484095+00:00",
   "288115d7146e1d15": "2026-11-11T12:28:41.484095+00:00",
   "2b0c26d166c45cf9": "2026-11-11T12:28:41.484095+00:00",
@@ -250,6 +251,7 @@
   "4d50d3f56bc22d6f": "2026-11-13T11:44:11.090240+00:00",
   "507b936216dc9644": "2026-11-14T12:22:56.476020+00:00",
   "50a970992ea2e172": "2026-11-11T12:28:41.484095+00:00",
+  "51c035191b8f9757": "2026-11-18T10:26:24.317061+00:00",
   "524602ccff7f9a5b": "2026-11-11T12:28:41.484095+00:00",
   "5300f14e4e3ba9d7": "2026-11-11T12:28:41.484095+00:00",
   "5525b3b582bdf845": "2026-11-12T14:05:04.577289+00:00",
