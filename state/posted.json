@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 12,
+  "count": 13,
   "date": "2026-11-19"
  },
  "failures": {
@@ -26,9 +26,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-19T19:54:19.498891+00:00",
-  "id": "1405471502649229_122099282151555618",
-  "title": "President Hichilema Pays Last Respects to Late SDA Leader Mang’watu"
+  "at": "2026-11-19T20:43:31.650349+00:00",
+  "id": "1405471502649229_122099303523555618",
+  "title": "Govt moves to grant farmers improved access to agric information with launch of e-platform"
  },
  "recent_titles": [
   {
@@ -180,6 +180,12 @@
    "s": "PRESIDENT Hakainde Hichilema today joined mourners in paying last respects to Pastor Gladwin Mang’watu, the late president of the Rusangu Conference of the Seventh-day Adventist Church. President Hichilema attended the funeral with first lady Mutinta Hichilema. The Head of State said Mang’watu served not only the Seventh-day Adventist Church but the nation at large. “His […] The post President Hichilema Pays Last Respects to Late SDA Leader Mang’watu first appeared on Mwebantu .",
    "t": "president hichilema pays last respects to late sda leader mang watu",
    "title": "President Hichilema Pays Last Respects to Late SDA Leader Mang’watu"
+  },
+  {
+   "at": "2026-11-19T20:43:31.644919+00:00",
+   "s": "",
+   "t": "govt moves to grant farmers improved access to agric information with launch of e platform",
+   "title": "Govt moves to grant farmers improved access to agric information with launch of e-platform"
   }
  ],
  "seen": {
@@ -277,6 +283,7 @@
   "57e6a7d66fd26077": "2026-11-11T12:28:41.484095+00:00",
   "59fee8df39ed8360": "2026-11-14T11:00:25.786844+00:00",
   "5acb4255f806c27f": "2026-11-15T11:55:30.166062+00:00",
+  "5b0a0ea29738f77f": "2026-11-19T20:43:31.644879+00:00",
   "5c51d44135f89fc7": "2026-11-17T03:24:58.012197+00:00",
   "5c5d4d8f0d00b751": "2026-11-14T12:23:17.805505+00:00",
   "5d80949cc50d39ef": "2026-11-16T10:19:29.937086+00:00",
