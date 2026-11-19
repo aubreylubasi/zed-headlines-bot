@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 4,
+  "count": 5,
   "date": "2026-11-19"
  },
  "failures": {
@@ -26,9 +26,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-19T08:16:30.999547+00:00",
-  "id": "1405471502649229_122098901823555618",
-  "title": "Luanshya man gets 10 yrs for stealing phone after stoning owner"
+  "at": "2026-11-19T10:34:02.721477+00:00",
+  "id": "1405471502649229_122098980615555618",
+  "title": "Sports tourism must drive Zambia’s global image – VEEP"
  },
  "recent_titles": [
   {
@@ -144,6 +144,12 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "luanshya man gets 10 yrs for stealing phone after stoning owner",
    "title": "Luanshya man gets 10 yrs for stealing phone after stoning owner"
+  },
+  {
+   "at": "2026-11-19T10:34:02.714174+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "sports tourism must drive zambia s global image veep",
+   "title": "Sports tourism must drive Zambia’s global image – VEEP"
   }
  ],
  "seen": {
@@ -291,6 +297,7 @@
   "968c91453fd30b6d": "2026-11-16T19:35:26.752954+00:00",
   "96ee08bb59ba8926": "2026-11-11T18:06:09.423695+00:00",
   "9a07edf6e239a8f6": "2026-11-11T12:28:41.484095+00:00",
+  "9a1fcd8b5b664e68": "2026-11-19T10:30:50.148966+00:00",
   "9ab3f46e4823c4a7": "2026-11-19T08:14:38.548727+00:00",
   "9be1923b0cabfa02": "2026-11-11T12:28:41.484095+00:00",
   "9d02f54cdb2015c9": "2026-11-15T09:25:18.985750+00:00",
@@ -363,6 +370,7 @@
   "e2d94dcdad825ccc": "2026-11-11T17:11:11.285061+00:00",
   "e456d95fd38084b5": "2026-11-16T08:13:03.634332+00:00",
   "e4d9ef357a2c7717": "2026-11-15T09:25:32.530602+00:00",
+  "e4f88c3965b58301": "2026-11-19T10:34:02.714135+00:00",
   "e5c468ff443e1f39": "2026-11-11T12:28:41.484095+00:00",
   "e5edfc4bbfbe0fb2": "2026-11-19T03:44:47.781783+00:00",
   "e72cdb7f06753743": "2026-11-11T12:28:41.484095+00:00",
