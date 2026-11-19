@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 7,
+  "count": 9,
   "date": "2026-11-19"
  },
  "failures": {
@@ -26,9 +26,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-19T11:28:57.750419+00:00",
-  "id": "1405471502649229_122099010591555618",
-  "title": "Respect Fashion Sakala’s decision to retire"
+  "at": "2026-11-19T14:45:56.405737+00:00",
+  "id": "1405471502649229_122099110473555618",
+  "title": "Zambia Railways calls for removal of illegal structures"
  },
  "recent_titles": [
   {
@@ -156,6 +156,18 @@
    "s": "International striker Fashion Sakala’s announcement that he has retired from international football will no doubt divide opinion among Zambian football fans. Some will feel he still had much to offer the Chipolopolo. Others will question the timing. Others still will be disappointed that a player who wore the captain’s armband has chosen to step away. […]",
    "t": "respect fashion sakala s decision to retire",
    "title": "Respect Fashion Sakala’s decision to retire"
+  },
+  {
+   "at": "2026-11-19T14:43:34.650911+00:00",
+   "s": "For generations, women in many parts of the world have been told that a man’s house is their home, that property belongs to the husband’s family and that leadership is largely a man’s responsibility. These ideas have become so deeply embedded in society that questioning them is sometimes treated as an attack on tradition. […]",
+   "t": "the matriarchal order",
+   "title": "The Matriarchal Order"
+  },
+  {
+   "at": "2026-11-19T14:45:56.390354+00:00",
+   "s": "Zambia Railways has called on local authorities across the country to emulate Lusaka City Council by removing illegal structures and trading activities constructed within railway reserves to safeguard railway infrastructure and public safety. Zambia Railways Manager Public Relations, Sombe Longwani, says the company welcomes the recent operation by Lusaka City Council to remove illegal structures […]",
+   "t": "zambia railways calls for removal of illegal structures",
+   "title": "Zambia Railways calls for removal of illegal structures"
   }
  ],
  "seen": {
@@ -284,6 +296,7 @@
   "7bbba7d387a8f560": "2026-11-14T13:30:35.584637+00:00",
   "7df499ed1ef35ce6": "2026-11-15T12:31:58.813170+00:00",
   "7e5e1bb46cfcf74c": "2026-11-14T13:30:15.056309+00:00",
+  "8073993a1ab6400b": "2026-11-19T14:43:34.650871+00:00",
   "81e9b59d2f2c6711": "2026-11-11T12:28:41.484095+00:00",
   "83db5754c61093ea": "2026-11-13T14:03:04.618638+00:00",
   "84b7e39bd678fc2d": "2026-11-15T08:39:51.469246+00:00",
@@ -388,6 +401,7 @@
   "edbade4358640852": "2026-11-12T05:35:29.676148+00:00",
   "ee28b5e9e48fb6e1": "2026-11-13T18:46:25.429635+00:00",
   "ef5f4f8b11ebab8f": "2026-11-12T08:52:10.793129+00:00",
+  "f1eb73542bdde0ef": "2026-11-19T14:45:56.390314+00:00",
   "f208f0d52d0204bd": "2026-11-13T10:47:10.690974+00:00",
   "f27aa52b8554b70e": "2026-11-17T06:36:34.965054+00:00",
   "f3bfb126bb9b5a26": "2026-11-16T18:27:39.654072+00:00",
