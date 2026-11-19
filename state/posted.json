@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 5,
+  "count": 7,
   "date": "2026-11-19"
  },
  "failures": {
@@ -26,9 +26,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-19T10:34:02.721477+00:00",
-  "id": "1405471502649229_122098980615555618",
-  "title": "Sports tourism must drive Zambia’s global image – VEEP"
+  "at": "2026-11-19T11:28:57.750419+00:00",
+  "id": "1405471502649229_122099010591555618",
+  "title": "Respect Fashion Sakala’s decision to retire"
  },
  "recent_titles": [
   {
@@ -150,6 +150,18 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "sports tourism must drive zambia s global image veep",
    "title": "Sports tourism must drive Zambia’s global image – VEEP"
+  },
+  {
+   "at": "2026-11-19T11:28:32.419209+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "drc referendum law raises fears of tshisekedi third term",
+   "title": "DRC referendum law raises fears of Tshisekedi third term"
+  },
+  {
+   "at": "2026-11-19T11:28:57.736253+00:00",
+   "s": "International striker Fashion Sakala’s announcement that he has retired from international football will no doubt divide opinion among Zambian football fans. Some will feel he still had much to offer the Chipolopolo. Others will question the timing. Others still will be disappointed that a player who wore the captain’s armband has chosen to step away. […]",
+   "t": "respect fashion sakala s decision to retire",
+   "title": "Respect Fashion Sakala’s decision to retire"
   }
  ],
  "seen": {
@@ -220,6 +232,7 @@
   "35bd4b22ba36964c": "2026-11-16T08:13:03.647746+00:00",
   "37c8b5048a2394fc": "2026-11-14T20:13:45.683955+00:00",
   "3abaabd89ccd448a": "2026-11-14T14:21:00.751533+00:00",
+  "3b72258481fbc2a1": "2026-11-19T11:28:32.419176+00:00",
   "3e81c957beb560a9": "2026-11-11T15:05:02.067407+00:00",
   "41eff76b0df459b5": "2026-11-16T10:20:06.561405+00:00",
   "41f2f7d7afb111cf": "2026-11-11T12:28:41.484095+00:00",
@@ -284,6 +297,7 @@
   "856dd6a9916eba0e": "2026-11-15T07:42:45.981755+00:00",
   "857941f5f0d53fbd": "2026-11-13T15:02:16.006211+00:00",
   "87782eb80b02a197": "2026-11-11T12:28:41.484095+00:00",
+  "890725e9b3927e43": "2026-11-19T11:28:57.736215+00:00",
   "895ed963a791f395": "2026-11-11T12:28:41.484095+00:00",
   "8af6667500e0e965": "2026-11-15T15:18:01.906332+00:00",
   "8cd5aef83c3a1d22": "2026-11-18T19:49:19.321469+00:00",
