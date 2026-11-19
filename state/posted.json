@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 9,
+  "count": 10,
   "date": "2026-11-19"
  },
  "failures": {
@@ -26,9 +26,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-19T14:45:56.405737+00:00",
-  "id": "1405471502649229_122099110473555618",
-  "title": "Zambia Railways calls for removal of illegal structures"
+  "at": "2026-11-19T16:58:11.702447+00:00",
+  "id": "1405471502649229_122099186355555618",
+  "title": "Police discipline 2 officers over handling of Kalumbila DC accident scene"
  },
  "recent_titles": [
   {
@@ -168,6 +168,12 @@
    "s": "Zambia Railways has called on local authorities across the country to emulate Lusaka City Council by removing illegal structures and trading activities constructed within railway reserves to safeguard railway infrastructure and public safety. Zambia Railways Manager Public Relations, Sombe Longwani, says the company welcomes the recent operation by Lusaka City Council to remove illegal structures […]",
    "t": "zambia railways calls for removal of illegal structures",
    "title": "Zambia Railways calls for removal of illegal structures"
+  },
+  {
+   "at": "2026-11-19T16:58:11.685313+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "police discipline 2 officers over handling of kalumbila dc accident scene",
+   "title": "Police discipline 2 officers over handling of Kalumbila DC accident scene"
   }
  ],
  "seen": {
@@ -257,6 +263,7 @@
   "50a970992ea2e172": "2026-11-11T12:28:41.484095+00:00",
   "51c035191b8f9757": "2026-11-18T10:26:24.317061+00:00",
   "524602ccff7f9a5b": "2026-11-11T12:28:41.484095+00:00",
+  "527f40b173a368b9": "2026-11-19T16:58:11.685276+00:00",
   "5300f14e4e3ba9d7": "2026-11-11T12:28:41.484095+00:00",
   "5525b3b582bdf845": "2026-11-12T14:05:04.577289+00:00",
   "554e1042993a8b71": "2026-11-18T17:48:44.222518+00:00",
