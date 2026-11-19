@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 0,
+  "count": 2,
   "date": "2026-11-19"
  },
  "failures": {
@@ -26,17 +26,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-18T19:49:43.210085+00:00",
-  "id": "1405471502649229_122098581435555618",
-  "title": "Lusaka Barber Turns a K6 Bet into K2,350,000"
+  "at": "2026-11-19T06:57:10.664557+00:00",
+  "id": "1405471502649229_122098860573555618",
+  "title": "Police block term-limit marches as Kasonde warns democracy is on trial"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-17T06:36:34.965092+00:00",
-   "s": "This content is for members only. Visit the site and log in/register to read.",
-   "t": "esther lungu theft case resumes on dec 16",
-   "title": "Esther Lungu theft case resumes on Dec 16"
-  },
   {
    "at": "2026-11-17T13:51:29.809036+00:00",
    "s": "ZAMBIA has secured 8th place among Africa’s most visited countries in 2025, welcoming 2.3 million visitors, according to The African Exponent. The figure puts Zambia on par with East African giant Tanzania, which also recorded 2.3 million, and ahead of regional neighbor Zimbabwe at 1.8 million. It is a notable showing for Zambia, placing the […] The post Zambia breaks into Africa’s top 10 tourist destinations with 2.3 million visitors first appeared on Mwebantu .",
@@ -126,6 +120,18 @@
    "s": "LUSAKA, Zambia: A barber from Lusaka has won K2,350,000 on betPawa from a single K6 bet on Aviator. He says the win will help his family and the people around him. “I love Aviator the most; sometimes I try other games, but Aviator is my outright favourite,” Simon said. His bet climbed to a multiplier […] The post Lusaka Barber Turns a K6 Bet into K2,350,000 first appeared on Mwebantu .",
    "t": "lusaka barber turns a k6 bet into k2 350 000",
    "title": "Lusaka Barber Turns a K6 Bet into K2,350,000"
+  },
+  {
+   "at": "2026-11-19T06:55:08.401123+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "we support 24 hour economy but a drunk nation can t be productive lcc",
+   "title": "We support 24-hour economy, but a drunk nation can’t be productive – LCC"
+  },
+  {
+   "at": "2026-11-19T06:57:10.645800+00:00",
+   "s": "Police block term-limit marches as Kasonde warns democracy is on trial – term limit marches blocked The Zambia Police Service has advised two civil society groups not to go ahead with planned processions over presidential term limits, drawing a sharp response from human rights lawyer Linda Kasonde, who says Zambia’s democracy is now on trial. […]",
+   "t": "police block term limit marches as kasonde warns democracy is on trial",
+   "title": "Police block term-limit marches as Kasonde warns democracy is on trial"
   }
  ],
  "seen": {
@@ -244,6 +250,7 @@
   "75c89055f7d7bef1": "2026-11-11T12:28:41.484095+00:00",
   "7730600117344ab6": "2026-11-11T19:15:22.908757+00:00",
   "773b2ffa857fecac": "2026-11-14T20:52:27.220341+00:00",
+  "77571c4c6c4b14af": "2026-11-19T06:55:08.401082+00:00",
   "7791194bcb55bca5": "2026-11-15T12:31:30.231720+00:00",
   "77d52e3d31c39867": "2026-11-11T12:28:41.484095+00:00",
   "787f83c9c6fa2232": "2026-11-15T05:28:10.649148+00:00",
@@ -254,6 +261,7 @@
   "81e9b59d2f2c6711": "2026-11-11T12:28:41.484095+00:00",
   "83db5754c61093ea": "2026-11-13T14:03:04.618638+00:00",
   "84b7e39bd678fc2d": "2026-11-15T08:39:51.469246+00:00",
+  "8541a57abd8863e1": "2026-11-19T06:57:10.645762+00:00",
   "856dd6a9916eba0e": "2026-11-15T07:42:45.981755+00:00",
   "857941f5f0d53fbd": "2026-11-13T15:02:16.006211+00:00",
   "87782eb80b02a197": "2026-11-11T12:28:41.484095+00:00",
@@ -261,6 +269,7 @@
   "8af6667500e0e965": "2026-11-15T15:18:01.906332+00:00",
   "8cd5aef83c3a1d22": "2026-11-18T19:49:19.321469+00:00",
   "915e682f6bf213b3": "2026-11-18T08:09:12.798238+00:00",
+  "91ec79ecbfc8fe0b": "2026-11-19T06:54:54.041186+00:00",
   "92a0338af99b2a6f": "2026-11-13T11:44:32.749632+00:00",
   "92c1aa9d4608cb11": "2026-11-11T12:28:41.484095+00:00",
   "9553fd53ca88a334": "2026-11-11T12:28:41.484095+00:00",
