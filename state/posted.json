@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 2,
+  "count": 4,
   "date": "2026-11-19"
  },
  "failures": {
@@ -26,9 +26,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-19T06:57:10.664557+00:00",
-  "id": "1405471502649229_122098860573555618",
-  "title": "Police block term-limit marches as Kasonde warns democracy is on trial"
+  "at": "2026-11-19T08:16:30.999547+00:00",
+  "id": "1405471502649229_122098901823555618",
+  "title": "Luanshya man gets 10 yrs for stealing phone after stoning owner"
  },
  "recent_titles": [
   {
@@ -132,6 +132,18 @@
    "s": "Police block term-limit marches as Kasonde warns democracy is on trial – term limit marches blocked The Zambia Police Service has advised two civil society groups not to go ahead with planned processions over presidential term limits, drawing a sharp response from human rights lawyer Linda Kasonde, who says Zambia’s democracy is now on trial. […]",
    "t": "police block term limit marches as kasonde warns democracy is on trial",
    "title": "Police block term-limit marches as Kasonde warns democracy is on trial"
+  },
+  {
+   "at": "2026-11-19T08:14:38.548760+00:00",
+   "s": "#WATCH #LIVE #Mwebantu, We are live with United Capital Fertilizer (UCF) at the 120th Zambia National Farmers’ Union Congress at Mulungushi International Conference Centre, where UCF is engaging District Farmers’ Associations to hear firsthand how their fertilizer performed during the last farming season, including farmers’ experiences and harvest results. Fertilizer Yapa Zed! Let us know […] The post LIVE United Capital Fertilizer Connects with Farmers first appeared on Mwebantu .",
+   "t": "live united capital fertilizer connects with farmers",
+   "title": "LIVE United Capital Fertilizer Connects with Farmers"
+  },
+  {
+   "at": "2026-11-19T08:16:30.983623+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "luanshya man gets 10 yrs for stealing phone after stoning owner",
+   "title": "Luanshya man gets 10 yrs for stealing phone after stoning owner"
   }
  ],
  "seen": {
@@ -193,6 +205,7 @@
   "301fc23b97a09b5c": "2026-11-16T11:39:22.358039+00:00",
   "30c9ec5d2f29d4c2": "2026-11-16T04:50:04.598833+00:00",
   "314a7e88f0b27274": "2026-11-12T12:49:58.212204+00:00",
+  "31cb55fdd27efd9e": "2026-11-19T08:16:30.983590+00:00",
   "32851fe0b9ac051e": "2026-11-14T20:51:57.308731+00:00",
   "32970213e2ce7dc0": "2026-11-15T06:27:16.931800+00:00",
   "32ab2d5b580f7c7c": "2026-11-11T12:28:41.484095+00:00",
@@ -277,6 +290,7 @@
   "968c91453fd30b6d": "2026-11-16T19:35:26.752954+00:00",
   "96ee08bb59ba8926": "2026-11-11T18:06:09.423695+00:00",
   "9a07edf6e239a8f6": "2026-11-11T12:28:41.484095+00:00",
+  "9ab3f46e4823c4a7": "2026-11-19T08:14:38.548727+00:00",
   "9be1923b0cabfa02": "2026-11-11T12:28:41.484095+00:00",
   "9d02f54cdb2015c9": "2026-11-15T09:25:18.985750+00:00",
   "9d762e0f7753607d": "2026-11-12T11:49:01.664337+00:00",
