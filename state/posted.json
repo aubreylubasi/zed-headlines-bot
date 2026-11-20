@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 4,
+  "count": 6,
   "date": "2026-11-20"
  },
  "failures": {
@@ -30,29 +30,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-20T10:25:22.821969+00:00",
-  "id": "1405471502649229_122099702205555618",
-  "title": "Chipepo hails Zesco team effort after Arrows win"
+  "at": "2026-11-20T11:30:41.858704+00:00",
+  "id": "1405471502649229_122099735781555618",
+  "title": "Kangwa confident Chipolopolo will qualify for AFCON"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-18T10:26:24.317096+00:00",
-   "s": "THE Ministry of Home Affairs and Internal Security has discontinued the use of manual passport application forms across the country with immediate effect. In a press statement, the Ministry said all new passport applications, renewals and related services will now be submitted through the Online Passport Application System. The Ministry launched the online system in […] The post Zambia discontinues manual passport applications, moves fully online first appeared on Mwebantu .",
-   "t": "zambia discontinues manual passport applications moves fully online",
-   "title": "Zambia discontinues manual passport applications, moves fully online"
-  },
-  {
-   "at": "2026-11-18T10:26:53.557521+00:00",
-   "s": "Kabwe Municipal Council has launched the Bin It, Clean It Campaign to mitigate indiscriminate waste disposal in the Central Business District (CBD). Kabwe Mayor, Garry Domingo, explained that bins will be placed in strategic parts of the CBD tomorrow , to manage the disposal of waste. “Our first priority is to clear the CBD and […]",
-   "t": "bin it clean it campaign launched in kabwe",
-   "title": "Bin It, Clean It Campaign launched in Kabwe"
-  },
-  {
-   "at": "2026-11-18T11:30:23.083366+00:00",
-   "s": "Cape Town, South Africa: Qualcomm Technologies, Inc. today announced the conclusion of the fourth annual Qualcomm Make in Africa Startup Mentorship Program, which culminated in its first in-person Finale at Africa Tech Festival in Cape Town. Qualcomm also announced the winner of the 2026 Qualcomm for Good Social Impact Fund. Highlights: ● The 2026 program […] The post Qualcomm Celebrates Make in Africa Finale & Announces Social Impact Fund Winner first appeared on Mwebantu .",
-   "t": "qualcomm celebrates make in africa finale announces social impact fund winner",
-   "title": "Qualcomm Celebrates Make in Africa Finale & Announces Social Impact Fund Winner"
-  },
   {
    "at": "2026-11-18T11:30:57.734806+00:00",
    "s": "Best Care Institute in Chongwe district has held its second graduation ceremony, with 75 students under the Technical Education, Vocational and Entrepreneurship Training (TEVET) programme graduating. Chongwe Mayor, Frederick Sashi, has congratulated the graduates for successfully completing their studies and choosing noble professions that contribute to the development of society. Speaking during the ceremony, Mr Sashi […]",
@@ -190,12 +172,25 @@
    "s": "Zesco United coach Mwenya Chipepo has praised his players for their team effort following Thursday’s 2-1 win over Red Arrows as the Super Division campaign gets tense. The victory was Zesco’s second home win of the transitional campaign and an important result in Stream B of the Super League. Chipepo said overcoming Arrows was not […]",
    "t": "chipepo hails zesco team effort after arrows win",
    "title": "Chipepo hails Zesco team effort after Arrows win"
+  },
+  {
+   "at": "2026-11-20T11:29:56.721306+00:00",
+   "s": "",
+   "t": "govt seeks k6 3bn through bond auction as kwacha faces further pressure",
+   "title": "Govt seeks K6.3bn through bond auction as Kwacha faces further pressure"
+  },
+  {
+   "at": "2026-11-20T11:30:41.848029+00:00",
+   "s": "Chipolopolo vice-captain Kings Kangwa has expressed confidence that Zambia will qualify for the 2027 Africa Cup of Nations, AFCON, despite a difficult qualifying campaign. Zambia’s hopes suffered a setback after a 1-1 draw against Burundi away in Bujumbura on Tuesday, on match-day four. Coach George Lwandamina’s team has now collected five points from a possible […]",
+   "t": "kangwa confident chipolopolo will qualify for afcon",
+   "title": "Kangwa confident Chipolopolo will qualify for AFCON"
   }
  ],
  "seen": {
   "010973b7faf7f8d5": "2026-11-11T12:28:41.484095+00:00",
   "01e09761c3cc3f2b": "2026-11-11T12:28:41.484095+00:00",
   "01f917094d089084": "2026-11-11T12:28:41.484095+00:00",
+  "0232e2394d6ecb6f": "2026-11-20T11:30:41.847996+00:00",
   "0282d4e34d471b41": "2026-11-11T12:28:41.484095+00:00",
   "02cbc7c458435221": "2026-11-11T12:28:41.484095+00:00",
   "03ce92611cd3cc7a": "2026-11-12T11:47:20.082399+00:00",
@@ -360,6 +355,7 @@
   "a3059185ad52a851": "2026-11-14T14:21:19.381304+00:00",
   "a4b9e2ed72e3412a": "2026-11-12T10:49:58.424510+00:00",
   "a6eeefdd1c277665": "2026-11-17T17:53:34.411513+00:00",
+  "a7f510d312bf059a": "2026-11-20T11:29:56.721274+00:00",
   "a9343a8bba8e07b1": "2026-11-13T16:02:06.474654+00:00",
   "aaa9e5d51fc06de4": "2026-11-15T10:21:40.151559+00:00",
   "aab14ca967414adf": "2026-11-18T11:30:57.734767+00:00",
