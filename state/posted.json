@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 3,
+  "count": 4,
   "date": "2026-11-20"
  },
  "failures": {
@@ -30,9 +30,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-20T08:11:05.842458+00:00",
-  "id": "1405471502649229_122099632527555618",
-  "title": "BB11 earns Globe Soccer Awards nomination"
+  "at": "2026-11-20T10:25:22.821969+00:00",
+  "id": "1405471502649229_122099702205555618",
+  "title": "Chipepo hails Zesco team effort after Arrows win"
  },
  "recent_titles": [
   {
@@ -184,6 +184,12 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "bb11 earns globe soccer awards nomination",
    "title": "BB11 earns Globe Soccer Awards nomination"
+  },
+  {
+   "at": "2026-11-20T10:25:22.810466+00:00",
+   "s": "Zesco United coach Mwenya Chipepo has praised his players for their team effort following Thursday’s 2-1 win over Red Arrows as the Super Division campaign gets tense. The victory was Zesco’s second home win of the transitional campaign and an important result in Stream B of the Super League. Chipepo said overcoming Arrows was not […]",
+   "t": "chipepo hails zesco team effort after arrows win",
+   "title": "Chipepo hails Zesco team effort after Arrows win"
   }
  ],
  "seen": {
@@ -196,6 +202,7 @@
   "048396251bd6a302": "2026-11-14T15:16:15.391298+00:00",
   "050961e2aba6c7c1": "2026-11-20T08:11:05.830788+00:00",
   "056d6ad2d59a3da8": "2026-11-18T06:55:25.693175+00:00",
+  "05c1d0f4d276fef8": "2026-11-20T10:25:22.810433+00:00",
   "06420d94e7265fd6": "2026-11-18T19:49:43.196594+00:00",
   "069f0ce001d5f3da": "2026-11-13T12:47:55.836622+00:00",
   "06fbfd88252d2a42": "2026-11-12T09:46:46.023785+00:00",
@@ -314,6 +321,7 @@
   "787f83c9c6fa2232": "2026-11-15T05:28:10.649148+00:00",
   "78d3c4569e80db69": "2026-11-13T17:09:11.699200+00:00",
   "7bbba7d387a8f560": "2026-11-14T13:30:35.584637+00:00",
+  "7d63e4dcbce857c0": "2026-11-20T10:23:52.083816+00:00",
   "7df499ed1ef35ce6": "2026-11-15T12:31:58.813170+00:00",
   "7e5e1bb46cfcf74c": "2026-11-14T13:30:15.056309+00:00",
   "8073993a1ab6400b": "2026-11-19T14:43:34.650871+00:00",
