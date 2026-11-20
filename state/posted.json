@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 8,
+  "count": 10,
   "date": "2026-11-20"
  },
  "failures": {
@@ -30,9 +30,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-20T12:36:03.667969+00:00",
-  "id": "1405471502649229_122099779323555618",
-  "title": "A budget built on copper needs mines that deliver- Dr Moses Banda, Board Chairperson, Konkola Copper Mines"
+  "at": "2026-11-20T13:51:53.648481+00:00",
+  "id": "1405471502649229_122099828463555618",
+  "title": "Govt spends K7.2bn on wage bill in October, capital expenditure gets K1.3bn"
  },
  "recent_titles": [
   {
@@ -184,6 +184,18 @@
    "s": "",
    "t": "a budget built on copper needs mines that deliver dr moses banda board chairperson konkola copper mines",
    "title": "A budget built on copper needs mines that deliver- Dr Moses Banda, Board Chairperson, Konkola Copper Mines"
+  },
+  {
+   "at": "2026-11-20T13:50:53.940113+00:00",
+   "s": "PariPesa has announced the extension of its partnership with African football icon Yaya Touré, who will remain the sports betting company’s official brand ambassador across Africa for another year. The renewed agreement builds on a successful first year of cooperation, during which the partners produced exclusive media content, organised fan giveaways and launched campaigns that […]",
+   "t": "paripesa and yaya tour renew brand ambassador partnership",
+   "title": "PariPesa and Yaya Touré Renew Brand Ambassador Partnership"
+  },
+  {
+   "at": "2026-11-20T13:51:53.644226+00:00",
+   "s": "",
+   "t": "govt spends k7 2bn on wage bill in october capital expenditure gets k1 3bn",
+   "title": "Govt spends K7.2bn on wage bill in October, capital expenditure gets K1.3bn"
   }
  ],
  "seen": {
@@ -249,6 +261,7 @@
   "30c9ec5d2f29d4c2": "2026-11-16T04:50:04.598833+00:00",
   "314a7e88f0b27274": "2026-11-12T12:49:58.212204+00:00",
   "31cb55fdd27efd9e": "2026-11-19T08:16:30.983590+00:00",
+  "322f6fb7c454f922": "2026-11-20T13:50:53.940084+00:00",
   "32851fe0b9ac051e": "2026-11-14T20:51:57.308731+00:00",
   "32970213e2ce7dc0": "2026-11-15T06:27:16.931800+00:00",
   "32ab2d5b580f7c7c": "2026-11-11T12:28:41.484095+00:00",
@@ -376,6 +389,7 @@
   "b808dc247e7e8c43": "2026-11-15T09:26:24.112308+00:00",
   "b8ee9592392a836c": "2026-11-20T12:35:36.028652+00:00",
   "b9acd6608c92dcc5": "2026-11-19T19:54:19.486355+00:00",
+  "ba8805d2799e3691": "2026-11-20T13:51:53.644197+00:00",
   "bd2c043fe315b832": "2026-11-11T15:04:42.934829+00:00",
   "bd6afe6753c1009d": "2026-11-16T05:58:34.021460+00:00",
   "be51d96045f62151": "2026-11-11T20:11:53.789756+00:00",
