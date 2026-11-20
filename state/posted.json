@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 1,
+  "count": 2,
   "date": "2026-11-20"
  },
  "failures": {
@@ -26,23 +26,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-20T04:51:19.524355+00:00",
-  "id": "1405471502649229_122099524209555618",
-  "title": "UPND seems on track to completely end loadshedding with increased power generation"
+  "at": "2026-11-20T06:56:26.794151+00:00",
+  "id": "1405471502649229_122099589213555618",
+  "title": "Zambia to benefit from $10M global eye care fund"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-18T05:52:30.850325+00:00",
-   "s": "This content is for members only. Visit the site and log in/register to read.",
-   "t": "anti corruption measures will be non negotiable in mining tambatamba",
-   "title": "Anti-corruption measures will be non-negotiable in mining – Tambatamba"
-  },
-  {
-   "at": "2026-11-18T06:55:25.693214+00:00",
-   "s": "This content is for members only. Visit the site and log in/register to read.",
-   "t": "govt s move to absorb nhima s k1 7bn debt is commendable chilufya",
-   "title": "Govt’s move to absorb NHIMA’s K1.7bn debt is commendable – Chilufya"
-  },
   {
    "at": "2026-11-18T08:09:12.798272+00:00",
    "s": "This content is for members only. Visit the site and log in/register to read.",
@@ -186,6 +174,12 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "upnd seems on track to completely end loadshedding with increased power generation",
    "title": "UPND seems on track to completely end loadshedding with increased power generation"
+  },
+  {
+   "at": "2026-11-20T06:56:26.780769+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "zambia to benefit from 10m global eye care fund",
+   "title": "Zambia to benefit from $10M global eye care fund"
   }
  ],
  "seen": {
@@ -429,6 +423,7 @@
   "f27aa52b8554b70e": "2026-11-17T06:36:34.965054+00:00",
   "f3bfb126bb9b5a26": "2026-11-16T18:27:39.654072+00:00",
   "f580aebc4a0e2d45": "2026-11-15T15:57:11.012307+00:00",
+  "f8d9359330dc22ad": "2026-11-20T06:56:26.780730+00:00",
   "f8eb5441980499c0": "2026-11-12T15:10:43.776525+00:00",
   "f983b25863c5f2e1": "2026-11-16T17:30:23.043873+00:00",
   "fa561727056f6ef8": "2026-11-11T12:28:41.484095+00:00",
