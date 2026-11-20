@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 6,
+  "count": 8,
   "date": "2026-11-20"
  },
  "failures": {
@@ -30,23 +30,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-20T11:30:41.858704+00:00",
-  "id": "1405471502649229_122099735781555618",
-  "title": "Kangwa confident Chipolopolo will qualify for AFCON"
+  "at": "2026-11-20T12:36:03.667969+00:00",
+  "id": "1405471502649229_122099779323555618",
+  "title": "A budget built on copper needs mines that deliver- Dr Moses Banda, Board Chairperson, Konkola Copper Mines"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-18T11:30:57.734806+00:00",
-   "s": "Best Care Institute in Chongwe district has held its second graduation ceremony, with 75 students under the Technical Education, Vocational and Entrepreneurship Training (TEVET) programme graduating. Chongwe Mayor, Frederick Sashi, has congratulated the graduates for successfully completing their studies and choosing noble professions that contribute to the development of society. Speaking during the ceremony, Mr Sashi […]",
-   "t": "best care institute holds second graduation ceremony",
-   "title": "Best Care Institute holds second graduation ceremony"
-  },
-  {
-   "at": "2026-11-18T12:31:57.192200+00:00",
-   "s": "This content is for members only. Visit the site and log in/register to read.",
-   "t": "eagles buffaloes clash in military derby",
-   "title": "Eagles, Buffaloes clash in military derby"
-  },
   {
    "at": "2026-11-18T16:55:01.736021+00:00",
    "s": "",
@@ -184,6 +172,18 @@
    "s": "Chipolopolo vice-captain Kings Kangwa has expressed confidence that Zambia will qualify for the 2027 Africa Cup of Nations, AFCON, despite a difficult qualifying campaign. Zambia’s hopes suffered a setback after a 1-1 draw against Burundi away in Bujumbura on Tuesday, on match-day four. Coach George Lwandamina’s team has now collected five points from a possible […]",
    "t": "kangwa confident chipolopolo will qualify for afcon",
    "title": "Kangwa confident Chipolopolo will qualify for AFCON"
+  },
+  {
+   "at": "2026-11-20T12:35:36.028686+00:00",
+   "s": "THE Independent Broadcasting Authority Board has lifted the suspension of KBN Television’s broadcasting licence with immediate effect, the Authority said The decision follows the station’s completion of a 30-day suspension period and satisfactory compliance with all conditions imposed by the Authority in relation to its breach of the 2026 Election Coverage Guidelines. As part of […] The post IBA Lifts KBN TV Suspension, Renews 10 Broadcasting Licences first appeared on Mwebantu .",
+   "t": "iba lifts kbn tv suspension renews 10 broadcasting licences",
+   "title": "IBA Lifts KBN TV Suspension, Renews 10 Broadcasting Licences"
+  },
+  {
+   "at": "2026-11-20T12:36:03.660485+00:00",
+   "s": "",
+   "t": "a budget built on copper needs mines that deliver dr moses banda board chairperson konkola copper mines",
+   "title": "A budget built on copper needs mines that deliver- Dr Moses Banda, Board Chairperson, Konkola Copper Mines"
   }
  ],
  "seen": {
@@ -316,7 +316,7 @@
   "787f83c9c6fa2232": "2026-11-15T05:28:10.649148+00:00",
   "78d3c4569e80db69": "2026-11-13T17:09:11.699200+00:00",
   "7bbba7d387a8f560": "2026-11-14T13:30:35.584637+00:00",
-  "7d63e4dcbce857c0": "2026-11-20T10:23:52.083816+00:00",
+  "7d63e4dcbce857c0": "2026-11-20T12:36:03.660921+00:00",
   "7df499ed1ef35ce6": "2026-11-15T12:31:58.813170+00:00",
   "7e5e1bb46cfcf74c": "2026-11-14T13:30:15.056309+00:00",
   "8073993a1ab6400b": "2026-11-19T14:43:34.650871+00:00",
@@ -374,6 +374,7 @@
   "b75cf310f4119460": "2026-11-12T12:52:08.443326+00:00",
   "b7bf40de0d7b4db3": "2026-11-11T12:28:41.484095+00:00",
   "b808dc247e7e8c43": "2026-11-15T09:26:24.112308+00:00",
+  "b8ee9592392a836c": "2026-11-20T12:35:36.028652+00:00",
   "b9acd6608c92dcc5": "2026-11-19T19:54:19.486355+00:00",
   "bd2c043fe315b832": "2026-11-11T15:04:42.934829+00:00",
   "bd6afe6753c1009d": "2026-11-16T05:58:34.021460+00:00",
@@ -437,6 +438,7 @@
   "f983b25863c5f2e1": "2026-11-16T17:30:23.043873+00:00",
   "fa561727056f6ef8": "2026-11-11T12:28:41.484095+00:00",
   "fbd63450e33bb411": "2026-11-13T16:02:34.629015+00:00",
+  "fc8b14859e2bdc75": "2026-11-20T12:36:03.660447+00:00",
   "fcb13a0242a83d8c": "2026-11-11T12:28:41.484095+00:00",
   "fce03eb7c3c55b2f": "2026-11-15T17:49:41.463753+00:00"
  },
