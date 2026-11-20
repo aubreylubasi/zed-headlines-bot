@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 2,
+  "count": 3,
   "date": "2026-11-20"
  },
  "failures": {
@@ -19,6 +19,10 @@
   "82d34c08bb6c4f4c": {
    "at": "2026-11-14T11:53:34.031640+00:00",
    "count": 3
+  },
+  "cc77da890cf470b5": {
+   "at": "2026-11-20T08:12:43.429679+00:00",
+   "count": 1
   }
  },
  "feed_cache": {
@@ -26,17 +30,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-20T06:56:26.794151+00:00",
-  "id": "1405471502649229_122099589213555618",
-  "title": "Zambia to benefit from $10M global eye care fund"
+  "at": "2026-11-20T08:11:05.842458+00:00",
+  "id": "1405471502649229_122099632527555618",
+  "title": "BB11 earns Globe Soccer Awards nomination"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-18T08:09:12.798272+00:00",
-   "s": "This content is for members only. Visit the site and log in/register to read.",
-   "t": "burundi hold zambia in bujumbura",
-   "title": "Burundi hold Zambia in Bujumbura"
-  },
   {
    "at": "2026-11-18T10:26:24.317096+00:00",
    "s": "THE Ministry of Home Affairs and Internal Security has discontinued the use of manual passport application forms across the country with immediate effect. In a press statement, the Ministry said all new passport applications, renewals and related services will now be submitted through the Online Passport Application System. The Ministry launched the online system in […] The post Zambia discontinues manual passport applications, moves fully online first appeared on Mwebantu .",
@@ -180,6 +178,12 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "zambia to benefit from 10m global eye care fund",
    "title": "Zambia to benefit from $10M global eye care fund"
+  },
+  {
+   "at": "2026-11-20T08:11:05.830828+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "bb11 earns globe soccer awards nomination",
+   "title": "BB11 earns Globe Soccer Awards nomination"
   }
  ],
  "seen": {
@@ -190,6 +194,7 @@
   "02cbc7c458435221": "2026-11-11T12:28:41.484095+00:00",
   "03ce92611cd3cc7a": "2026-11-12T11:47:20.082399+00:00",
   "048396251bd6a302": "2026-11-14T15:16:15.391298+00:00",
+  "050961e2aba6c7c1": "2026-11-20T08:11:05.830788+00:00",
   "056d6ad2d59a3da8": "2026-11-18T06:55:25.693175+00:00",
   "06420d94e7265fd6": "2026-11-18T19:49:43.196594+00:00",
   "069f0ce001d5f3da": "2026-11-13T12:47:55.836622+00:00",
