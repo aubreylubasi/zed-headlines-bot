@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 14,
+  "count": 16,
   "date": "2026-11-20"
  },
  "failures": {
@@ -30,9 +30,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-20T15:50:18.736024+00:00",
-  "id": "1405471502649229_122099894271555618",
-  "title": "HH speaks out on term limit debate: I respect the Constitution, I will continue to respect it"
+  "at": "2026-11-20T16:49:09.680827+00:00",
+  "id": "1405471502649229_122099931087555618",
+  "title": "African women farmers urge investment in indigenous seeds to boost food security"
  },
  "recent_titles": [
   {
@@ -220,6 +220,18 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "hh speaks out on term limit debate i respect the constitution i will continue to respect it",
    "title": "HH speaks out on term limit debate: I respect the Constitution, I will continue to respect it"
+  },
+  {
+   "at": "2026-11-20T16:48:03.342994+00:00",
+   "s": "Minister of Youth and Sport, Likando Mufalali has disclosed that 179,496 young people have received skills training through youth resource centres, other institutions and partnerships since 2021. Speaking during the 21st Graduation Ceremony of 1,107 young people at Lusaka Youth Resource Centre today, Mr Mufalali said skills development was key to achieving the Government’s Grow […]",
+   "t": "179 496 youths receive skills training since 2021",
+   "title": "179,496 youths receive skills training since 2021"
+  },
+  {
+   "at": "2026-11-20T16:49:09.672390+00:00",
+   "s": "",
+   "t": "african women farmers urge investment in indigenous seeds to boost food security",
+   "title": "African women farmers urge investment in indigenous seeds to boost food security"
   }
  ],
  "seen": {
@@ -245,6 +257,7 @@
   "0df5945d284b326e": "2026-11-18T04:52:06.073008+00:00",
   "0dfd9165481fef64": "2026-11-13T15:04:14.019817+00:00",
   "0e3caf8a8b21fcf7": "2026-11-13T14:02:40.700738+00:00",
+  "0e78398789b1d4ea": "2026-11-20T16:48:03.342954+00:00",
   "1086ca82e9fbed77": "2026-11-15T11:16:52.810091+00:00",
   "10c7c1fd774a3402": "2026-11-18T16:55:01.735988+00:00",
   "1213a4e68b50af8d": "2026-11-11T12:28:41.484095+00:00",
@@ -437,6 +450,7 @@
   "cab296decd77b505": "2026-11-16T19:34:38.599778+00:00",
   "cbc84e181b10ccf0": "2026-11-11T12:28:41.484095+00:00",
   "cbf03e3aa2d38c81": "2026-11-11T12:28:41.484095+00:00",
+  "cc89ed7c05f464e0": "2026-11-20T16:49:09.672319+00:00",
   "cd076f2eb8a1deb3": "2026-11-11T12:28:41.484095+00:00",
   "cd2dd252f281371c": "2026-11-11T12:28:41.484095+00:00",
   "ce124c119d2ce41f": "2026-11-11T12:28:41.484095+00:00",
