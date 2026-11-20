@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 16,
+  "count": 18,
   "date": "2026-11-20"
  },
  "failures": {
@@ -30,17 +30,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-20T16:49:09.680827+00:00",
-  "id": "1405471502649229_122099931087555618",
-  "title": "African women farmers urge investment in indigenous seeds to boost food security"
+  "at": "2026-11-20T17:47:27.322462+00:00",
+  "id": "1405471502649229_122099961225555618",
+  "title": "Police discipline officers over handling of accident that claimed live of District Commissioner"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-18T16:55:01.736021+00:00",
-   "s": "",
-   "t": "govt orders national crackdown on illicit alcohol trade",
-   "title": "Govt orders national crackdown on illicit alcohol trade"
-  },
   {
    "at": "2026-11-18T17:48:44.222553+00:00",
    "s": "",
@@ -232,6 +226,18 @@
    "s": "",
    "t": "african women farmers urge investment in indigenous seeds to boost food security",
    "title": "African women farmers urge investment in indigenous seeds to boost food security"
+  },
+  {
+   "at": "2026-11-20T17:46:50.886387+00:00",
+   "s": "SMART Zambia Institute National Coordinator Percy Chinyama has said digital technology is a key driver of the Grow Zambia Agenda as it carries the potential to stimulate economic growth, improve public service delivery and create opportunities for citizens. Mr Chinyama said this during the signing of a Memorandum of Understanding (MoU) between SMART Zambia Institute […]",
+   "t": "technology to boost grow zambia agenda",
+   "title": "Technology to boost Grow Zambia Agenda"
+  },
+  {
+   "at": "2026-11-20T17:47:27.313600+00:00",
+   "s": "",
+   "t": "police discipline officers over handling of accident that claimed live of district commissioner",
+   "title": "Police discipline officers over handling of accident that claimed live of District Commissioner"
   }
  ],
  "seen": {
@@ -373,6 +379,7 @@
   "7e5e1bb46cfcf74c": "2026-11-14T13:30:15.056309+00:00",
   "8073993a1ab6400b": "2026-11-19T14:43:34.650871+00:00",
   "81e9b59d2f2c6711": "2026-11-11T12:28:41.484095+00:00",
+  "836b8aa3627abc5e": "2026-11-20T17:46:50.886356+00:00",
   "83db5754c61093ea": "2026-11-13T14:03:04.618638+00:00",
   "84b7e39bd678fc2d": "2026-11-15T08:39:51.469246+00:00",
   "8541a57abd8863e1": "2026-11-19T06:57:10.645762+00:00",
@@ -486,6 +493,7 @@
   "edbade4358640852": "2026-11-12T05:35:29.676148+00:00",
   "ee28b5e9e48fb6e1": "2026-11-13T18:46:25.429635+00:00",
   "ef5f4f8b11ebab8f": "2026-11-12T08:52:10.793129+00:00",
+  "f071950947418572": "2026-11-20T17:47:27.313563+00:00",
   "f1eb73542bdde0ef": "2026-11-19T14:45:56.390314+00:00",
   "f208f0d52d0204bd": "2026-11-13T10:47:10.690974+00:00",
   "f27aa52b8554b70e": "2026-11-17T06:36:34.965054+00:00",
