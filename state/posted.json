@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 12,
+  "count": 14,
   "date": "2026-11-20"
  },
  "failures": {
@@ -30,9 +30,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-20T14:45:45.423105+00:00",
-  "id": "1405471502649229_122099855271555618",
-  "title": "Zambia needs stronger pipeline of bankable climate projects, Siame says"
+  "at": "2026-11-20T15:50:18.736024+00:00",
+  "id": "1405471502649229_122099894271555618",
+  "title": "HH speaks out on term limit debate: I respect the Constitution, I will continue to respect it"
  },
  "recent_titles": [
   {
@@ -208,6 +208,18 @@
    "s": "",
    "t": "zambia needs stronger pipeline of bankable climate projects siame says",
    "title": "Zambia needs stronger pipeline of bankable climate projects, Siame says"
+  },
+  {
+   "at": "2026-11-20T15:45:42.852580+00:00",
+   "s": "",
+   "t": "zambia records 67 new cholera cases one death in 24 hours",
+   "title": "Zambia records 67 new cholera cases, one death in 24 hours"
+  },
+  {
+   "at": "2026-11-20T15:50:18.719505+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "hh speaks out on term limit debate i respect the constitution i will continue to respect it",
+   "title": "HH speaks out on term limit debate: I respect the Constitution, I will continue to respect it"
   }
  ],
  "seen": {
@@ -285,6 +297,7 @@
   "3abaabd89ccd448a": "2026-11-14T14:21:00.751533+00:00",
   "3b72258481fbc2a1": "2026-11-19T11:28:32.419176+00:00",
   "3e81c957beb560a9": "2026-11-11T15:05:02.067407+00:00",
+  "40e988c80a0d1a21": "2026-11-20T15:45:29.147786+00:00",
   "41eff76b0df459b5": "2026-11-16T10:20:06.561405+00:00",
   "41f2f7d7afb111cf": "2026-11-11T12:28:41.484095+00:00",
   "430dd3cfe4d984e2": "2026-11-12T05:34:57.209497+00:00",
@@ -352,11 +365,13 @@
   "8541a57abd8863e1": "2026-11-19T06:57:10.645762+00:00",
   "856dd6a9916eba0e": "2026-11-15T07:42:45.981755+00:00",
   "857941f5f0d53fbd": "2026-11-13T15:02:16.006211+00:00",
+  "858e61b23099dae8": "2026-11-20T15:50:18.719467+00:00",
   "87782eb80b02a197": "2026-11-11T12:28:41.484095+00:00",
   "890725e9b3927e43": "2026-11-19T11:28:57.736215+00:00",
   "895ed963a791f395": "2026-11-11T12:28:41.484095+00:00",
   "8af6667500e0e965": "2026-11-15T15:18:01.906332+00:00",
   "8cd5aef83c3a1d22": "2026-11-18T19:49:19.321469+00:00",
+  "912c8eacded5a424": "2026-11-20T15:45:42.852543+00:00",
   "915e682f6bf213b3": "2026-11-18T08:09:12.798238+00:00",
   "91ec79ecbfc8fe0b": "2026-11-19T06:54:54.041186+00:00",
   "923d6a6dd1e13ad3": "2026-11-19T09:22:17.230713+00:00",
