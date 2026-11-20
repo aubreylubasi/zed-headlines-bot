@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 20,
+  "count": 22,
   "date": "2026-11-20"
  },
  "failures": {
@@ -30,9 +30,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-20T18:48:44.788998+00:00",
-  "id": "1405471502649229_122099996337555618",
-  "title": "Luangwa Council challenged to attract investment to the district"
+  "at": "2026-11-20T20:40:16.964247+00:00",
+  "id": "1405471502649229_122100047133555618",
+  "title": "Public institutions get March 2027 deadline to adopt whistle-blower policies"
  },
  "recent_titles": [
   {
@@ -232,6 +232,18 @@
    "s": "Lusaka Province Minister Obvious Mwaliteta has urged the local authority in Luangwa District to utilise the Constituency Development Fund (CDF) to improve the infrastructure development in order to attract investment that will contribute to the Grow Zambia Agenda initiative aimed at fostering national development. Mr Mwaliteta says the district has great potential in various sectors, […]",
    "t": "luangwa council challenged to attract investment to the district",
    "title": "Luangwa Council challenged to attract investment to the district"
+  },
+  {
+   "at": "2026-11-20T20:39:31.032870+00:00",
+   "s": "The Lusaka High Court has dismissed a petition challenging the election of Kelvin Kaunda as Member of Parliament for Lima Constituency, upholding his victory in the August 2026 general election. High Court Judge Derrick Mulenga dismissed the petition after finding that the petitioner had failed to sufficiently prove the allegations of electoral malpractice, intimidation, violence […]",
+   "t": "high court upholds kelvin kaunda s election",
+   "title": "High Court upholds Kelvin Kaunda’s election"
+  },
+  {
+   "at": "2026-11-20T20:40:16.960294+00:00",
+   "s": "",
+   "t": "public institutions get march 2027 deadline to adopt whistle blower policies",
+   "title": "Public institutions get March 2027 deadline to adopt whistle-blower policies"
   }
  ],
  "seen": {
@@ -386,6 +398,7 @@
   "895ed963a791f395": "2026-11-11T12:28:41.484095+00:00",
   "8af6667500e0e965": "2026-11-15T15:18:01.906332+00:00",
   "8cd5aef83c3a1d22": "2026-11-18T19:49:19.321469+00:00",
+  "904d943f7d19fc9a": "2026-11-20T20:39:31.032832+00:00",
   "912c8eacded5a424": "2026-11-20T15:45:42.852543+00:00",
   "915e682f6bf213b3": "2026-11-18T08:09:12.798238+00:00",
   "91ec79ecbfc8fe0b": "2026-11-19T06:54:54.041186+00:00",
@@ -476,6 +489,7 @@
   "ddbcf2ba7f2debd1": "2026-11-11T16:05:05.256610+00:00",
   "df4e9f0e303c727f": "2026-11-15T09:25:18.981614+00:00",
   "e0c1b4985aa39718": "2026-11-11T12:28:41.484095+00:00",
+  "e1df77f42371ea05": "2026-11-20T20:40:16.960259+00:00",
   "e2d94dcdad825ccc": "2026-11-11T17:11:11.285061+00:00",
   "e456d95fd38084b5": "2026-11-16T08:13:03.634332+00:00",
   "e4d9ef357a2c7717": "2026-11-15T09:25:32.530602+00:00",
