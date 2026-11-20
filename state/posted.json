@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 10,
+  "count": 12,
   "date": "2026-11-20"
  },
  "failures": {
@@ -30,9 +30,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-20T13:51:53.648481+00:00",
-  "id": "1405471502649229_122099828463555618",
-  "title": "Govt spends K7.2bn on wage bill in October, capital expenditure gets K1.3bn"
+  "at": "2026-11-20T14:45:45.423105+00:00",
+  "id": "1405471502649229_122099855271555618",
+  "title": "Zambia needs stronger pipeline of bankable climate projects, Siame says"
  },
  "recent_titles": [
   {
@@ -196,6 +196,18 @@
    "s": "",
    "t": "govt spends k7 2bn on wage bill in october capital expenditure gets k1 3bn",
    "title": "Govt spends K7.2bn on wage bill in October, capital expenditure gets K1.3bn"
+  },
+  {
+   "at": "2026-11-20T14:44:53.095121+00:00",
+   "s": "The Lusaka High Court has thrown out all three preliminary issues the State raised against the bail application of opposition leaders Mr Brian Mundubile and Mr Makebi Zulu. The ruling clears the way for the two men to seek bail in their sedition case, 85 days after they were taken into custody. The three-judge panel […]",
+   "t": "state loses all three preliminary issues in mundubile zulu bail fight",
+   "title": "State Loses All Three Preliminary Issues in Mundubile, Zulu Bail Fight"
+  },
+  {
+   "at": "2026-11-20T14:45:45.415587+00:00",
+   "s": "",
+   "t": "zambia needs stronger pipeline of bankable climate projects siame says",
+   "title": "Zambia needs stronger pipeline of bankable climate projects, Siame says"
   }
  ],
  "seen": {
@@ -229,6 +241,7 @@
   "14d995f7430f3b7e": "2026-11-12T07:53:36.733556+00:00",
   "151b594f888b989c": "2026-11-11T12:28:41.484095+00:00",
   "1555fc638572333b": "2026-11-11T12:28:41.484095+00:00",
+  "15d31cbde15d4ba7": "2026-11-20T14:44:53.095085+00:00",
   "15f6831e3107ffbd": "2026-11-12T14:05:36.042752+00:00",
   "17d2f7385b373e18": "2026-11-15T03:24:40.194977+00:00",
   "17d9a36d04a70b25": "2026-11-11T12:28:41.484095+00:00",
@@ -414,8 +427,10 @@
   "ce124c119d2ce41f": "2026-11-11T12:28:41.484095+00:00",
   "cf2881d28392fe6a": "2026-11-11T12:28:41.484095+00:00",
   "d07bb1d8222df0fe": "2026-11-11T12:28:41.484095+00:00",
+  "d0d71728d7774632": "2026-11-20T14:44:53.110810+00:00",
   "d29ec15c564d5e6d": "2026-11-11T19:14:44.180648+00:00",
   "d4954831649dff79": "2026-11-11T12:28:41.484095+00:00",
+  "d4c82a938589b4e7": "2026-11-20T14:45:45.415550+00:00",
   "d4cd5f22be48bce0": "2026-11-12T10:50:27.096471+00:00",
   "d74611228f3b975b": "2026-11-11T12:28:41.484095+00:00",
   "d8060b1f741a38da": "2026-11-16T11:39:41.270236+00:00",
