@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 16,
+  "count": 17,
   "date": "2026-11-21"
  },
  "failures": {
@@ -14,17 +14,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-21T19:06:09.485019+00:00",
-  "id": "1405471502649229_122100746313555618",
-  "title": "Men encouraged to speak about their challenges"
+  "at": "2026-11-21T19:58:42.496388+00:00",
+  "id": "1405471502649229_122100779751555618",
+  "title": "Kawanda Councillor elected Manyinga Vice Council Chairperson"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-19T19:54:19.486401+00:00",
-   "s": "PRESIDENT Hakainde Hichilema today joined mourners in paying last respects to Pastor Gladwin Mang’watu, the late president of the Rusangu Conference of the Seventh-day Adventist Church. President Hichilema attended the funeral with first lady Mutinta Hichilema. The Head of State said Mang’watu served not only the Seventh-day Adventist Church but the nation at large. “His […] The post President Hichilema Pays Last Respects to Late SDA Leader Mang’watu first appeared on Mwebantu .",
-   "t": "president hichilema pays last respects to late sda leader mang watu",
-   "title": "President Hichilema Pays Last Respects to Late SDA Leader Mang’watu"
-  },
   {
    "at": "2026-11-19T20:43:31.644919+00:00",
    "s": "",
@@ -258,6 +252,12 @@
    "s": "Government has challenged men in Central Province to speak about their challenges freely in order to receive support. Central Province Permanent Secretary, Milner Mwanakampwe, says too often, men feel pressured to carry heavy burdens in silence and hide their struggles such as mental health, physical abuse, economic and emotional stress. Dr Mwanakampwe said this in […]",
    "t": "men encouraged to speak about their challenges",
    "title": "Men encouraged to speak about their challenges"
+  },
+  {
+   "at": "2026-11-21T19:58:42.483996+00:00",
+   "s": "Kawanda Ward Councillor, Roydenia Kalwete, has been elected Vice Council Chairperson of the Manyinga Town Council following an election held during a Full Council Meeting in Manyinga District. Mr Kalwete was elected unopposed after his contender, Vincent Kayeyi, withdrew from the race paving the way for his uncontested election. The election, held as part of the […]",
+   "t": "kawanda councillor elected manyinga vice council chairperson",
+   "title": "Kawanda Councillor elected Manyinga Vice Council Chairperson"
   }
  ],
  "seen": {
@@ -391,11 +391,13 @@
   "66d1e06da59fd2a2": "2026-11-16T16:17:18.781549+00:00",
   "67049820b358187d": "2026-11-21T04:32:08.442251+00:00",
   "6923eaa409f8cfcd": "2026-11-13T12:48:17.060681+00:00",
+  "6a3d97e9c1d9d30c": "2026-11-21T19:57:01.448178+00:00",
   "6a46f90a45b53f99": "2026-11-11T12:28:41.484095+00:00",
   "6a70754fe3eee841": "2026-11-11T12:28:41.484095+00:00",
   "6ac5cc8b706cbee6": "2026-11-11T18:05:50.463081+00:00",
   "6f7f69dfc0c69b16": "2026-11-11T12:28:41.484095+00:00",
   "70be23062e823e94": "2026-11-12T06:37:57.763763+00:00",
+  "715c7e2cf3f216ba": "2026-11-21T19:58:42.483965+00:00",
   "71fb8384d86610a5": "2026-11-11T12:28:41.484095+00:00",
   "7432b3d601a4ba73": "2026-11-13T17:08:49.621011+00:00",
   "74cf77b5e407b027": "2026-11-12T08:50:19.824707+00:00",
