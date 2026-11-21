@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 5,
+  "count": 6,
   "date": "2026-11-21"
  },
  "failures": {
@@ -30,9 +30,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-21T05:30:55.502788+00:00",
-  "id": "1405471502649229_122100268725555618",
-  "title": "Weekend Edition 309 Saturday November 21, 2026"
+  "at": "2026-11-21T06:32:50.352078+00:00",
+  "id": "1405471502649229_122100319035555618",
+  "title": "Govt explores use of digital lending platforms to finance agricultural inputs"
  },
  "recent_titles": [
   {
@@ -274,6 +274,12 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "weekend edition 309 saturday november 21 2026",
    "title": "Weekend Edition 309 Saturday November 21, 2026"
+  },
+  {
+   "at": "2026-11-21T06:32:50.333959+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "govt explores use of digital lending platforms to finance agricultural inputs",
+   "title": "Govt explores use of digital lending platforms to finance agricultural inputs"
   }
  ],
  "seen": {
@@ -318,6 +324,7 @@
   "19bf1744931e6f80": "2026-11-11T12:28:41.484095+00:00",
   "1a2ba18b5d8eb21e": "2026-11-13T10:39:10.686292+00:00",
   "1a4d9826e75ae3ab": "2026-11-11T12:28:41.484095+00:00",
+  "1bfd4d4f5d0318a1": "2026-11-21T06:32:13.930706+00:00",
   "1c8bafa9cb5876e6": "2026-11-21T03:31:06.667979+00:00",
   "1d290d2305f86ef0": "2026-11-11T20:12:24.778203+00:00",
   "1de416786b71f43e": "2026-11-11T12:28:41.484095+00:00",
@@ -526,6 +533,7 @@
   "e0c1b4985aa39718": "2026-11-11T12:28:41.484095+00:00",
   "e1df77f42371ea05": "2026-11-20T20:40:16.960259+00:00",
   "e2d94dcdad825ccc": "2026-11-11T17:11:11.285061+00:00",
+  "e3084340fde2843b": "2026-11-21T06:32:50.333924+00:00",
   "e456d95fd38084b5": "2026-11-16T08:13:03.634332+00:00",
   "e4d9ef357a2c7717": "2026-11-15T09:25:32.530602+00:00",
   "e4f88c3965b58301": "2026-11-19T10:34:02.714135+00:00",
