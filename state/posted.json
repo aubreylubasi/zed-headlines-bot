@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 10,
+  "count": 11,
   "date": "2026-11-21"
  },
  "failures": {
@@ -14,9 +14,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-21T10:31:22.798105+00:00",
-  "id": "1405471502649229_122100456153555618",
-  "title": "Hichilema under pressure to speak on tenure extension, as battle to free 18 politicians rages. See our top 10 stories of the week"
+  "at": "2026-11-21T14:31:15.180939+00:00",
+  "id": "1405471502649229_122100593253555618",
+  "title": "S&P upgrades Zambia’s credit rating to B-/B on growth, debt progress"
  },
  "recent_titles": [
   {
@@ -246,6 +246,12 @@
    "s": "",
    "t": "hichilema under pressure to speak on tenure extension as battle to free 18 politicians rages see our top 10 stories of the week",
    "title": "Hichilema under pressure to speak on tenure extension, as battle to free 18 politicians rages. See our top 10 stories of the week"
+  },
+  {
+   "at": "2026-11-21T14:31:15.176325+00:00",
+   "s": "",
+   "t": "s p upgrades zambia s credit rating to b b on growth debt progress",
+   "title": "S&P upgrades Zambia’s credit rating to B-/B on growth, debt progress"
   }
  ],
  "seen": {
@@ -283,6 +289,7 @@
   "151b594f888b989c": "2026-11-11T12:28:41.484095+00:00",
   "1555fc638572333b": "2026-11-11T12:28:41.484095+00:00",
   "15d31cbde15d4ba7": "2026-11-20T14:44:53.095085+00:00",
+  "15e69c8d83e4ffd6": "2026-11-21T14:31:15.176285+00:00",
   "15f6831e3107ffbd": "2026-11-12T14:05:36.042752+00:00",
   "17d2f7385b373e18": "2026-11-15T03:24:40.194977+00:00",
   "17d9a36d04a70b25": "2026-11-11T12:28:41.484095+00:00",
