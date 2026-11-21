@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 11,
+  "count": 12,
   "date": "2026-11-21"
  },
  "failures": {
@@ -14,23 +14,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-21T14:31:15.180939+00:00",
-  "id": "1405471502649229_122100593253555618",
-  "title": "S&P upgrades Zambia’s credit rating to B-/B on growth, debt progress"
+  "at": "2026-11-21T15:24:19.474816+00:00",
+  "id": "1405471502649229_122100618015555618",
+  "title": "I don’t have a favorite wife, polygamist tells court"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-19T14:43:34.650911+00:00",
-   "s": "For generations, women in many parts of the world have been told that a man’s house is their home, that property belongs to the husband’s family and that leadership is largely a man’s responsibility. These ideas have become so deeply embedded in society that questioning them is sometimes treated as an attack on tradition. […]",
-   "t": "the matriarchal order",
-   "title": "The Matriarchal Order"
-  },
-  {
-   "at": "2026-11-19T14:45:56.390354+00:00",
-   "s": "Zambia Railways has called on local authorities across the country to emulate Lusaka City Council by removing illegal structures and trading activities constructed within railway reserves to safeguard railway infrastructure and public safety. Zambia Railways Manager Public Relations, Sombe Longwani, says the company welcomes the recent operation by Lusaka City Council to remove illegal structures […]",
-   "t": "zambia railways calls for removal of illegal structures",
-   "title": "Zambia Railways calls for removal of illegal structures"
-  },
   {
    "at": "2026-11-19T16:58:11.685313+00:00",
    "s": "This content is for members only. Visit the site and log in/register to read.",
@@ -252,9 +240,16 @@
    "s": "",
    "t": "s p upgrades zambia s credit rating to b b on growth debt progress",
    "title": "S&P upgrades Zambia’s credit rating to B-/B on growth, debt progress"
+  },
+  {
+   "at": "2026-11-21T15:24:19.463971+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "i don t have a favorite wife polygamist tells court",
+   "title": "I don’t have a favorite wife, polygamist tells court"
   }
  ],
  "seen": {
+  "00f98e547a953559": "2026-11-21T15:24:19.463906+00:00",
   "010973b7faf7f8d5": "2026-11-11T12:28:41.484095+00:00",
   "01e09761c3cc3f2b": "2026-11-11T12:28:41.484095+00:00",
   "01f917094d089084": "2026-11-11T12:28:41.484095+00:00",
