@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 13,
+  "count": 14,
   "date": "2026-11-21"
  },
  "failures": {
@@ -14,17 +14,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-21T17:24:09.889143+00:00",
-  "id": "1405471502649229_122100680067555618",
-  "title": "He refused to share his pension, wife laments"
+  "at": "2026-11-21T18:17:24.915064+00:00",
+  "id": "1405471502649229_122100714441555618",
+  "title": "Ruff Kid declares comeback with new album ‘The Return of the Goat’"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-19T17:49:27.474800+00:00",
-   "s": "After the attacks of 11 September 2001, when nearly 3,000 Americans died in a single day, the United States did not treat the men who planned it like someone caught stealing kapenta at a market. Those were not ordinary crimes—they were acts of war: trained men, coordinated cells, months of planning, and a public […]",
-   "t": "21 9 million reasons why a special crime demands a special operation",
-   "title": "21.9 million reasons why a special crime demands a special operation"
-  },
   {
    "at": "2026-11-19T19:54:19.486401+00:00",
    "s": "PRESIDENT Hakainde Hichilema today joined mourners in paying last respects to Pastor Gladwin Mang’watu, the late president of the Rusangu Conference of the Seventh-day Adventist Church. President Hichilema attended the funeral with first lady Mutinta Hichilema. The Head of State said Mang’watu served not only the Seventh-day Adventist Church but the nation at large. “His […] The post President Hichilema Pays Last Respects to Late SDA Leader Mang’watu first appeared on Mwebantu .",
@@ -246,6 +240,12 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "he refused to share his pension wife laments",
    "title": "He refused to share his pension, wife laments"
+  },
+  {
+   "at": "2026-11-21T18:17:24.910271+00:00",
+   "s": "",
+   "t": "ruff kid declares comeback with new album the return of the goat",
+   "title": "Ruff Kid declares comeback with new album ‘The Return of the Goat’"
   }
  ],
  "seen": {
@@ -302,6 +302,7 @@
   "21522e6bf2362382": "2026-11-12T04:33:05.711819+00:00",
   "2156b60e4da90c48": "2026-11-11T12:28:41.484095+00:00",
   "216af924d234105f": "2026-11-12T15:11:33.264700+00:00",
+  "21cf2ba4d645621b": "2026-11-21T18:17:24.910209+00:00",
   "22f3f950cea33060": "2026-11-11T16:04:47.202501+00:00",
   "240b86681e21bcb0": "2026-11-11T12:28:41.484095+00:00",
   "24f8c3576278352f": "2026-11-15T08:40:19.385552+00:00",
