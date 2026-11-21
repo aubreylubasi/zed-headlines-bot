@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 12,
+  "count": 13,
   "date": "2026-11-21"
  },
  "failures": {
@@ -14,17 +14,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-21T15:24:19.474816+00:00",
-  "id": "1405471502649229_122100618015555618",
-  "title": "I don’t have a favorite wife, polygamist tells court"
+  "at": "2026-11-21T17:24:09.889143+00:00",
+  "id": "1405471502649229_122100680067555618",
+  "title": "He refused to share his pension, wife laments"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-19T16:58:11.685313+00:00",
-   "s": "This content is for members only. Visit the site and log in/register to read.",
-   "t": "police discipline 2 officers over handling of kalumbila dc accident scene",
-   "title": "Police discipline 2 officers over handling of Kalumbila DC accident scene"
-  },
   {
    "at": "2026-11-19T17:49:27.474800+00:00",
    "s": "After the attacks of 11 September 2001, when nearly 3,000 Americans died in a single day, the United States did not treat the men who planned it like someone caught stealing kapenta at a market. Those were not ordinary crimes—they were acts of war: trained men, coordinated cells, months of planning, and a public […]",
@@ -246,6 +240,12 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "i don t have a favorite wife polygamist tells court",
    "title": "I don’t have a favorite wife, polygamist tells court"
+  },
+  {
+   "at": "2026-11-21T17:24:09.882187+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "he refused to share his pension wife laments",
+   "title": "He refused to share his pension, wife laments"
   }
  ],
  "seen": {
@@ -264,6 +264,7 @@
   "06420d94e7265fd6": "2026-11-18T19:49:43.196594+00:00",
   "069f0ce001d5f3da": "2026-11-13T12:47:55.836622+00:00",
   "06fbfd88252d2a42": "2026-11-12T09:46:46.023785+00:00",
+  "0924b20c37bd47c6": "2026-11-21T17:24:09.882160+00:00",
   "093e69235daece4f": "2026-11-21T04:32:36.550377+00:00",
   "09c7cb1184777ba1": "2026-11-17T05:34:12.940616+00:00",
   "09f69974896b2579": "2026-11-15T17:15:19.510767+00:00",
