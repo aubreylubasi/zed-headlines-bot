@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 14,
+  "count": 16,
   "date": "2026-11-21"
  },
  "failures": {
@@ -14,9 +14,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-21T18:17:24.915064+00:00",
-  "id": "1405471502649229_122100714441555618",
-  "title": "Ruff Kid declares comeback with new album ‘The Return of the Goat’"
+  "at": "2026-11-21T19:06:09.485019+00:00",
+  "id": "1405471502649229_122100746313555618",
+  "title": "Men encouraged to speak about their challenges"
  },
  "recent_titles": [
   {
@@ -246,6 +246,18 @@
    "s": "",
    "t": "ruff kid declares comeback with new album the return of the goat",
    "title": "Ruff Kid declares comeback with new album ‘The Return of the Goat’"
+  },
+  {
+   "at": "2026-11-21T19:04:39.342764+00:00",
+   "s": "",
+   "t": "solwezi student puts zambia on podium at african skills olympics",
+   "title": "Solwezi student puts Zambia on podium at African Skills Olympics"
+  },
+  {
+   "at": "2026-11-21T19:06:09.470118+00:00",
+   "s": "Government has challenged men in Central Province to speak about their challenges freely in order to receive support. Central Province Permanent Secretary, Milner Mwanakampwe, says too often, men feel pressured to carry heavy burdens in silence and hide their struggles such as mental health, physical abuse, economic and emotional stress. Dr Mwanakampwe said this in […]",
+   "t": "men encouraged to speak about their challenges",
+   "title": "Men encouraged to speak about their challenges"
   }
  ],
  "seen": {
@@ -336,6 +348,7 @@
   "40e988c80a0d1a21": "2026-11-20T15:45:29.147786+00:00",
   "41eff76b0df459b5": "2026-11-16T10:20:06.561405+00:00",
   "41f2f7d7afb111cf": "2026-11-11T12:28:41.484095+00:00",
+  "4306370065318a6f": "2026-11-21T19:06:09.470082+00:00",
   "430dd3cfe4d984e2": "2026-11-12T05:34:57.209497+00:00",
   "441cf4d89e7baada": "2026-11-16T17:29:11.589683+00:00",
   "445aa96f243d786f": "2026-11-21T09:31:12.075332+00:00",
@@ -414,6 +427,7 @@
   "8af6667500e0e965": "2026-11-15T15:18:01.906332+00:00",
   "8cd5aef83c3a1d22": "2026-11-18T19:49:19.321469+00:00",
   "904d943f7d19fc9a": "2026-11-20T20:39:31.032832+00:00",
+  "90a72af9980bad46": "2026-11-21T19:04:39.342724+00:00",
   "912c8eacded5a424": "2026-11-20T15:45:42.852543+00:00",
   "915e682f6bf213b3": "2026-11-18T08:09:12.798238+00:00",
   "91ec79ecbfc8fe0b": "2026-11-19T06:54:54.041186+00:00",
