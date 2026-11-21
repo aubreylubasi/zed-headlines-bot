@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 2,
+  "count": 4,
   "date": "2026-11-21"
  },
  "failures": {
@@ -30,9 +30,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-21T03:31:06.672502+00:00",
-  "id": "1405471502649229_122100210093555618",
-  "title": "The unanswered questions surrounding two Zambians reportedly killed in Russia’s war, by Joseph Kamanga"
+  "at": "2026-11-21T04:32:36.563521+00:00",
+  "id": "1405471502649229_122100238221555618",
+  "title": "President Hichilema opens UPND Southern Province Secretariat"
  },
  "recent_titles": [
   {
@@ -256,6 +256,18 @@
    "s": "",
    "t": "the unanswered questions surrounding two zambians reportedly killed in russia s war by joseph kamanga",
    "title": "The unanswered questions surrounding two Zambians reportedly killed in Russia’s war, by Joseph Kamanga"
+  },
+  {
+   "at": "2026-11-21T04:32:08.442283+00:00",
+   "s": "A 50-year-old man has appeared before the Kasempa Magistrate’s Court charged with defilement after allegedly having carnal knowledge of a girl below the age of 16. Godfrey Mwatula is charged with defilement contrary to Section 138 (1) of the Penal Code, Chapter 87 of the Laws of Zambia, as read with the Penal Code Amendment […]",
+   "t": "kasempa man in court for defilement case",
+   "title": "Kasempa man in court for defilement case"
+  },
+  {
+   "at": "2026-11-21T04:32:36.550410+00:00",
+   "s": "President Hakainde Hichilema has called for the institutionalisation of the United Party for National Development (UPND) at all levels to strengthen grassroots participation and advance the country’s development agenda. President Hichilema says strong party structures would facilitate a bottom-up approach to development by ensuring grassroots members play an active role in actualising the UPND’s developmental […]",
+   "t": "president hichilema opens upnd southern province secretariat",
+   "title": "President Hichilema opens UPND Southern Province Secretariat"
   }
  ],
  "seen": {
@@ -273,6 +285,7 @@
   "06420d94e7265fd6": "2026-11-18T19:49:43.196594+00:00",
   "069f0ce001d5f3da": "2026-11-13T12:47:55.836622+00:00",
   "06fbfd88252d2a42": "2026-11-12T09:46:46.023785+00:00",
+  "093e69235daece4f": "2026-11-21T04:32:36.550377+00:00",
   "09c7cb1184777ba1": "2026-11-17T05:34:12.940616+00:00",
   "09f69974896b2579": "2026-11-15T17:15:19.510767+00:00",
   "0b5a84b23574960b": "2026-11-17T04:33:20.353580+00:00",
@@ -377,6 +390,7 @@
   "64a78fc14aa09497": "2026-11-18T12:31:57.192168+00:00",
   "657c52440bfafcf0": "2026-11-13T10:37:52.592574+00:00",
   "66d1e06da59fd2a2": "2026-11-16T16:17:18.781549+00:00",
+  "67049820b358187d": "2026-11-21T04:32:08.442251+00:00",
   "6923eaa409f8cfcd": "2026-11-13T12:48:17.060681+00:00",
   "6a46f90a45b53f99": "2026-11-11T12:28:41.484095+00:00",
   "6a70754fe3eee841": "2026-11-11T12:28:41.484095+00:00",
