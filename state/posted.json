@@ -1,7 +1,7 @@
 {
  "daily": {
-  "count": 22,
-  "date": "2026-11-20"
+  "count": 2,
+  "date": "2026-11-21"
  },
  "failures": {
   "10c4445663e7e3b2": {
@@ -30,9 +30,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-20T20:40:16.964247+00:00",
-  "id": "1405471502649229_122100047133555618",
-  "title": "Public institutions get March 2027 deadline to adopt whistle-blower policies"
+  "at": "2026-11-21T03:31:06.672502+00:00",
+  "id": "1405471502649229_122100210093555618",
+  "title": "The unanswered questions surrounding two Zambians reportedly killed in Russia’s war, by Joseph Kamanga"
  },
  "recent_titles": [
   {
@@ -244,6 +244,18 @@
    "s": "",
    "t": "public institutions get march 2027 deadline to adopt whistle blower policies",
    "title": "Public institutions get March 2027 deadline to adopt whistle-blower policies"
+  },
+  {
+   "at": "2026-11-21T03:30:28.870043+00:00",
+   "s": "A 90-year-old woman has died after she was allegedly assaulted by a mob that accused her of witchcraft following the death of a five-year-old boy in Chipili District. ‎Confirming the development to the media, Luapula Police Commanding Officer, Lucky Munkhondya, confirmed the incident that occurred on Wednesday, 18 November 2026, at about 17:00 hours and […]",
+   "t": "90 year old woman killed by mob over witchcraft accusations in chipili",
+   "title": "90-year-old woman killed by mob over witchcraft accusations in Chipili"
+  },
+  {
+   "at": "2026-11-21T03:31:06.668010+00:00",
+   "s": "",
+   "t": "the unanswered questions surrounding two zambians reportedly killed in russia s war by joseph kamanga",
+   "title": "The unanswered questions surrounding two Zambians reportedly killed in Russia’s war, by Joseph Kamanga"
   }
  ],
  "seen": {
@@ -287,6 +299,7 @@
   "19bf1744931e6f80": "2026-11-11T12:28:41.484095+00:00",
   "1a2ba18b5d8eb21e": "2026-11-13T10:39:10.686292+00:00",
   "1a4d9826e75ae3ab": "2026-11-11T12:28:41.484095+00:00",
+  "1c8bafa9cb5876e6": "2026-11-21T03:31:06.667979+00:00",
   "1d290d2305f86ef0": "2026-11-11T20:12:24.778203+00:00",
   "1de416786b71f43e": "2026-11-11T12:28:41.484095+00:00",
   "1f14bbd6dcb9b9f1": "2026-11-11T12:28:41.484095+00:00",
@@ -329,6 +342,7 @@
   "441cf4d89e7baada": "2026-11-16T17:29:11.589683+00:00",
   "45d42dcadd18ba31": "2026-11-11T12:28:41.484095+00:00",
   "4727696ca03969ec": "2026-11-14T12:29:47.351297+00:00",
+  "4781b246e7f5acb7": "2026-11-21T03:30:28.870019+00:00",
   "47a9aebad1118b09": "2026-11-16T16:19:10.951702+00:00",
   "47b29bf73fba7077": "2026-11-19T17:49:27.474762+00:00",
   "49b735bb188f188b": "2026-11-11T12:28:41.484095+00:00",
