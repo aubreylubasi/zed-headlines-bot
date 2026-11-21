@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 9,
+  "count": 10,
   "date": "2026-11-21"
  },
  "failures": {
@@ -30,9 +30,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-21T09:31:12.090647+00:00",
-  "id": "1405471502649229_122100422493555618",
-  "title": "Power host Zanaco, Nkana visit MUZA in Stream A blockbusters"
+  "at": "2026-11-21T10:31:22.798105+00:00",
+  "id": "1405471502649229_122100456153555618",
+  "title": "Hichilema under pressure to speak on tenure extension, as battle to free 18 politicians rages. See our top 10 stories of the week"
  },
  "recent_titles": [
   {
@@ -274,6 +274,12 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "power host zanaco nkana visit muza in stream a blockbusters",
    "title": "Power host Zanaco, Nkana visit MUZA in Stream A blockbusters"
+  },
+  {
+   "at": "2026-11-21T10:31:22.790340+00:00",
+   "s": "",
+   "t": "hichilema under pressure to speak on tenure extension as battle to free 18 politicians rages see our top 10 stories of the week",
+   "title": "Hichilema under pressure to speak on tenure extension, as battle to free 18 politicians rages. See our top 10 stories of the week"
   }
  ],
  "seen": {
@@ -294,6 +300,7 @@
   "093e69235daece4f": "2026-11-21T04:32:36.550377+00:00",
   "09c7cb1184777ba1": "2026-11-17T05:34:12.940616+00:00",
   "09f69974896b2579": "2026-11-15T17:15:19.510767+00:00",
+  "0a72419819e8ed36": "2026-11-21T10:31:22.790300+00:00",
   "0b5a84b23574960b": "2026-11-17T04:33:20.353580+00:00",
   "0b8e7d06472cf74e": "2026-11-15T11:17:36.641810+00:00",
   "0d411f09ae067518": "2026-11-11T12:28:41.484095+00:00",
