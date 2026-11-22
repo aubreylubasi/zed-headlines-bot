@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 6,
+  "count": 8,
   "date": "2026-11-22"
  },
  "failures": {
@@ -14,17 +14,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-22T08:01:15.430025+00:00",
-  "id": "1405471502649229_122101176147555618",
-  "title": "Central Province farmers urged to plant early"
+  "at": "2026-11-22T08:49:07.849337+00:00",
+  "id": "1405471502649229_122101215873555618",
+  "title": "NSCZ, OYDC back Women’s Handball team ahead of historic AFCON debut"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-20T08:11:05.830828+00:00",
-   "s": "This content is for members only. Visit the site and log in/register to read.",
-   "t": "bb11 earns globe soccer awards nomination",
-   "title": "BB11 earns Globe Soccer Awards nomination"
-  },
   {
    "at": "2026-11-20T10:25:22.810466+00:00",
    "s": "Zesco United coach Mwenya Chipepo has praised his players for their team effort following Thursday’s 2-1 win over Red Arrows as the Super Division campaign gets tense. The victory was Zesco’s second home win of the transitional campaign and an important result in Stream B of the Super League. Chipepo said overcoming Arrows was not […]",
@@ -276,6 +270,18 @@
    "s": "Central Province Meteorological Officer, Chongo Tembo, has urged farmers in the district to plant early and medium-maturing crop varieties in the wake of the highly appreciated El Nino. Mr Tembo says Serenje is expected to receive normal to below-normal rainfall compared to other parts of the province, making crop selection and planting decisions critical for […]",
    "t": "central province farmers urged to plant early",
    "title": "Central Province farmers urged to plant early"
+  },
+  {
+   "at": "2026-11-22T08:48:27.611035+00:00",
+   "s": "",
+   "t": "police warn against mob justice after 90 year old woman is killed over witchcraft claims",
+   "title": "Police warn against mob justice after 90-year-old woman is killed over witchcraft claims"
+  },
+  {
+   "at": "2026-11-22T08:49:07.838538+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "nscz oydc back women s handball team ahead of historic afcon debut",
+   "title": "NSCZ, OYDC back Women’s Handball team ahead of historic AFCON debut"
   }
  ],
  "seen": {
@@ -362,6 +368,7 @@
   "34c0ac9d7dbdf4f2": "2026-11-15T05:28:37.250650+00:00",
   "35bd4b22ba36964c": "2026-11-16T08:13:03.647746+00:00",
   "37c8b5048a2394fc": "2026-11-14T20:13:45.683955+00:00",
+  "3a7af2f1889398a5": "2026-11-22T08:48:27.610994+00:00",
   "3abaabd89ccd448a": "2026-11-14T14:21:00.751533+00:00",
   "3b72258481fbc2a1": "2026-11-19T11:28:32.419176+00:00",
   "3e81c957beb560a9": "2026-11-11T15:05:02.067407+00:00",
@@ -480,6 +487,7 @@
   "a6eeefdd1c277665": "2026-11-17T17:53:34.411513+00:00",
   "a7f510d312bf059a": "2026-11-20T11:29:56.721274+00:00",
   "a9343a8bba8e07b1": "2026-11-13T16:02:06.474654+00:00",
+  "aa3284d035c3328d": "2026-11-22T08:49:07.838488+00:00",
   "aaa9e5d51fc06de4": "2026-11-15T10:21:40.151559+00:00",
   "aab14ca967414adf": "2026-11-18T11:30:57.734767+00:00",
   "ab12733ad80d886b": "2026-11-11T12:28:41.484095+00:00",
