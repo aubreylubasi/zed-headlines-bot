@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 16,
+  "count": 18,
   "date": "2026-11-22"
  },
  "failures": {
@@ -14,23 +14,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-22T12:21:21.573751+00:00",
-  "id": "1405471502649229_122101358829555618",
-  "title": "Alcohol made me accuse neighbour of sleeping with my wife, husband admits in court"
+  "at": "2026-11-22T13:37:14.382478+00:00",
+  "id": "1405471502649229_122101414167555618",
+  "title": "I still enjoy a good relation with HH – Chipoka"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-20T12:35:36.028686+00:00",
-   "s": "THE Independent Broadcasting Authority Board has lifted the suspension of KBN Television’s broadcasting licence with immediate effect, the Authority said The decision follows the station’s completion of a 30-day suspension period and satisfactory compliance with all conditions imposed by the Authority in relation to its breach of the 2026 Election Coverage Guidelines. As part of […] The post IBA Lifts KBN TV Suspension, Renews 10 Broadcasting Licences first appeared on Mwebantu .",
-   "t": "iba lifts kbn tv suspension renews 10 broadcasting licences",
-   "title": "IBA Lifts KBN TV Suspension, Renews 10 Broadcasting Licences"
-  },
-  {
-   "at": "2026-11-20T12:36:03.660485+00:00",
-   "s": "",
-   "t": "a budget built on copper needs mines that deliver dr moses banda board chairperson konkola copper mines",
-   "title": "A budget built on copper needs mines that deliver- Dr Moses Banda, Board Chairperson, Konkola Copper Mines"
-  },
   {
    "at": "2026-11-20T13:50:53.940113+00:00",
    "s": "PariPesa has announced the extension of its partnership with African football icon Yaya Touré, who will remain the sports betting company’s official brand ambassador across Africa for another year. The renewed agreement builds on a successful first year of cooperation, during which the partners produced exclusive media content, organised fan giveaways and launched campaigns that […]",
@@ -312,6 +300,18 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "alcohol made me accuse neighbour of sleeping with my wife husband admits in court",
    "title": "Alcohol made me accuse neighbour of sleeping with my wife, husband admits in court"
+  },
+  {
+   "at": "2026-11-22T13:36:45.802321+00:00",
+   "s": "Government has commissioned a fully equipped Fashion and Fabric Hub and a 16-kilowatt solar system at Mount Makulu Secondary School in Chilanga district, valued at over K900,000. The Fashion and Fabric Hub was rehabilitated and fully furnished with the financial support of the Elsa Milar Foundation through its implementing partners, the African Education Programme. Speaking […]",
+   "t": "fashion and fabric hub commissioned in chilanga",
+   "title": "Fashion and Fabric Hub commissioned in Chilanga"
+  },
+  {
+   "at": "2026-11-22T13:37:14.373960+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "i still enjoy a good relation with hh chipoka",
+   "title": "I still enjoy a good relation with HH – Chipoka"
   }
  ],
  "seen": {
@@ -463,6 +463,7 @@
   "715c7e2cf3f216ba": "2026-11-21T19:58:42.483965+00:00",
   "71fb8384d86610a5": "2026-11-11T12:28:41.484095+00:00",
   "7432b3d601a4ba73": "2026-11-13T17:08:49.621011+00:00",
+  "745d7e85624af3ad": "2026-11-22T13:36:45.802279+00:00",
   "74cf77b5e407b027": "2026-11-12T08:50:19.824707+00:00",
   "75c89055f7d7bef1": "2026-11-11T12:28:41.484095+00:00",
   "7730600117344ab6": "2026-11-11T19:15:22.908757+00:00",
@@ -547,6 +548,7 @@
   "ba8805d2799e3691": "2026-11-20T13:51:53.644197+00:00",
   "bd2c043fe315b832": "2026-11-11T15:04:42.934829+00:00",
   "bd6afe6753c1009d": "2026-11-16T05:58:34.021460+00:00",
+  "be18629a8ce6a6e8": "2026-11-22T13:37:14.373908+00:00",
   "be51d96045f62151": "2026-11-11T20:11:53.789756+00:00",
   "be824c4156b9af24": "2026-11-12T09:48:35.517866+00:00",
   "bece163096dfb9a4": "2026-11-12T07:53:06.288878+00:00",
