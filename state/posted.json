@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 2,
+  "count": 4,
   "date": "2026-11-22"
  },
  "failures": {
@@ -14,9 +14,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-22T05:46:23.404029+00:00",
-  "id": "1405471502649229_122101077465555618",
-  "title": "9-yr-old boy dies after being assaulted by a 14-yr-old in Matero"
+  "at": "2026-11-22T06:49:43.127535+00:00",
+  "id": "1405471502649229_122101122843555618",
+  "title": "Teenager Williams-Barnett makes history as Tottenham beat Ipswich 2-0"
  },
  "recent_titles": [
   {
@@ -258,6 +258,18 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "9 yr old boy dies after being assaulted by a 14 yr old in matero",
    "title": "9-yr-old boy dies after being assaulted by a 14-yr-old in Matero"
+  },
+  {
+   "at": "2026-11-22T06:49:16.874871+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "divorce us i can t stand a husband who talks back when i m talking wife tells court",
+   "title": "Divorce us, I can’t stand a husband who talks back when I’m talking, wife tells court"
+  },
+  {
+   "at": "2026-11-22T06:49:43.120112+00:00",
+   "s": "",
+   "t": "teenager williams barnett makes history as tottenham beat ipswich 2 0",
+   "title": "Teenager Williams-Barnett makes history as Tottenham beat Ipswich 2-0"
   }
  ],
  "seen": {
@@ -291,6 +303,7 @@
   "1086ca82e9fbed77": "2026-11-15T11:16:52.810091+00:00",
   "10c7c1fd774a3402": "2026-11-18T16:55:01.735988+00:00",
   "1213a4e68b50af8d": "2026-11-11T12:28:41.484095+00:00",
+  "13c4d75a8df18511": "2026-11-22T06:49:43.120077+00:00",
   "13cff489f5b14120": "2026-11-11T12:28:41.484095+00:00",
   "144186149bc488b4": "2026-11-12T03:30:12.625678+00:00",
   "14d995f7430f3b7e": "2026-11-12T07:53:36.733556+00:00",
@@ -555,7 +568,8 @@
   "fbd63450e33bb411": "2026-11-13T16:02:34.629015+00:00",
   "fc8b14859e2bdc75": "2026-11-20T12:36:03.660447+00:00",
   "fcb13a0242a83d8c": "2026-11-11T12:28:41.484095+00:00",
-  "fce03eb7c3c55b2f": "2026-11-15T17:49:41.463753+00:00"
+  "fce03eb7c3c55b2f": "2026-11-15T17:49:41.463753+00:00",
+  "fde7073540d2f127": "2026-11-22T06:49:16.874828+00:00"
  },
  "undated": {}
 }
