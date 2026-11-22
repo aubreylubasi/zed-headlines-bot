@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 12,
+  "count": 14,
   "date": "2026-11-22"
  },
  "failures": {
@@ -14,9 +14,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-22T10:28:20.644489+00:00",
-  "id": "1405471502649229_122101277787555618",
-  "title": "Girlfriend storms boyfriend’s family house, demands to be taken in over pregnancy"
+  "at": "2026-11-22T11:23:26.877527+00:00",
+  "id": "1405471502649229_122101316691555618",
+  "title": "Government urges cattle farmers to embrace CBPP testing"
  },
  "recent_titles": [
   {
@@ -300,6 +300,18 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "girlfriend storms boyfriend s family house demands to be taken in over pregnancy",
    "title": "Girlfriend storms boyfriend’s family house, demands to be taken in over pregnancy"
+  },
+  {
+   "at": "2026-11-22T11:22:18.281220+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "upnd member sues state for unlawful detention seeks k3m compensation",
+   "title": "UPND member sues State for unlawful detention, seeks K3M compensation"
+  },
+  {
+   "at": "2026-11-22T11:23:26.862883+00:00",
+   "s": "Minister of Fisheries and Livestock , Olivia Chiboola, has urged cattle farmers in Namwala district to present all their cattle for testing under the Government’s 100 per cent cattle testing programme aimed at containing Contagious Bovine Pleuropneumonia (CBPP). Ms Chiboola says it was important for every cattle owner to ensure that all their animals were […]",
+   "t": "government urges cattle farmers to embrace cbpp testing",
+   "title": "Government urges cattle farmers to embrace CBPP testing"
   }
  ],
  "seen": {
@@ -322,6 +334,7 @@
   "093e69235daece4f": "2026-11-21T04:32:36.550377+00:00",
   "09c7cb1184777ba1": "2026-11-17T05:34:12.940616+00:00",
   "09f69974896b2579": "2026-11-15T17:15:19.510767+00:00",
+  "0a2f7488c7c55a91": "2026-11-22T11:23:26.862845+00:00",
   "0a72419819e8ed36": "2026-11-21T10:31:22.790300+00:00",
   "0b4fc1b2823d0da9": "2026-11-22T09:40:39.893350+00:00",
   "0b5a84b23574960b": "2026-11-17T04:33:20.353580+00:00",
@@ -513,6 +526,7 @@
   "aab14ca967414adf": "2026-11-18T11:30:57.734767+00:00",
   "ab12733ad80d886b": "2026-11-11T12:28:41.484095+00:00",
   "ac743ac8c19d2ab5": "2026-11-16T18:28:43.643200+00:00",
+  "acc6b0f2ea0bf2b6": "2026-11-22T11:22:18.281180+00:00",
   "ad88d03185e74633": "2026-11-11T12:28:41.484095+00:00",
   "afaee88161a66f4b": "2026-11-21T05:30:55.496449+00:00",
   "b0a0b5f7205ace23": "2026-11-18T05:52:30.850281+00:00",
