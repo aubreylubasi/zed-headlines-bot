@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 22,
+  "count": 24,
   "date": "2026-11-22"
  },
  "failures": {
@@ -14,23 +14,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-22T16:24:08.393506+00:00",
-  "id": "1405471502649229_122101515741555618",
-  "title": "Inside Mwizukanji Namwawa’s law career with the army"
+  "at": "2026-11-22T17:22:42.618843+00:00",
+  "id": "1405471502649229_122101547781555618",
+  "title": "Govt welcomes S&P Global credit rating upgrade for Zambia"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-20T16:48:03.342994+00:00",
-   "s": "Minister of Youth and Sport, Likando Mufalali has disclosed that 179,496 young people have received skills training through youth resource centres, other institutions and partnerships since 2021. Speaking during the 21st Graduation Ceremony of 1,107 young people at Lusaka Youth Resource Centre today, Mr Mufalali said skills development was key to achieving the Government’s Grow […]",
-   "t": "179 496 youths receive skills training since 2021",
-   "title": "179,496 youths receive skills training since 2021"
-  },
-  {
-   "at": "2026-11-20T16:49:09.672390+00:00",
-   "s": "",
-   "t": "african women farmers urge investment in indigenous seeds to boost food security",
-   "title": "African women farmers urge investment in indigenous seeds to boost food security"
-  },
   {
    "at": "2026-11-20T17:46:50.886387+00:00",
    "s": "SMART Zambia Institute National Coordinator Percy Chinyama has said digital technology is a key driver of the Grow Zambia Agenda as it carries the potential to stimulate economic growth, improve public service delivery and create opportunities for citizens. Mr Chinyama said this during the signing of a Memorandum of Understanding (MoU) between SMART Zambia Institute […]",
@@ -300,6 +288,18 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "inside mwizukanji namwawa s law career with the army",
    "title": "Inside Mwizukanji Namwawa’s law career with the army"
+  },
+  {
+   "at": "2026-11-22T17:21:48.092899+00:00",
+   "s": "S&P Global Ratings has upgraded Zambia’s sovereign credit rating from CCC+/C to B-/B with a stable outlook, citing improved economic performance, progress in debt restructuring and sustained fiscal reforms. Finance and National Planning Minister Situmbeko Musokotwane described the move as an important milestone in the country’s economic recovery. The upgrade, announced on November 20, 2026, […]",
+   "t": "s p lifts zambia to b as debt restructuring nears completion",
+   "title": "S&P Lifts Zambia to B- as Debt Restructuring Nears Completion"
+  },
+  {
+   "at": "2026-11-22T17:22:42.605040+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "govt welcomes s p global credit rating upgrade for zambia",
+   "title": "Govt welcomes S&P Global credit rating upgrade for Zambia"
   }
  ],
  "seen": {
@@ -607,6 +607,7 @@
   "f27aa52b8554b70e": "2026-11-17T06:36:34.965054+00:00",
   "f3bfb126bb9b5a26": "2026-11-16T18:27:39.654072+00:00",
   "f580aebc4a0e2d45": "2026-11-15T15:57:11.012307+00:00",
+  "f5e51f4de4706f8f": "2026-11-22T17:21:48.092856+00:00",
   "f816f6d2672e6e7d": "2026-11-22T10:27:38.996967+00:00",
   "f8d9359330dc22ad": "2026-11-20T06:56:26.780730+00:00",
   "f8eb5441980499c0": "2026-11-12T15:10:43.776525+00:00",
@@ -617,7 +618,8 @@
   "fc8b14859e2bdc75": "2026-11-20T12:36:03.660447+00:00",
   "fcb13a0242a83d8c": "2026-11-11T12:28:41.484095+00:00",
   "fce03eb7c3c55b2f": "2026-11-15T17:49:41.463753+00:00",
-  "fde7073540d2f127": "2026-11-22T06:49:16.874828+00:00"
+  "fde7073540d2f127": "2026-11-22T06:49:16.874828+00:00",
+  "feb83feba14b1094": "2026-11-22T17:22:42.604959+00:00"
  },
  "undated": {}
 }
