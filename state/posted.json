@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 1,
+  "count": 2,
   "date": "2026-11-22"
  },
  "failures": {
@@ -14,17 +14,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-22T03:42:20.726523+00:00",
-  "id": "1405471502649229_122101009125555618",
-  "title": "Muza stun leaders Nkana"
+  "at": "2026-11-22T05:46:23.404029+00:00",
+  "id": "1405471502649229_122101077465555618",
+  "title": "9-yr-old boy dies after being assaulted by a 14-yr-old in Matero"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-20T04:51:19.506113+00:00",
-   "s": "This content is for members only. Visit the site and log in/register to read.",
-   "t": "upnd seems on track to completely end loadshedding with increased power generation",
-   "title": "UPND seems on track to completely end loadshedding with increased power generation"
-  },
   {
    "at": "2026-11-20T06:56:26.780769+00:00",
    "s": "This content is for members only. Visit the site and log in/register to read.",
@@ -258,6 +252,12 @@
    "s": "FC MUZA produced possibly the result of the weekend in the MTN Super League Transitional Season, beating Stream A leaders Nkana FC 2-0 in Mazabuka. After a goalless first half, Lewis Kasono put MUZA ahead from the penalty spot in the 49th minute. Bridger Ng’andu sealed the victory in the 74th minute, condemning Nkana to […]",
    "t": "muza stun leaders nkana",
    "title": "Muza stun leaders Nkana"
+  },
+  {
+   "at": "2026-11-22T05:46:23.387237+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "9 yr old boy dies after being assaulted by a 14 yr old in matero",
+   "title": "9-yr-old boy dies after being assaulted by a 14-yr-old in Matero"
   }
  ],
  "seen": {
@@ -437,6 +437,7 @@
   "923d6a6dd1e13ad3": "2026-11-19T09:22:17.230713+00:00",
   "92a0338af99b2a6f": "2026-11-13T11:44:32.749632+00:00",
   "92c1aa9d4608cb11": "2026-11-11T12:28:41.484095+00:00",
+  "94d3ac1b5c09112e": "2026-11-22T05:46:04.380728+00:00",
   "9553fd53ca88a334": "2026-11-11T12:28:41.484095+00:00",
   "957253de27c719ce": "2026-11-13T10:34:02.223977+00:00",
   "968c91453fd30b6d": "2026-11-16T19:35:26.752954+00:00",
@@ -549,6 +550,7 @@
   "f8d9359330dc22ad": "2026-11-20T06:56:26.780730+00:00",
   "f8eb5441980499c0": "2026-11-12T15:10:43.776525+00:00",
   "f983b25863c5f2e1": "2026-11-16T17:30:23.043873+00:00",
+  "fa53a099240e4a0d": "2026-11-22T05:46:23.387196+00:00",
   "fa561727056f6ef8": "2026-11-11T12:28:41.484095+00:00",
   "fbd63450e33bb411": "2026-11-13T16:02:34.629015+00:00",
   "fc8b14859e2bdc75": "2026-11-20T12:36:03.660447+00:00",
