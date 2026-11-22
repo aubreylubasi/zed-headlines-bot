@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 24,
+  "count": 26,
   "date": "2026-11-22"
  },
  "failures": {
@@ -14,23 +14,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-22T17:22:42.618843+00:00",
-  "id": "1405471502649229_122101547781555618",
-  "title": "Govt welcomes S&P Global credit rating upgrade for Zambia"
+  "at": "2026-11-22T18:16:43.856281+00:00",
+  "id": "1405471502649229_122101572357555618",
+  "title": "Musokotwane urges taxpayers to support Grow Zambia Agenda"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-20T17:46:50.886387+00:00",
-   "s": "SMART Zambia Institute National Coordinator Percy Chinyama has said digital technology is a key driver of the Grow Zambia Agenda as it carries the potential to stimulate economic growth, improve public service delivery and create opportunities for citizens. Mr Chinyama said this during the signing of a Memorandum of Understanding (MoU) between SMART Zambia Institute […]",
-   "t": "technology to boost grow zambia agenda",
-   "title": "Technology to boost Grow Zambia Agenda"
-  },
-  {
-   "at": "2026-11-20T17:47:27.313600+00:00",
-   "s": "",
-   "t": "police discipline officers over handling of accident that claimed live of district commissioner",
-   "title": "Police discipline officers over handling of accident that claimed live of District Commissioner"
-  },
   {
    "at": "2026-11-20T18:47:48.439664+00:00",
    "s": "",
@@ -300,6 +288,18 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "govt welcomes s p global credit rating upgrade for zambia",
    "title": "Govt welcomes S&P Global credit rating upgrade for Zambia"
+  },
+  {
+   "at": "2026-11-22T18:16:20.412584+00:00",
+   "s": "Lumwana Radiants produced the standout performance of Matchweek 10 in the National Division, Northern Zone, thrashing Mathkat United 5-0 on Saturday, while leaders Kitwe United laboured to a narrow 1-0 win over Indeni FC to stay top. Lumwana were ruthless from the start. Shadrack Chinyumba Kambwili opened the scoring in the 20th minute before Mabanga […]",
+   "t": "kitwe chingalika hold on to top spot",
+   "title": "Kitwe Chingalika hold on to top spot"
+  },
+  {
+   "at": "2026-11-22T18:16:43.841233+00:00",
+   "s": "Minister of Finance and National Planning, Situmbeko Musokotwane, has urged taxpayers to support the country’s growth agenda, saying it is out of increased production that the government raises the tax revenue needed for development. Mr Musokogwane says government’s target for the next five years is to grow value and production adding that it is out […]",
+   "t": "musokotwane urges taxpayers to support grow zambia agenda",
+   "title": "Musokotwane urges taxpayers to support Grow Zambia Agenda"
   }
  ],
  "seen": {
@@ -389,6 +389,7 @@
   "32851fe0b9ac051e": "2026-11-14T20:51:57.308731+00:00",
   "32970213e2ce7dc0": "2026-11-15T06:27:16.931800+00:00",
   "32ab2d5b580f7c7c": "2026-11-11T12:28:41.484095+00:00",
+  "336d74609528537a": "2026-11-22T18:16:20.412551+00:00",
   "33b8f6c039ac414c": "2026-11-17T19:53:27.655978+00:00",
   "34c0ac9d7dbdf4f2": "2026-11-15T05:28:37.250650+00:00",
   "35bd4b22ba36964c": "2026-11-16T08:13:03.647746+00:00",
@@ -569,6 +570,7 @@
   "d07bb1d8222df0fe": "2026-11-11T12:28:41.484095+00:00",
   "d0d71728d7774632": "2026-11-20T14:44:53.110810+00:00",
   "d29ec15c564d5e6d": "2026-11-11T19:14:44.180648+00:00",
+  "d2f2f899a8c9ff67": "2026-11-22T18:16:43.841199+00:00",
   "d4954831649dff79": "2026-11-11T12:28:41.484095+00:00",
   "d4c82a938589b4e7": "2026-11-20T14:45:45.415550+00:00",
   "d4cd5f22be48bce0": "2026-11-12T10:50:27.096471+00:00",
