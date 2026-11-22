@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 4,
+  "count": 6,
   "date": "2026-11-22"
  },
  "failures": {
@@ -14,17 +14,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-22T06:49:43.127535+00:00",
-  "id": "1405471502649229_122101122843555618",
-  "title": "Teenager Williams-Barnett makes history as Tottenham beat Ipswich 2-0"
+  "at": "2026-11-22T08:01:15.430025+00:00",
+  "id": "1405471502649229_122101176147555618",
+  "title": "Central Province farmers urged to plant early"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-20T06:56:26.780769+00:00",
-   "s": "This content is for members only. Visit the site and log in/register to read.",
-   "t": "zambia to benefit from 10m global eye care fund",
-   "title": "Zambia to benefit from $10M global eye care fund"
-  },
   {
    "at": "2026-11-20T08:11:05.830828+00:00",
    "s": "This content is for members only. Visit the site and log in/register to read.",
@@ -270,6 +264,18 @@
    "s": "",
    "t": "teenager williams barnett makes history as tottenham beat ipswich 2 0",
    "title": "Teenager Williams-Barnett makes history as Tottenham beat Ipswich 2-0"
+  },
+  {
+   "at": "2026-11-22T08:00:30.831344+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "muza beat nkana",
+   "title": "Muza beat Nkana"
+  },
+  {
+   "at": "2026-11-22T08:01:15.417211+00:00",
+   "s": "Central Province Meteorological Officer, Chongo Tembo, has urged farmers in the district to plant early and medium-maturing crop varieties in the wake of the highly appreciated El Nino. Mr Tembo says Serenje is expected to receive normal to below-normal rainfall compared to other parts of the province, making crop selection and planting decisions critical for […]",
+   "t": "central province farmers urged to plant early",
+   "title": "Central Province farmers urged to plant early"
   }
  ],
  "seen": {
@@ -319,6 +325,7 @@
   "19bf1744931e6f80": "2026-11-11T12:28:41.484095+00:00",
   "1a2ba18b5d8eb21e": "2026-11-13T10:39:10.686292+00:00",
   "1a4d9826e75ae3ab": "2026-11-11T12:28:41.484095+00:00",
+  "1a8ffb540a2e2837": "2026-11-22T08:01:15.417172+00:00",
   "1bfd4d4f5d0318a1": "2026-11-21T06:32:13.930706+00:00",
   "1c8bafa9cb5876e6": "2026-11-21T03:31:06.667979+00:00",
   "1d290d2305f86ef0": "2026-11-11T20:12:24.778203+00:00",
@@ -442,6 +449,7 @@
   "895ed963a791f395": "2026-11-11T12:28:41.484095+00:00",
   "8af6667500e0e965": "2026-11-15T15:18:01.906332+00:00",
   "8cd5aef83c3a1d22": "2026-11-18T19:49:19.321469+00:00",
+  "8e0b548ddae090c9": "2026-11-22T08:00:30.831308+00:00",
   "904d943f7d19fc9a": "2026-11-20T20:39:31.032832+00:00",
   "90a72af9980bad46": "2026-11-21T19:04:39.342724+00:00",
   "912c8eacded5a424": "2026-11-20T15:45:42.852543+00:00",
