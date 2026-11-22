@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 8,
+  "count": 10,
   "date": "2026-11-22"
  },
  "failures": {
@@ -14,9 +14,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-22T08:49:07.849337+00:00",
-  "id": "1405471502649229_122101215873555618",
-  "title": "NSCZ, OYDC back Women’s Handball team ahead of historic AFCON debut"
+  "at": "2026-11-22T09:40:39.900065+00:00",
+  "id": "1405471502649229_122101249839555618",
+  "title": "Ecobank Zambia wins two awards for advancing financial literacy"
  },
  "recent_titles": [
   {
@@ -282,6 +282,18 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "nscz oydc back women s handball team ahead of historic afcon debut",
    "title": "NSCZ, OYDC back Women’s Handball team ahead of historic AFCON debut"
+  },
+  {
+   "at": "2026-11-22T09:39:27.586548+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "zambia shines at africa s strongest 2026 with 7 medals",
+   "title": "Zambia shines at Africa’s Strongest 2026 with 7 medals"
+  },
+  {
+   "at": "2026-11-22T09:40:39.893385+00:00",
+   "s": "",
+   "t": "ecobank zambia wins two awards for advancing financial literacy",
+   "title": "Ecobank Zambia wins two awards for advancing financial literacy"
   }
  ],
  "seen": {
@@ -305,6 +317,7 @@
   "09c7cb1184777ba1": "2026-11-17T05:34:12.940616+00:00",
   "09f69974896b2579": "2026-11-15T17:15:19.510767+00:00",
   "0a72419819e8ed36": "2026-11-21T10:31:22.790300+00:00",
+  "0b4fc1b2823d0da9": "2026-11-22T09:40:39.893350+00:00",
   "0b5a84b23574960b": "2026-11-17T04:33:20.353580+00:00",
   "0b8e7d06472cf74e": "2026-11-15T11:17:36.641810+00:00",
   "0d411f09ae067518": "2026-11-11T12:28:41.484095+00:00",
@@ -412,6 +425,7 @@
   "5fe52db4ca758716": "2026-11-11T17:10:51.001920+00:00",
   "5ff9fce4045dfb4b": "2026-11-16T11:40:22.209165+00:00",
   "614d32abf724625a": "2026-11-11T12:28:41.484095+00:00",
+  "615b7886decfb9ba": "2026-11-22T09:39:27.586510+00:00",
   "6192dd52f8a92b47": "2026-11-16T10:19:10.367097+00:00",
   "62764f6d40dbaf40": "2026-11-11T12:28:41.484095+00:00",
   "64a78fc14aa09497": "2026-11-18T12:31:57.192168+00:00",
