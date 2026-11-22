@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 10,
+  "count": 12,
   "date": "2026-11-22"
  },
  "failures": {
@@ -14,17 +14,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-22T09:40:39.900065+00:00",
-  "id": "1405471502649229_122101249839555618",
-  "title": "Ecobank Zambia wins two awards for advancing financial literacy"
+  "at": "2026-11-22T10:28:20.644489+00:00",
+  "id": "1405471502649229_122101277787555618",
+  "title": "Girlfriend storms boyfriend’s family house, demands to be taken in over pregnancy"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-20T10:25:22.810466+00:00",
-   "s": "Zesco United coach Mwenya Chipepo has praised his players for their team effort following Thursday’s 2-1 win over Red Arrows as the Super Division campaign gets tense. The victory was Zesco’s second home win of the transitional campaign and an important result in Stream B of the Super League. Chipepo said overcoming Arrows was not […]",
-   "t": "chipepo hails zesco team effort after arrows win",
-   "title": "Chipepo hails Zesco team effort after Arrows win"
-  },
   {
    "at": "2026-11-20T11:29:56.721306+00:00",
    "s": "",
@@ -294,6 +288,18 @@
    "s": "",
    "t": "ecobank zambia wins two awards for advancing financial literacy",
    "title": "Ecobank Zambia wins two awards for advancing financial literacy"
+  },
+  {
+   "at": "2026-11-22T10:27:38.997015+00:00",
+   "s": "When you apply for a loan, the lender wants to know whether you can repay it on time. Investors ask the same question when they lend money to a government. A credit rating is an independent assessment of that risk. When the rating improves, a country may find it easier to attract lenders and negotiate […] The post Zambia’s Credit Rating Is Up Again. What Does It Mean for Us? By Prof. Lubinda Haabazoka first appeared on Mwebantu .",
+   "t": "zambia s credit rating is up again what does it mean for us by prof lubinda haabazoka",
+   "title": "Zambia’s Credit Rating Is Up Again. What Does It Mean for Us? By Prof. Lubinda Haabazoka"
+  },
+  {
+   "at": "2026-11-22T10:28:20.626947+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "girlfriend storms boyfriend s family house demands to be taken in over pregnancy",
+   "title": "Girlfriend storms boyfriend’s family house, demands to be taken in over pregnancy"
   }
  ],
  "seen": {
@@ -349,6 +355,7 @@
   "1c8bafa9cb5876e6": "2026-11-21T03:31:06.667979+00:00",
   "1d290d2305f86ef0": "2026-11-11T20:12:24.778203+00:00",
   "1de416786b71f43e": "2026-11-11T12:28:41.484095+00:00",
+  "1ebd26345d1647f0": "2026-11-22T10:28:20.626900+00:00",
   "1f14bbd6dcb9b9f1": "2026-11-11T12:28:41.484095+00:00",
   "21522e6bf2362382": "2026-11-12T04:33:05.711819+00:00",
   "2156b60e4da90c48": "2026-11-11T12:28:41.484095+00:00",
@@ -590,6 +597,7 @@
   "f27aa52b8554b70e": "2026-11-17T06:36:34.965054+00:00",
   "f3bfb126bb9b5a26": "2026-11-16T18:27:39.654072+00:00",
   "f580aebc4a0e2d45": "2026-11-15T15:57:11.012307+00:00",
+  "f816f6d2672e6e7d": "2026-11-22T10:27:38.996967+00:00",
   "f8d9359330dc22ad": "2026-11-20T06:56:26.780730+00:00",
   "f8eb5441980499c0": "2026-11-12T15:10:43.776525+00:00",
   "f983b25863c5f2e1": "2026-11-16T17:30:23.043873+00:00",
