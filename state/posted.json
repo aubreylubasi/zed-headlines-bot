@@ -1,7 +1,7 @@
 {
  "daily": {
-  "count": 17,
-  "date": "2026-11-21"
+  "count": 1,
+  "date": "2026-11-22"
  },
  "failures": {
   "cc77da890cf470b5": {
@@ -14,17 +14,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-21T19:58:42.496388+00:00",
-  "id": "1405471502649229_122100779751555618",
-  "title": "Kawanda Councillor elected Manyinga Vice Council Chairperson"
+  "at": "2026-11-22T03:42:20.726523+00:00",
+  "id": "1405471502649229_122101009125555618",
+  "title": "Muza stun leaders Nkana"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-19T20:43:31.644919+00:00",
-   "s": "",
-   "t": "govt moves to grant farmers improved access to agric information with launch of e platform",
-   "title": "Govt moves to grant farmers improved access to agric information with launch of e-platform"
-  },
   {
    "at": "2026-11-20T04:51:19.506113+00:00",
    "s": "This content is for members only. Visit the site and log in/register to read.",
@@ -258,6 +252,12 @@
    "s": "Kawanda Ward Councillor, Roydenia Kalwete, has been elected Vice Council Chairperson of the Manyinga Town Council following an election held during a Full Council Meeting in Manyinga District. Mr Kalwete was elected unopposed after his contender, Vincent Kayeyi, withdrew from the race paving the way for his uncontested election. The election, held as part of the […]",
    "t": "kawanda councillor elected manyinga vice council chairperson",
    "title": "Kawanda Councillor elected Manyinga Vice Council Chairperson"
+  },
+  {
+   "at": "2026-11-22T03:42:20.719246+00:00",
+   "s": "FC MUZA produced possibly the result of the weekend in the MTN Super League Transitional Season, beating Stream A leaders Nkana FC 2-0 in Mazabuka. After a goalless first half, Lewis Kasono put MUZA ahead from the penalty spot in the 49th minute. Bridger Ng’andu sealed the victory in the 74th minute, condemning Nkana to […]",
+   "t": "muza stun leaders nkana",
+   "title": "Muza stun leaders Nkana"
   }
  ],
  "seen": {
@@ -511,6 +511,7 @@
   "d4c82a938589b4e7": "2026-11-20T14:45:45.415550+00:00",
   "d4cd5f22be48bce0": "2026-11-12T10:50:27.096471+00:00",
   "d74611228f3b975b": "2026-11-11T12:28:41.484095+00:00",
+  "d796dc5a0e41a01d": "2026-11-22T03:42:20.719211+00:00",
   "d8060b1f741a38da": "2026-11-16T11:39:41.270236+00:00",
   "d94a3dbf67854358": "2026-11-11T12:28:41.484095+00:00",
   "d95c8cb6a5583907": "2026-11-14T15:17:00.688181+00:00",
