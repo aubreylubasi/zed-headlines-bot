@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 18,
+  "count": 19,
   "date": "2026-11-23"
  },
  "failures": {
@@ -14,17 +14,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-23T19:39:18.399302+00:00",
-  "id": "1405471502649229_122102551653555618",
-  "title": "Zambia seeks Turkish investment in water infrastructure"
+  "at": "2026-11-23T20:27:03.684644+00:00",
+  "id": "1405471502649229_122102587929555618",
+  "title": "Mundubile, Makebi Zulu and 12 Others Committed to High Court Over Alleged Plot to Topple Government"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-21T19:58:42.483996+00:00",
-   "s": "Kawanda Ward Councillor, Roydenia Kalwete, has been elected Vice Council Chairperson of the Manyinga Town Council following an election held during a Full Council Meeting in Manyinga District. Mr Kalwete was elected unopposed after his contender, Vincent Kayeyi, withdrew from the race paving the way for his uncontested election. The election, held as part of the […]",
-   "t": "kawanda councillor elected manyinga vice council chairperson",
-   "title": "Kawanda Councillor elected Manyinga Vice Council Chairperson"
-  },
   {
    "at": "2026-11-22T03:42:20.719246+00:00",
    "s": "FC MUZA produced possibly the result of the weekend in the MTN Super League Transitional Season, beating Stream A leaders Nkana FC 2-0 in Mazabuka. After a goalless first half, Lewis Kasono put MUZA ahead from the penalty spot in the 49th minute. Bridger Ng’andu sealed the victory in the 74th minute, condemning Nkana to […]",
@@ -288,6 +282,12 @@
    "s": "",
    "t": "zambia seeks turkish investment in water infrastructure",
    "title": "Zambia seeks Turkish investment in water infrastructure"
+  },
+  {
+   "at": "2026-11-23T20:27:03.661990+00:00",
+   "s": "Brian Mundubile, his running mate Makebi Zulu and 12 co-accused have been committed to the High Court for summary trial on a charge of treason. The State alleges that the group tried to overthrow the Government by recruiting serving and retired soldiers, paying for military training in Russia and keeping offensive weapons for the operation. […]",
+   "t": "mundubile makebi zulu and 12 others committed to high court over alleged plot to topple government",
+   "title": "Mundubile, Makebi Zulu and 12 Others Committed to High Court Over Alleged Plot to Topple Government"
   }
  ],
  "seen": {
@@ -374,6 +374,7 @@
   "2fddff583740826f": "2026-11-11T12:28:41.484095+00:00",
   "301fc23b97a09b5c": "2026-11-16T11:39:22.358039+00:00",
   "30c9ec5d2f29d4c2": "2026-11-16T04:50:04.598833+00:00",
+  "30d763343e026106": "2026-11-23T20:27:03.661950+00:00",
   "314a7e88f0b27274": "2026-11-12T12:49:58.212204+00:00",
   "31cb55fdd27efd9e": "2026-11-19T08:16:30.983590+00:00",
   "322f6fb7c454f922": "2026-11-20T13:50:53.940084+00:00",
