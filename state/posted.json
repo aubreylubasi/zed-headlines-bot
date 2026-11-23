@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 11,
+  "count": 13,
   "date": "2026-11-23"
  },
  "failures": {
@@ -14,9 +14,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-23T11:46:48.677880+00:00",
-  "id": "1405471502649229_122102125857555618",
-  "title": "Veep hails Zanaco Masters impact as O’Kennedy wins tournament"
+  "at": "2026-11-23T14:16:42.919382+00:00",
+  "id": "1405471502649229_122102258049555618",
+  "title": "Chinsali Police recovers dead body of motorbike rider, suspects arrested"
  },
  "recent_titles": [
   {
@@ -282,6 +282,18 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "veep hails zanaco masters impact as o kennedy wins tournament",
    "title": "Veep hails Zanaco Masters impact as O’Kennedy wins tournament"
+  },
+  {
+   "at": "2026-11-23T14:15:37.447643+00:00",
+   "s": "",
+   "t": "mundubile zulu 12 others risk life in imprisonment as dpp lays treason charges",
+   "title": "Mundubile, Zulu, 12 others risk life in imprisonment as DPP lays treason charges"
+  },
+  {
+   "at": "2026-11-23T14:16:42.900282+00:00",
+   "s": "Police in Chinsali have discovered the body of a 17-year-old motorbike rider who went missing earlier last week. ‎The corpse of the deceased, a resident of Chandamali Village in Chief Nkula’s Chiefdom in Chinsali, was found on Saturday yesterday in the bush off Mulilansolo Road near Isamba Farm in Mibanga Village. Muchinga Province Police Commanding […]",
+   "t": "chinsali police recovers dead body of motorbike rider suspects arrested",
+   "title": "Chinsali Police recovers dead body of motorbike rider, suspects arrested"
   }
  ],
  "seen": {
@@ -357,6 +369,7 @@
   "2b0c26d166c45cf9": "2026-11-11T12:28:41.484095+00:00",
   "2b4187639cc33b19": "2026-11-16T14:07:58.921355+00:00",
   "2c0ac5e365cd0944": "2026-11-21T07:47:20.369183+00:00",
+  "2d289d94f7418de2": "2026-11-23T14:15:37.447607+00:00",
   "2d801f43c544f745": "2026-11-22T15:23:31.683210+00:00",
   "2dac6c406d525acc": "2026-11-11T12:28:41.484095+00:00",
   "2e5909a31d6300bd": "2026-11-11T12:28:41.484095+00:00",
@@ -543,6 +556,7 @@
   "c6e1c324aa917132": "2026-11-12T16:20:17.504333+00:00",
   "c8373880d4abd971": "2026-11-22T12:20:48.026754+00:00",
   "c8386517f5bca91a": "2026-11-14T18:27:26.975677+00:00",
+  "c99b10248b8a5f2b": "2026-11-23T14:16:42.900246+00:00",
   "c9b510b541383c4d": "2026-11-11T12:28:41.484095+00:00",
   "c9e942f13aacd371": "2026-11-13T10:33:40.271368+00:00",
   "c9f37e44289247ee": "2026-11-11T12:28:41.484095+00:00",
