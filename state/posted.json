@@ -1,7 +1,7 @@
 {
  "daily": {
-  "count": 26,
-  "date": "2026-11-22"
+  "count": 1,
+  "date": "2026-11-23"
  },
  "failures": {
   "cc77da890cf470b5": {
@@ -14,35 +14,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-22T18:16:43.856281+00:00",
-  "id": "1405471502649229_122101572357555618",
-  "title": "Musokotwane urges taxpayers to support Grow Zambia Agenda"
+  "at": "2026-11-23T03:49:10.441500+00:00",
+  "id": "1405471502649229_122101838313555618",
+  "title": "Tanzania’s smart ID puts Zambia’s ageing NRC under the spotlight"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-20T20:39:31.032870+00:00",
-   "s": "The Lusaka High Court has dismissed a petition challenging the election of Kelvin Kaunda as Member of Parliament for Lima Constituency, upholding his victory in the August 2026 general election. High Court Judge Derrick Mulenga dismissed the petition after finding that the petitioner had failed to sufficiently prove the allegations of electoral malpractice, intimidation, violence […]",
-   "t": "high court upholds kelvin kaunda s election",
-   "title": "High Court upholds Kelvin Kaunda’s election"
-  },
-  {
-   "at": "2026-11-20T20:40:16.960294+00:00",
-   "s": "",
-   "t": "public institutions get march 2027 deadline to adopt whistle blower policies",
-   "title": "Public institutions get March 2027 deadline to adopt whistle-blower policies"
-  },
-  {
-   "at": "2026-11-21T03:30:28.870043+00:00",
-   "s": "A 90-year-old woman has died after she was allegedly assaulted by a mob that accused her of witchcraft following the death of a five-year-old boy in Chipili District. ‎Confirming the development to the media, Luapula Police Commanding Officer, Lucky Munkhondya, confirmed the incident that occurred on Wednesday, 18 November 2026, at about 17:00 hours and […]",
-   "t": "90 year old woman killed by mob over witchcraft accusations in chipili",
-   "title": "90-year-old woman killed by mob over witchcraft accusations in Chipili"
-  },
-  {
-   "at": "2026-11-21T03:31:06.668010+00:00",
-   "s": "",
-   "t": "the unanswered questions surrounding two zambians reportedly killed in russia s war by joseph kamanga",
-   "title": "The unanswered questions surrounding two Zambians reportedly killed in Russia’s war, by Joseph Kamanga"
-  },
   {
    "at": "2026-11-21T04:32:08.442283+00:00",
    "s": "A 50-year-old man has appeared before the Kasempa Magistrate’s Court charged with defilement after allegedly having carnal knowledge of a girl below the age of 16. Godfrey Mwatula is charged with defilement contrary to Section 138 (1) of the Penal Code, Chapter 87 of the Laws of Zambia, as read with the Penal Code Amendment […]",
@@ -288,6 +264,12 @@
    "s": "Minister of Finance and National Planning, Situmbeko Musokotwane, has urged taxpayers to support the country’s growth agenda, saying it is out of increased production that the government raises the tax revenue needed for development. Mr Musokogwane says government’s target for the next five years is to grow value and production adding that it is out […]",
    "t": "musokotwane urges taxpayers to support grow zambia agenda",
    "title": "Musokotwane urges taxpayers to support Grow Zambia Agenda"
+  },
+  {
+   "at": "2026-11-23T03:49:10.428337+00:00",
+   "s": "By Aristide Bance Tanzania has launched a multi-purpose national ID with travel ambitions. Zambians who have long called for a modern NRC are asking why they are still waiting. LUSAKA / DAR ES SALAAM: Tanzania’s launch of an upgraded national identity card has revived a question that I as a Zambian has been asking for […]",
+   "t": "tanzania s smart id puts zambia s ageing nrc under the spotlight",
+   "title": "Tanzania’s smart ID puts Zambia’s ageing NRC under the spotlight"
   }
  ],
  "seen": {
@@ -316,6 +298,7 @@
   "0b5a84b23574960b": "2026-11-17T04:33:20.353580+00:00",
   "0b8e7d06472cf74e": "2026-11-15T11:17:36.641810+00:00",
   "0bdf58a754514df8": "2026-11-22T16:24:08.379045+00:00",
+  "0caac281acdc31a2": "2026-11-23T03:49:10.428295+00:00",
   "0d411f09ae067518": "2026-11-11T12:28:41.484095+00:00",
   "0df5945d284b326e": "2026-11-18T04:52:06.073008+00:00",
   "0dfd9165481fef64": "2026-11-13T15:04:14.019817+00:00",
