@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 9,
+  "count": 11,
   "date": "2026-11-23"
  },
  "failures": {
@@ -14,9 +14,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-23T10:45:34.295780+00:00",
-  "id": "1405471502649229_122102074851555618",
-  "title": "Arrows end Eagles’ unbeaten run"
+  "at": "2026-11-23T11:46:48.677880+00:00",
+  "id": "1405471502649229_122102125857555618",
+  "title": "Veep hails Zanaco Masters impact as O’Kennedy wins tournament"
  },
  "recent_titles": [
   {
@@ -270,6 +270,18 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "arrows end eagles unbeaten run",
    "title": "Arrows end Eagles’ unbeaten run"
+  },
+  {
+   "at": "2026-11-23T11:43:40.054948+00:00",
+   "s": "President Hakainde Hichilema has commended the Catholic Church for partnering with the Government in advancing agriculture, health and education in communities across the country. Seaking when he attended Mass at Chikuni Parish in Monze District, Southern Province, in the company of First Lady, Mutinta Hichilema, President Hichilema said the Church remained an important partner in […]",
+   "t": "president hichilema praises catholic church partnership",
+   "title": "President Hichilema praises catholic church partnership"
+  },
+  {
+   "at": "2026-11-23T11:46:48.664997+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "veep hails zanaco masters impact as o kennedy wins tournament",
+   "title": "Veep hails Zanaco Masters impact as O’Kennedy wins tournament"
   }
  ],
  "seen": {
@@ -410,6 +422,7 @@
   "5e39d71518479d7e": "2026-11-11T12:28:41.484095+00:00",
   "5fe52db4ca758716": "2026-11-11T17:10:51.001920+00:00",
   "5ff9fce4045dfb4b": "2026-11-16T11:40:22.209165+00:00",
+  "60abf76bd7626af9": "2026-11-23T11:43:10.374795+00:00",
   "614d32abf724625a": "2026-11-11T12:28:41.484095+00:00",
   "615b7886decfb9ba": "2026-11-22T09:39:27.586510+00:00",
   "6192dd52f8a92b47": "2026-11-16T10:19:10.367097+00:00",
@@ -430,6 +443,7 @@
   "7432b3d601a4ba73": "2026-11-13T17:08:49.621011+00:00",
   "745d7e85624af3ad": "2026-11-22T13:36:45.802279+00:00",
   "74cf77b5e407b027": "2026-11-12T08:50:19.824707+00:00",
+  "75c83ef64fbc77e9": "2026-11-23T11:46:48.664959+00:00",
   "75c89055f7d7bef1": "2026-11-11T12:28:41.484095+00:00",
   "7730600117344ab6": "2026-11-11T19:15:22.908757+00:00",
   "773b2ffa857fecac": "2026-11-14T20:52:27.220341+00:00",
@@ -561,6 +575,7 @@
   "dc8d9555e438cb7d": "2026-11-18T11:30:23.083324+00:00",
   "dc98fab07d91bc2b": "2026-11-11T12:28:41.484095+00:00",
   "dd8f7907c2c834ca": "2026-11-12T03:30:43.437022+00:00",
+  "ddb2244aaac2eb98": "2026-11-23T11:43:40.054916+00:00",
   "ddbcf2ba7f2debd1": "2026-11-11T16:05:05.256610+00:00",
   "de27aa6ba89e2c7b": "2026-11-23T09:39:21.998208+00:00",
   "df4e9f0e303c727f": "2026-11-15T09:25:18.981614+00:00",
