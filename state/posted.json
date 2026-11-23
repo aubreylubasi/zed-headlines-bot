@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 5,
+  "count": 7,
   "date": "2026-11-23"
  },
  "failures": {
@@ -14,23 +14,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-23T08:07:32.067112+00:00",
-  "id": "1405471502649229_122101962855555618",
-  "title": "Hichilema Tells Zambians At Chikuni That Dialogue Must Beat Quarrels And Social Media Fights"
+  "at": "2026-11-23T09:39:48.145113+00:00",
+  "id": "1405471502649229_122102022315555618",
+  "title": "President Hichilema commissions Chikuni Mission Hybrid Solar Power Plant"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-21T09:30:31.246496+00:00",
-   "s": "",
-   "t": "nine year old dies after alleged assault by teenager in matero",
-   "title": "Nine-year-old dies after alleged assault by teenager in Matero"
-  },
-  {
-   "at": "2026-11-21T09:31:12.075368+00:00",
-   "s": "This content is for members only. Visit the site and log in/register to read.",
-   "t": "power host zanaco nkana visit muza in stream a blockbusters",
-   "title": "Power host Zanaco, Nkana visit MUZA in Stream A blockbusters"
-  },
   {
    "at": "2026-11-21T10:31:22.790340+00:00",
    "s": "",
@@ -264,6 +252,18 @@
    "s": "President Hakainde Hichilema has urged Zambians to put dialogue ahead of quarrels and confrontation, including disputes fought out on social media. Speaking at a church service at the historic Chikuni Mission Parish in his home district of Monze, he said the country could overcome its challenges if citizens embraced mutual respect, constructive engagement and collective […]",
    "t": "hichilema tells zambians at chikuni that dialogue must beat quarrels and social media fights",
    "title": "Hichilema Tells Zambians At Chikuni That Dialogue Must Beat Quarrels And Social Media Fights"
+  },
+  {
+   "at": "2026-11-23T09:39:21.998249+00:00",
+   "s": "THE Livingstone High Court has nullified the election of Hastings Sililo as Member of Parliament for Mulobezi. The court upheld a petition by UPND candidate Timothy Mwenda Zambwe, ruling that Sililo was not qualified to stand in the Aug. 13, 2026 parliamentary election. Presiding Judge Justice Kazimbe Chenda, of the Lusaka High Court sitting in […] The post High Court Nullifies Mulobezi Election Over Grade 12 Certificate first appeared on Mwebantu .",
+   "t": "high court nullifies mulobezi election over grade 12 certificate",
+   "title": "High Court Nullifies Mulobezi Election Over Grade 12 Certificate"
+  },
+  {
+   "at": "2026-11-23T09:39:48.126745+00:00",
+   "s": "President Hakainde Hichilema says the commissioning of the 2.5-megawatt Chikuni Mission Hybrid Solar Power Plant valued at Three Million United States Dollars is part of government’s commitment to extending development and reliable electricity to all parts of the country. Speaking during the commissioning ceremony in Monze District, President Hichilema said the project was among several […]",
+   "t": "president hichilema commissions chikuni mission hybrid solar power plant",
+   "title": "President Hichilema commissions Chikuni Mission Hybrid Solar Power Plant"
   }
  ],
  "seen": {
@@ -447,6 +447,7 @@
   "858e61b23099dae8": "2026-11-20T15:50:18.719467+00:00",
   "8753a04ee5871b51": "2026-11-21T09:30:31.246459+00:00",
   "87782eb80b02a197": "2026-11-11T12:28:41.484095+00:00",
+  "88daef30be759bd5": "2026-11-23T09:39:48.126702+00:00",
   "890725e9b3927e43": "2026-11-19T11:28:57.736215+00:00",
   "895ed963a791f395": "2026-11-11T12:28:41.484095+00:00",
   "8af6667500e0e965": "2026-11-15T15:18:01.906332+00:00",
@@ -553,6 +554,7 @@
   "dc98fab07d91bc2b": "2026-11-11T12:28:41.484095+00:00",
   "dd8f7907c2c834ca": "2026-11-12T03:30:43.437022+00:00",
   "ddbcf2ba7f2debd1": "2026-11-11T16:05:05.256610+00:00",
+  "de27aa6ba89e2c7b": "2026-11-23T09:39:21.998208+00:00",
   "df4e9f0e303c727f": "2026-11-15T09:25:18.981614+00:00",
   "e0c1b4985aa39718": "2026-11-11T12:28:41.484095+00:00",
   "e1df77f42371ea05": "2026-11-20T20:40:16.960259+00:00",
