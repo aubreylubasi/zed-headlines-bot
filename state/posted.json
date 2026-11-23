@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 1,
+  "count": 2,
   "date": "2026-11-23"
  },
  "failures": {
@@ -14,23 +14,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-23T03:49:10.441500+00:00",
-  "id": "1405471502649229_122101838313555618",
-  "title": "Tanzania’s smart ID puts Zambia’s ageing NRC under the spotlight"
+  "at": "2026-11-23T05:00:39.407073+00:00",
+  "id": "1405471502649229_122101866723555618",
+  "title": "HH is too smart to fall for the 3rd term temptation, unless…"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-21T04:32:08.442283+00:00",
-   "s": "A 50-year-old man has appeared before the Kasempa Magistrate’s Court charged with defilement after allegedly having carnal knowledge of a girl below the age of 16. Godfrey Mwatula is charged with defilement contrary to Section 138 (1) of the Penal Code, Chapter 87 of the Laws of Zambia, as read with the Penal Code Amendment […]",
-   "t": "kasempa man in court for defilement case",
-   "title": "Kasempa man in court for defilement case"
-  },
-  {
-   "at": "2026-11-21T04:32:36.550410+00:00",
-   "s": "President Hakainde Hichilema has called for the institutionalisation of the United Party for National Development (UPND) at all levels to strengthen grassroots participation and advance the country’s development agenda. President Hichilema says strong party structures would facilitate a bottom-up approach to development by ensuring grassroots members play an active role in actualising the UPND’s developmental […]",
-   "t": "president hichilema opens upnd southern province secretariat",
-   "title": "President Hichilema opens UPND Southern Province Secretariat"
-  },
   {
    "at": "2026-11-21T05:30:55.496482+00:00",
    "s": "This content is for members only. Visit the site and log in/register to read.",
@@ -270,6 +258,12 @@
    "s": "By Aristide Bance Tanzania has launched a multi-purpose national ID with travel ambitions. Zambians who have long called for a modern NRC are asking why they are still waiting. LUSAKA / DAR ES SALAAM: Tanzania’s launch of an upgraded national identity card has revived a question that I as a Zambian has been asking for […]",
    "t": "tanzania s smart id puts zambia s ageing nrc under the spotlight",
    "title": "Tanzania’s smart ID puts Zambia’s ageing NRC under the spotlight"
+  },
+  {
+   "at": "2026-11-23T05:00:39.396091+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "hh is too smart to fall for the 3rd term temptation unless",
+   "title": "HH is too smart to fall for the 3rd term temptation, unless…"
   }
  ],
  "seen": {
@@ -570,6 +564,7 @@
   "e72cdb7f06753743": "2026-11-11T12:28:41.484095+00:00",
   "e7a1aa29b68b7669": "2026-11-12T06:35:58.405480+00:00",
   "e7c61e3d8fede0cc": "2026-11-12T16:22:06.330169+00:00",
+  "e85a43f7376334ec": "2026-11-23T05:00:39.396049+00:00",
   "ed30f54182a5351b": "2026-11-12T12:51:32.337275+00:00",
   "edbade4358640852": "2026-11-12T05:35:29.676148+00:00",
   "ee28b5e9e48fb6e1": "2026-11-13T18:46:25.429635+00:00",
