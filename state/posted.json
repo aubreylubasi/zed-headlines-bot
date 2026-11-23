@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 2,
+  "count": 3,
   "date": "2026-11-23"
  },
  "failures": {
@@ -14,17 +14,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-23T05:00:39.407073+00:00",
-  "id": "1405471502649229_122101866723555618",
-  "title": "HH is too smart to fall for the 3rd term temptation, unless…"
+  "at": "2026-11-23T06:21:53.026421+00:00",
+  "id": "1405471502649229_122101916973555618",
+  "title": "Don’t sit on projects, HH warns ERB, ZEMA"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-21T05:30:55.496482+00:00",
-   "s": "This content is for members only. Visit the site and log in/register to read.",
-   "t": "weekend edition 309 saturday november 21 2026",
-   "title": "Weekend Edition 309 Saturday November 21, 2026"
-  },
   {
    "at": "2026-11-21T06:32:50.333959+00:00",
    "s": "This content is for members only. Visit the site and log in/register to read.",
@@ -264,6 +258,12 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "hh is too smart to fall for the 3rd term temptation unless",
    "title": "HH is too smart to fall for the 3rd term temptation, unless…"
+  },
+  {
+   "at": "2026-11-23T06:21:53.013913+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "don t sit on projects hh warns erb zema",
+   "title": "Don’t sit on projects, HH warns ERB, ZEMA"
   }
  ],
  "seen": {
@@ -561,6 +561,7 @@
   "e4f88c3965b58301": "2026-11-19T10:34:02.714135+00:00",
   "e5c468ff443e1f39": "2026-11-11T12:28:41.484095+00:00",
   "e5edfc4bbfbe0fb2": "2026-11-19T03:44:47.781783+00:00",
+  "e664e9ff6f026952": "2026-11-23T06:21:53.013876+00:00",
   "e72cdb7f06753743": "2026-11-11T12:28:41.484095+00:00",
   "e7a1aa29b68b7669": "2026-11-12T06:35:58.405480+00:00",
   "e7c61e3d8fede0cc": "2026-11-12T16:22:06.330169+00:00",
