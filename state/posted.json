@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 7,
+  "count": 9,
   "date": "2026-11-23"
  },
  "failures": {
@@ -14,17 +14,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-23T09:39:48.145113+00:00",
-  "id": "1405471502649229_122102022315555618",
-  "title": "President Hichilema commissions Chikuni Mission Hybrid Solar Power Plant"
+  "at": "2026-11-23T10:45:34.295780+00:00",
+  "id": "1405471502649229_122102074851555618",
+  "title": "Arrows end Eagles’ unbeaten run"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-21T10:31:22.790340+00:00",
-   "s": "",
-   "t": "hichilema under pressure to speak on tenure extension as battle to free 18 politicians rages see our top 10 stories of the week",
-   "title": "Hichilema under pressure to speak on tenure extension, as battle to free 18 politicians rages. See our top 10 stories of the week"
-  },
   {
    "at": "2026-11-21T14:31:15.176325+00:00",
    "s": "",
@@ -264,6 +258,18 @@
    "s": "President Hakainde Hichilema says the commissioning of the 2.5-megawatt Chikuni Mission Hybrid Solar Power Plant valued at Three Million United States Dollars is part of government’s commitment to extending development and reliable electricity to all parts of the country. Speaking during the commissioning ceremony in Monze District, President Hichilema said the project was among several […]",
    "t": "president hichilema commissions chikuni mission hybrid solar power plant",
    "title": "President Hichilema commissions Chikuni Mission Hybrid Solar Power Plant"
+  },
+  {
+   "at": "2026-11-23T10:44:59.305296+00:00",
+   "s": "Maestro United Zambia Football Club (FC MUZA) has banned two supporters from attending all its matches after they were captured on camera displaying a political symbol during the Week 8 MTN Super League fixture against Nkana FC. Some fans were captured on camera displaying the symbol associated with the governing United Party for National Development […]",
+   "t": "muza bans two fans for displaying political symbol",
+   "title": "MUZA bans two fans for displaying political symbol"
+  },
+  {
+   "at": "2026-11-23T10:45:34.285117+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "arrows end eagles unbeaten run",
+   "title": "Arrows end Eagles’ unbeaten run"
   }
  ],
  "seen": {
@@ -398,6 +404,7 @@
   "5b7df30051ef3b58": "2026-11-23T08:07:32.049511+00:00",
   "5c51d44135f89fc7": "2026-11-17T03:24:58.012197+00:00",
   "5c5d4d8f0d00b751": "2026-11-14T12:23:17.805505+00:00",
+  "5cad8b00951a0677": "2026-11-23T10:44:59.305266+00:00",
   "5d80949cc50d39ef": "2026-11-16T10:19:29.937086+00:00",
   "5de3777fd3f43270": "2026-11-11T12:28:41.484095+00:00",
   "5e39d71518479d7e": "2026-11-11T12:28:41.484095+00:00",
@@ -537,6 +544,7 @@
   "cf2881d28392fe6a": "2026-11-11T12:28:41.484095+00:00",
   "d07bb1d8222df0fe": "2026-11-11T12:28:41.484095+00:00",
   "d0d71728d7774632": "2026-11-20T14:44:53.110810+00:00",
+  "d125a7cf8dc36742": "2026-11-23T10:45:34.285087+00:00",
   "d29ec15c564d5e6d": "2026-11-11T19:14:44.180648+00:00",
   "d2f2f899a8c9ff67": "2026-11-22T18:16:43.841199+00:00",
   "d4954831649dff79": "2026-11-11T12:28:41.484095+00:00",
