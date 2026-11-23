@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 3,
+  "count": 5,
   "date": "2026-11-23"
  },
  "failures": {
@@ -14,23 +14,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-23T06:21:53.026421+00:00",
-  "id": "1405471502649229_122101916973555618",
-  "title": "Don’t sit on projects, HH warns ERB, ZEMA"
+  "at": "2026-11-23T08:07:32.067112+00:00",
+  "id": "1405471502649229_122101962855555618",
+  "title": "Hichilema Tells Zambians At Chikuni That Dialogue Must Beat Quarrels And Social Media Fights"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-21T06:32:50.333959+00:00",
-   "s": "This content is for members only. Visit the site and log in/register to read.",
-   "t": "govt explores use of digital lending platforms to finance agricultural inputs",
-   "title": "Govt explores use of digital lending platforms to finance agricultural inputs"
-  },
-  {
-   "at": "2026-11-21T07:49:00.543117+00:00",
-   "s": "This content is for members only. Visit the site and log in/register to read.",
-   "t": "i stopped having sex with my wife to punish her",
-   "title": "“I stopped having sex with my wife to punish her”"
-  },
   {
    "at": "2026-11-21T09:30:31.246496+00:00",
    "s": "",
@@ -264,6 +252,18 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "don t sit on projects hh warns erb zema",
    "title": "Don’t sit on projects, HH warns ERB, ZEMA"
+  },
+  {
+   "at": "2026-11-23T08:06:42.125251+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "increased license fees will fuel illegal mining small scale miners",
+   "title": "Increased license fees will fuel illegal mining – Small-scale miners"
+  },
+  {
+   "at": "2026-11-23T08:07:32.049572+00:00",
+   "s": "President Hakainde Hichilema has urged Zambians to put dialogue ahead of quarrels and confrontation, including disputes fought out on social media. Speaking at a church service at the historic Chikuni Mission Parish in his home district of Monze, he said the country could overcome its challenges if citizens embraced mutual respect, constructive engagement and collective […]",
+   "t": "hichilema tells zambians at chikuni that dialogue must beat quarrels and social media fights",
+   "title": "Hichilema Tells Zambians At Chikuni That Dialogue Must Beat Quarrels And Social Media Fights"
   }
  ],
  "seen": {
@@ -395,6 +395,7 @@
   "5a525e0e76103014": "2026-11-20T18:48:44.775736+00:00",
   "5acb4255f806c27f": "2026-11-15T11:55:30.166062+00:00",
   "5b0a0ea29738f77f": "2026-11-19T20:43:31.644879+00:00",
+  "5b7df30051ef3b58": "2026-11-23T08:07:32.049511+00:00",
   "5c51d44135f89fc7": "2026-11-17T03:24:58.012197+00:00",
   "5c5d4d8f0d00b751": "2026-11-14T12:23:17.805505+00:00",
   "5d80949cc50d39ef": "2026-11-16T10:19:29.937086+00:00",
@@ -430,6 +431,7 @@
   "77d52e3d31c39867": "2026-11-11T12:28:41.484095+00:00",
   "787f83c9c6fa2232": "2026-11-15T05:28:10.649148+00:00",
   "78d3c4569e80db69": "2026-11-13T17:09:11.699200+00:00",
+  "7b31b6c3368bd141": "2026-11-23T08:06:42.125214+00:00",
   "7bbba7d387a8f560": "2026-11-14T13:30:35.584637+00:00",
   "7d63e4dcbce857c0": "2026-11-20T12:36:03.660921+00:00",
   "7df499ed1ef35ce6": "2026-11-15T12:31:58.813170+00:00",
