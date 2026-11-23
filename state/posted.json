@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 13,
+  "count": 14,
   "date": "2026-11-23"
  },
  "failures": {
@@ -14,17 +14,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-23T14:16:42.919382+00:00",
-  "id": "1405471502649229_122102258049555618",
-  "title": "Chinsali Police recovers dead body of motorbike rider, suspects arrested"
+  "at": "2026-11-23T15:22:33.211200+00:00",
+  "id": "1405471502649229_122102321895555618",
+  "title": "Hichilema’s advisor, Banda dismisses report linking him to petition against another presidential aide"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-21T14:31:15.176325+00:00",
-   "s": "",
-   "t": "s p upgrades zambia s credit rating to b b on growth debt progress",
-   "title": "S&P upgrades Zambia’s credit rating to B-/B on growth, debt progress"
-  },
   {
    "at": "2026-11-21T15:24:19.463971+00:00",
    "s": "This content is for members only. Visit the site and log in/register to read.",
@@ -294,6 +288,12 @@
    "s": "Police in Chinsali have discovered the body of a 17-year-old motorbike rider who went missing earlier last week. ‎The corpse of the deceased, a resident of Chandamali Village in Chief Nkula’s Chiefdom in Chinsali, was found on Saturday yesterday in the bush off Mulilansolo Road near Isamba Farm in Mibanga Village. Muchinga Province Police Commanding […]",
    "t": "chinsali police recovers dead body of motorbike rider suspects arrested",
    "title": "Chinsali Police recovers dead body of motorbike rider, suspects arrested"
+  },
+  {
+   "at": "2026-11-23T15:22:33.206051+00:00",
+   "s": "",
+   "t": "hichilema s advisor banda dismisses report linking him to petition against another presidential aide",
+   "title": "Hichilema’s advisor, Banda dismisses report linking him to petition against another presidential aide"
   }
  ],
  "seen": {
@@ -321,6 +321,7 @@
   "0b4fc1b2823d0da9": "2026-11-22T09:40:39.893350+00:00",
   "0b5a84b23574960b": "2026-11-17T04:33:20.353580+00:00",
   "0b8e7d06472cf74e": "2026-11-15T11:17:36.641810+00:00",
+  "0bc9fc2fac3df5f0": "2026-11-23T15:22:33.206011+00:00",
   "0bdf58a754514df8": "2026-11-22T16:24:08.379045+00:00",
   "0caac281acdc31a2": "2026-11-23T03:49:10.428295+00:00",
   "0d411f09ae067518": "2026-11-11T12:28:41.484095+00:00",
@@ -548,6 +549,7 @@
   "be824c4156b9af24": "2026-11-12T09:48:35.517866+00:00",
   "bece163096dfb9a4": "2026-11-12T07:53:06.288878+00:00",
   "bf40e08159d49a63": "2026-11-21T07:49:00.543080+00:00",
+  "c110aacc0c7e1646": "2026-11-23T15:22:21.648319+00:00",
   "c221128002d98cba": "2026-11-20T04:51:19.506074+00:00",
   "c3584159bfe4ea92": "2026-11-14T18:27:01.207477+00:00",
   "c3eb3b728238a9b8": "2026-11-15T17:49:07.831622+00:00",
