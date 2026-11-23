@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 14,
+  "count": 16,
   "date": "2026-11-23"
  },
  "failures": {
@@ -14,17 +14,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-23T15:22:33.211200+00:00",
-  "id": "1405471502649229_122102321895555618",
-  "title": "Hichilema’s advisor, Banda dismisses report linking him to petition against another presidential aide"
+  "at": "2026-11-23T17:31:18.741713+00:00",
+  "id": "1405471502649229_122102411919555618",
+  "title": "Government clears FRA farmer payments in Gwembe’s Kkota Kkota Ward"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-21T17:24:09.882187+00:00",
-   "s": "This content is for members only. Visit the site and log in/register to read.",
-   "t": "he refused to share his pension wife laments",
-   "title": "He refused to share his pension, wife laments"
-  },
   {
    "at": "2026-11-21T18:17:24.910271+00:00",
    "s": "",
@@ -288,6 +282,18 @@
    "s": "",
    "t": "hichilema s advisor banda dismisses report linking him to petition against another presidential aide",
    "title": "Hichilema’s advisor, Banda dismisses report linking him to petition against another presidential aide"
+  },
+  {
+   "at": "2026-11-23T17:30:56.309810+00:00",
+   "s": "",
+   "t": "solar industry warns proposed tax changes could raise costs for zambians",
+   "title": "Solar industry warns proposed tax changes could raise costs for Zambians"
+  },
+  {
+   "at": "2026-11-23T17:31:18.731635+00:00",
+   "s": "Government has been commended for completing payments to all farmers who supplied maize to the Food Reserve Agency (FRA) in Kkota Kkota Ward of Gwembe district in Southern Province. Kkota Kkota Ward Councillor, Edward Gama, said more than 200 farmers who supplied maize to FRA had received their payments in full as of November 20, […]",
+   "t": "government clears fra farmer payments in gwembe s kkota kkota ward",
+   "title": "Government clears FRA farmer payments in Gwembe’s Kkota Kkota Ward"
   }
  ],
  "seen": {
@@ -408,6 +414,7 @@
   "4cab62cdcf961929": "2026-11-11T12:28:41.484095+00:00",
   "4d4e6811c4eeb156": "2026-11-22T04:47:03.045796+00:00",
   "4d50d3f56bc22d6f": "2026-11-13T11:44:11.090240+00:00",
+  "4e95deb770ccfc91": "2026-11-23T17:30:44.335578+00:00",
   "507b936216dc9644": "2026-11-14T12:22:56.476020+00:00",
   "50a970992ea2e172": "2026-11-11T12:28:41.484095+00:00",
   "51c035191b8f9757": "2026-11-18T10:26:24.317061+00:00",
@@ -477,6 +484,7 @@
   "8753a04ee5871b51": "2026-11-21T09:30:31.246459+00:00",
   "87782eb80b02a197": "2026-11-11T12:28:41.484095+00:00",
   "88daef30be759bd5": "2026-11-23T09:39:48.126702+00:00",
+  "88f88b750ae59c5b": "2026-11-23T17:30:56.309773+00:00",
   "890725e9b3927e43": "2026-11-19T11:28:57.736215+00:00",
   "895ed963a791f395": "2026-11-11T12:28:41.484095+00:00",
   "8af6667500e0e965": "2026-11-15T15:18:01.906332+00:00",
@@ -499,6 +507,7 @@
   "9a07edf6e239a8f6": "2026-11-11T12:28:41.484095+00:00",
   "9a1fcd8b5b664e68": "2026-11-19T10:30:50.148966+00:00",
   "9ab3f46e4823c4a7": "2026-11-19T08:14:38.548727+00:00",
+  "9addac7ae44528db": "2026-11-23T17:31:18.731594+00:00",
   "9be1923b0cabfa02": "2026-11-11T12:28:41.484095+00:00",
   "9d02f54cdb2015c9": "2026-11-15T09:25:18.985750+00:00",
   "9d762e0f7753607d": "2026-11-12T11:49:01.664337+00:00",
