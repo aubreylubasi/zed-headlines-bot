@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 16,
+  "count": 18,
   "date": "2026-11-23"
  },
  "failures": {
@@ -14,23 +14,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-23T17:31:18.741713+00:00",
-  "id": "1405471502649229_122102411919555618",
-  "title": "Government clears FRA farmer payments in Gwembe’s Kkota Kkota Ward"
+  "at": "2026-11-23T19:39:18.399302+00:00",
+  "id": "1405471502649229_122102551653555618",
+  "title": "Zambia seeks Turkish investment in water infrastructure"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-21T19:04:39.342764+00:00",
-   "s": "",
-   "t": "solwezi student puts zambia on podium at african skills olympics",
-   "title": "Solwezi student puts Zambia on podium at African Skills Olympics"
-  },
-  {
-   "at": "2026-11-21T19:06:09.470118+00:00",
-   "s": "Government has challenged men in Central Province to speak about their challenges freely in order to receive support. Central Province Permanent Secretary, Milner Mwanakampwe, says too often, men feel pressured to carry heavy burdens in silence and hide their struggles such as mental health, physical abuse, economic and emotional stress. Dr Mwanakampwe said this in […]",
-   "t": "men encouraged to speak about their challenges",
-   "title": "Men encouraged to speak about their challenges"
-  },
   {
    "at": "2026-11-21T19:58:42.483996+00:00",
    "s": "Kawanda Ward Councillor, Roydenia Kalwete, has been elected Vice Council Chairperson of the Manyinga Town Council following an election held during a Full Council Meeting in Manyinga District. Mr Kalwete was elected unopposed after his contender, Vincent Kayeyi, withdrew from the race paving the way for his uncontested election. The election, held as part of the […]",
@@ -288,6 +276,18 @@
    "s": "Government has been commended for completing payments to all farmers who supplied maize to the Food Reserve Agency (FRA) in Kkota Kkota Ward of Gwembe district in Southern Province. Kkota Kkota Ward Councillor, Edward Gama, said more than 200 farmers who supplied maize to FRA had received their payments in full as of November 20, […]",
    "t": "government clears fra farmer payments in gwembe s kkota kkota ward",
    "title": "Government clears FRA farmer payments in Gwembe’s Kkota Kkota Ward"
+  },
+  {
+   "at": "2026-11-23T19:38:57.241447+00:00",
+   "s": "The Kabwe Magistrate Court has fined a 21 year old Burundian National K5, 000 or nine months imprisonment with hard labour for unlawful presence in Zambia. Appearing for judgement before Kabwe Resident Magistrate Liswaniso Wamundila, was Edouard Bayubahe facing a count of unlawful presence contrary to Section 11(3) as read with 56(1) of the Immigration […]",
+   "t": "burundi national charged for unlawful presence",
+   "title": "Burundi national charged for unlawful presence"
+  },
+  {
+   "at": "2026-11-23T19:39:18.394969+00:00",
+   "s": "",
+   "t": "zambia seeks turkish investment in water infrastructure",
+   "title": "Zambia seeks Turkish investment in water infrastructure"
   }
  ],
  "seen": {
@@ -487,6 +487,7 @@
   "904d943f7d19fc9a": "2026-11-20T20:39:31.032832+00:00",
   "90a72af9980bad46": "2026-11-21T19:04:39.342724+00:00",
   "912c8eacded5a424": "2026-11-20T15:45:42.852543+00:00",
+  "91314feade9430fe": "2026-11-23T19:38:57.241407+00:00",
   "915e682f6bf213b3": "2026-11-18T08:09:12.798238+00:00",
   "91ec79ecbfc8fe0b": "2026-11-19T06:54:54.041186+00:00",
   "923d6a6dd1e13ad3": "2026-11-19T09:22:17.230713+00:00",
@@ -527,6 +528,7 @@
   "b0a0b5f7205ace23": "2026-11-18T05:52:30.850281+00:00",
   "b146296e157a7f46": "2026-11-15T13:32:35.572136+00:00",
   "b205908e603d475b": "2026-11-11T12:28:41.484095+00:00",
+  "b236d4958e333f78": "2026-11-23T19:39:18.394925+00:00",
   "b26ee208ae5c4d75": "2026-11-14T08:38:09.519627+00:00",
   "b489189d794e6278": "2026-11-15T11:55:57.877217+00:00",
   "b5059b8d8201a6f3": "2026-11-13T18:00:33.838744+00:00",
