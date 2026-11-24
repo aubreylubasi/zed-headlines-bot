@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 4,
+  "count": 6,
   "date": "2026-11-24"
  },
  "failures": {
@@ -14,23 +14,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-24T08:24:01.120240+00:00",
-  "id": "1405471502649229_122102971275555618",
-  "title": "Keep your hands off civil servants, Wynter tells UPND"
+  "at": "2026-11-24T09:35:26.234764+00:00",
+  "id": "1405471502649229_122103016707555618",
+  "title": "Green Buffaloes shine at National Women’s Judo Cup"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-22T08:48:27.611035+00:00",
-   "s": "",
-   "t": "police warn against mob justice after 90 year old woman is killed over witchcraft claims",
-   "title": "Police warn against mob justice after 90-year-old woman is killed over witchcraft claims"
-  },
-  {
-   "at": "2026-11-22T08:49:07.838538+00:00",
-   "s": "This content is for members only. Visit the site and log in/register to read.",
-   "t": "nscz oydc back women s handball team ahead of historic afcon debut",
-   "title": "NSCZ, OYDC back Women’s Handball team ahead of historic AFCON debut"
-  },
   {
    "at": "2026-11-22T09:39:27.586548+00:00",
    "s": "This content is for members only. Visit the site and log in/register to read.",
@@ -276,6 +264,18 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "keep your hands off civil servants wynter tells upnd",
    "title": "Keep your hands off civil servants, Wynter tells UPND"
+  },
+  {
+   "at": "2026-11-24T09:33:16.505037+00:00",
+   "s": "THE BAE Jetstream 41 rolls out with 29 seats full, and both turbo props humming. Commanding it is Captain Tisa Muwema, Proflight Zambia’s first Zambian female J41 captain. Affectionately known as the ‘Sky Queen’, she is warm, poised yet famously firm on the flight deck. Her determination, discipline and unwavering commitment to her craft have earned […] The post ‘Sky Queen’: The Captain who gave up her jet to take command first appeared on Mwebantu .",
+   "t": "sky queen the captain who gave up her jet to take command",
+   "title": "‘Sky Queen’: The Captain who gave up her jet to take command"
+  },
+  {
+   "at": "2026-11-24T09:35:26.220423+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "green buffaloes shine at national women s judo cup",
+   "title": "Green Buffaloes shine at National Women’s Judo Cup"
   }
  ],
  "seen": {
@@ -324,6 +324,7 @@
   "15d31cbde15d4ba7": "2026-11-20T14:44:53.095085+00:00",
   "15e69c8d83e4ffd6": "2026-11-21T14:31:15.176285+00:00",
   "15f6831e3107ffbd": "2026-11-12T14:05:36.042752+00:00",
+  "16f9b3a43345c186": "2026-11-24T09:33:16.504994+00:00",
   "17d2f7385b373e18": "2026-11-15T03:24:40.194977+00:00",
   "17d9a36d04a70b25": "2026-11-11T12:28:41.484095+00:00",
   "18b691bf37df516c": "2026-11-11T12:28:41.484095+00:00",
@@ -612,6 +613,7 @@
   "f208f0d52d0204bd": "2026-11-13T10:47:10.690974+00:00",
   "f27aa52b8554b70e": "2026-11-17T06:36:34.965054+00:00",
   "f3bfb126bb9b5a26": "2026-11-16T18:27:39.654072+00:00",
+  "f4273e38f62779a6": "2026-11-24T09:35:26.220375+00:00",
   "f580aebc4a0e2d45": "2026-11-15T15:57:11.012307+00:00",
   "f5e51f4de4706f8f": "2026-11-22T17:21:48.092856+00:00",
   "f816f6d2672e6e7d": "2026-11-22T10:27:38.996967+00:00",
