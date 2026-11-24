@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 15,
+  "count": 17,
   "date": "2026-11-24"
  },
  "failures": {
@@ -14,23 +14,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-24T15:55:10.695610+00:00",
-  "id": "1405471502649229_122103323913555618",
-  "title": "Group demands audit of irregular teacher transfers, action against officials"
+  "at": "2026-11-24T17:44:09.069659+00:00",
+  "id": "1405471502649229_122103425853555618",
+  "title": "Seven die in multiple car crash on Great North Road in Chikankata"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-22T17:21:48.092899+00:00",
-   "s": "S&P Global Ratings has upgraded Zambia’s sovereign credit rating from CCC+/C to B-/B with a stable outlook, citing improved economic performance, progress in debt restructuring and sustained fiscal reforms. Finance and National Planning Minister Situmbeko Musokotwane described the move as an important milestone in the country’s economic recovery. The upgrade, announced on November 20, 2026, […]",
-   "t": "s p lifts zambia to b as debt restructuring nears completion",
-   "title": "S&P Lifts Zambia to B- as Debt Restructuring Nears Completion"
-  },
-  {
-   "at": "2026-11-22T17:22:42.605040+00:00",
-   "s": "This content is for members only. Visit the site and log in/register to read.",
-   "t": "govt welcomes s p global credit rating upgrade for zambia",
-   "title": "Govt welcomes S&P Global credit rating upgrade for Zambia"
-  },
   {
    "at": "2026-11-22T18:16:20.412584+00:00",
    "s": "Lumwana Radiants produced the standout performance of Matchweek 10 in the National Division, Northern Zone, thrashing Mathkat United 5-0 on Saturday, while leaders Kitwe United laboured to a narrow 1-0 win over Indeni FC to stay top. Lumwana were ruthless from the start. Shadrack Chinyumba Kambwili opened the scoring in the 20th minute before Mabanga […]",
@@ -246,6 +234,18 @@
    "s": "",
    "t": "group demands audit of irregular teacher transfers action against officials",
    "title": "Group demands audit of irregular teacher transfers, action against officials"
+  },
+  {
+   "at": "2026-11-24T17:43:41.554767+00:00",
+   "s": "The Football Association of Zambia (FAZ) has filed a protest with CAF against the match officiating in the Group I AFCON qualifier between Burundi and Zambia played on 13 November, 2026 in Bujumbura. FAZ General Secretary Charles Chakatazya says the protest is directed at the decision to award Burundi a goal in the 78th minute, […]",
+   "t": "faz file complaint to caf against burundi goal",
+   "title": "FAZ file complaint to CAF against Burundi goal"
+  },
+  {
+   "at": "2026-11-24T17:44:09.066046+00:00",
+   "s": "",
+   "t": "seven die in multiple car crash on great north road in chikankata",
+   "title": "Seven die in multiple car crash on Great North Road in Chikankata"
   }
  ],
  "seen": {
@@ -294,6 +294,7 @@
   "15d31cbde15d4ba7": "2026-11-20T14:44:53.095085+00:00",
   "15e69c8d83e4ffd6": "2026-11-21T14:31:15.176285+00:00",
   "15f6831e3107ffbd": "2026-11-12T14:05:36.042752+00:00",
+  "1644531135e03879": "2026-11-24T17:44:09.066012+00:00",
   "16f9b3a43345c186": "2026-11-24T09:33:16.504994+00:00",
   "17d2f7385b373e18": "2026-11-15T03:24:40.194977+00:00",
   "17d9a36d04a70b25": "2026-11-11T12:28:41.484095+00:00",
@@ -494,6 +495,7 @@
   "aab14ca967414adf": "2026-11-18T11:30:57.734767+00:00",
   "ab12733ad80d886b": "2026-11-11T12:28:41.484095+00:00",
   "ac743ac8c19d2ab5": "2026-11-16T18:28:43.643200+00:00",
+  "aca87495f615e914": "2026-11-24T17:43:41.554735+00:00",
   "acc6b0f2ea0bf2b6": "2026-11-22T11:22:18.281180+00:00",
   "ad88d03185e74633": "2026-11-11T12:28:41.484095+00:00",
   "afaee88161a66f4b": "2026-11-21T05:30:55.496449+00:00",
