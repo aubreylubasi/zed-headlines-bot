@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 17,
+  "count": 19,
   "date": "2026-11-24"
  },
  "failures": {
@@ -14,23 +14,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-24T17:44:09.069659+00:00",
-  "id": "1405471502649229_122103425853555618",
-  "title": "Seven die in multiple car crash on Great North Road in Chikankata"
+  "at": "2026-11-24T18:44:49.075847+00:00",
+  "id": "1405471502649229_122103478683555618",
+  "title": "Jesuits reject calls for tenure extension for Hichilema, others"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-22T18:16:20.412584+00:00",
-   "s": "Lumwana Radiants produced the standout performance of Matchweek 10 in the National Division, Northern Zone, thrashing Mathkat United 5-0 on Saturday, while leaders Kitwe United laboured to a narrow 1-0 win over Indeni FC to stay top. Lumwana were ruthless from the start. Shadrack Chinyumba Kambwili opened the scoring in the 20th minute before Mabanga […]",
-   "t": "kitwe chingalika hold on to top spot",
-   "title": "Kitwe Chingalika hold on to top spot"
-  },
-  {
-   "at": "2026-11-22T18:16:43.841233+00:00",
-   "s": "Minister of Finance and National Planning, Situmbeko Musokotwane, has urged taxpayers to support the country’s growth agenda, saying it is out of increased production that the government raises the tax revenue needed for development. Mr Musokogwane says government’s target for the next five years is to grow value and production adding that it is out […]",
-   "t": "musokotwane urges taxpayers to support grow zambia agenda",
-   "title": "Musokotwane urges taxpayers to support Grow Zambia Agenda"
-  },
   {
    "at": "2026-11-23T03:49:10.428337+00:00",
    "s": "By Aristide Bance Tanzania has launched a multi-purpose national ID with travel ambitions. Zambians who have long called for a modern NRC are asking why they are still waiting. LUSAKA / DAR ES SALAAM: Tanzania’s launch of an upgraded national identity card has revived a question that I as a Zambian has been asking for […]",
@@ -246,6 +234,18 @@
    "s": "",
    "t": "seven die in multiple car crash on great north road in chikankata",
    "title": "Seven die in multiple car crash on Great North Road in Chikankata"
+  },
+  {
+   "at": "2026-11-24T18:44:13.632643+00:00",
+   "s": "The Rural Electrification Authority (REA) has handed over a rural electrification project to Patichi Patichi Construction Company in Ntenke Village, Kawambwa District. REA Northern Regional Manager, Partie Kabango, says the project will cover a radius of 1.6 kilometres in Ntenke Village at a cost of approximately K1.7 million. Mr Kabango says the project is expected […]",
+   "t": "rea hands over project in kawambwa",
+   "title": "REA hands over project in Kawambwa"
+  },
+  {
+   "at": "2026-11-24T18:44:49.071342+00:00",
+   "s": "",
+   "t": "jesuits reject calls for tenure extension for hichilema others",
+   "title": "Jesuits reject calls for tenure extension for Hichilema, others"
   }
  ],
  "seen": {
@@ -261,6 +261,7 @@
   "050961e2aba6c7c1": "2026-11-20T08:11:05.830788+00:00",
   "056d6ad2d59a3da8": "2026-11-18T06:55:25.693175+00:00",
   "05c1d0f4d276fef8": "2026-11-20T10:25:22.810433+00:00",
+  "060be5e069e9e48b": "2026-11-24T18:44:49.071280+00:00",
   "06420d94e7265fd6": "2026-11-18T19:49:43.196594+00:00",
   "069f0ce001d5f3da": "2026-11-13T12:47:55.836622+00:00",
   "06fbfd88252d2a42": "2026-11-12T09:46:46.023785+00:00",
@@ -567,6 +568,7 @@
   "dbd53b84d11bd940": "2026-11-11T12:28:41.484095+00:00",
   "dc8d9555e438cb7d": "2026-11-18T11:30:23.083324+00:00",
   "dc98fab07d91bc2b": "2026-11-11T12:28:41.484095+00:00",
+  "dcc73655900da8e2": "2026-11-24T18:44:13.632607+00:00",
   "dd8f7907c2c834ca": "2026-11-12T03:30:43.437022+00:00",
   "ddb2244aaac2eb98": "2026-11-23T11:43:40.054916+00:00",
   "ddbcf2ba7f2debd1": "2026-11-11T16:05:05.256610+00:00",
