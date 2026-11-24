@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 3,
+  "count": 4,
   "date": "2026-11-24"
  },
  "failures": {
@@ -14,23 +14,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-24T05:50:28.843968+00:00",
-  "id": "1405471502649229_122102885019555618",
-  "title": "Chipata reportedly woos German investors in energy, agro-processing"
+  "at": "2026-11-24T08:24:01.120240+00:00",
+  "id": "1405471502649229_122102971275555618",
+  "title": "Keep your hands off civil servants, Wynter tells UPND"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-22T08:00:30.831344+00:00",
-   "s": "This content is for members only. Visit the site and log in/register to read.",
-   "t": "muza beat nkana",
-   "title": "Muza beat Nkana"
-  },
-  {
-   "at": "2026-11-22T08:01:15.417211+00:00",
-   "s": "Central Province Meteorological Officer, Chongo Tembo, has urged farmers in the district to plant early and medium-maturing crop varieties in the wake of the highly appreciated El Nino. Mr Tembo says Serenje is expected to receive normal to below-normal rainfall compared to other parts of the province, making crop selection and planting decisions critical for […]",
-   "t": "central province farmers urged to plant early",
-   "title": "Central Province farmers urged to plant early"
-  },
   {
    "at": "2026-11-22T08:48:27.611035+00:00",
    "s": "",
@@ -282,6 +270,12 @@
    "s": "",
    "t": "chipata reportedly woos german investors in energy agro processing",
    "title": "Chipata reportedly woos German investors in energy, agro-processing"
+  },
+  {
+   "at": "2026-11-24T08:24:01.106404+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "keep your hands off civil servants wynter tells upnd",
+   "title": "Keep your hands off civil servants, Wynter tells UPND"
   }
  ],
  "seen": {
@@ -581,6 +575,7 @@
   "d4cd5f22be48bce0": "2026-11-12T10:50:27.096471+00:00",
   "d74611228f3b975b": "2026-11-11T12:28:41.484095+00:00",
   "d796dc5a0e41a01d": "2026-11-22T03:42:20.719211+00:00",
+  "d7f9f7676dd63e8a": "2026-11-24T08:24:01.106341+00:00",
   "d8060b1f741a38da": "2026-11-16T11:39:41.270236+00:00",
   "d94a3dbf67854358": "2026-11-11T12:28:41.484095+00:00",
   "d95c8cb6a5583907": "2026-11-14T15:17:00.688181+00:00",
