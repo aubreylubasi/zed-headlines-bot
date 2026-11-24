@@ -1,7 +1,7 @@
 {
  "daily": {
-  "count": 19,
-  "date": "2026-11-23"
+  "count": 1,
+  "date": "2026-11-24"
  },
  "failures": {
   "cc77da890cf470b5": {
@@ -14,17 +14,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-23T20:27:03.684644+00:00",
-  "id": "1405471502649229_122102587929555618",
-  "title": "Mundubile, Makebi Zulu and 12 Others Committed to High Court Over Alleged Plot to Topple Government"
+  "at": "2026-11-24T03:48:12.331291+00:00",
+  "id": "1405471502649229_122102813433555618",
+  "title": "Three months in Mukobeko, one indictment, and the questions nobody has answered"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-22T03:42:20.719246+00:00",
-   "s": "FC MUZA produced possibly the result of the weekend in the MTN Super League Transitional Season, beating Stream A leaders Nkana FC 2-0 in Mazabuka. After a goalless first half, Lewis Kasono put MUZA ahead from the penalty spot in the 49th minute. Bridger Ng’andu sealed the victory in the 74th minute, condemning Nkana to […]",
-   "t": "muza stun leaders nkana",
-   "title": "Muza stun leaders Nkana"
-  },
   {
    "at": "2026-11-22T05:46:23.387237+00:00",
    "s": "This content is for members only. Visit the site and log in/register to read.",
@@ -288,6 +282,12 @@
    "s": "Brian Mundubile, his running mate Makebi Zulu and 12 co-accused have been committed to the High Court for summary trial on a charge of treason. The State alleges that the group tried to overthrow the Government by recruiting serving and retired soldiers, paying for military training in Russia and keeping offensive weapons for the operation. […]",
    "t": "mundubile makebi zulu and 12 others committed to high court over alleged plot to topple government",
    "title": "Mundubile, Makebi Zulu and 12 Others Committed to High Court Over Alleged Plot to Topple Government"
+  },
+  {
+   "at": "2026-11-24T03:48:12.317768+00:00",
+   "s": "Have you heard? For weeks, it seemed the President and his supporters had gone quiet on the militia story. The other day, President Hakainde Hichilema warned that anyone who declares himself the winner of an election will go to jail. I could not help asking what happened to the earlier warning, the one that said if […]",
+   "t": "three months in mukobeko one indictment and the questions nobody has answered",
+   "title": "Three months in Mukobeko, one indictment, and the questions nobody has answered"
   }
  ],
  "seen": {
@@ -398,6 +398,7 @@
   "441cf4d89e7baada": "2026-11-16T17:29:11.589683+00:00",
   "445aa96f243d786f": "2026-11-21T09:31:12.075332+00:00",
   "45d42dcadd18ba31": "2026-11-11T12:28:41.484095+00:00",
+  "461c59c3bc35b52f": "2026-11-24T03:48:12.317724+00:00",
   "4727696ca03969ec": "2026-11-14T12:29:47.351297+00:00",
   "4781b246e7f5acb7": "2026-11-21T03:30:28.870019+00:00",
   "47a9aebad1118b09": "2026-11-16T16:19:10.951702+00:00",
