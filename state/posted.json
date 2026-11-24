@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 8,
+  "count": 10,
   "date": "2026-11-24"
  },
  "failures": {
@@ -14,23 +14,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-24T10:34:28.759183+00:00",
-  "id": "1405471502649229_122103059595555618",
-  "title": "Kang’ombe Ordered to Pay K100,000 Over Missing Mpundu"
+  "at": "2026-11-24T11:29:20.816934+00:00",
+  "id": "1405471502649229_122103104781555618",
+  "title": "Patriots hold off Suns’ late surge"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-22T11:22:18.281220+00:00",
-   "s": "This content is for members only. Visit the site and log in/register to read.",
-   "t": "upnd member sues state for unlawful detention seeks k3m compensation",
-   "title": "UPND member sues State for unlawful detention, seeks K3M compensation"
-  },
-  {
-   "at": "2026-11-22T11:23:26.862883+00:00",
-   "s": "Minister of Fisheries and Livestock , Olivia Chiboola, has urged cattle farmers in Namwala district to present all their cattle for testing under the Government’s 100 per cent cattle testing programme aimed at containing Contagious Bovine Pleuropneumonia (CBPP). Ms Chiboola says it was important for every cattle owner to ensure that all their animals were […]",
-   "t": "government urges cattle farmers to embrace cbpp testing",
-   "title": "Government urges cattle farmers to embrace CBPP testing"
-  },
   {
    "at": "2026-11-22T12:20:48.026787+00:00",
    "s": "Government, through the Ministry of Community Development and Social Services has reaffirmed its commitment to empowering vulnerable but viable households with sustainable livelihood opportunities to improve household food security in the country through the Food Security Pack (FSP) programme. Lusaka Province Senior Community Development Officer, Micah Simululwe, says the Alternative Livelihood Initiative under FSP is […]",
@@ -264,6 +252,18 @@
    "s": "THE Lusaka Magistrate’s Court ordered former Kamfinsa Member of Parliament Christopher Kang’ombe to pay K100,000 after he failed to account for the whereabouts of former Nkana lawmaker Binwell Mpundu. Lusaka Magistrate Webster Milumbe gave Kang’ombe five days to pay the bond amount, failure to do so will result in a warrant of distress being executed […] The post Kang’ombe Ordered to Pay K100,000 Over Missing Mpundu first appeared on Mwebantu .",
    "t": "kang ombe ordered to pay k100 000 over missing mpundu",
    "title": "Kang’ombe Ordered to Pay K100,000 Over Missing Mpundu"
+  },
+  {
+   "at": "2026-11-24T11:28:47.832465+00:00",
+   "s": "",
+   "t": "imf says zambia exposed to climate related fiscal shocks",
+   "title": "IMF says Zambia exposed to climate-related fiscal shocks"
+  },
+  {
+   "at": "2026-11-24T11:29:20.808548+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "patriots hold off suns late surge",
+   "title": "Patriots hold off Suns’ late surge"
   }
  ],
  "seen": {
@@ -334,6 +334,7 @@
   "21cf2ba4d645621b": "2026-11-21T18:17:24.910209+00:00",
   "22f3f950cea33060": "2026-11-11T16:04:47.202501+00:00",
   "230763827f438dad": "2026-11-24T05:50:28.837033+00:00",
+  "23a022a3a62b2c3f": "2026-11-24T11:28:47.832431+00:00",
   "240b86681e21bcb0": "2026-11-11T12:28:41.484095+00:00",
   "24f8c3576278352f": "2026-11-15T08:40:19.385552+00:00",
   "26adf007d129dc4b": "2026-11-18T10:26:53.557487+00:00",
@@ -343,6 +344,7 @@
   "2b0c26d166c45cf9": "2026-11-11T12:28:41.484095+00:00",
   "2b4187639cc33b19": "2026-11-16T14:07:58.921355+00:00",
   "2c0ac5e365cd0944": "2026-11-21T07:47:20.369183+00:00",
+  "2ccd1288ce454ff9": "2026-11-24T11:29:20.808512+00:00",
   "2d289d94f7418de2": "2026-11-23T14:15:37.447607+00:00",
   "2d801f43c544f745": "2026-11-22T15:23:31.683210+00:00",
   "2dac6c406d525acc": "2026-11-11T12:28:41.484095+00:00",
