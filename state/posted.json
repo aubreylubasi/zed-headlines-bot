@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 10,
+  "count": 11,
   "date": "2026-11-24"
  },
  "failures": {
@@ -14,23 +14,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-24T11:29:20.816934+00:00",
-  "id": "1405471502649229_122103104781555618",
-  "title": "Patriots hold off Suns’ late surge"
+  "at": "2026-11-24T12:37:43.200520+00:00",
+  "id": "1405471502649229_122103159483555618",
+  "title": "Zambia, FAO plan annual climate investment week for 2027"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-22T12:20:48.026787+00:00",
-   "s": "Government, through the Ministry of Community Development and Social Services has reaffirmed its commitment to empowering vulnerable but viable households with sustainable livelihood opportunities to improve household food security in the country through the Food Security Pack (FSP) programme. Lusaka Province Senior Community Development Officer, Micah Simululwe, says the Alternative Livelihood Initiative under FSP is […]",
-   "t": "government empowers vulnerable households through fsp",
-   "title": "Government empowers vulnerable households through FSP"
-  },
-  {
-   "at": "2026-11-22T12:21:21.554905+00:00",
-   "s": "This content is for members only. Visit the site and log in/register to read.",
-   "t": "alcohol made me accuse neighbour of sleeping with my wife husband admits in court",
-   "title": "Alcohol made me accuse neighbour of sleeping with my wife, husband admits in court"
-  },
   {
    "at": "2026-11-22T13:36:45.802321+00:00",
    "s": "Government has commissioned a fully equipped Fashion and Fabric Hub and a 16-kilowatt solar system at Mount Makulu Secondary School in Chilanga district, valued at over K900,000. The Fashion and Fabric Hub was rehabilitated and fully furnished with the financial support of the Elsa Milar Foundation through its implementing partners, the African Education Programme. Speaking […]",
@@ -264,6 +252,12 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "patriots hold off suns late surge",
    "title": "Patriots hold off Suns’ late surge"
+  },
+  {
+   "at": "2026-11-24T12:37:43.194859+00:00",
+   "s": "",
+   "t": "zambia fao plan annual climate investment week for 2027",
+   "title": "Zambia, FAO plan annual climate investment week for 2027"
   }
  ],
  "seen": {
@@ -370,6 +364,7 @@
   "3a7af2f1889398a5": "2026-11-22T08:48:27.610994+00:00",
   "3abaabd89ccd448a": "2026-11-14T14:21:00.751533+00:00",
   "3b72258481fbc2a1": "2026-11-19T11:28:32.419176+00:00",
+  "3ca93d604c97ccb3": "2026-11-24T12:37:43.194820+00:00",
   "3cb15c4c79421fa5": "2026-11-24T10:32:26.146943+00:00",
   "3e81c957beb560a9": "2026-11-11T15:05:02.067407+00:00",
   "40e988c80a0d1a21": "2026-11-20T15:45:29.147786+00:00",
