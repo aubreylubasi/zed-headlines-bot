@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 6,
+  "count": 8,
   "date": "2026-11-24"
  },
  "failures": {
@@ -14,35 +14,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-24T09:35:26.234764+00:00",
-  "id": "1405471502649229_122103016707555618",
-  "title": "Green Buffaloes shine at National Women’s Judo Cup"
+  "at": "2026-11-24T10:34:28.759183+00:00",
+  "id": "1405471502649229_122103059595555618",
+  "title": "Kang’ombe Ordered to Pay K100,000 Over Missing Mpundu"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-22T09:39:27.586548+00:00",
-   "s": "This content is for members only. Visit the site and log in/register to read.",
-   "t": "zambia shines at africa s strongest 2026 with 7 medals",
-   "title": "Zambia shines at Africa’s Strongest 2026 with 7 medals"
-  },
-  {
-   "at": "2026-11-22T09:40:39.893385+00:00",
-   "s": "",
-   "t": "ecobank zambia wins two awards for advancing financial literacy",
-   "title": "Ecobank Zambia wins two awards for advancing financial literacy"
-  },
-  {
-   "at": "2026-11-22T10:27:38.997015+00:00",
-   "s": "When you apply for a loan, the lender wants to know whether you can repay it on time. Investors ask the same question when they lend money to a government. A credit rating is an independent assessment of that risk. When the rating improves, a country may find it easier to attract lenders and negotiate […] The post Zambia’s Credit Rating Is Up Again. What Does It Mean for Us? By Prof. Lubinda Haabazoka first appeared on Mwebantu .",
-   "t": "zambia s credit rating is up again what does it mean for us by prof lubinda haabazoka",
-   "title": "Zambia’s Credit Rating Is Up Again. What Does It Mean for Us? By Prof. Lubinda Haabazoka"
-  },
-  {
-   "at": "2026-11-22T10:28:20.626947+00:00",
-   "s": "This content is for members only. Visit the site and log in/register to read.",
-   "t": "girlfriend storms boyfriend s family house demands to be taken in over pregnancy",
-   "title": "Girlfriend storms boyfriend’s family house, demands to be taken in over pregnancy"
-  },
   {
    "at": "2026-11-22T11:22:18.281220+00:00",
    "s": "This content is for members only. Visit the site and log in/register to read.",
@@ -276,6 +252,18 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "green buffaloes shine at national women s judo cup",
    "title": "Green Buffaloes shine at National Women’s Judo Cup"
+  },
+  {
+   "at": "2026-11-24T10:32:26.146992+00:00",
+   "s": "Zambian coach Wedson Nyirenda has been named Malawian Premiership Coach of the Month for October, his third monthly coaching honour of the season. Nyirenda, head coach of FCB Nyasa Big Bullets, adds the October FDH Bank Premiership award to the honours he won in June and August, following another impressive run of league results. According […]",
+   "t": "wedson wins third malawi coach of the month award",
+   "title": "Wedson wins third Malawi coach of the month award"
+  },
+  {
+   "at": "2026-11-24T10:34:28.746556+00:00",
+   "s": "THE Lusaka Magistrate’s Court ordered former Kamfinsa Member of Parliament Christopher Kang’ombe to pay K100,000 after he failed to account for the whereabouts of former Nkana lawmaker Binwell Mpundu. Lusaka Magistrate Webster Milumbe gave Kang’ombe five days to pay the bond amount, failure to do so will result in a warrant of distress being executed […] The post Kang’ombe Ordered to Pay K100,000 Over Missing Mpundu first appeared on Mwebantu .",
+   "t": "kang ombe ordered to pay k100 000 over missing mpundu",
+   "title": "Kang’ombe Ordered to Pay K100,000 Over Missing Mpundu"
   }
  ],
  "seen": {
@@ -339,6 +327,7 @@
   "1de416786b71f43e": "2026-11-11T12:28:41.484095+00:00",
   "1ebd26345d1647f0": "2026-11-22T10:28:20.626900+00:00",
   "1f14bbd6dcb9b9f1": "2026-11-11T12:28:41.484095+00:00",
+  "201ce83ab4a21b0b": "2026-11-24T10:34:28.747878+00:00",
   "21522e6bf2362382": "2026-11-12T04:33:05.711819+00:00",
   "2156b60e4da90c48": "2026-11-11T12:28:41.484095+00:00",
   "216af924d234105f": "2026-11-12T15:11:33.264700+00:00",
@@ -379,6 +368,7 @@
   "3a7af2f1889398a5": "2026-11-22T08:48:27.610994+00:00",
   "3abaabd89ccd448a": "2026-11-14T14:21:00.751533+00:00",
   "3b72258481fbc2a1": "2026-11-19T11:28:32.419176+00:00",
+  "3cb15c4c79421fa5": "2026-11-24T10:32:26.146943+00:00",
   "3e81c957beb560a9": "2026-11-11T15:05:02.067407+00:00",
   "40e988c80a0d1a21": "2026-11-20T15:45:29.147786+00:00",
   "41eff76b0df459b5": "2026-11-16T10:20:06.561405+00:00",
@@ -428,6 +418,7 @@
   "615b7886decfb9ba": "2026-11-22T09:39:27.586510+00:00",
   "6192dd52f8a92b47": "2026-11-16T10:19:10.367097+00:00",
   "62764f6d40dbaf40": "2026-11-11T12:28:41.484095+00:00",
+  "6400eb799ebfc0a0": "2026-11-24T10:34:28.746516+00:00",
   "64a78fc14aa09497": "2026-11-18T12:31:57.192168+00:00",
   "657c52440bfafcf0": "2026-11-13T10:37:52.592574+00:00",
   "66d1e06da59fd2a2": "2026-11-16T16:17:18.781549+00:00",
