@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 13,
+  "count": 15,
   "date": "2026-11-24"
  },
  "failures": {
@@ -14,23 +14,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-24T13:55:23.373837+00:00",
-  "id": "1405471502649229_122103221295555618",
-  "title": "FAO, MoH implement new food systems and nutrition project"
+  "at": "2026-11-24T15:55:10.695610+00:00",
+  "id": "1405471502649229_122103323913555618",
+  "title": "Group demands audit of irregular teacher transfers, action against officials"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-22T15:23:03.336072+00:00",
-   "s": "Isoka district has received 350 kilograms of livestock pasture seed to improve animal nutrition and increase livestock productivity in support of the Government’s Grow Zambia Agenda. Council Public Relations Officer, Peter Sichali, said the consignment comprised 130 kilograms of Mombaca and 220 kilograms of Brachiaria pasture seed. Mr Sichali said the seed would be distributed […]",
-   "t": "isoka receives livestock pasture seed to improve animal nutrition",
-   "title": "Isoka receives livestock pasture seed to improve animal nutrition"
-  },
-  {
-   "at": "2026-11-22T15:23:31.683247+00:00",
-   "s": "This content is for members only. Visit the site and log in/register to read.",
-   "t": "1 feared dead several others injured in storm at lunkuni luzwa buuka ceremony",
-   "title": "1 feared dead, several others injured in storm at Lunkuni Luzwa Buuka ceremony"
-  },
   {
    "at": "2026-11-22T16:23:24.972115+00:00",
    "s": "Northern Province Acting Permanent Secretary, Beauty Unidi- Phiri, has urged pupils and residents of Mbala district to take advantage of the historical exhibition showcasing the experiences of Polish refugees who sought refuge in Africa during the Second World War to learn Zambia’s historical ties with Poland. Ms Undi-Phiri says the exhibition, titled; From Sybir to […]",
@@ -258,6 +246,18 @@
    "s": "The Food and Agriculture Organisation (FAO) has started implementing a new project in partnership with the Ministry of Agriculture and other stakeholders to strengthen food systems and nutrition in Solwezi, Zambezi and Mwinilunga Districts of North-Western Province. Speaking during a courtesy call on North-Western Province Permanent Secretary, Grandson Katambi in Solwezi today, FAO Pillar Lead […]",
    "t": "fao moh implement new food systems and nutrition project",
    "title": "FAO, MoH implement new food systems and nutrition project"
+  },
+  {
+   "at": "2026-11-24T15:54:44.033850+00:00",
+   "s": "A human skeleton has been discovered in Mambwe District, about 300 metres from Mfuwe International Airport. The discovery was made by a man who was using the route while heading to cut firewood in the nearby bush. Eastern Province Police Commanding Officer, Robertson Mweemba, says 42-year- old Dickson Jere of Nengo Village, in Mnkhanya Chiefdom […]",
+   "t": "human skeleton discovered in mambwe",
+   "title": "Human skeleton discovered in Mambwe"
+  },
+  {
+   "at": "2026-11-24T15:55:10.687452+00:00",
+   "s": "",
+   "t": "group demands audit of irregular teacher transfers action against officials",
+   "title": "Group demands audit of irregular teacher transfers, action against officials"
   }
  ],
  "seen": {
@@ -394,6 +394,7 @@
   "524602ccff7f9a5b": "2026-11-11T12:28:41.484095+00:00",
   "527f40b173a368b9": "2026-11-19T16:58:11.685276+00:00",
   "5300f14e4e3ba9d7": "2026-11-11T12:28:41.484095+00:00",
+  "551e1ef77977bd25": "2026-11-24T15:54:44.033812+00:00",
   "5525b3b582bdf845": "2026-11-12T14:05:04.577289+00:00",
   "554e1042993a8b71": "2026-11-18T17:48:44.222518+00:00",
   "57e6a7d66fd26077": "2026-11-11T12:28:41.484095+00:00",
@@ -532,6 +533,7 @@
   "be824c4156b9af24": "2026-11-12T09:48:35.517866+00:00",
   "bece163096dfb9a4": "2026-11-12T07:53:06.288878+00:00",
   "bf40e08159d49a63": "2026-11-21T07:49:00.543080+00:00",
+  "bf960ccf4d2073cd": "2026-11-24T15:55:10.687407+00:00",
   "c110aacc0c7e1646": "2026-11-23T15:22:21.648319+00:00",
   "c221128002d98cba": "2026-11-20T04:51:19.506074+00:00",
   "c3584159bfe4ea92": "2026-11-14T18:27:01.207477+00:00",
