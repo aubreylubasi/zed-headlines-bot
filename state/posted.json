@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 19,
+  "count": 21,
   "date": "2026-11-24"
  },
  "failures": {
@@ -14,9 +14,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-24T18:44:49.075847+00:00",
-  "id": "1405471502649229_122103478683555618",
-  "title": "Jesuits reject calls for tenure extension for Hichilema, others"
+  "at": "2026-11-24T20:42:43.422197+00:00",
+  "id": "1405471502649229_122103558213555618",
+  "title": "Senegal regain AFCON title after Court of Arbitration overturns CAF ruling"
  },
  "recent_titles": [
   {
@@ -246,6 +246,18 @@
    "s": "",
    "t": "jesuits reject calls for tenure extension for hichilema others",
    "title": "Jesuits reject calls for tenure extension for Hichilema, others"
+  },
+  {
+   "at": "2026-11-24T20:42:04.993559+00:00",
+   "s": "Two people have died after a house they were occupying was gutted by fire in Kambono village, Tug-Argan area of Masaiti district. Copperbelt Province Police Commissioner Edwin Kaluba has disclosed the incident in a statement to the media saying police received a report from Fridah Kalombe, sister to one of the deceased persons. Mr Kaluba […]",
+   "t": "fire claims two in masaiti",
+   "title": "Fire claims two in Masaiti"
+  },
+  {
+   "at": "2026-11-24T20:42:43.414799+00:00",
+   "s": "",
+   "t": "senegal regain afcon title after court of arbitration overturns caf ruling",
+   "title": "Senegal regain AFCON title after Court of Arbitration overturns CAF ruling"
   }
  ],
  "seen": {
@@ -305,6 +317,7 @@
   "1a2ba18b5d8eb21e": "2026-11-13T10:39:10.686292+00:00",
   "1a4d9826e75ae3ab": "2026-11-11T12:28:41.484095+00:00",
   "1a8ffb540a2e2837": "2026-11-22T08:01:15.417172+00:00",
+  "1b25665d53339f18": "2026-11-24T20:42:43.414761+00:00",
   "1bfd4d4f5d0318a1": "2026-11-21T06:32:13.930706+00:00",
   "1c8bafa9cb5876e6": "2026-11-21T03:31:06.667979+00:00",
   "1d290d2305f86ef0": "2026-11-11T20:12:24.778203+00:00",
@@ -602,6 +615,7 @@
   "f580aebc4a0e2d45": "2026-11-15T15:57:11.012307+00:00",
   "f5e51f4de4706f8f": "2026-11-22T17:21:48.092856+00:00",
   "f816f6d2672e6e7d": "2026-11-22T10:27:38.996967+00:00",
+  "f81bb37d888c6d64": "2026-11-24T20:42:04.993527+00:00",
   "f8d9359330dc22ad": "2026-11-20T06:56:26.780730+00:00",
   "f8eb5441980499c0": "2026-11-12T15:10:43.776525+00:00",
   "f983b25863c5f2e1": "2026-11-16T17:30:23.043873+00:00",
