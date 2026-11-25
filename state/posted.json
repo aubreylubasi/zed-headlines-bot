@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 7,
+  "count": 9,
   "date": "2026-11-25"
  },
  "failures": {
@@ -14,23 +14,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-25T08:26:46.803469+00:00",
-  "id": "1405471502649229_122104061343555618",
-  "title": "Pedestrian dies in Nakonde ‎RTA"
+  "at": "2026-11-25T09:50:03.010221+00:00",
+  "id": "1405471502649229_122104123461555618",
+  "title": "East records 9 cholera cases"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-23T09:39:21.998249+00:00",
-   "s": "THE Livingstone High Court has nullified the election of Hastings Sililo as Member of Parliament for Mulobezi. The court upheld a petition by UPND candidate Timothy Mwenda Zambwe, ruling that Sililo was not qualified to stand in the Aug. 13, 2026 parliamentary election. Presiding Judge Justice Kazimbe Chenda, of the Lusaka High Court sitting in […] The post High Court Nullifies Mulobezi Election Over Grade 12 Certificate first appeared on Mwebantu .",
-   "t": "high court nullifies mulobezi election over grade 12 certificate",
-   "title": "High Court Nullifies Mulobezi Election Over Grade 12 Certificate"
-  },
-  {
-   "at": "2026-11-23T09:39:48.126745+00:00",
-   "s": "President Hakainde Hichilema says the commissioning of the 2.5-megawatt Chikuni Mission Hybrid Solar Power Plant valued at Three Million United States Dollars is part of government’s commitment to extending development and reliable electricity to all parts of the country. Speaking during the commissioning ceremony in Monze District, President Hichilema said the project was among several […]",
-   "t": "president hichilema commissions chikuni mission hybrid solar power plant",
-   "title": "President Hichilema commissions Chikuni Mission Hybrid Solar Power Plant"
-  },
   {
    "at": "2026-11-23T10:44:59.305296+00:00",
    "s": "Maestro United Zambia Football Club (FC MUZA) has banned two supporters from attending all its matches after they were captured on camera displaying a political symbol during the Week 8 MTN Super League fixture against Nkana FC. Some fans were captured on camera displaying the symbol associated with the governing United Party for National Development […]",
@@ -270,6 +258,18 @@
    "s": "A 35 year old pedestrian has died after being hit by a truck laden with bags of flour along the Nakonde-Mbala road in Nakonde district, Muchinga Province. ‎ ‎Muchinga Province Police Commanding Officer, Lubinda Mayamba has confirmed the accident and identified the deceased as Gerad Simpanda of Chileshe village in Chief Nsokolo’s area, Senga Hill […]",
    "t": "pedestrian dies in nakonde rta",
    "title": "Pedestrian dies in Nakonde ‎RTA"
+  },
+  {
+   "at": "2026-11-25T09:48:35.459323+00:00",
+   "s": "Part 1: The History of Railways in Zambia and Need for Investment The Zambia-Lobito Railway project between Chingola, Zambia and Luacano, Angola, is gaining momentum, with the recent announcement of preferred bidders for engineering, procurement, and construction contracts, partial funding from the African Development Bank, and numerous media and social media posts singing its praises. […]",
+   "t": "does the zambia lobito railway make economic sense",
+   "title": "Does the Zambia-Lobito Railway Make Economic Sense?"
+  },
+  {
+   "at": "2026-11-25T09:50:03.001366+00:00",
+   "s": "Eastern Province has recorded nine cholera cases, affecting Chipata and Kasenengwa districts. Speaking at a press briefing in Chipata today on behalf of Eastern Province Permanent Secretary Paul Thole, Chipata District Commissioner Elidah Mwanza has noted that as of today, November 24, 2026, a total of nine cases have been reported with four confirmed cases. She […]",
+   "t": "east records 9 cholera cases",
+   "title": "East records 9 cholera cases"
   }
  ],
  "seen": {
@@ -506,6 +506,7 @@
   "9a1fcd8b5b664e68": "2026-11-19T10:30:50.148966+00:00",
   "9ab3f46e4823c4a7": "2026-11-19T08:14:38.548727+00:00",
   "9addac7ae44528db": "2026-11-23T17:31:18.731594+00:00",
+  "9aee2475dfed16f3": "2026-11-25T09:50:03.001332+00:00",
   "9be1923b0cabfa02": "2026-11-11T12:28:41.484095+00:00",
   "9d02f54cdb2015c9": "2026-11-15T09:25:18.985750+00:00",
   "9d762e0f7753607d": "2026-11-12T11:49:01.664337+00:00",
@@ -534,6 +535,7 @@
   "b205908e603d475b": "2026-11-11T12:28:41.484095+00:00",
   "b236d4958e333f78": "2026-11-23T19:39:18.394925+00:00",
   "b26ee208ae5c4d75": "2026-11-14T08:38:09.519627+00:00",
+  "b361fc748ca64f42": "2026-11-25T09:48:35.459289+00:00",
   "b489189d794e6278": "2026-11-15T11:55:57.877217+00:00",
   "b5059b8d8201a6f3": "2026-11-13T18:00:33.838744+00:00",
   "b5ec39db0899c36b": "2026-11-11T12:28:41.484095+00:00",
