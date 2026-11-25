@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 22,
+  "count": 24,
   "date": "2026-11-25"
  },
  "failures": {
@@ -14,9 +14,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-25T18:40:05.306347+00:00",
-  "id": "1405471502649229_122104577187555618",
-  "title": "Kwela Na Airtel Money | the Official Launch!"
+  "at": "2026-11-25T19:37:40.499237+00:00",
+  "id": "1405471502649229_122104620261555618",
+  "title": "Small-scale miners oppose sharp fee increases, call for phased implementation"
  },
  "recent_titles": [
   {
@@ -294,6 +294,18 @@
    "s": "#WATCH #LIVE #Mwebantu, a new chapter of possibilities has arrived with the launch of “Kwela na Airtel Money,” Airtel Money’s new thematic campaign. Join us LIVE! Stay connected, stay empowered and get ready to experience more with Airtel Money. Let us know where in the world you are watching us from?#KwelaNaAirtelMoney #AirtelZambia #MwebantuLIVE Watch on […] The post Kwela Na Airtel Money | the Official Launch! first appeared on Mwebantu .",
    "t": "kwela na airtel money the official launch",
    "title": "Kwela Na Airtel Money | the Official Launch!"
+  },
+  {
+   "at": "2026-11-25T19:37:02.839951+00:00",
+   "s": "ZESCO Limited has assured the nation that the country has sufficient electricity resources to sustain power supply. The utility said the projected reduction in water allocation at Kariba Dam by the Zambezi River Authority for 2027 has been factored into its supply plans and is not expected to result in a national electricity deficit. In […]",
+   "t": "zesco assures sufficient power supply",
+   "title": "ZESCO assures sufficient power supply"
+  },
+  {
+   "at": "2026-11-25T19:37:40.492026+00:00",
+   "s": "",
+   "t": "small scale miners oppose sharp fee increases call for phased implementation",
+   "title": "Small-scale miners oppose sharp fee increases, call for phased implementation"
   }
  ],
  "seen": {
@@ -398,6 +410,7 @@
   "32851fe0b9ac051e": "2026-11-14T20:51:57.308731+00:00",
   "32970213e2ce7dc0": "2026-11-15T06:27:16.931800+00:00",
   "32ab2d5b580f7c7c": "2026-11-11T12:28:41.484095+00:00",
+  "32ce54cde25e0792": "2026-11-25T19:37:02.839917+00:00",
   "330002ebb862f21a": "2026-11-25T14:16:52.861261+00:00",
   "336d74609528537a": "2026-11-22T18:16:20.412551+00:00",
   "33b8f6c039ac414c": "2026-11-17T19:53:27.655978+00:00",
@@ -549,6 +562,7 @@
   "9f98925c57ac3617": "2026-11-15T13:32:07.599670+00:00",
   "9ffb5e7467d54951": "2026-11-17T13:51:29.808970+00:00",
   "a17d54e724450399": "2026-11-15T10:22:06.844098+00:00",
+  "a23d052984a53dee": "2026-11-25T19:36:36.586868+00:00",
   "a2e35b56ad8c223c": "2026-11-25T12:59:19.246282+00:00",
   "a3059185ad52a851": "2026-11-14T14:21:19.381304+00:00",
   "a4b9e2ed72e3412a": "2026-11-12T10:49:58.424510+00:00",
@@ -623,6 +637,7 @@
   "d125a7cf8dc36742": "2026-11-23T10:45:34.285087+00:00",
   "d29ec15c564d5e6d": "2026-11-11T19:14:44.180648+00:00",
   "d2f2f899a8c9ff67": "2026-11-22T18:16:43.841199+00:00",
+  "d3060fbe13398118": "2026-11-25T19:37:40.491992+00:00",
   "d4840a1a15093202": "2026-11-25T18:39:13.731710+00:00",
   "d4954831649dff79": "2026-11-11T12:28:41.484095+00:00",
   "d4c82a938589b4e7": "2026-11-20T14:45:45.415550+00:00",
