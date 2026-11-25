@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 15,
+  "count": 17,
   "date": "2026-11-25"
  },
  "failures": {
@@ -14,23 +14,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-25T12:59:19.256862+00:00",
-  "id": "1405471502649229_122104296165555618",
-  "title": "NAC calls for equitable access to HIV services"
+  "at": "2026-11-25T14:16:52.876116+00:00",
+  "id": "1405471502649229_122104365441555618",
+  "title": "GOVERNMENT REAFFIRMS SUPPORT AND COMMITMENT TO ZNBC"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-23T14:15:37.447643+00:00",
-   "s": "",
-   "t": "mundubile zulu 12 others risk life in imprisonment as dpp lays treason charges",
-   "title": "Mundubile, Zulu, 12 others risk life in imprisonment as DPP lays treason charges"
-  },
-  {
-   "at": "2026-11-23T14:16:42.900282+00:00",
-   "s": "Police in Chinsali have discovered the body of a 17-year-old motorbike rider who went missing earlier last week. ‎The corpse of the deceased, a resident of Chandamali Village in Chief Nkula’s Chiefdom in Chinsali, was found on Saturday yesterday in the bush off Mulilansolo Road near Isamba Farm in Mibanga Village. Muchinga Province Police Commanding […]",
-   "t": "chinsali police recovers dead body of motorbike rider suspects arrested",
-   "title": "Chinsali Police recovers dead body of motorbike rider, suspects arrested"
-  },
   {
    "at": "2026-11-23T15:22:33.206051+00:00",
    "s": "",
@@ -282,6 +270,18 @@
    "s": "National HIV/AIDS Council North-Western Provincial AIDS Advisor, Hillary Sakala, has called for concerted efforts to address inequalities that continue to limit access to HIV prevention, testing and treatment services. Mr Sakala says the availability of effective HIV services does not automatically mean that everyone who needs them can access them. Speaking ahead of the World […]",
    "t": "nac calls for equitable access to hiv services",
    "title": "NAC calls for equitable access to HIV services"
+  },
+  {
+   "at": "2026-11-25T14:16:27.973304+00:00",
+   "s": "",
+   "t": "zambia files protest with caf over disputed burundi goal",
+   "title": "Zambia files protest with CAF over disputed Burundi goal"
+  },
+  {
+   "at": "2026-11-25T14:16:52.861294+00:00",
+   "s": "Minister of Information and Media Elvis Nkandu has reaffirmed government’s commitment to supporting the Zambia National Broadcasting Corporation (ZNBC) in strengthening its public service mandate and ensuring its long-term financial sustainability. Mr Nkandu says the government recognises ZNBC as a strategic national asset that plays a critical role in public information, national unity, cultural preservation, […]",
+   "t": "government reaffirms support and commitment to znbc",
+   "title": "GOVERNMENT REAFFIRMS SUPPORT AND COMMITMENT TO ZNBC"
   }
  ],
  "seen": {
@@ -385,6 +385,7 @@
   "32851fe0b9ac051e": "2026-11-14T20:51:57.308731+00:00",
   "32970213e2ce7dc0": "2026-11-15T06:27:16.931800+00:00",
   "32ab2d5b580f7c7c": "2026-11-11T12:28:41.484095+00:00",
+  "330002ebb862f21a": "2026-11-25T14:16:52.861261+00:00",
   "336d74609528537a": "2026-11-22T18:16:20.412551+00:00",
   "33b8f6c039ac414c": "2026-11-17T19:53:27.655978+00:00",
   "34c0ac9d7dbdf4f2": "2026-11-15T05:28:37.250650+00:00",
@@ -449,6 +450,7 @@
   "6192dd52f8a92b47": "2026-11-16T10:19:10.367097+00:00",
   "62764f6d40dbaf40": "2026-11-11T12:28:41.484095+00:00",
   "6400eb799ebfc0a0": "2026-11-24T10:34:28.746516+00:00",
+  "6455143c48e25a1a": "2026-11-25T14:16:27.973272+00:00",
   "64a78fc14aa09497": "2026-11-18T12:31:57.192168+00:00",
   "657c52440bfafcf0": "2026-11-13T10:37:52.592574+00:00",
   "66d1e06da59fd2a2": "2026-11-16T16:17:18.781549+00:00",
@@ -545,6 +547,7 @@
   "ac743ac8c19d2ab5": "2026-11-16T18:28:43.643200+00:00",
   "aca87495f615e914": "2026-11-24T17:43:41.554735+00:00",
   "acc6b0f2ea0bf2b6": "2026-11-22T11:22:18.281180+00:00",
+  "ace87126abeb7a16": "2026-11-25T14:16:27.976630+00:00",
   "ad88d03185e74633": "2026-11-11T12:28:41.484095+00:00",
   "afaee88161a66f4b": "2026-11-21T05:30:55.496449+00:00",
   "b0a0b5f7205ace23": "2026-11-18T05:52:30.850281+00:00",
