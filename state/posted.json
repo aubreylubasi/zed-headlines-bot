@@ -1,7 +1,7 @@
 {
  "daily": {
-  "count": 21,
-  "date": "2026-11-24"
+  "count": 2,
+  "date": "2026-11-25"
  },
  "failures": {
   "cc77da890cf470b5": {
@@ -14,17 +14,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-24T20:42:43.422197+00:00",
-  "id": "1405471502649229_122103558213555618",
-  "title": "Senegal regain AFCON title after Court of Arbitration overturns CAF ruling"
+  "at": "2026-11-25T03:51:28.914243+00:00",
+  "id": "1405471502649229_122103824877555618",
+  "title": "DR Congo searches for missing military aircraft as rebels claim shoot-down"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-23T03:49:10.428337+00:00",
-   "s": "By Aristide Bance Tanzania has launched a multi-purpose national ID with travel ambitions. Zambians who have long called for a modern NRC are asking why they are still waiting. LUSAKA / DAR ES SALAAM: Tanzania’s launch of an upgraded national identity card has revived a question that I as a Zambian has been asking for […]",
-   "t": "tanzania s smart id puts zambia s ageing nrc under the spotlight",
-   "title": "Tanzania’s smart ID puts Zambia’s ageing NRC under the spotlight"
-  },
   {
    "at": "2026-11-23T05:00:39.396091+00:00",
    "s": "This content is for members only. Visit the site and log in/register to read.",
@@ -258,6 +252,18 @@
    "s": "",
    "t": "senegal regain afcon title after court of arbitration overturns caf ruling",
    "title": "Senegal regain AFCON title after Court of Arbitration overturns CAF ruling"
+  },
+  {
+   "at": "2026-11-25T03:50:55.397275+00:00",
+   "s": "High Courts in Mansa, Livingstone and Kasama have removed four Members of Parliament from their seats in a run of election petition judgments. Over the same stretch, courts in Ndola, Lusaka, Chinsali and Mongu threw out challenges that losing United Party for National Development (UPND) candidates had brought against opposition and independent lawmakers. The judgments […]",
+   "t": "four mps lose seats as high courts rewrite disputed parliamentary results",
+   "title": "Four MPs Lose Seats As High Courts Rewrite Disputed Parliamentary Results"
+  },
+  {
+   "at": "2026-11-25T03:51:28.908591+00:00",
+   "s": "",
+   "t": "dr congo searches for missing military aircraft as rebels claim shoot down",
+   "title": "DR Congo searches for missing military aircraft as rebels claim shoot-down"
   }
  ],
  "seen": {
@@ -400,6 +406,7 @@
   "551e1ef77977bd25": "2026-11-24T15:54:44.033812+00:00",
   "5525b3b582bdf845": "2026-11-12T14:05:04.577289+00:00",
   "554e1042993a8b71": "2026-11-18T17:48:44.222518+00:00",
+  "5758d95078fc23e0": "2026-11-25T03:51:28.908554+00:00",
   "57e6a7d66fd26077": "2026-11-11T12:28:41.484095+00:00",
   "59fee8df39ed8360": "2026-11-14T11:00:25.786844+00:00",
   "5a525e0e76103014": "2026-11-20T18:48:44.775736+00:00",
@@ -463,6 +470,7 @@
   "857941f5f0d53fbd": "2026-11-13T15:02:16.006211+00:00",
   "858e61b23099dae8": "2026-11-20T15:50:18.719467+00:00",
   "8753a04ee5871b51": "2026-11-21T09:30:31.246459+00:00",
+  "875571c70bbf1e01": "2026-11-25T03:50:55.397223+00:00",
   "87782eb80b02a197": "2026-11-11T12:28:41.484095+00:00",
   "88daef30be759bd5": "2026-11-23T09:39:48.126702+00:00",
   "88f88b750ae59c5b": "2026-11-23T17:30:56.309773+00:00",
