@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 5,
+  "count": 7,
   "date": "2026-11-25"
  },
  "failures": {
@@ -14,23 +14,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-25T06:56:24.502868+00:00",
-  "id": "1405471502649229_122103990933555618",
-  "title": "Life in opposition is not easy, continue fundraising – Mwaliteta tells Tonse"
+  "at": "2026-11-25T08:26:46.803469+00:00",
+  "id": "1405471502649229_122104061343555618",
+  "title": "Pedestrian dies in Nakonde ‎RTA"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-23T08:06:42.125251+00:00",
-   "s": "This content is for members only. Visit the site and log in/register to read.",
-   "t": "increased license fees will fuel illegal mining small scale miners",
-   "title": "Increased license fees will fuel illegal mining – Small-scale miners"
-  },
-  {
-   "at": "2026-11-23T08:07:32.049572+00:00",
-   "s": "President Hakainde Hichilema has urged Zambians to put dialogue ahead of quarrels and confrontation, including disputes fought out on social media. Speaking at a church service at the historic Chikuni Mission Parish in his home district of Monze, he said the country could overcome its challenges if citizens embraced mutual respect, constructive engagement and collective […]",
-   "t": "hichilema tells zambians at chikuni that dialogue must beat quarrels and social media fights",
-   "title": "Hichilema Tells Zambians At Chikuni That Dialogue Must Beat Quarrels And Social Media Fights"
-  },
   {
    "at": "2026-11-23T09:39:21.998249+00:00",
    "s": "THE Livingstone High Court has nullified the election of Hastings Sililo as Member of Parliament for Mulobezi. The court upheld a petition by UPND candidate Timothy Mwenda Zambwe, ruling that Sililo was not qualified to stand in the Aug. 13, 2026 parliamentary election. Presiding Judge Justice Kazimbe Chenda, of the Lusaka High Court sitting in […] The post High Court Nullifies Mulobezi Election Over Grade 12 Certificate first appeared on Mwebantu .",
@@ -270,6 +258,18 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "life in opposition is not easy continue fundraising mwaliteta tells tonse",
    "title": "Life in opposition is not easy, continue fundraising – Mwaliteta tells Tonse"
+  },
+  {
+   "at": "2026-11-25T08:26:11.556497+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "govt assures support as team zambia prepares for maputo games",
+   "title": "Govt assures support as Team Zambia prepares for Maputo Games"
+  },
+  {
+   "at": "2026-11-25T08:26:46.791187+00:00",
+   "s": "A 35 year old pedestrian has died after being hit by a truck laden with bags of flour along the Nakonde-Mbala road in Nakonde district, Muchinga Province. ‎ ‎Muchinga Province Police Commanding Officer, Lubinda Mayamba has confirmed the accident and identified the deceased as Gerad Simpanda of Chileshe village in Chief Nsokolo’s area, Senga Hill […]",
+   "t": "pedestrian dies in nakonde rta",
+   "title": "Pedestrian dies in Nakonde ‎RTA"
   }
  ],
  "seen": {
@@ -443,6 +443,7 @@
   "6a46f90a45b53f99": "2026-11-11T12:28:41.484095+00:00",
   "6a70754fe3eee841": "2026-11-11T12:28:41.484095+00:00",
   "6ac5cc8b706cbee6": "2026-11-11T18:05:50.463081+00:00",
+  "6f01d6d8aedba06f": "2026-11-25T08:26:11.556464+00:00",
   "6f7f69dfc0c69b16": "2026-11-11T12:28:41.484095+00:00",
   "70be23062e823e94": "2026-11-12T06:37:57.763763+00:00",
   "715c7e2cf3f216ba": "2026-11-21T19:58:42.483965+00:00",
@@ -610,6 +611,7 @@
   "e456d95fd38084b5": "2026-11-16T08:13:03.634332+00:00",
   "e4d9ef357a2c7717": "2026-11-15T09:25:32.530602+00:00",
   "e4f88c3965b58301": "2026-11-19T10:34:02.714135+00:00",
+  "e503f94deeaab179": "2026-11-25T08:26:46.791150+00:00",
   "e5c468ff443e1f39": "2026-11-11T12:28:41.484095+00:00",
   "e5edfc4bbfbe0fb2": "2026-11-19T03:44:47.781783+00:00",
   "e664e9ff6f026952": "2026-11-23T06:21:53.013876+00:00",
