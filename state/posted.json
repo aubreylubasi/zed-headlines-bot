@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 13,
+  "count": 15,
   "date": "2026-11-25"
  },
  "failures": {
@@ -14,9 +14,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-25T11:49:15.403749+00:00",
-  "id": "1405471502649229_122104242045555618",
-  "title": "ZIPRC calls for the integration of PR into strategic decision-making"
+  "at": "2026-11-25T12:59:19.256862+00:00",
+  "id": "1405471502649229_122104296165555618",
+  "title": "NAC calls for equitable access to HIV services"
  },
  "recent_titles": [
   {
@@ -270,6 +270,18 @@
    "s": "The President of the Zambia Institute of Public Relations and Communication (ZIPRC), Patricia Luhanga, has called for the integration of public relations and communication practitioners into strategic decision-making, policy formulation, and implementation processes, saying this is critical for Zambia to achieve its national development aspirations under the Grow Zambia Agenda. Ms Luhanga said communication should […]",
    "t": "ziprc calls for the integration of pr into strategic decision making",
    "title": "ZIPRC calls for the integration of PR into strategic decision-making"
+  },
+  {
+   "at": "2026-11-25T12:58:45.216332+00:00",
+   "s": "",
+   "t": "nollywood veteran pete edochie known for his commanding screen presence dies at 79 here are 10 things to remember about him",
+   "title": "Nollywood veteran, Pete Edochie, known for his commanding screen presence, dies at 79. Here are 10 things to remember about him"
+  },
+  {
+   "at": "2026-11-25T12:59:19.246320+00:00",
+   "s": "National HIV/AIDS Council North-Western Provincial AIDS Advisor, Hillary Sakala, has called for concerted efforts to address inequalities that continue to limit access to HIV prevention, testing and treatment services. Mr Sakala says the availability of effective HIV services does not automatically mean that everyone who needs them can access them. Speaking ahead of the World […]",
+   "t": "nac calls for equitable access to hiv services",
+   "title": "NAC calls for equitable access to HIV services"
   }
  ],
  "seen": {
@@ -277,6 +289,7 @@
   "010973b7faf7f8d5": "2026-11-11T12:28:41.484095+00:00",
   "01e09761c3cc3f2b": "2026-11-11T12:28:41.484095+00:00",
   "01f917094d089084": "2026-11-11T12:28:41.484095+00:00",
+  "022960f95bb20b96": "2026-11-25T12:58:45.216289+00:00",
   "0232e2394d6ecb6f": "2026-11-20T11:30:41.847996+00:00",
   "0282d4e34d471b41": "2026-11-11T12:28:41.484095+00:00",
   "02cbc7c458435221": "2026-11-11T12:28:41.484095+00:00",
@@ -519,6 +532,7 @@
   "9f98925c57ac3617": "2026-11-15T13:32:07.599670+00:00",
   "9ffb5e7467d54951": "2026-11-17T13:51:29.808970+00:00",
   "a17d54e724450399": "2026-11-15T10:22:06.844098+00:00",
+  "a2e35b56ad8c223c": "2026-11-25T12:59:19.246282+00:00",
   "a3059185ad52a851": "2026-11-14T14:21:19.381304+00:00",
   "a4b9e2ed72e3412a": "2026-11-12T10:49:58.424510+00:00",
   "a6eeefdd1c277665": "2026-11-17T17:53:34.411513+00:00",
@@ -588,6 +602,7 @@
   "d125a7cf8dc36742": "2026-11-23T10:45:34.285087+00:00",
   "d29ec15c564d5e6d": "2026-11-11T19:14:44.180648+00:00",
   "d2f2f899a8c9ff67": "2026-11-22T18:16:43.841199+00:00",
+  "d4840a1a15093202": "2026-11-25T12:58:30.023068+00:00",
   "d4954831649dff79": "2026-11-11T12:28:41.484095+00:00",
   "d4c82a938589b4e7": "2026-11-20T14:45:45.415550+00:00",
   "d4cd5f22be48bce0": "2026-11-12T10:50:27.096471+00:00",
