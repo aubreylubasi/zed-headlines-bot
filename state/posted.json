@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 19,
+  "count": 20,
   "date": "2026-11-25"
  },
  "failures": {
@@ -14,23 +14,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-25T15:24:17.334692+00:00",
-  "id": "1405471502649229_122104422261555618",
-  "title": "Muyembe Health Centre contractor urged to expedite works"
+  "at": "2026-11-25T17:42:00.403603+00:00",
+  "id": "1405471502649229_122104531149555618",
+  "title": "Suspects granted K19.2 million bond as MP calls for relief in Mpika mining crackdown"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-23T17:30:56.309810+00:00",
-   "s": "",
-   "t": "solar industry warns proposed tax changes could raise costs for zambians",
-   "title": "Solar industry warns proposed tax changes could raise costs for Zambians"
-  },
-  {
-   "at": "2026-11-23T17:31:18.731635+00:00",
-   "s": "Government has been commended for completing payments to all farmers who supplied maize to the Food Reserve Agency (FRA) in Kkota Kkota Ward of Gwembe district in Southern Province. Kkota Kkota Ward Councillor, Edward Gama, said more than 200 farmers who supplied maize to FRA had received their payments in full as of November 20, […]",
-   "t": "government clears fra farmer payments in gwembe s kkota kkota ward",
-   "title": "Government clears FRA farmer payments in Gwembe’s Kkota Kkota Ward"
-  },
   {
    "at": "2026-11-23T19:38:57.241447+00:00",
    "s": "The Kabwe Magistrate Court has fined a 21 year old Burundian National K5, 000 or nine months imprisonment with hard labour for unlawful presence in Zambia. Appearing for judgement before Kabwe Resident Magistrate Liswaniso Wamundila, was Edouard Bayubahe facing a count of unlawful presence contrary to Section 11(3) as read with 56(1) of the Immigration […]",
@@ -288,6 +276,12 @@
    "s": "Western Province Young Women Christian Association (YWCA) President, Kayumba Bbwaani, has urged women and girls to speak out against Gender-Based Violence (GBV) and report all forms of abuse to relevant authorities to safeguard their fundamental rights. Ms Bbwaani observed that many women continue to suffer in silence due to fear of reporting perpetrators, particularly when […]",
    "t": "muyembe health centre contractor urged to expedite works",
    "title": "Muyembe Health Centre contractor urged to expedite works"
+  },
+  {
+   "at": "2026-11-25T17:42:00.398403+00:00",
+   "s": "",
+   "t": "suspects granted k19 2 million bond as mp calls for relief in mpika mining crackdown",
+   "title": "Suspects granted K19.2 million bond as MP calls for relief in Mpika mining crackdown"
   }
  ],
  "seen": {
@@ -430,6 +424,7 @@
   "524602ccff7f9a5b": "2026-11-11T12:28:41.484095+00:00",
   "527f40b173a368b9": "2026-11-19T16:58:11.685276+00:00",
   "5300f14e4e3ba9d7": "2026-11-11T12:28:41.484095+00:00",
+  "53f71176d12ae0bc": "2026-11-25T17:42:00.398360+00:00",
   "551e1ef77977bd25": "2026-11-24T15:54:44.033812+00:00",
   "5525b3b582bdf845": "2026-11-12T14:05:04.577289+00:00",
   "554e1042993a8b71": "2026-11-18T17:48:44.222518+00:00",
