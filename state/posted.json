@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 3,
+  "count": 4,
   "date": "2026-11-25"
  },
  "failures": {
@@ -14,17 +14,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-25T04:56:20.596446+00:00",
-  "id": "1405471502649229_122103871545555618",
-  "title": "Still, it would help to hear HH’s clear voice on third term"
+  "at": "2026-11-25T05:51:00.750230+00:00",
+  "id": "1405471502649229_122103908943555618",
+  "title": "My release proves our innocence, others will be freed too – Bishop Mwamba"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-23T05:00:39.396091+00:00",
-   "s": "This content is for members only. Visit the site and log in/register to read.",
-   "t": "hh is too smart to fall for the 3rd term temptation unless",
-   "title": "HH is too smart to fall for the 3rd term temptation, unless…"
-  },
   {
    "at": "2026-11-23T06:21:53.013913+00:00",
    "s": "This content is for members only. Visit the site and log in/register to read.",
@@ -270,6 +264,12 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "still it would help to hear hh s clear voice on third term",
    "title": "Still, it would help to hear HH’s clear voice on third term"
+  },
+  {
+   "at": "2026-11-25T05:51:00.737702+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "my release proves our innocence others will be freed too bishop mwamba",
+   "title": "My release proves our innocence, others will be freed too – Bishop Mwamba"
   }
  ],
  "seen": {
@@ -422,6 +422,7 @@
   "5c51d44135f89fc7": "2026-11-17T03:24:58.012197+00:00",
   "5c5d4d8f0d00b751": "2026-11-14T12:23:17.805505+00:00",
   "5cad8b00951a0677": "2026-11-23T10:44:59.305266+00:00",
+  "5cf090adad8eb8ca": "2026-11-25T05:51:00.737663+00:00",
   "5d80949cc50d39ef": "2026-11-16T10:19:29.937086+00:00",
   "5de3777fd3f43270": "2026-11-11T12:28:41.484095+00:00",
   "5e39d71518479d7e": "2026-11-11T12:28:41.484095+00:00",
