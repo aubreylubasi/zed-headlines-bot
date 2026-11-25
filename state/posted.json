@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 24,
+  "count": 25,
   "date": "2026-11-25"
  },
  "failures": {
@@ -14,29 +14,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-25T19:37:40.499237+00:00",
-  "id": "1405471502649229_122104620261555618",
-  "title": "Small-scale miners oppose sharp fee increases, call for phased implementation"
+  "at": "2026-11-25T20:29:52.459186+00:00",
+  "id": "1405471502649229_122104648803555618",
+  "title": "CBID expansion welcome"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-23T19:38:57.241447+00:00",
-   "s": "The Kabwe Magistrate Court has fined a 21 year old Burundian National K5, 000 or nine months imprisonment with hard labour for unlawful presence in Zambia. Appearing for judgement before Kabwe Resident Magistrate Liswaniso Wamundila, was Edouard Bayubahe facing a count of unlawful presence contrary to Section 11(3) as read with 56(1) of the Immigration […]",
-   "t": "burundi national charged for unlawful presence",
-   "title": "Burundi national charged for unlawful presence"
-  },
-  {
-   "at": "2026-11-23T19:39:18.394969+00:00",
-   "s": "",
-   "t": "zambia seeks turkish investment in water infrastructure",
-   "title": "Zambia seeks Turkish investment in water infrastructure"
-  },
-  {
-   "at": "2026-11-23T20:27:03.661990+00:00",
-   "s": "Brian Mundubile, his running mate Makebi Zulu and 12 co-accused have been committed to the High Court for summary trial on a charge of treason. The State alleges that the group tried to overthrow the Government by recruiting serving and retired soldiers, paying for military training in Russia and keeping offensive weapons for the operation. […]",
-   "t": "mundubile makebi zulu and 12 others committed to high court over alleged plot to topple government",
-   "title": "Mundubile, Makebi Zulu and 12 Others Committed to High Court Over Alleged Plot to Topple Government"
-  },
   {
    "at": "2026-11-24T03:48:12.317768+00:00",
    "s": "Have you heard? For weeks, it seemed the President and his supporters had gone quiet on the militia story. The other day, President Hakainde Hichilema warned that anyone who declares himself the winner of an election will go to jail. I could not help asking what happened to the earlier warning, the one that said if […]",
@@ -306,6 +288,12 @@
    "s": "",
    "t": "small scale miners oppose sharp fee increases call for phased implementation",
    "title": "Small-scale miners oppose sharp fee increases, call for phased implementation"
+  },
+  {
+   "at": "2026-11-25T20:29:52.451559+00:00",
+   "s": "Community Based Inclusive Development Norwegian Association of Disabled Zambia Country Office Regional Advisor has welcomed the move by the government to expand Community Based Inclusion Development (CBID), noting that it will make it easy for policy makers to make decisions that will benefit people with disabilities in different settings. Speaking in an interview, Eddie Mupotola said […]",
+   "t": "cbid expansion welcome",
+   "title": "CBID expansion welcome"
   }
  ],
  "seen": {
@@ -676,6 +664,7 @@
   "e7c61e3d8fede0cc": "2026-11-12T16:22:06.330169+00:00",
   "e85a43f7376334ec": "2026-11-23T05:00:39.396049+00:00",
   "eb93e2dd42e300a7": "2026-11-24T13:54:55.861408+00:00",
+  "ecb0a53cf9405dfa": "2026-11-25T20:29:52.451527+00:00",
   "ed30f54182a5351b": "2026-11-12T12:51:32.337275+00:00",
   "edbade4358640852": "2026-11-12T05:35:29.676148+00:00",
   "ee28b5e9e48fb6e1": "2026-11-13T18:46:25.429635+00:00",
