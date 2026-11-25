@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 20,
+  "count": 22,
   "date": "2026-11-25"
  },
  "failures": {
@@ -14,9 +14,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-25T17:42:00.403603+00:00",
-  "id": "1405471502649229_122104531149555618",
-  "title": "Suspects granted K19.2 million bond as MP calls for relief in Mpika mining crackdown"
+  "at": "2026-11-25T18:40:05.306347+00:00",
+  "id": "1405471502649229_122104577187555618",
+  "title": "Kwela Na Airtel Money | the Official Launch!"
  },
  "recent_titles": [
   {
@@ -282,6 +282,18 @@
    "s": "",
    "t": "suspects granted k19 2 million bond as mp calls for relief in mpika mining crackdown",
    "title": "Suspects granted K19.2 million bond as MP calls for relief in Mpika mining crackdown"
+  },
+  {
+   "at": "2026-11-25T18:39:13.731144+00:00",
+   "s": "Kabwe High Court has declared United Party for National Development (UPND) Bwacha North Member of Parliament Percy Chato as duly elected in the August 13, 2026 parliamentary election. Kabwe High Court Judge Ian Mabbolobolo ruled that Mr Chato was duly elected and ordered that each party bears its own costs. The judgment follows the petitioner’s […]",
+   "t": "chato duly elected bwacha north mp",
+   "title": "Chato duly elected Bwacha North MP"
+  },
+  {
+   "at": "2026-11-25T18:40:05.295671+00:00",
+   "s": "#WATCH #LIVE #Mwebantu, a new chapter of possibilities has arrived with the launch of “Kwela na Airtel Money,” Airtel Money’s new thematic campaign. Join us LIVE! Stay connected, stay empowered and get ready to experience more with Airtel Money. Let us know where in the world you are watching us from?#KwelaNaAirtelMoney #AirtelZambia #MwebantuLIVE Watch on […] The post Kwela Na Airtel Money | the Official Launch! first appeared on Mwebantu .",
+   "t": "kwela na airtel money the official launch",
+   "title": "Kwela Na Airtel Money | the Official Launch!"
   }
  ],
  "seen": {
@@ -320,6 +332,7 @@
   "0e3caf8a8b21fcf7": "2026-11-13T14:02:40.700738+00:00",
   "0e78398789b1d4ea": "2026-11-20T16:48:03.342954+00:00",
   "1086ca82e9fbed77": "2026-11-15T11:16:52.810091+00:00",
+  "10946c338e124aeb": "2026-11-25T18:39:13.731112+00:00",
   "10c7c1fd774a3402": "2026-11-18T16:55:01.735988+00:00",
   "10e75b4bf469d913": "2026-11-25T11:49:15.389541+00:00",
   "11e9b30941aa8e51": "2026-11-22T12:21:21.554866+00:00",
@@ -417,7 +430,7 @@
   "4cab62cdcf961929": "2026-11-11T12:28:41.484095+00:00",
   "4d4e6811c4eeb156": "2026-11-22T04:47:03.045796+00:00",
   "4d50d3f56bc22d6f": "2026-11-13T11:44:11.090240+00:00",
-  "4e95deb770ccfc91": "2026-11-23T17:30:44.335578+00:00",
+  "4e95deb770ccfc91": "2026-11-25T18:39:13.732582+00:00",
   "507b936216dc9644": "2026-11-14T12:22:56.476020+00:00",
   "50a970992ea2e172": "2026-11-11T12:28:41.484095+00:00",
   "51c035191b8f9757": "2026-11-18T10:26:24.317061+00:00",
@@ -553,6 +566,7 @@
   "ad88d03185e74633": "2026-11-11T12:28:41.484095+00:00",
   "afaee88161a66f4b": "2026-11-21T05:30:55.496449+00:00",
   "afc167f166052191": "2026-11-25T15:23:46.513244+00:00",
+  "b02e0f8ddfc4394b": "2026-11-25T18:38:41.499368+00:00",
   "b0a0b5f7205ace23": "2026-11-18T05:52:30.850281+00:00",
   "b146296e157a7f46": "2026-11-15T13:32:35.572136+00:00",
   "b205908e603d475b": "2026-11-11T12:28:41.484095+00:00",
@@ -600,6 +614,7 @@
   "cc89ed7c05f464e0": "2026-11-20T16:49:09.672319+00:00",
   "cd076f2eb8a1deb3": "2026-11-11T12:28:41.484095+00:00",
   "cd2dd252f281371c": "2026-11-11T12:28:41.484095+00:00",
+  "cdca762bbaaee483": "2026-11-25T18:40:05.295630+00:00",
   "ce124c119d2ce41f": "2026-11-11T12:28:41.484095+00:00",
   "ce63a80dea3c2cb9": "2026-11-21T11:23:15.697121+00:00",
   "cf2881d28392fe6a": "2026-11-11T12:28:41.484095+00:00",
@@ -608,7 +623,7 @@
   "d125a7cf8dc36742": "2026-11-23T10:45:34.285087+00:00",
   "d29ec15c564d5e6d": "2026-11-11T19:14:44.180648+00:00",
   "d2f2f899a8c9ff67": "2026-11-22T18:16:43.841199+00:00",
-  "d4840a1a15093202": "2026-11-25T12:58:30.023068+00:00",
+  "d4840a1a15093202": "2026-11-25T18:39:13.731710+00:00",
   "d4954831649dff79": "2026-11-11T12:28:41.484095+00:00",
   "d4c82a938589b4e7": "2026-11-20T14:45:45.415550+00:00",
   "d4cd5f22be48bce0": "2026-11-12T10:50:27.096471+00:00",
@@ -616,7 +631,7 @@
   "d796dc5a0e41a01d": "2026-11-22T03:42:20.719211+00:00",
   "d7f9f7676dd63e8a": "2026-11-24T08:24:01.106341+00:00",
   "d8060b1f741a38da": "2026-11-16T11:39:41.270236+00:00",
-  "d923c5eec351e9c7": "2026-11-24T14:48:30.406299+00:00",
+  "d923c5eec351e9c7": "2026-11-25T18:39:13.732081+00:00",
   "d94a3dbf67854358": "2026-11-11T12:28:41.484095+00:00",
   "d95c8cb6a5583907": "2026-11-14T15:17:00.688181+00:00",
   "da9d5e728e260c52": "2026-11-20T18:47:48.439631+00:00",
@@ -628,7 +643,7 @@
   "dd8f7907c2c834ca": "2026-11-12T03:30:43.437022+00:00",
   "ddb2244aaac2eb98": "2026-11-23T11:43:40.054916+00:00",
   "ddbcf2ba7f2debd1": "2026-11-11T16:05:05.256610+00:00",
-  "de27aa6ba89e2c7b": "2026-11-23T09:39:21.998208+00:00",
+  "de27aa6ba89e2c7b": "2026-11-25T18:39:13.732979+00:00",
   "df4e9f0e303c727f": "2026-11-15T09:25:18.981614+00:00",
   "e0c1b4985aa39718": "2026-11-11T12:28:41.484095+00:00",
   "e1df77f42371ea05": "2026-11-20T20:40:16.960259+00:00",
