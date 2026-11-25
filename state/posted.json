@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 2,
+  "count": 3,
   "date": "2026-11-25"
  },
  "failures": {
@@ -14,9 +14,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-25T03:51:28.914243+00:00",
-  "id": "1405471502649229_122103824877555618",
-  "title": "DR Congo searches for missing military aircraft as rebels claim shoot-down"
+  "at": "2026-11-25T04:56:20.596446+00:00",
+  "id": "1405471502649229_122103871545555618",
+  "title": "Still, it would help to hear HH’s clear voice on third term"
  },
  "recent_titles": [
   {
@@ -264,6 +264,12 @@
    "s": "",
    "t": "dr congo searches for missing military aircraft as rebels claim shoot down",
    "title": "DR Congo searches for missing military aircraft as rebels claim shoot-down"
+  },
+  {
+   "at": "2026-11-25T04:56:20.581564+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "still it would help to hear hh s clear voice on third term",
+   "title": "Still, it would help to hear HH’s clear voice on third term"
   }
  ],
  "seen": {
@@ -547,6 +553,7 @@
   "bf40e08159d49a63": "2026-11-21T07:49:00.543080+00:00",
   "bf960ccf4d2073cd": "2026-11-24T15:55:10.687407+00:00",
   "c110aacc0c7e1646": "2026-11-23T15:22:21.648319+00:00",
+  "c2107bc1763434c7": "2026-11-25T04:56:20.581518+00:00",
   "c221128002d98cba": "2026-11-20T04:51:19.506074+00:00",
   "c3584159bfe4ea92": "2026-11-14T18:27:01.207477+00:00",
   "c3eb3b728238a9b8": "2026-11-15T17:49:07.831622+00:00",
