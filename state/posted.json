@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 17,
+  "count": 19,
   "date": "2026-11-25"
  },
  "failures": {
@@ -14,17 +14,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-25T14:16:52.876116+00:00",
-  "id": "1405471502649229_122104365441555618",
-  "title": "GOVERNMENT REAFFIRMS SUPPORT AND COMMITMENT TO ZNBC"
+  "at": "2026-11-25T15:24:17.334692+00:00",
+  "id": "1405471502649229_122104422261555618",
+  "title": "Muyembe Health Centre contractor urged to expedite works"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-23T15:22:33.206051+00:00",
-   "s": "",
-   "t": "hichilema s advisor banda dismisses report linking him to petition against another presidential aide",
-   "title": "Hichilema’s advisor, Banda dismisses report linking him to petition against another presidential aide"
-  },
   {
    "at": "2026-11-23T17:30:56.309810+00:00",
    "s": "",
@@ -282,6 +276,18 @@
    "s": "Minister of Information and Media Elvis Nkandu has reaffirmed government’s commitment to supporting the Zambia National Broadcasting Corporation (ZNBC) in strengthening its public service mandate and ensuring its long-term financial sustainability. Mr Nkandu says the government recognises ZNBC as a strategic national asset that plays a critical role in public information, national unity, cultural preservation, […]",
    "t": "government reaffirms support and commitment to znbc",
    "title": "GOVERNMENT REAFFIRMS SUPPORT AND COMMITMENT TO ZNBC"
+  },
+  {
+   "at": "2026-11-25T15:23:46.513282+00:00",
+   "s": "",
+   "t": "kwacha holds steady below k20 70 against the dollar on improved forex supply",
+   "title": "Kwacha holds steady below K20.70 against the dollar on improved forex supply"
+  },
+  {
+   "at": "2026-11-25T15:24:17.323129+00:00",
+   "s": "Western Province Young Women Christian Association (YWCA) President, Kayumba Bbwaani, has urged women and girls to speak out against Gender-Based Violence (GBV) and report all forms of abuse to relevant authorities to safeguard their fundamental rights. Ms Bbwaani observed that many women continue to suffer in silence due to fear of reporting perpetrators, particularly when […]",
+   "t": "muyembe health centre contractor urged to expedite works",
+   "title": "Muyembe Health Centre contractor urged to expedite works"
   }
  ],
  "seen": {
@@ -485,6 +491,7 @@
   "7df499ed1ef35ce6": "2026-11-15T12:31:58.813170+00:00",
   "7e5e1bb46cfcf74c": "2026-11-14T13:30:15.056309+00:00",
   "8073993a1ab6400b": "2026-11-19T14:43:34.650871+00:00",
+  "812214219b856594": "2026-11-25T15:24:17.323089+00:00",
   "81e9b59d2f2c6711": "2026-11-11T12:28:41.484095+00:00",
   "82c9ce43f64c61d2": "2026-11-24T05:49:45.086543+00:00",
   "836b8aa3627abc5e": "2026-11-20T17:46:50.886356+00:00",
@@ -550,6 +557,7 @@
   "ace87126abeb7a16": "2026-11-25T14:16:27.976630+00:00",
   "ad88d03185e74633": "2026-11-11T12:28:41.484095+00:00",
   "afaee88161a66f4b": "2026-11-21T05:30:55.496449+00:00",
+  "afc167f166052191": "2026-11-25T15:23:46.513244+00:00",
   "b0a0b5f7205ace23": "2026-11-18T05:52:30.850281+00:00",
   "b146296e157a7f46": "2026-11-15T13:32:35.572136+00:00",
   "b205908e603d475b": "2026-11-11T12:28:41.484095+00:00",
