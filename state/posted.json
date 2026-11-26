@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 2,
+  "count": 4,
   "date": "2026-11-26"
  },
  "failures": {
@@ -14,23 +14,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-26T08:24:47.489214+00:00",
-  "id": "1405471502649229_122105031159555618",
-  "title": "Police arrest 26-year-old man over alleged murder of mother in Kasama"
+  "at": "2026-11-26T11:48:31.934845+00:00",
+  "id": "1405471502649229_122105181903555618",
+  "title": "Small holder farmers call for better markets, financing under agriculture transformation plan"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-24T11:28:47.832465+00:00",
-   "s": "",
-   "t": "imf says zambia exposed to climate related fiscal shocks",
-   "title": "IMF says Zambia exposed to climate-related fiscal shocks"
-  },
-  {
-   "at": "2026-11-24T11:29:20.808548+00:00",
-   "s": "This content is for members only. Visit the site and log in/register to read.",
-   "t": "patriots hold off suns late surge",
-   "title": "Patriots hold off Suns’ late surge"
-  },
   {
    "at": "2026-11-24T12:37:43.194859+00:00",
    "s": "",
@@ -258,6 +246,18 @@
    "s": "",
    "t": "police arrest 26 year old man over alleged murder of mother in kasama",
    "title": "Police arrest 26-year-old man over alleged murder of mother in Kasama"
+  },
+  {
+   "at": "2026-11-26T11:48:08.095778+00:00",
+   "s": "Ndola’s Bwana Mkubwa Member of Parliament Warren Mwambazi has announced plans to establish a multi-sports facility centre through the Constituency Development Fund (CDF) to promote youth development, nurture talent and address social challenges affecting young people in the constituency. Mwambazi said the initiative follows the implementation of more than 45 projects in health, education and […]",
+   "t": "multi sports facility centre on the cards in ndola",
+   "title": "Multi-sports facility centre on the cards in Ndola"
+  },
+  {
+   "at": "2026-11-26T11:48:31.924599+00:00",
+   "s": "",
+   "t": "small holder farmers call for better markets financing under agriculture transformation plan",
+   "title": "Small holder farmers call for better markets, financing under agriculture transformation plan"
   }
  ],
  "seen": {
@@ -269,6 +269,7 @@
   "0232e2394d6ecb6f": "2026-11-20T11:30:41.847996+00:00",
   "0282d4e34d471b41": "2026-11-11T12:28:41.484095+00:00",
   "02cbc7c458435221": "2026-11-11T12:28:41.484095+00:00",
+  "0343e206c4d89128": "2026-11-26T11:48:08.095743+00:00",
   "03ce92611cd3cc7a": "2026-11-12T11:47:20.082399+00:00",
   "048396251bd6a302": "2026-11-14T15:16:15.391298+00:00",
   "050961e2aba6c7c1": "2026-11-20T08:11:05.830788+00:00",
@@ -574,6 +575,7 @@
   "c8373880d4abd971": "2026-11-22T12:20:48.026754+00:00",
   "c8386517f5bca91a": "2026-11-14T18:27:26.975677+00:00",
   "c99b10248b8a5f2b": "2026-11-23T14:16:42.900246+00:00",
+  "c9b11e44a6b07e87": "2026-11-26T11:48:31.924562+00:00",
   "c9b510b541383c4d": "2026-11-11T12:28:41.484095+00:00",
   "c9e942f13aacd371": "2026-11-13T10:33:40.271368+00:00",
   "c9f37e44289247ee": "2026-11-11T12:28:41.484095+00:00",
