@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 0,
+  "count": 1,
   "date": "2026-11-26"
  },
  "failures": {
@@ -14,17 +14,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-25T20:29:52.459186+00:00",
-  "id": "1405471502649229_122104648803555618",
-  "title": "CBID expansion welcome"
+  "at": "2026-11-26T06:55:23.270906+00:00",
+  "id": "1405471502649229_122104969455555618",
+  "title": "Chikote directs ERB to quickly move to quarterly fuel price reviews"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-24T05:50:28.837069+00:00",
-   "s": "",
-   "t": "chipata reportedly woos german investors in energy agro processing",
-   "title": "Chipata reportedly woos German investors in energy, agro-processing"
-  },
   {
    "at": "2026-11-24T08:24:01.106404+00:00",
    "s": "This content is for members only. Visit the site and log in/register to read.",
@@ -282,6 +276,12 @@
    "s": "Community Based Inclusive Development Norwegian Association of Disabled Zambia Country Office Regional Advisor has welcomed the move by the government to expand Community Based Inclusion Development (CBID), noting that it will make it easy for policy makers to make decisions that will benefit people with disabilities in different settings. Speaking in an interview, Eddie Mupotola said […]",
    "t": "cbid expansion welcome",
    "title": "CBID expansion welcome"
+  },
+  {
+   "at": "2026-11-26T06:55:23.254448+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "chikote directs erb to quickly move to quarterly fuel price reviews",
+   "title": "Chikote directs ERB to quickly move to quarterly fuel price reviews"
   }
  ],
  "seen": {
@@ -457,6 +457,7 @@
   "6455143c48e25a1a": "2026-11-25T14:16:27.973272+00:00",
   "64a78fc14aa09497": "2026-11-18T12:31:57.192168+00:00",
   "657c52440bfafcf0": "2026-11-13T10:37:52.592574+00:00",
+  "65f7a7b354aa3e3a": "2026-11-26T06:55:23.254413+00:00",
   "66d1e06da59fd2a2": "2026-11-16T16:17:18.781549+00:00",
   "67049820b358187d": "2026-11-21T04:32:08.442251+00:00",
   "6923eaa409f8cfcd": "2026-11-13T12:48:17.060681+00:00",
