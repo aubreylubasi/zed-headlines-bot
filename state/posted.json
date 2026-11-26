@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 1,
+  "count": 2,
   "date": "2026-11-26"
  },
  "failures": {
@@ -14,17 +14,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-26T06:55:23.270906+00:00",
-  "id": "1405471502649229_122104969455555618",
-  "title": "Chikote directs ERB to quickly move to quarterly fuel price reviews"
+  "at": "2026-11-26T08:24:47.489214+00:00",
+  "id": "1405471502649229_122105031159555618",
+  "title": "Police arrest 26-year-old man over alleged murder of mother in Kasama"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-24T08:24:01.106404+00:00",
-   "s": "This content is for members only. Visit the site and log in/register to read.",
-   "t": "keep your hands off civil servants wynter tells upnd",
-   "title": "Keep your hands off civil servants, Wynter tells UPND"
-  },
   {
    "at": "2026-11-24T09:33:16.505037+00:00",
    "s": "THE BAE Jetstream 41 rolls out with 29 seats full, and both turbo props humming. Commanding it is Captain Tisa Muwema, Proflight Zambia’s first Zambian female J41 captain. Affectionately known as the ‘Sky Queen’, she is warm, poised yet famously firm on the flight deck. Her determination, discipline and unwavering commitment to her craft have earned […] The post ‘Sky Queen’: The Captain who gave up her jet to take command first appeared on Mwebantu .",
@@ -282,6 +276,12 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "chikote directs erb to quickly move to quarterly fuel price reviews",
    "title": "Chikote directs ERB to quickly move to quarterly fuel price reviews"
+  },
+  {
+   "at": "2026-11-26T08:24:47.482969+00:00",
+   "s": "",
+   "t": "police arrest 26 year old man over alleged murder of mother in kasama",
+   "title": "Police arrest 26-year-old man over alleged murder of mother in Kasama"
   }
  ],
  "seen": {
@@ -410,9 +410,11 @@
   "45d42dcadd18ba31": "2026-11-11T12:28:41.484095+00:00",
   "461c59c3bc35b52f": "2026-11-24T03:48:12.317724+00:00",
   "4727696ca03969ec": "2026-11-14T12:29:47.351297+00:00",
+  "47369327345b2086": "2026-11-26T08:24:47.483102+00:00",
   "4781b246e7f5acb7": "2026-11-21T03:30:28.870019+00:00",
   "47a9aebad1118b09": "2026-11-16T16:19:10.951702+00:00",
   "47b29bf73fba7077": "2026-11-19T17:49:27.474762+00:00",
+  "48cd937e165851ec": "2026-11-26T08:24:47.482928+00:00",
   "49b735bb188f188b": "2026-11-11T12:28:41.484095+00:00",
   "49cd13cec249d8d0": "2026-11-16T19:37:08.324633+00:00",
   "49db19e99725a804": "2026-11-11T12:28:41.484095+00:00",
