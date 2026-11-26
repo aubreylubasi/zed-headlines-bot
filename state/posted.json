@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 4,
+  "count": 6,
   "date": "2026-11-26"
  },
  "failures": {
@@ -14,9 +14,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-26T11:48:31.934845+00:00",
-  "id": "1405471502649229_122105181903555618",
-  "title": "Small holder farmers call for better markets, financing under agriculture transformation plan"
+  "at": "2026-11-26T15:19:21.127587+00:00",
+  "id": "1405471502649229_122105338593555618",
+  "title": "Kampyongo questions use of AI-generated National Anthem in Parley"
  },
  "recent_titles": [
   {
@@ -240,6 +240,18 @@
    "s": "",
    "t": "small holder farmers call for better markets financing under agriculture transformation plan",
    "title": "Small holder farmers call for better markets, financing under agriculture transformation plan"
+  },
+  {
+   "at": "2026-11-26T15:18:48.245372+00:00",
+   "s": "",
+   "t": "zra sars sign customs data exchange deal to boost cross border trade",
+   "title": "ZRA, SARS sign customs data exchange deal to boost cross-border trade"
+  },
+  {
+   "at": "2026-11-26T15:19:21.111317+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "kampyongo questions use of ai generated national anthem in parley",
+   "title": "Kampyongo questions use of AI-generated National Anthem in Parley"
   }
  ],
  "seen": {
@@ -272,6 +284,7 @@
   "0b8e7d06472cf74e": "2026-11-15T11:17:36.641810+00:00",
   "0bc9fc2fac3df5f0": "2026-11-23T15:22:33.206011+00:00",
   "0bdf58a754514df8": "2026-11-22T16:24:08.379045+00:00",
+  "0bfbc41996cd099f": "2026-11-26T15:18:48.245333+00:00",
   "0caac281acdc31a2": "2026-11-23T03:49:10.428295+00:00",
   "0d411f09ae067518": "2026-11-11T12:28:41.484095+00:00",
   "0df5945d284b326e": "2026-11-18T04:52:06.073008+00:00",
@@ -404,6 +417,7 @@
   "5c5d4d8f0d00b751": "2026-11-14T12:23:17.805505+00:00",
   "5cad8b00951a0677": "2026-11-23T10:44:59.305266+00:00",
   "5cf090adad8eb8ca": "2026-11-25T05:51:00.737663+00:00",
+  "5d0a0993a7c6f78c": "2026-11-26T15:18:48.245523+00:00",
   "5d80949cc50d39ef": "2026-11-16T10:19:29.937086+00:00",
   "5de3777fd3f43270": "2026-11-11T12:28:41.484095+00:00",
   "5e39d71518479d7e": "2026-11-11T12:28:41.484095+00:00",
@@ -536,6 +550,7 @@
   "b808dc247e7e8c43": "2026-11-15T09:26:24.112308+00:00",
   "b8ee9592392a836c": "2026-11-20T12:35:36.028652+00:00",
   "b9acd6608c92dcc5": "2026-11-19T19:54:19.486355+00:00",
+  "b9f2d1e72d8b1654": "2026-11-26T15:19:21.111278+00:00",
   "ba8805d2799e3691": "2026-11-20T13:51:53.644197+00:00",
   "bcfaaf597cd5a9c3": "2026-11-24T05:49:45.089314+00:00",
   "bd2c043fe315b832": "2026-11-11T15:04:42.934829+00:00",
