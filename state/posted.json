@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 3,
+  "count": 4,
   "date": "2026-11-27"
  },
  "failures": {
@@ -14,23 +14,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-27T04:55:39.926715+00:00",
-  "id": "1405471502649229_122105834847555618",
-  "title": "ZCCM-IH, IRL partner to strengthen Zambia’s participation in global metals trading"
+  "at": "2026-11-27T05:54:07.550612+00:00",
+  "id": "1405471502649229_122105872941555618",
+  "title": "Aerial geophysical survey results will be ready in 2027 – Kapala"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-25T04:56:20.581564+00:00",
-   "s": "This content is for members only. Visit the site and log in/register to read.",
-   "t": "still it would help to hear hh s clear voice on third term",
-   "title": "Still, it would help to hear HH’s clear voice on third term"
-  },
-  {
-   "at": "2026-11-25T05:51:00.737702+00:00",
-   "s": "This content is for members only. Visit the site and log in/register to read.",
-   "t": "my release proves our innocence others will be freed too bishop mwamba",
-   "title": "My release proves our innocence, others will be freed too – Bishop Mwamba"
-  },
   {
    "at": "2026-11-25T06:56:24.485095+00:00",
    "s": "This content is for members only. Visit the site and log in/register to read.",
@@ -210,6 +198,12 @@
    "s": "",
    "t": "zccm ih irl partner to strengthen zambia s participation in global metals trading",
    "title": "ZCCM-IH, IRL partner to strengthen Zambia’s participation in global metals trading"
+  },
+  {
+   "at": "2026-11-27T05:54:07.528299+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "aerial geophysical survey results will be ready in 2027 kapala",
+   "title": "Aerial geophysical survey results will be ready in 2027 – Kapala"
   }
  ],
  "seen": {
@@ -358,6 +352,7 @@
   "51c035191b8f9757": "2026-11-18T10:26:24.317061+00:00",
   "524602ccff7f9a5b": "2026-11-11T12:28:41.484095+00:00",
   "527f40b173a368b9": "2026-11-19T16:58:11.685276+00:00",
+  "52dd90bb6a22e7e4": "2026-11-27T05:54:07.528262+00:00",
   "5300f14e4e3ba9d7": "2026-11-11T12:28:41.484095+00:00",
   "53f71176d12ae0bc": "2026-11-25T17:42:00.398360+00:00",
   "551e1ef77977bd25": "2026-11-24T15:54:44.033812+00:00",
