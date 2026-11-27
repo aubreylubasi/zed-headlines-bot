@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 13,
+  "count": 14,
   "date": "2026-11-27"
  },
  "failures": {},
@@ -9,23 +9,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-27T15:17:05.049294+00:00",
-  "id": "1405471502649229_122106275913555618",
-  "title": "President Tshisekedi expected in Zambia for bilateral talks, launch of power projects"
+  "at": "2026-11-27T16:28:28.424248+00:00",
+  "id": "1405471502649229_122106327891555618",
+  "title": "Social Cash Transfer beneficiaries encouraged to embrace digital payments"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-25T15:23:46.513282+00:00",
-   "s": "",
-   "t": "kwacha holds steady below k20 70 against the dollar on improved forex supply",
-   "title": "Kwacha holds steady below K20.70 against the dollar on improved forex supply"
-  },
-  {
-   "at": "2026-11-25T15:24:17.323129+00:00",
-   "s": "Western Province Young Women Christian Association (YWCA) President, Kayumba Bbwaani, has urged women and girls to speak out against Gender-Based Violence (GBV) and report all forms of abuse to relevant authorities to safeguard their fundamental rights. Ms Bbwaani observed that many women continue to suffer in silence due to fear of reporting perpetrators, particularly when […]",
-   "t": "muyembe health centre contractor urged to expedite works",
-   "title": "Muyembe Health Centre contractor urged to expedite works"
-  },
   {
    "at": "2026-11-25T17:42:00.398403+00:00",
    "s": "",
@@ -175,6 +163,12 @@
    "s": "",
    "t": "president tshisekedi expected in zambia for bilateral talks launch of power projects",
    "title": "President Tshisekedi expected in Zambia for bilateral talks, launch of power projects"
+  },
+  {
+   "at": "2026-11-27T16:28:28.405636+00:00",
+   "s": "Mungwi District Commissioner Muma Musonda has called for inclusive digital payment systems that cater for the elderly and other vulnerable groups. Mr Musonda has observed that while digital platforms play an important role in enhancing access to services, measures must be put in place to ensure that the elderly and other vulnerable groups are not […]",
+   "t": "social cash transfer beneficiaries encouraged to embrace digital payments",
+   "title": "Social Cash Transfer beneficiaries encouraged to embrace digital payments"
   }
  ],
  "seen": {
@@ -354,6 +348,7 @@
   "615b7886decfb9ba": "2026-11-22T09:39:27.586510+00:00",
   "6192dd52f8a92b47": "2026-11-16T10:19:10.367097+00:00",
   "62764f6d40dbaf40": "2026-11-11T12:28:41.484095+00:00",
+  "636a970d519d87b3": "2026-11-27T16:28:28.405598+00:00",
   "6400eb799ebfc0a0": "2026-11-24T10:34:28.746516+00:00",
   "6455143c48e25a1a": "2026-11-25T14:16:27.973272+00:00",
   "64a78fc14aa09497": "2026-11-18T12:31:57.192168+00:00",
