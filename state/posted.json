@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 9,
+  "count": 10,
   "date": "2026-11-27"
  },
  "failures": {},
@@ -9,23 +9,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-27T11:46:33.349928+00:00",
-  "id": "1405471502649229_122106102501555618",
-  "title": "FAZ opens applications for CAF B, C coaching courses"
+  "at": "2026-11-27T12:54:38.237803+00:00",
+  "id": "1405471502649229_122106158055555618",
+  "title": "Changala Accuses Hichilema of Quietly Backing Third Term Push"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-25T11:48:50.011592+00:00",
-   "s": "THE Ndola High Court has dismissed former Transport and Logistics Minister Frank Tayali’s petition challenging the election of Resolute Party candidate Emmanuel Mulenga as Ndola Central Member of Parliament. High Court Judge Mwamba Chanda dismissed the petition, upholding Mulenga’s victory in the August 13 General Elections. Speaking after the judgment, Tayali said he respected the […] The post Frank Tayali Loses Ndola Central Election Petition first appeared on Mwebantu .",
-   "t": "frank tayali loses ndola central election petition",
-   "title": "Frank Tayali Loses Ndola Central Election Petition"
-  },
-  {
-   "at": "2026-11-25T11:49:15.389576+00:00",
-   "s": "The President of the Zambia Institute of Public Relations and Communication (ZIPRC), Patricia Luhanga, has called for the integration of public relations and communication practitioners into strategic decision-making, policy formulation, and implementation processes, saying this is critical for Zambia to achieve its national development aspirations under the Grow Zambia Agenda. Ms Luhanga said communication should […]",
-   "t": "ziprc calls for the integration of pr into strategic decision making",
-   "title": "ZIPRC calls for the integration of PR into strategic decision-making"
-  },
   {
    "at": "2026-11-25T12:58:45.216332+00:00",
    "s": "",
@@ -187,6 +175,12 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "faz opens applications for caf b c coaching courses",
    "title": "FAZ opens applications for CAF B, C coaching courses"
+  },
+  {
+   "at": "2026-11-27T12:54:38.222846+00:00",
+   "s": "Governance activist Mr Brebner Changala said President Hakainde Hichilema is behind the campaign to remove the presidential term limit from the Constitution, and challenged the Head of State to state his position openly if he has no interest in a third term. Mr Changala made the remarks in an interview, against a background of calls […]",
+   "t": "changala accuses hichilema of quietly backing third term push",
+   "title": "Changala Accuses Hichilema of Quietly Backing Third Term Push"
   }
  ],
  "seen": {
@@ -259,6 +253,7 @@
   "1ebd26345d1647f0": "2026-11-22T10:28:20.626900+00:00",
   "1f14bbd6dcb9b9f1": "2026-11-11T12:28:41.484095+00:00",
   "201ce83ab4a21b0b": "2026-11-24T10:34:28.747878+00:00",
+  "20c1376b5e9ec6aa": "2026-11-27T12:54:38.222806+00:00",
   "21522e6bf2362382": "2026-11-12T04:33:05.711819+00:00",
   "2156b60e4da90c48": "2026-11-11T12:28:41.484095+00:00",
   "216af924d234105f": "2026-11-12T15:11:33.264700+00:00",
