@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 16,
+  "count": 17,
   "date": "2026-11-27"
  },
  "failures": {},
@@ -9,9 +9,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-27T19:38:55.440036+00:00",
-  "id": "1405471502649229_122106457233555618",
-  "title": "THE RIGHT AGE FOR MARRIAGE"
+  "at": "2026-11-27T20:29:30.745019+00:00",
+  "id": "1405471502649229_122106491517555618",
+  "title": "Nalolo intensifies El Niño preparedness, eyes beef exports"
  },
  "recent_titles": [
   {
@@ -151,6 +151,12 @@
    "s": "Becca married at twenty, in a white dress that Josephs first salary could afford. Everyone cried. Her husband, Joseph, held her hand through the whole ceremony as though he was afraid she’d float away. These Kopala girls could not be trusted, she could change her mind and choose a Chingola jerabo over her. With […]",
    "t": "the right age for marriage",
    "title": "THE RIGHT AGE FOR MARRIAGE"
+  },
+  {
+   "at": "2026-11-27T20:29:30.729500+00:00",
+   "s": "Nalolo District has intensified preparations to mitigate the anticipated effects of El Niño through stakeholder engagement, climate-smart agriculture and livestock protection measures aimed at safeguarding food security and supporting the Grow Zambia Agenda. Nalolo District Commissioner, Namatama Mupo says the district administration is working with relevant stakeholders to strengthen community preparedness and equip farmers with […]",
+   "t": "nalolo intensifies el ni o preparedness eyes beef exports",
+   "title": "Nalolo intensifies El Niño preparedness, eyes beef exports"
   }
  ],
  "seen": {
@@ -497,6 +503,7 @@
   "cd076f2eb8a1deb3": "2026-11-11T12:28:41.484095+00:00",
   "cd2dd252f281371c": "2026-11-11T12:28:41.484095+00:00",
   "cdca762bbaaee483": "2026-11-25T18:40:05.295630+00:00",
+  "ce0c05d3eda60738": "2026-11-27T20:29:30.729456+00:00",
   "ce124c119d2ce41f": "2026-11-11T12:28:41.484095+00:00",
   "ce63a80dea3c2cb9": "2026-11-21T11:23:15.697121+00:00",
   "cf2881d28392fe6a": "2026-11-11T12:28:41.484095+00:00",
