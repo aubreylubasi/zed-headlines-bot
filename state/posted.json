@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 7,
+  "count": 9,
   "date": "2026-11-27"
  },
  "failures": {},
@@ -9,9 +9,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-27T10:47:12.635317+00:00",
-  "id": "1405471502649229_122106058653555618",
-  "title": "Court Rules Jay Jay Banda’s Detention Lawful"
+  "at": "2026-11-27T11:46:33.349928+00:00",
+  "id": "1405471502649229_122106102501555618",
+  "title": "FAZ opens applications for CAF B, C coaching courses"
  },
  "recent_titles": [
   {
@@ -175,6 +175,18 @@
    "s": "The High Court has ruled that the detention of former Petauke Central Member of Parliament Mr Emmanuel “Jay Jay” Banda is lawful, finding that he is being held under a valid order committing him to State custody pending trial for an unbailable offence. The court delivered the decision in an ex-tempore ruling on a habeas […]",
    "t": "court rules jay jay banda s detention lawful",
    "title": "Court Rules Jay Jay Banda’s Detention Lawful"
+  },
+  {
+   "at": "2026-11-27T11:45:09.541195+00:00",
+   "s": "The Constitutional Court dismissed the petition brought by the LCK Freedom Foundation against Bill 7, now Act No. 13 of 2025, ruling that the process used to amend the Constitution did not breach the supreme law. The judgment keeps in force constitutional changes that the court accepted are major, including changes to how democratic representatives […]",
+   "t": "constitutional court upholds bill 7 as kasonde petition falls",
+   "title": "Constitutional Court Upholds Bill 7 As Kasonde Petition Falls"
+  },
+  {
+   "at": "2026-11-27T11:46:33.341610+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "faz opens applications for caf b c coaching courses",
+   "title": "FAZ opens applications for CAF B, C coaching courses"
   }
  ],
  "seen": {
@@ -480,6 +492,7 @@
   "b9acd6608c92dcc5": "2026-11-19T19:54:19.486355+00:00",
   "b9f2d1e72d8b1654": "2026-11-26T15:19:21.111278+00:00",
   "ba8805d2799e3691": "2026-11-20T13:51:53.644197+00:00",
+  "bc7b75c3da431cbe": "2026-11-27T11:46:33.341573+00:00",
   "bcfaaf597cd5a9c3": "2026-11-24T05:49:45.089314+00:00",
   "bd2c043fe315b832": "2026-11-11T15:04:42.934829+00:00",
   "bd6afe6753c1009d": "2026-11-16T05:58:34.021460+00:00",
@@ -517,6 +530,7 @@
   "ce124c119d2ce41f": "2026-11-11T12:28:41.484095+00:00",
   "ce63a80dea3c2cb9": "2026-11-21T11:23:15.697121+00:00",
   "cf2881d28392fe6a": "2026-11-11T12:28:41.484095+00:00",
+  "d054aabdf32c9603": "2026-11-27T11:45:09.541156+00:00",
   "d07bb1d8222df0fe": "2026-11-11T12:28:41.484095+00:00",
   "d0d71728d7774632": "2026-11-20T14:44:53.110810+00:00",
   "d0f9b54d3abec7bc": "2026-11-26T09:44:03.135128+00:00",
@@ -551,6 +565,7 @@
   "e1df77f42371ea05": "2026-11-20T20:40:16.960259+00:00",
   "e2d94dcdad825ccc": "2026-11-11T17:11:11.285061+00:00",
   "e3084340fde2843b": "2026-11-21T06:32:50.333924+00:00",
+  "e3f0418c9b9d25e9": "2026-11-27T11:44:09.536381+00:00",
   "e456d95fd38084b5": "2026-11-16T08:13:03.634332+00:00",
   "e4d9ef357a2c7717": "2026-11-15T09:25:32.530602+00:00",
   "e4f88c3965b58301": "2026-11-19T10:34:02.714135+00:00",
