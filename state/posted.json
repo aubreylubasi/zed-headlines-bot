@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 11,
+  "count": 13,
   "date": "2026-11-27"
  },
  "failures": {},
@@ -9,23 +9,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-27T14:12:28.608657+00:00",
-  "id": "1405471502649229_122106219771555618",
-  "title": "Techbytes: South African AI start-up secures $1.67 million to advance robotics technology"
+  "at": "2026-11-27T15:17:05.049294+00:00",
+  "id": "1405471502649229_122106275913555618",
+  "title": "President Tshisekedi expected in Zambia for bilateral talks, launch of power projects"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-25T14:16:27.973304+00:00",
-   "s": "",
-   "t": "zambia files protest with caf over disputed burundi goal",
-   "title": "Zambia files protest with CAF over disputed Burundi goal"
-  },
-  {
-   "at": "2026-11-25T14:16:52.861294+00:00",
-   "s": "Minister of Information and Media Elvis Nkandu has reaffirmed government’s commitment to supporting the Zambia National Broadcasting Corporation (ZNBC) in strengthening its public service mandate and ensuring its long-term financial sustainability. Mr Nkandu says the government recognises ZNBC as a strategic national asset that plays a critical role in public information, national unity, cultural preservation, […]",
-   "t": "government reaffirms support and commitment to znbc",
-   "title": "GOVERNMENT REAFFIRMS SUPPORT AND COMMITMENT TO ZNBC"
-  },
   {
    "at": "2026-11-25T15:23:46.513282+00:00",
    "s": "",
@@ -175,6 +163,18 @@
    "s": "",
    "t": "techbytes south african ai start up secures 1 67 million to advance robotics technology",
    "title": "Techbytes: South African AI start-up secures $1.67 million to advance robotics technology"
+  },
+  {
+   "at": "2026-11-27T15:15:33.224637+00:00",
+   "s": "At the time of writing, I am preparing to take my children’s adventure book, Jebby the Jellybean living with Diabetes, into a Year 3 classroom and then to a Bookworld signing. The timing feels important. This past Friday, 20 November, was World Children’s Day, and this year’s theme is “My Day. My Rights. My Future.” […]",
+   "t": "do our children understand their bodies",
+   "title": "Do Our Children Understand Their Bodies?"
+  },
+  {
+   "at": "2026-11-27T15:17:05.041881+00:00",
+   "s": "",
+   "t": "president tshisekedi expected in zambia for bilateral talks launch of power projects",
+   "title": "President Tshisekedi expected in Zambia for bilateral talks, launch of power projects"
   }
  ],
  "seen": {
@@ -447,6 +447,7 @@
   "a2e35b56ad8c223c": "2026-11-25T12:59:19.246282+00:00",
   "a3059185ad52a851": "2026-11-14T14:21:19.381304+00:00",
   "a4b9e2ed72e3412a": "2026-11-12T10:49:58.424510+00:00",
+  "a682b695cd735919": "2026-11-27T15:17:05.041844+00:00",
   "a6eeefdd1c277665": "2026-11-17T17:53:34.411513+00:00",
   "a7f510d312bf059a": "2026-11-20T11:29:56.721274+00:00",
   "a92a8dc81a54466d": "2026-11-27T10:47:12.621204+00:00",
@@ -561,6 +562,7 @@
   "e4f88c3965b58301": "2026-11-19T10:34:02.714135+00:00",
   "e503f94deeaab179": "2026-11-25T08:26:46.791150+00:00",
   "e515c219eea091f2": "2026-11-27T08:25:29.420346+00:00",
+  "e52deb7f8546f4b1": "2026-11-27T15:15:33.224605+00:00",
   "e5c468ff443e1f39": "2026-11-11T12:28:41.484095+00:00",
   "e5edfc4bbfbe0fb2": "2026-11-19T03:44:47.781783+00:00",
   "e664e9ff6f026952": "2026-11-23T06:21:53.013876+00:00",
