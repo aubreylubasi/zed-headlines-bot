@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 10,
+  "count": 11,
   "date": "2026-11-27"
  },
  "failures": {},
@@ -9,23 +9,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-27T12:54:38.237803+00:00",
-  "id": "1405471502649229_122106158055555618",
-  "title": "Changala Accuses Hichilema of Quietly Backing Third Term Push"
+  "at": "2026-11-27T14:12:28.608657+00:00",
+  "id": "1405471502649229_122106219771555618",
+  "title": "Techbytes: South African AI start-up secures $1.67 million to advance robotics technology"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-25T12:58:45.216332+00:00",
-   "s": "",
-   "t": "nollywood veteran pete edochie known for his commanding screen presence dies at 79 here are 10 things to remember about him",
-   "title": "Nollywood veteran, Pete Edochie, known for his commanding screen presence, dies at 79. Here are 10 things to remember about him"
-  },
-  {
-   "at": "2026-11-25T12:59:19.246320+00:00",
-   "s": "National HIV/AIDS Council North-Western Provincial AIDS Advisor, Hillary Sakala, has called for concerted efforts to address inequalities that continue to limit access to HIV prevention, testing and treatment services. Mr Sakala says the availability of effective HIV services does not automatically mean that everyone who needs them can access them. Speaking ahead of the World […]",
-   "t": "nac calls for equitable access to hiv services",
-   "title": "NAC calls for equitable access to HIV services"
-  },
   {
    "at": "2026-11-25T14:16:27.973304+00:00",
    "s": "",
@@ -181,6 +169,12 @@
    "s": "Governance activist Mr Brebner Changala said President Hakainde Hichilema is behind the campaign to remove the presidential term limit from the Constitution, and challenged the Head of State to state his position openly if he has no interest in a third term. Mr Changala made the remarks in an interview, against a background of calls […]",
    "t": "changala accuses hichilema of quietly backing third term push",
    "title": "Changala Accuses Hichilema of Quietly Backing Third Term Push"
+  },
+  {
+   "at": "2026-11-27T14:12:28.600563+00:00",
+   "s": "",
+   "t": "techbytes south african ai start up secures 1 67 million to advance robotics technology",
+   "title": "Techbytes: South African AI start-up secures $1.67 million to advance robotics technology"
   }
  ],
  "seen": {
@@ -377,6 +371,7 @@
   "70be23062e823e94": "2026-11-12T06:37:57.763763+00:00",
   "715c7e2cf3f216ba": "2026-11-21T19:58:42.483965+00:00",
   "71fb8384d86610a5": "2026-11-11T12:28:41.484095+00:00",
+  "73bf55afb7a3eb82": "2026-11-27T14:12:28.600522+00:00",
   "7432b3d601a4ba73": "2026-11-13T17:08:49.621011+00:00",
   "745d7e85624af3ad": "2026-11-22T13:36:45.802279+00:00",
   "74cf77b5e407b027": "2026-11-12T08:50:19.824707+00:00",
