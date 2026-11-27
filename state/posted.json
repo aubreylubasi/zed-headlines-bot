@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 14,
+  "count": 15,
   "date": "2026-11-27"
  },
  "failures": {},
@@ -9,9 +9,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-27T16:28:28.424248+00:00",
-  "id": "1405471502649229_122106327891555618",
-  "title": "Social Cash Transfer beneficiaries encouraged to embrace digital payments"
+  "at": "2026-11-27T17:28:14.203303+00:00",
+  "id": "1405471502649229_122106365007555618",
+  "title": "Super League title race heats up"
  },
  "recent_titles": [
   {
@@ -169,6 +169,12 @@
    "s": "Mungwi District Commissioner Muma Musonda has called for inclusive digital payment systems that cater for the elderly and other vulnerable groups. Mr Musonda has observed that while digital platforms play an important role in enhancing access to services, measures must be put in place to ensure that the elderly and other vulnerable groups are not […]",
    "t": "social cash transfer beneficiaries encouraged to embrace digital payments",
    "title": "Social Cash Transfer beneficiaries encouraged to embrace digital payments"
+  },
+  {
+   "at": "2026-11-27T17:28:14.191030+00:00",
+   "s": "The MTN Super League enters the second round with Stream A leaders Nkana hosting struggling Trident FC at Nkana Stadium on Saturday. Kalampa lead Stream A with 19 points from nine games, three points clear of FC MUZA and Konkola Blades, and a win against second-from-bottom Trident would keep them in control at the summit. […]",
+   "t": "super league title race heats up",
+   "title": "Super League title race heats up"
   }
  ],
  "seen": {
@@ -250,6 +256,7 @@
   "230763827f438dad": "2026-11-24T05:50:28.837033+00:00",
   "23a022a3a62b2c3f": "2026-11-24T11:28:47.832431+00:00",
   "240b86681e21bcb0": "2026-11-11T12:28:41.484095+00:00",
+  "24a402e697825dbd": "2026-11-27T17:28:14.190998+00:00",
   "24f8c3576278352f": "2026-11-15T08:40:19.385552+00:00",
   "26adf007d129dc4b": "2026-11-18T10:26:53.557487+00:00",
   "26fc95083a249736": "2026-11-11T12:28:41.484095+00:00",
