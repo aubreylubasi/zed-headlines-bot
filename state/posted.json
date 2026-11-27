@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 2,
+  "count": 3,
   "date": "2026-11-27"
  },
  "failures": {
@@ -14,23 +14,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-27T03:50:21.192817+00:00",
-  "id": "1405471502649229_122105794095555618",
-  "title": "25 suspects escape from Mumbwa police cells"
+  "at": "2026-11-27T04:55:39.926715+00:00",
+  "id": "1405471502649229_122105834847555618",
+  "title": "ZCCM-IH, IRL partner to strengthen Zambia’s participation in global metals trading"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-25T03:50:55.397275+00:00",
-   "s": "High Courts in Mansa, Livingstone and Kasama have removed four Members of Parliament from their seats in a run of election petition judgments. Over the same stretch, courts in Ndola, Lusaka, Chinsali and Mongu threw out challenges that losing United Party for National Development (UPND) candidates had brought against opposition and independent lawmakers. The judgments […]",
-   "t": "four mps lose seats as high courts rewrite disputed parliamentary results",
-   "title": "Four MPs Lose Seats As High Courts Rewrite Disputed Parliamentary Results"
-  },
-  {
-   "at": "2026-11-25T03:51:28.908591+00:00",
-   "s": "",
-   "t": "dr congo searches for missing military aircraft as rebels claim shoot down",
-   "title": "DR Congo searches for missing military aircraft as rebels claim shoot-down"
-  },
   {
    "at": "2026-11-25T04:56:20.581564+00:00",
    "s": "This content is for members only. Visit the site and log in/register to read.",
@@ -216,6 +204,12 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "25 suspects escape from mumbwa police cells",
    "title": "25 suspects escape from Mumbwa police cells"
+  },
+  {
+   "at": "2026-11-27T04:55:39.917905+00:00",
+   "s": "",
+   "t": "zccm ih irl partner to strengthen zambia s participation in global metals trading",
+   "title": "ZCCM-IH, IRL partner to strengthen Zambia’s participation in global metals trading"
   }
  ],
  "seen": {
@@ -510,6 +504,7 @@
   "b5ec39db0899c36b": "2026-11-11T12:28:41.484095+00:00",
   "b5f0a07cb31042c7": "2026-11-14T12:30:06.977455+00:00",
   "b625d959780b0693": "2026-11-16T04:49:32.245363+00:00",
+  "b64f59ba70a74acd": "2026-11-27T04:55:39.922709+00:00",
   "b75cf310f4119460": "2026-11-12T12:52:08.443326+00:00",
   "b7bf40de0d7b4db3": "2026-11-11T12:28:41.484095+00:00",
   "b808dc247e7e8c43": "2026-11-15T09:26:24.112308+00:00",
@@ -537,6 +532,7 @@
   "c6e1c324aa917132": "2026-11-12T16:20:17.504333+00:00",
   "c8373880d4abd971": "2026-11-22T12:20:48.026754+00:00",
   "c8386517f5bca91a": "2026-11-14T18:27:26.975677+00:00",
+  "c8f9d558c46652ea": "2026-11-27T04:55:39.917860+00:00",
   "c99b10248b8a5f2b": "2026-11-23T14:16:42.900246+00:00",
   "c9b11e44a6b07e87": "2026-11-26T11:48:31.924562+00:00",
   "c9b510b541383c4d": "2026-11-11T12:28:41.484095+00:00",
