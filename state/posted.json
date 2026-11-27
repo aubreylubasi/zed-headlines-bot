@@ -1,7 +1,7 @@
 {
  "daily": {
-  "count": 6,
-  "date": "2026-11-26"
+  "count": 2,
+  "date": "2026-11-27"
  },
  "failures": {
   "cc77da890cf470b5": {
@@ -14,23 +14,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-26T15:19:21.127587+00:00",
-  "id": "1405471502649229_122105338593555618",
-  "title": "Kampyongo questions use of AI-generated National Anthem in Parley"
+  "at": "2026-11-27T03:50:21.192817+00:00",
+  "id": "1405471502649229_122105794095555618",
+  "title": "25 suspects escape from Mumbwa police cells"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-24T20:42:04.993559+00:00",
-   "s": "Two people have died after a house they were occupying was gutted by fire in Kambono village, Tug-Argan area of Masaiti district. Copperbelt Province Police Commissioner Edwin Kaluba has disclosed the incident in a statement to the media saying police received a report from Fridah Kalombe, sister to one of the deceased persons. Mr Kaluba […]",
-   "t": "fire claims two in masaiti",
-   "title": "Fire claims two in Masaiti"
-  },
-  {
-   "at": "2026-11-24T20:42:43.414799+00:00",
-   "s": "",
-   "t": "senegal regain afcon title after court of arbitration overturns caf ruling",
-   "title": "Senegal regain AFCON title after Court of Arbitration overturns CAF ruling"
-  },
   {
    "at": "2026-11-25T03:50:55.397275+00:00",
    "s": "High Courts in Mansa, Livingstone and Kasama have removed four Members of Parliament from their seats in a run of election petition judgments. Over the same stretch, courts in Ndola, Lusaka, Chinsali and Mongu threw out challenges that losing United Party for National Development (UPND) candidates had brought against opposition and independent lawmakers. The judgments […]",
@@ -216,6 +204,18 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "kampyongo questions use of ai generated national anthem in parley",
    "title": "Kampyongo questions use of AI-generated National Anthem in Parley"
+  },
+  {
+   "at": "2026-11-27T03:49:55.101973+00:00",
+   "s": "The university has received a prestigious recognition reserved for only 3% of the top-performing companies worldwide",
+   "t": "tech global university recognized with the google partner premier award",
+   "title": "TECH Global University, recognized with the Google Partner Premier award"
+  },
+  {
+   "at": "2026-11-27T03:50:21.186513+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "25 suspects escape from mumbwa police cells",
+   "title": "25 suspects escape from Mumbwa police cells"
   }
  ],
  "seen": {
@@ -371,6 +371,7 @@
   "554e1042993a8b71": "2026-11-18T17:48:44.222518+00:00",
   "5758d95078fc23e0": "2026-11-25T03:51:28.908554+00:00",
   "57e6a7d66fd26077": "2026-11-11T12:28:41.484095+00:00",
+  "58d2b5c936133774": "2026-11-27T03:50:21.186478+00:00",
   "59fee8df39ed8360": "2026-11-14T11:00:25.786844+00:00",
   "5a404e5a7ed22bbe": "2026-11-25T10:48:34.825383+00:00",
   "5a525e0e76103014": "2026-11-20T18:48:44.775736+00:00",
@@ -529,6 +530,7 @@
   "c2107bc1763434c7": "2026-11-25T04:56:20.581518+00:00",
   "c221128002d98cba": "2026-11-20T04:51:19.506074+00:00",
   "c3584159bfe4ea92": "2026-11-14T18:27:01.207477+00:00",
+  "c3da3780a8911644": "2026-11-27T03:49:55.101940+00:00",
   "c3eb3b728238a9b8": "2026-11-15T17:49:07.831622+00:00",
   "c4027a79895ac03f": "2026-11-11T12:28:41.484095+00:00",
   "c4b704ed5998639a": "2026-11-11T12:29:02.005026+00:00",
