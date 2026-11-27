@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 15,
+  "count": 16,
   "date": "2026-11-27"
  },
  "failures": {},
@@ -9,35 +9,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-27T17:28:14.203303+00:00",
-  "id": "1405471502649229_122106365007555618",
-  "title": "Super League title race heats up"
+  "at": "2026-11-27T19:38:55.440036+00:00",
+  "id": "1405471502649229_122106457233555618",
+  "title": "THE RIGHT AGE FOR MARRIAGE"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-25T18:39:13.731144+00:00",
-   "s": "Kabwe High Court has declared United Party for National Development (UPND) Bwacha North Member of Parliament Percy Chato as duly elected in the August 13, 2026 parliamentary election. Kabwe High Court Judge Ian Mabbolobolo ruled that Mr Chato was duly elected and ordered that each party bears its own costs. The judgment follows the petitioner’s […]",
-   "t": "chato duly elected bwacha north mp",
-   "title": "Chato duly elected Bwacha North MP"
-  },
-  {
-   "at": "2026-11-25T18:40:05.295671+00:00",
-   "s": "#WATCH #LIVE #Mwebantu, a new chapter of possibilities has arrived with the launch of “Kwela na Airtel Money,” Airtel Money’s new thematic campaign. Join us LIVE! Stay connected, stay empowered and get ready to experience more with Airtel Money. Let us know where in the world you are watching us from?#KwelaNaAirtelMoney #AirtelZambia #MwebantuLIVE Watch on […] The post Kwela Na Airtel Money | the Official Launch! first appeared on Mwebantu .",
-   "t": "kwela na airtel money the official launch",
-   "title": "Kwela Na Airtel Money | the Official Launch!"
-  },
-  {
-   "at": "2026-11-25T19:37:02.839951+00:00",
-   "s": "ZESCO Limited has assured the nation that the country has sufficient electricity resources to sustain power supply. The utility said the projected reduction in water allocation at Kariba Dam by the Zambezi River Authority for 2027 has been factored into its supply plans and is not expected to result in a national electricity deficit. In […]",
-   "t": "zesco assures sufficient power supply",
-   "title": "ZESCO assures sufficient power supply"
-  },
-  {
-   "at": "2026-11-25T19:37:40.492026+00:00",
-   "s": "",
-   "t": "small scale miners oppose sharp fee increases call for phased implementation",
-   "title": "Small-scale miners oppose sharp fee increases, call for phased implementation"
-  },
   {
    "at": "2026-11-25T20:29:52.451559+00:00",
    "s": "Community Based Inclusive Development Norwegian Association of Disabled Zambia Country Office Regional Advisor has welcomed the move by the government to expand Community Based Inclusion Development (CBID), noting that it will make it easy for policy makers to make decisions that will benefit people with disabilities in different settings. Speaking in an interview, Eddie Mupotola said […]",
@@ -169,6 +145,12 @@
    "s": "The MTN Super League enters the second round with Stream A leaders Nkana hosting struggling Trident FC at Nkana Stadium on Saturday. Kalampa lead Stream A with 19 points from nine games, three points clear of FC MUZA and Konkola Blades, and a win against second-from-bottom Trident would keep them in control at the summit. […]",
    "t": "super league title race heats up",
    "title": "Super League title race heats up"
+  },
+  {
+   "at": "2026-11-27T19:38:55.428482+00:00",
+   "s": "Becca married at twenty, in a white dress that Josephs first salary could afford. Everyone cried. Her husband, Joseph, held her hand through the whole ceremony as though he was afraid she’d float away. These Kopala girls could not be trusted, she could change her mind and choose a Chingola jerabo over her. With […]",
+   "t": "the right age for marriage",
+   "title": "THE RIGHT AGE FOR MARRIAGE"
   }
  ],
  "seen": {
@@ -481,6 +463,7 @@
   "ba8805d2799e3691": "2026-11-20T13:51:53.644197+00:00",
   "bc7b75c3da431cbe": "2026-11-27T11:46:33.341573+00:00",
   "bcfaaf597cd5a9c3": "2026-11-24T05:49:45.089314+00:00",
+  "bd253e8fbfd4d2c9": "2026-11-27T19:38:55.428451+00:00",
   "bd2c043fe315b832": "2026-11-11T15:04:42.934829+00:00",
   "bd6afe6753c1009d": "2026-11-16T05:58:34.021460+00:00",
   "be18629a8ce6a6e8": "2026-11-22T13:37:14.373908+00:00",
