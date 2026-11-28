@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 13,
+  "count": 15,
   "date": "2026-11-28"
  },
  "failures": {},
@@ -9,9 +9,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-28T15:25:42.660948+00:00",
-  "id": "1405471502649229_122107149087555618",
-  "title": "BoZ maintains MPR at 10.75%"
+  "at": "2026-11-28T16:26:55.190941+00:00",
+  "id": "1405471502649229_122107191843555618",
+  "title": "Police in Lundazi hunt for defiler"
  },
  "recent_titles": [
   {
@@ -193,6 +193,18 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "boz maintains mpr at 10 75",
    "title": "BoZ maintains MPR at 10.75%"
+  },
+  {
+   "at": "2026-11-28T16:26:19.442717+00:00",
+   "s": "DICKSON Jere says the succession of traditional leaders, particularly among the Ngoni, follows a clear process that is often misunderstood by the public and the media. Writing on the recent succession of Chief Liteta and the ongoing process to install Paramount Chief Mpezeni V, Jere explained that Ngoni chiefs do not pick successors for other […] The post Understanding Ngoni Chief Succession: It’s The Family That Decides says Dickson Jere first appeared on Mwebantu .",
+   "t": "understanding ngoni chief succession it s the family that decides says dickson jere",
+   "title": "Understanding Ngoni Chief Succession: It’s The Family That Decides says Dickson Jere"
+  },
+  {
+   "at": "2026-11-28T16:26:55.181447+00:00",
+   "s": "Police in Lundazi have launched a manhunt for a 31-year-old man who is alleged to have defiled his nine (9) year old sister-in-law in Lundazi’s Chipyola Compound. The minor was being kept by the suspect who happened to be the husband to the victim’s sister. The incident happened on November 22, 2026 around night time. […]",
+   "t": "police in lundazi hunt for defiler",
+   "title": "Police in Lundazi hunt for defiler"
   }
  ],
  "seen": {
@@ -371,6 +383,7 @@
   "5d80949cc50d39ef": "2026-11-16T10:19:29.937086+00:00",
   "5de3777fd3f43270": "2026-11-11T12:28:41.484095+00:00",
   "5e39d71518479d7e": "2026-11-11T12:28:41.484095+00:00",
+  "5e8589f0ac44a6b1": "2026-11-28T16:26:19.442673+00:00",
   "5f0809b6cb484ed2": "2026-11-28T15:25:42.649623+00:00",
   "5fe52db4ca758716": "2026-11-11T17:10:51.001920+00:00",
   "5ff9fce4045dfb4b": "2026-11-16T11:40:22.209165+00:00",
@@ -571,6 +584,7 @@
   "d4954831649dff79": "2026-11-11T12:28:41.484095+00:00",
   "d4c82a938589b4e7": "2026-11-20T14:45:45.415550+00:00",
   "d4cd5f22be48bce0": "2026-11-12T10:50:27.096471+00:00",
+  "d4dc0553e1da08c9": "2026-11-28T16:26:55.181412+00:00",
   "d74611228f3b975b": "2026-11-11T12:28:41.484095+00:00",
   "d796dc5a0e41a01d": "2026-11-22T03:42:20.719211+00:00",
   "d7f9f7676dd63e8a": "2026-11-24T08:24:01.106341+00:00",
