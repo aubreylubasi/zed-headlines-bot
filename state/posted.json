@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 7,
+  "count": 9,
   "date": "2026-11-28"
  },
  "failures": {},
@@ -9,23 +9,11 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-28T11:02:34.374787+00:00",
-  "id": "1405471502649229_122106967497555618",
-  "title": "Wife wins court case after calling side chick a prostitute"
+  "at": "2026-11-28T12:00:25.934911+00:00",
+  "id": "1405471502649229_122107004685555618",
+  "title": "153 former ZAMMSA workers demand compensation"
  },
  "recent_titles": [
-  {
-   "at": "2026-11-26T11:48:08.095778+00:00",
-   "s": "Ndola’s Bwana Mkubwa Member of Parliament Warren Mwambazi has announced plans to establish a multi-sports facility centre through the Constituency Development Fund (CDF) to promote youth development, nurture talent and address social challenges affecting young people in the constituency. Mwambazi said the initiative follows the implementation of more than 45 projects in health, education and […]",
-   "t": "multi sports facility centre on the cards in ndola",
-   "title": "Multi-sports facility centre on the cards in Ndola"
-  },
-  {
-   "at": "2026-11-26T11:48:31.924599+00:00",
-   "s": "",
-   "t": "small holder farmers call for better markets financing under agriculture transformation plan",
-   "title": "Small holder farmers call for better markets, financing under agriculture transformation plan"
-  },
   {
    "at": "2026-11-26T15:18:48.245372+00:00",
    "s": "",
@@ -181,6 +169,18 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "wife wins court case after calling side chick a prostitute",
    "title": "Wife wins court case after calling side chick a prostitute"
+  },
+  {
+   "at": "2026-11-28T11:59:40.722803+00:00",
+   "s": "",
+   "t": "copper for aid deal faces us probe as mundubile zulu among 14 in treason trial see our top 10 stories of the week",
+   "title": "Copper-for-aid deal faces US probe, as Mundubile, Zulu among 14 in treason trial. See our top 10 stories of the week."
+  },
+  {
+   "at": "2026-11-28T12:00:25.927695+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "153 former zammsa workers demand compensation",
+   "title": "153 former ZAMMSA workers demand compensation"
   }
  ],
  "seen": {
@@ -398,6 +398,7 @@
   "78d3c4569e80db69": "2026-11-13T17:09:11.699200+00:00",
   "78ffbbe01e18bb69": "2026-11-28T10:05:18.618959+00:00",
   "79efc7533ef0f8e8": "2026-11-24T13:55:23.357102+00:00",
+  "7a5fe77f72fe1660": "2026-11-28T12:00:25.927656+00:00",
   "7a6b60f7c8f406dc": "2026-11-24T04:53:37.152169+00:00",
   "7b31b6c3368bd141": "2026-11-23T08:06:42.125214+00:00",
   "7bbba7d387a8f560": "2026-11-14T13:30:35.584637+00:00",
@@ -609,6 +610,7 @@
   "f81bb37d888c6d64": "2026-11-24T20:42:04.993527+00:00",
   "f8d9359330dc22ad": "2026-11-20T06:56:26.780730+00:00",
   "f8eb5441980499c0": "2026-11-12T15:10:43.776525+00:00",
+  "f923a8c9be973cc2": "2026-11-28T11:59:40.722758+00:00",
   "f983b25863c5f2e1": "2026-11-16T17:30:23.043873+00:00",
   "fa53a099240e4a0d": "2026-11-22T05:46:23.387196+00:00",
   "fa561727056f6ef8": "2026-11-11T12:28:41.484095+00:00",
