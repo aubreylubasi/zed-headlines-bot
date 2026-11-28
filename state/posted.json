@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 9,
+  "count": 11,
   "date": "2026-11-28"
  },
  "failures": {},
@@ -9,9 +9,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-28T12:00:25.934911+00:00",
-  "id": "1405471502649229_122107004685555618",
-  "title": "153 former ZAMMSA workers demand compensation"
+  "at": "2026-11-28T12:53:00.531476+00:00",
+  "id": "1405471502649229_122107044357555618",
+  "title": "BEYOND THE FOREST: HOW CARBON TRADING IS TRANSFORMING LIVES IN RUFUNSA"
  },
  "recent_titles": [
   {
@@ -181,6 +181,18 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "153 former zammsa workers demand compensation",
    "title": "153 former ZAMMSA workers demand compensation"
+  },
+  {
+   "at": "2026-11-28T12:52:10.733606+00:00",
+   "s": "Police in Kalulushi have apprehended seven suspects along the Kalulushi-Sabina Road for allegedly stealing 50-kilogram bags of sugar that were being transported from Ndola to Kipushi. Copperbelt Police Chief Edwin Kaluba confirmed the development to the media. Mr Kaluba told the media in an interview that thieves took advantage of the accident involving a Volvo […]",
+   "t": "seven nabbed in sugar theft case",
+   "title": "Seven nabbed in sugar theft case"
+  },
+  {
+   "at": "2026-11-28T12:53:00.518807+00:00",
+   "s": "By Chuma Mulimba and Shatewa P Shanganga A three-day journey to Bio Carbon Partners’ Lower Zambezi REDD+ Project reveals how protecting forests is creating opportunities for rural communities through improved healthcare, access to clean water and sustainable livelihoods. Sometimes, the best way to understand an issue is to experience it first-hand. This was the thinking […]",
+   "t": "beyond the forest how carbon trading is transforming lives in rufunsa",
+   "title": "BEYOND THE FOREST: HOW CARBON TRADING IS TRANSFORMING LIVES IN RUFUNSA"
   }
  ],
  "seen": {
@@ -314,6 +326,7 @@
   "441cf4d89e7baada": "2026-11-16T17:29:11.589683+00:00",
   "445aa96f243d786f": "2026-11-21T09:31:12.075332+00:00",
   "45d42dcadd18ba31": "2026-11-11T12:28:41.484095+00:00",
+  "460444770de7d065": "2026-11-28T12:52:10.733571+00:00",
   "461c59c3bc35b52f": "2026-11-24T03:48:12.317724+00:00",
   "4727696ca03969ec": "2026-11-14T12:29:47.351297+00:00",
   "47369327345b2086": "2026-11-26T08:24:47.483102+00:00",
@@ -541,6 +554,7 @@
   "ce124c119d2ce41f": "2026-11-11T12:28:41.484095+00:00",
   "ce63a80dea3c2cb9": "2026-11-21T11:23:15.697121+00:00",
   "cf2881d28392fe6a": "2026-11-11T12:28:41.484095+00:00",
+  "cf7e4c9165eda42d": "2026-11-28T12:51:52.365102+00:00",
   "d054aabdf32c9603": "2026-11-27T11:45:09.541156+00:00",
   "d07bb1d8222df0fe": "2026-11-11T12:28:41.484095+00:00",
   "d0d71728d7774632": "2026-11-20T14:44:53.110810+00:00",
@@ -550,6 +564,7 @@
   "d29ec15c564d5e6d": "2026-11-11T19:14:44.180648+00:00",
   "d2f2f899a8c9ff67": "2026-11-22T18:16:43.841199+00:00",
   "d3060fbe13398118": "2026-11-25T19:37:40.491992+00:00",
+  "d3da64ff84e8c372": "2026-11-28T12:53:00.518769+00:00",
   "d4840a1a15093202": "2026-11-25T18:39:13.731710+00:00",
   "d4954831649dff79": "2026-11-11T12:28:41.484095+00:00",
   "d4c82a938589b4e7": "2026-11-20T14:45:45.415550+00:00",
