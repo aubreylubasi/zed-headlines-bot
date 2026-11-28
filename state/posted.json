@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 3,
+  "count": 5,
   "date": "2026-11-28"
  },
  "failures": {},
@@ -9,9 +9,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-28T09:10:58.533974+00:00",
-  "id": "1405471502649229_122106902169555618",
-  "title": "K250,000 prize for inaugural K1m KCM-ZFA Cup Champions"
+  "at": "2026-11-28T10:06:06.425630+00:00",
+  "id": "1405471502649229_122106933201555618",
+  "title": "There’s no sex in my marriage, that’s why I drink beer, priest’s wife tells court"
  },
  "recent_titles": [
   {
@@ -157,6 +157,18 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "k250 000 prize for inaugural k1m kcm zfa cup champions",
    "title": "K250,000 prize for inaugural K1m KCM-ZFA Cup Champions"
+  },
+  {
+   "at": "2026-11-28T10:05:18.618994+00:00",
+   "s": "",
+   "t": "zambia engages australian cattle breeders in push to grow national herd to 11 million",
+   "title": "Zambia engages Australian cattle breeders in push to grow national herd to 11 million"
+  },
+  {
+   "at": "2026-11-28T10:06:06.409309+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "there s no sex in my marriage that s why i drink beer priest s wife tells court",
+   "title": "There’s no sex in my marriage, that’s why I drink beer, priest’s wife tells court"
   }
  ],
  "seen": {
@@ -371,6 +383,7 @@
   "77d52e3d31c39867": "2026-11-11T12:28:41.484095+00:00",
   "787f83c9c6fa2232": "2026-11-15T05:28:10.649148+00:00",
   "78d3c4569e80db69": "2026-11-13T17:09:11.699200+00:00",
+  "78ffbbe01e18bb69": "2026-11-28T10:05:18.618959+00:00",
   "79efc7533ef0f8e8": "2026-11-24T13:55:23.357102+00:00",
   "7a6b60f7c8f406dc": "2026-11-24T04:53:37.152169+00:00",
   "7b31b6c3368bd141": "2026-11-23T08:06:42.125214+00:00",
@@ -458,6 +471,7 @@
   "b205908e603d475b": "2026-11-11T12:28:41.484095+00:00",
   "b236d4958e333f78": "2026-11-23T19:39:18.394925+00:00",
   "b26ee208ae5c4d75": "2026-11-14T08:38:09.519627+00:00",
+  "b293f0be8eac0584": "2026-11-28T10:06:06.409265+00:00",
   "b361fc748ca64f42": "2026-11-25T09:48:35.459289+00:00",
   "b489189d794e6278": "2026-11-15T11:55:57.877217+00:00",
   "b5059b8d8201a6f3": "2026-11-13T18:00:33.838744+00:00",
