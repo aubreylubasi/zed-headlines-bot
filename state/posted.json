@@ -1,6 +1,6 @@
 {
  "daily": {
-  "count": 5,
+  "count": 7,
   "date": "2026-11-28"
  },
  "failures": {},
@@ -9,9 +9,9 @@
  },
  "initialized": true,
  "last_post": {
-  "at": "2026-11-28T10:06:06.425630+00:00",
-  "id": "1405471502649229_122106933201555618",
-  "title": "There’s no sex in my marriage, that’s why I drink beer, priest’s wife tells court"
+  "at": "2026-11-28T11:02:34.374787+00:00",
+  "id": "1405471502649229_122106967497555618",
+  "title": "Wife wins court case after calling side chick a prostitute"
  },
  "recent_titles": [
   {
@@ -169,6 +169,18 @@
    "s": "This content is for members only. Visit the site and log in/register to read.",
    "t": "there s no sex in my marriage that s why i drink beer priest s wife tells court",
    "title": "There’s no sex in my marriage, that’s why I drink beer, priest’s wife tells court"
+  },
+  {
+   "at": "2026-11-28T11:02:05.369810+00:00",
+   "s": "",
+   "t": "ecobank zambia launches national campaign to promote savings for children",
+   "title": "Ecobank Zambia launches national campaign to promote savings for children"
+  },
+  {
+   "at": "2026-11-28T11:02:34.361960+00:00",
+   "s": "This content is for members only. Visit the site and log in/register to read.",
+   "t": "wife wins court case after calling side chick a prostitute",
+   "title": "Wife wins court case after calling side chick a prostitute"
   }
  ],
  "seen": {
@@ -209,6 +221,7 @@
   "0dfd9165481fef64": "2026-11-13T15:04:14.019817+00:00",
   "0e3caf8a8b21fcf7": "2026-11-13T14:02:40.700738+00:00",
   "0e78398789b1d4ea": "2026-11-20T16:48:03.342954+00:00",
+  "0f3b1403e4d8640d": "2026-11-28T11:02:34.361924+00:00",
   "1086ca82e9fbed77": "2026-11-15T11:16:52.810091+00:00",
   "10946c338e124aeb": "2026-11-25T18:39:13.731112+00:00",
   "10c7c1fd774a3402": "2026-11-18T16:55:01.735988+00:00",
@@ -486,6 +499,7 @@
   "b9acd6608c92dcc5": "2026-11-19T19:54:19.486355+00:00",
   "b9f2d1e72d8b1654": "2026-11-26T15:19:21.111278+00:00",
   "ba8805d2799e3691": "2026-11-20T13:51:53.644197+00:00",
+  "bbe648fb20abaa68": "2026-11-28T11:02:05.369777+00:00",
   "bc7b75c3da431cbe": "2026-11-27T11:46:33.341573+00:00",
   "bcfaaf597cd5a9c3": "2026-11-24T05:49:45.089314+00:00",
   "bd253e8fbfd4d2c9": "2026-11-27T19:38:55.428451+00:00",
